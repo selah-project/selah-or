@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ବାଆନା, ହୁଶାୟିଙ୍କ ପୁତ୍ର, ଆଶେରରେ ଓ ବେଆଲୋତରେ।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "ବାଆନା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ହୁଶାୟି"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ଆଶେରରେ"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ଓ ବେଆଲୋତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:34:14.128739383Z",
+  "model": "glm-5.3"
+}

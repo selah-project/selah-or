@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବଳଦ, ଗୋରୁ ବଂଶର, ଗୋଟିଏ ମେଷ, ଗୋଟିଏ ମେଣ୍ଢା, ବର୍ଷର ପୁଅ, ହୋମ-ଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଷ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମ-ଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:05:54.289103914Z",
+  "model": "glm-5.3"
+}

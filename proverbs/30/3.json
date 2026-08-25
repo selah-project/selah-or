@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଏବଂ ମୁଁ ଜ୍ଞାନ ଶିଖି ନାହିଁ, ପବିତ୍ରଙ୍କ ଜ୍ଞାନ ମଧ୍ୟ ଜାଣି ନାହିଁ ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ... ନାହିଁ"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "ଶିଖି ନାହିଁ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଏବଂ ... ଜ୍ଞାନ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ପବିତ୍ରଙ୍କ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ଜାଣି ନାହିଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:46.336560645Z",
+  "model": "glm-5.3"
+}

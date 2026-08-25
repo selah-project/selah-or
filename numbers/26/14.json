@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଏହି ଶିମିଓନୀୟଙ୍କ ବଂଶ — ବାଇଶି ହଜାର ଦୁଇ ଶହ।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "ଶିମିଓନୀୟଙ୍କ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ ବିଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ଵמאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:44.140938910Z",
+  "model": "glm-5.3"
+}

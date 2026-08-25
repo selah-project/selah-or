@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "କାରଣ ପ୍ରତ୍ୟେକ ଇଚ୍ଛା ପାଇଁ ସମୟ ଓ ନ୍ୟାୟ ଅଛି, କାରଣ ମଣିଷର ମନ୍ଦତା ତା' ଉପରେ ବଡ଼।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ପ୍ରତ୍ୟେକ ... ପାଇଁ"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ଇଚ୍ଛା"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ଓ ନ୍ୟାୟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ମନ୍ଦତା"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତା' ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:57.054704660Z",
+  "model": "glm-5.3"
+}

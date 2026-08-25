@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 9:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "“କେହି ଭୋଳା ଅଛି? ସେ ଏଠାକୁ ଫେରୁ। ହୃଦୟହୀନକୁ ଏକଥା କହୁଛି ଜ୍ଞାନ।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କେହି"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ଭୋଳା"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ଫେରୁ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଏଠାକୁ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ହୀନ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "କହୁଛି"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:02.326773166Z",
+  "model": "glm-5.3"
+}

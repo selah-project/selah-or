@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଉଜିଏଲଙ୍କ ପୁତ୍ରମାନେ — ମିଖା ମୁଖ୍ୟ ଏବଂ ୟିଶିୟା ଦ୍ୱିତୀୟ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "ଉଜିଏଲଙ୍କ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମିଖା"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ମୁଖ୍ୟ"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "ଏବଂ ୟିଶିୟା"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:52.596292113Z",
+  "model": "glm-5.3"
+}

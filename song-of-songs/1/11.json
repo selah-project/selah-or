@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆମ୍ଭେ ତୁମ ପାଇଁ ସୁନାର ମାଳ ଗଢ଼ିବା, ରୁପାର ବୁଟାମାନଙ୍କ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "ମାଳ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନାର"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ଆମ୍ଭେ ଗଢ଼ିବା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ବୁଟାମାନଙ୍କ"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ରୁପାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:37.932460774Z",
+  "model": "glm-5.3"
+}

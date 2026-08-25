@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "⟨ଏହି⟩ ଜ୍ଞାନ ଜ୍ଞାନୀଙ୍କ ପାଇଁ ଶକ୍ତି — ଯେଉଁ ଦଶ ଶାସକ ନଗରରେ ଥିଲେ, ତାଙ୍କଠାରୁ ଅଧିକ।",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ଶକ୍ତି ଦେବ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ଜ୍ଞାନୀଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "ଦଶଠାରୁ"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "ଶାସକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ନଗରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:33.747007240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ସେ ଛଅ ଶହ ମନୋନୀତ ରଥ ନେଲା, ଏବଂ ମିତ୍ରୈଯମର ସମସ୍ତ ରଥ, ଏବଂ ସେହି ସବୁ ଉପରେ ସହିଶ ସାନ୍ଧିଆଳି।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ନେଲା"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "ମନୋନୀତ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଏବଂ ସମସ୍ତ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିତ୍ରୈଯମର"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "ସହିଶ ସାନ୍ଧିଆଳି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ସେହି ସବୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:08:51.288039236Z",
+  "model": "glm-5.3"
+}

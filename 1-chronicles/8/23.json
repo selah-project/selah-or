@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଅବଦୋନ୍, ଓ ଜିଖ୍ରି, ଓ ହାନାନ୍।",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "ଓ ଅବଦୋନ୍"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ଓ ଜିଖ୍ରି"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "ଓ ହାନାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:45.630473751Z",
+  "model": "glm-5.3"
+}

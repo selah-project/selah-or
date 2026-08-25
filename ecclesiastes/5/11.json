@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ପଣ୍ଡିଆର ନିଦ ମିଠା — ସେ ଅଳ୍ପ ଖାଉ କି ଅଧିକ ଖାଉ; କିନ୍ତୁ ଧନୀର ତୃପ୍ତି ତାକୁ ନିଦ ପାଇଁ ଛାଡ଼େ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "ମିଠା"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ନିଦ"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ପଣ୍ଡିଆର"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "କି ଅଧିକ... ବେଳେ ମଧ୍ୟ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅଧିକ ଖାଉ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଉ"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "କିନ୍ତୁ ତୃପ୍ତି"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "ଧନୀର"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "ଛାଡ଼େ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାକୁ"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "ନିଦ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:28.551624667Z",
+  "model": "glm-5.3"
+}

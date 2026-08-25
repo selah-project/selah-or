@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ପରାମର୍ଶ ଶୁଣ ଏବଂ ଶିକ୍ଷା ଗ୍ରହଣ କର, ଯେପରି ତୁମ ଶେଷ କାଳରେ ତୁମେ ଜ୍ଞାନୀ ହେବ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "ପରାମର୍ଶ"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "ଏବଂ ଗ୍ରହଣ କର"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ଯେପରି"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "ଜ୍ଞାନୀ ହେବ"
+    },
+    {
+      "surface": "באחריתך",
+      "gloss": "ତୁମ ଶେଷ କାଳରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:59.365565769Z",
+  "model": "glm-5.3"
+}

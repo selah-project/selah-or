@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ruth 3:5",
+  "book": "ruth",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ସେ ତାଙ୍କୁ କହିଲା — ତୁମ୍ଭେ ଯାହା କହିବ, ମୁଁ ସବୁ କରିବି।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଓ ସେ କହିଲା"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "תאמרי",
+      "gloss": "ତୁମ୍ଭେ କହିବ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ମୁଁ କରିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:30.414745341Z",
+  "model": "glm-5.3"
+}

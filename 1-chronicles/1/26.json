@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସେରୁଗ୍, ନାଖୋର୍, ତେରଖ,",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "ସେରୁଗ୍"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "ନାଖୋର୍"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "ତେରଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:44.201015218Z",
+  "model": "glm-5.3"
+}

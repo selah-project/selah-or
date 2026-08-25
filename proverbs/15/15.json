@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 15:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଦରିଦ୍ରର ସମସ୍ତ ଦିନ ମନ୍ଦ, କିନ୍ତୁ ଉତ୍ତମ ହୃଦୟ ⟨is⟩ ଏକ ସଦା ଭୋଜି।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦରିଦ୍ରର"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "କିନ୍ତୁ ଉତ୍ତମ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ଭୋଜି"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ସଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:56.822571680Z",
+  "model": "glm-5.3"
+}

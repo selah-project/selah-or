@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 45:14",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 45,
+  "translation": "ଏବଂ ତୈଳର ନିୟମ: ତୈଳର ବାଥ୍ — କୋର୍‌ରୁ ବାଥ୍‌ର ଦଶମାଂଶ; ଦଶ ବାଥ୍ ଏକ ହୋମର୍, କାରଣ ଦଶ ବାଥ୍ ଏକ ହୋମର୍।",
+  "tokens": [
+    {
+      "surface": "וחק",
+      "gloss": "ଏବଂ ନିୟମ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ତୈଳର"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "ବାଥ୍"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ତୈଳର"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ଦଶମାଂଶ"
+    },
+    {
+      "surface": "הבת",
+      "gloss": "ବାଥ୍‌ର"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הכר",
+      "gloss": "କୋର୍‌ର"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ବାଥ୍"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ଏକ ହୋମର୍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "הבתים",
+      "gloss": "ବାଥ୍"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ଏକ ହୋମର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T15:46:39.938369775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ପାଖରେ ଓ ଅହରୋନଙ୍କ ପାଖରେ କହିଲେ, ଏମିତି କହି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କ ପାଖରେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ଙ୍କ ପାଖରେ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏମିତି କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:02:57.666088535Z",
+  "model": "glm-5.3"
+}

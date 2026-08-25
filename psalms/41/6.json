@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 41:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ମୋ ଶତ୍ରୁମାନେ ମୋ ବିଷୟରେ ମନ୍ଦ କହନ୍ତି: ସେ କେବେ ମରିବ ଓ ତାହାର ନାମ ଲୋପ ପାଇବ?",
+  "tokens": [
+    {
+      "surface": "אויבי",
+      "gloss": "ମୋ ଶତ୍ରୁମାନେ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "କହନ୍ତି"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ବିଷୟରେ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "କେବେ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ସେ ମରିବ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ଓ ଲୋପ ପାଇବ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତାହାର ନାମ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:05:15.321542118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 18:13",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଓ ମିଖାୟାହୁ କହିଲେ, ଯାହ୍ୱେ ଜୀବିତ ଅଛନ୍ତି — ଯାହା ମୋର ଏଲୋହିମ୍ କହିବେ, ⟨את⟩ ସେହି ହିଁ ମୁଁ କହିବି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ମିଖାୟାହୁ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବିତ ଅଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେକ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଯାହା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "କହିବେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ମୋର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ସେହି"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ମୁଁ କହିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:27:22.780235208Z",
+  "model": "glm-5.3"
+}

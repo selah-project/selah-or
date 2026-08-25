@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 7:10",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆରାଖଙ୍କ ପୁତ୍ରମାନେ — ଛଅ ଶହ ପଚାଶହ ଦୁଇ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ଆରାଖଙ୍କ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶହ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଏବଂ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:42:06.609812581Z",
+  "model": "glm-5.3"
+}

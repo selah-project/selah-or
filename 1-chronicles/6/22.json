@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ତାହତଙ୍କ ପୁତ୍ର, ଆସିରଙ୍କ ପୁତ୍ର, ଏବ୍‌ୟାସାଫଙ୍କ ପୁତ୍ର, କୋରାଖଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତାହତ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "ଆସିର୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "ଏବ୍‌ୟାସାଫ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "କୋରାଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:06.318183450Z",
+  "model": "glm-5.3"
+}

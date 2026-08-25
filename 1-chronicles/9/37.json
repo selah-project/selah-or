@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଏବଂ ଗେଦୋର୍, ଏବଂ ଅହିୟୋ, ଏବଂ ଜେଖରିୟା, ଏବଂ ମିକ୍ଲୋତ୍।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ଏବଂ ଗେଦୋର୍"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଏବଂ ଅହିୟୋ"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "ଏବଂ ଜେଖରିୟା"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "ଏବଂ ମିକ୍ଲୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:49.432099472Z",
+  "model": "glm-5.3"
+}

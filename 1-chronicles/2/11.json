@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ନଖଶୋନ୍ ⟨את⟩ ଶଲ୍ମାଙ୍କୁ ଜନ୍ମ ଦେଲେ, ଆଉ ଶଲ୍ମା ⟨את⟩ ବୋଅଜଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "ଆଉ ନଖଶୋନ୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଶଲ୍ମାଙ୍କୁ"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ଶଲ୍ମାଙ୍କୁ"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "ଆଉ ଶଲ୍ମା"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବୋଅଜଙ୍କୁ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "ବୋଅଜଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:49.907615574Z",
+  "model": "glm-5.3"
+}

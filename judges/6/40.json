@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏଲୋହିମ୍ ସେହି ରାତିରେ ଏପରି କଲେ; କେବଳ ଗୁଞ୍ଜରେ ଶୁଷ୍କତା ହେଲା, ଏବଂ ସମଗ୍ର ଭୂମି ଉପରେ ଶିଶିର ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ଏବଂ କଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତିରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ହେଲା"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ଶୁଷ୍କତା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "ଗୁଞ୍ଜ"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଭୂମି"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "טל",
+      "gloss": "ଶିଶିର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:31:24.821913489Z",
+  "model": "glm-5.3"
+}

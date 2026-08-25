@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "ମୋତେ ଫେରାଇ ଆଣିବା ବେଳେ — ଦେଖ, ⟨the⟩ ନଦୀର କୂଳରେ ଅତି ଅଧିକ ଗଛ, ଏପାଖରୁ ଓ ସେପାଖରୁ।",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "ମୋତେ ଫେରାଇ ଆଣିବା ବେଳେ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "କୂଳରେ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "⟨the⟩ ନଦୀର"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ଗଛ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ଏପାଖରୁ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ଓ ସେପାଖରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:44:40.801504907Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 14:11",
+  "book": "job",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ସମୁଦ୍ରରୁ ଜଳ ଉଠିଯାଏ, ଆଉ ନଦୀ ଶୁଖିଯାଏ ଓ ଅଳ୍ପ ହୋଇଯାଏ।",
+  "tokens": [
+    {
+      "surface": "אזלו",
+      "gloss": "ଉଠିଯାଏ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ଆଉ ନଦୀ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ଶୁଖିଯାଏ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ଓ ଅଳ୍ପ ହୋଇଯାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:28:05.798636095Z",
+  "model": "glm-5.3"
+}

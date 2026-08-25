@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଓ ଏବେ ଶୁଣ, ଯାକୋବ ମୋର ଦାସ, ଆଉ ୟିସ୍‌ରାଏଲ୍, ଯାହାକୁ ମୁଁ ବୋଇଛି।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ଯାକୋବ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ମୋର ଦାସ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ଆଉ ୟିସ୍‌ରାଏଲ୍"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "ମୁଁ ବୋଇଛି"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ଯାହାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:02:48.362335572Z",
+  "model": "glm-5.3"
+}

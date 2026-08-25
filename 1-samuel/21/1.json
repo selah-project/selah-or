@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଓ ସେ ଉଠିଲେ ଓ ଚାଲିଗଲେ; ଆଉ ୟେହୋନାତନ୍ ନଗର ମଧ୍ୟକୁ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ଓ ସେ ଉଠିଲେ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଚାଲିଗଲେ"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "ଆଉ ୟେହୋନାତନ୍"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:04:42.766575263Z",
+  "model": "glm-5.3"
+}

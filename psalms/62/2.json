@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 62:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 62,
+  "translation": "କେବଳ ଏଲୋହିମ୍ ପ୍ରତି ମୋର ନଫେଶ୍ ନିରବ; ମୋର ଉଦ୍ଧାର ମୁହଁରୁ ଆସେ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "דומיה",
+      "gloss": "ନିରବ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ମୋର ନଫେଶ୍"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ମୁହଁରୁ"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ମୋର ଉଦ୍ଧାର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:31:13.424750850Z",
+  "model": "glm-5.3"
+}

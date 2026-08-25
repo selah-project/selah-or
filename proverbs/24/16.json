@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 24:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "କାରଣ ଧାର୍ମିକ ସାତ ଥର ପଡ଼େ ଓ ଉଠେ; କିନ୍ତୁ ଦୁଷ୍ଟମାନେ ବିପଦରେ ଲମ୍ପି ପଡ଼ନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ ଥର"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ପଡ଼େ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "וקם",
+      "gloss": "ଓ ଉଠେ"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "କିନ୍ତୁ ଦୁଷ୍ଟମାନେ"
+    },
+    {
+      "surface": "יכשלו",
+      "gloss": "ଲମ୍ପି ପଡ଼ନ୍ତି"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ବିପଦରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:28.869816385Z",
+  "model": "glm-5.3"
+}

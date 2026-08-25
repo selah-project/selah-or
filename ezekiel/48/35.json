@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 48:35",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଚାରିଆଡ଼େ ଅଠାରହଜାର; ଆଉ ସେହି ଦିନଠାରୁ ନଗରର ନାମ ହେବ — ଯାହ୍ୱେ ଶାମା।",
+  "tokens": [
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ଅଠାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ହଜାରର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ଆଉ … ନାମ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗରର"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "ସେହି ଦିନଠାରୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ଶାମା"
+    }
+  ],
+  "timestamp": "2026-08-25T15:51:53.695388695Z",
+  "model": "glm-5.3"
+}

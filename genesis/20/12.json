@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 20:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ବିଶେଷକରି, ସତରେ ସେ ମୋ ଭଉଣୀ — ମୋ ପିତାଙ୍କ ଝିଅ ⟨is⟩ ସେ, କେବଳ ମୋ ମାତାଙ୍କ ଝିଅ ନୁହେଁ; ଆଉ ସେ ମୋତେ ପତ୍ନୀ ହେଲେ ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ବିଶେଷକରି"
+    },
+    {
+      "surface": "אמנה",
+      "gloss": "ସତରେ"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "ମୋ ଭଉଣୀ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ମୋ ପିତାଙ୍କ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "אמי",
+      "gloss": "ମୋ ମାତାଙ୍କ"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "ପତ୍ନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:31:32.076775031Z",
+  "model": "glm-5.3"
+}

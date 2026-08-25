@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 1:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ସନ୍ଧ୍ୟା ହେଲା, ଏବଂ ପ୍ରଭାତ ହେଲା — ତୃତୀୟ ଦିବସ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ହେଲା"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ସନ୍ଧ୍ୟା"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ହେଲା"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ପ୍ରଭାତ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିବସ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ତୃତୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:16:03.426081446Z",
+  "model": "glm-5.3"
+}

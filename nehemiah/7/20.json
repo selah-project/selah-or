@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 7:20",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅଦିନ୍‌ଙ୍କ ପୁତ୍ରମାନେ — ଛଅଶହ ପଞ୍ଚାଶି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ଅଦିନ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଞ୍ଚାଶ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:54.824385385Z",
+  "model": "glm-5.3"
+}

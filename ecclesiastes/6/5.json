@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏପରିକି ସୂର୍ଯ୍ୟକୁ ସେ ଦେଖିନାହାନ୍ତି ଏବଂ ଜାଣିନାହାନ୍ତି; ଏହାର ଶାନ୍ତି ଅଛି, ତା'ଠାରୁ ଅଧିକ ନିଶ୍ଚିନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ଏପରିକି"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖି"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ଜାଣିନାହାନ୍ତି"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣି"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ନିଶ୍ଚିନ୍ତତା"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ଏହାର"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ତା'ଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:07.758816318Z",
+  "model": "glm-5.3"
+}

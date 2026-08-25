@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 8:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯେଉଁଠାରେ ରାଜାର ବାକ୍ୟ ⟨ଅଛି⟩, ସେଠାରେ ଅଧିକାର; ଆଉ କେହି ତାହାକୁ କହିବ କି — ତୁମେ କଣ କରୁଛ?",
+  "tokens": [
+    {
+      "surface": "באשר",
+      "gloss": "ଯେଉଁଠାରେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "שלטון",
+      "gloss": "ଅଧିକାର"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ଆଉ କେହି"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାକୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "କରୁଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.907719067Z",
+  "model": "glm-5.3"
+}

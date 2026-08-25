@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମାଖ୍‌ନାଦେବାଇ, ଶାଶାଇ, ଶାରାଇ,",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "ମାଖ୍‌ନାଦେବାଇ"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ଶାଶାଇ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ଶାରାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:35:20.473057011Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଶେମ୍‌ଙ୍କ ପୁତ୍ରଗଣ: ଏଲାମ୍ ଓ ଅଶ୍ଶୁର୍, ଆର୍ପାଖ୍‌ଶାଦ୍ ଓ ଲୁଦ୍, ଆରାମ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ଶେମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମ୍"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ଓ ଅଶ୍ଶୁର୍"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "ଆର୍ପାଖ୍‌ଶାଦ୍"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "ଓ ଲୁଦ୍"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ଆରାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:49.830386002Z",
+  "model": "glm-5.3"
+}

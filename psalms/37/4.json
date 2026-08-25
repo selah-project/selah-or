@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 37:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଯାହ୍ୱେଙ୍କରେ ଆନନ୍ଦ ନିଅ, ଆଉ ⟨ସେ⟩ ତୁମ ହୃଦୟର ମନସ୍କାମନା ତୁମକୁ ଦେବେ।",
+  "tokens": [
+    {
+      "surface": "והתענג",
+      "gloss": "ଆଉ ଆନନ୍ଦ ନିଅ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ଆଉ ଦେବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "משאלת",
+      "gloss": "ମନସ୍କାମନା"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ତୁମ ହୃଦୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:01:11.935676203Z",
+  "model": "glm-5.3"
+}

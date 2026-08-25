@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zephaniah 2:6",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସାଗର-ଉପକୂଳ ଅଞ୍ଚଳ ପଶୁପାଳକମାନଙ୍କ ବାସସ୍ଥାନ ଓ ଘାସଭୂମି ଏବଂ ମେଷମାନଙ୍କ ପାଳକୁଣ୍ଡ ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיתה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ଉପକୂଳ-ଅଞ୍ଚଳ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସାଗର"
+    },
+    {
+      "surface": "נות",
+      "gloss": "ବାସସ୍ଥାନ"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ଘାସଭୂମି"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ପଶୁପାଳକମାନଙ୍କ"
+    },
+    {
+      "surface": "וגדרות",
+      "gloss": "ଓ ପାଳକୁଣ୍ଡ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ମେଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:30:36.939331694Z",
+  "model": "glm-5.3"
+}

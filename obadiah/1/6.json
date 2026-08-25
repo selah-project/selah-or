@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "କେତେ ଖୋଜାହେଲ ଏସାବ! ତାହାର ଗୁପ୍ତ ଭଣ୍ଡାରଗୁଡ଼ିକ ବାହାରି ପଡ଼ିଲା।",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "କେତେ"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ଖୋଜାହେଲ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ବାହାରି ପଡ଼ିଲା"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "ଗୁପ୍ତ ଭଣ୍ଡାରଗୁଡ଼ିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:09:08.891042608Z",
+  "model": "glm-5.3"
+}

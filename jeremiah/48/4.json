@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଭାଙ୍ଗିପଡ଼ିଛି ମୋଆବ୍; ତା' ଛୋଟ ପିଲାମାନେ କାନ୍ଦ ଶୁଣାଇଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ଭାଙ୍ଗିପଡ଼ିଛି"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବ୍"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "ଶୁଣାଇଛନ୍ତି"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "କାନ୍ଦ"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "ଛୋଟ ପିଲାମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:34:10.208604100Z",
+  "model": "glm-5.3"
+}

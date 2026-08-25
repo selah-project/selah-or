@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅଛି ଏକ ମନ୍ଦ ଯାହା ମୁଁ ⟨ତଳେ⟩ ସୂର୍ଯ୍ୟତଳେ ଦେଖିଲି, ଏବଂ ତାହା ମନୁଷ୍ୟ ଉପରେ ଭାରି ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଲି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟତଳେ"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "ଏବଂ ଭାରି"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:00.482556862Z",
+  "model": "glm-5.3"
+}

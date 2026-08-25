@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 6:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅନ୍ୟାୟ ଚିନ୍ତା ହେଙ୍ଗାଉଥିବା ହୃଦୟ, ମନ୍ଦ ଆଡ଼କୁ ଦୌଡ଼ିବାକୁ ତ୍ୱରାମବାନ ପାଦ",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ହେଙ୍ଗାଉଥିବା"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "ଚିନ୍ତା"
+    },
+    {
+      "surface": "און",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ପାଦ"
+    },
+    {
+      "surface": "ממהרות",
+      "gloss": "ତ୍ୱରାମବାନ"
+    },
+    {
+      "surface": "לרוץ",
+      "gloss": "ଦୌଡ଼ିବାକୁ"
+    },
+    {
+      "surface": "לרעה",
+      "gloss": "ମନ୍ଦ ଆଡ଼କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:18.386407104Z",
+  "model": "glm-5.3"
+}

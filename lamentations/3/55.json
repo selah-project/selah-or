@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୁଁ ତୁମ ନାମ ଡାକିଲି, ହେ ଯାହ୍ୱେ, ତଳେତଲା ଗର୍ତ୍ତରୁ।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ମୁଁ ଡାକିଲି"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ତୁମ ନାମ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "ଗର୍ତ୍ତରୁ"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ତଳେତଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:30.124540432Z",
+  "model": "glm-5.3"
+}

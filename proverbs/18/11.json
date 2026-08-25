@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଧନୀର ଧନ ⟨ଅଟେ⟩ ତାହାର ବଳର ନଗର, ଆଉ ତାହାର କଳ୍ପନାରେ ଉଚ୍ଚ ପ୍ରାଚୀର ପରି।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀର"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ତାହାର ବଳର"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "ଆଉ ପ୍ରାଚୀର ପରି"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "ତାହାର କଳ୍ପନାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.042417540Z",
+  "model": "glm-5.3"
+}

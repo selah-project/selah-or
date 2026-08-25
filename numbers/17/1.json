@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 17:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ନିକଟକୁ କହିଲେ, ଏହା କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏହା କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:19:26.995790630Z",
+  "model": "glm-5.3"
+}

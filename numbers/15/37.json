@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 15:37",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଏବଂ ଯାହ୍ୱେ ମୋଶେଙ୍କ ନିକଟକୁ କହିଲେ, କହିବାକୁ ଏହା କୁହନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:18:39.603144269Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "exodus 12:46",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଗୋଟିଏ ଘରରେ ତାହା ଖିଆଯିବ; ⟨את⟩ ଘରରୁ ମାଂସର କିଛି ବାହାରକୁ ଆଣିବ ନାହିଁ, ଆଉ ତା'ର କୌଣସି ଅସ୍ଥି ଭାଙ୍ଗିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בבית",
+      "gloss": "ଘରରେ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖିଆଯିବ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ଆଣିବ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘରରୁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ର"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ବାହାରକୁ"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ଆଉ ଅସ୍ଥି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "ଭାଙ୍ଗିବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତା'ର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:09:06.101369124Z",
+  "model": "glm-5.3"
+}

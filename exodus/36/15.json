@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 36:15",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଗୋଟିଏ ପରଦାର ଦୈର୍ଘ୍ୟ ତିରିଶି ହାତ, ଏବଂ ଚାରି ହାତ ଗୋଟିଏ ପରଦାର ଓସାର — ଏଗାରଟି ପରଦା ପାଇଁ ଏକ ମାପ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ପରଦାର"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "ଏବଂ ଚାରି"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ଓସାର"
+    },
+    {
+      "surface": "ହିଯରିଆ",
+      "gloss": ""
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "ଲେଅସତି",
+      "gloss": ""
+    },
+    {
+      "surface": "ଅସରା",
+      "gloss": ""
+    },
+    {
+      "surface": "ୟେରିଓତ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T08:31:51.377797593Z",
+  "model": "glm-5.3"
+}

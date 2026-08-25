@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଦାନ୍ ଗୋଷ୍ଠୀରୁ — ଗେମଲ୍ଲିଙ୍କ ପୁତ୍ର ଅମ୍ମିଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "ଅମ୍ମିଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "ଗେମଲ୍ଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:19.714474539Z",
+  "model": "glm-5.3"
+}

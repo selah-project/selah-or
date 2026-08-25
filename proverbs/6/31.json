@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଯଦି ସେ ଧରାପଡେ, ତେବେ ସେ ସାତଗୁଣ ଫେରାଇ ଦେବ; ⟨את⟩ ନିଜ ଘରର ସମସ୍ତ ଧନ ସେ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "ଆଉ ଯଦି ସେ ଧରାପଡେ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ସେ ଫେରାଇ ଦେବ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "ସାତଗୁଣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିଜ ଘରର ସମସ୍ତ ଧନ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ନିଜ ଘରର"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ସେ ଦେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:34.823787330Z",
+  "model": "glm-5.3"
+}

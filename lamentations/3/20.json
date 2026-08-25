@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମନେ ପକାଇବ, ମନେ ପକାଇବ, ଓ ମୋର ନେଫେଶ୍ ମୋ ଉପରେ ଦୁଃଖି ହେବ।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ମନେ ପକାଇବ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "ମନେ ପକାଇବ"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "ଓ ଦୁଃଖି ହେବ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ ଉପରେ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ମୋର ନେଫେଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:53.960481063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଯାହ୍ୱେ ତାହାଙ୍କୁ କହିଲେ: ଏହା କ'ଣ ତୁମ୍ଭ ହାତରେ? ଆଉ ସେ କହିଲେ: ⟨ଏକ⟩ ଲାଠି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "ଏହା କ'ଣ"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "ତୁମ୍ଭ ହାତରେ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ ସେ କହିଲେ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ଲାଠି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:01:40.179769464Z",
+  "model": "glm-5.3"
+}

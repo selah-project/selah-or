@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଊରିୟା ⟨ଦ⟩ହିତ୍ତୀ — ସମସ୍ତେ ତିରିଶି ଓ ସାତ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ଊରିୟା"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ହିତ୍ତୀ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ଓ ସାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:39.391831740Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ହାଶୁବା, ଓହେଲ୍, ବେରେକିୟା, ହାସାଦିୟା, ୟୁଶାବ-ଖେସେଦ୍ — ପାଞ୍ଚ।",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "ହାଶୁବା"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "ଓହେଲ୍"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "ବେରେକିୟା"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "ହାସାଦିୟା"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ୟୁଶାବ"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ଖେସେଦ୍"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:34.762698251Z",
+  "model": "glm-5.3"
+}

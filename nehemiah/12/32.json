@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 12:32",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ସେମାନଙ୍କ ପରେ ହୋଶାୟା ଓ ୟିହୂଦାର ଅଧ୍ୟକ୍ଷମାନଙ୍କର ଅଧା ଚାଲିଲେ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଚାଲିଲେ"
+    },
+    {
+      "surface": "אחריהם",
+      "gloss": "ସେମାନଙ୍କ ପରେ"
+    },
+    {
+      "surface": "הושעיה",
+      "gloss": "ହୋଶାୟା"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ଓ ଅଧା"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ଅଧ୍ୟକ୍ଷମାନଙ୍କର"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟିହୂଦାର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:35.886021952Z",
+  "model": "glm-5.3"
+}

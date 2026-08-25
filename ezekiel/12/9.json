@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ହେ ମନୁଷ୍ୟପୁତ୍ର, ବିଦ୍ରୋହୀ ଘର ଇସ୍‌ରାଏଲର ଘର କି ତୁମକୁ କହି ନାହାଁନ୍ତି — ତୁମେ କ'ଣ କରୁଛ?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "କି"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "କହି ନାହାଁନ୍ତି"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "ବିଦ୍ରୋହୀ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରୁଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:56:31.112393531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ରେକେମ୍, ଯିର୍‌ପେଏଲ୍ ଓ ତାରାଲା।",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "ରେକେମ୍"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "ଯିର୍‌ପେଏଲ୍"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "ତାରାଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:12.955569657Z",
+  "model": "glm-5.3"
+}

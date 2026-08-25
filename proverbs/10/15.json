@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 10:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଧନୀର ଧନ ତା'ର ବଳର ନଗର, ଦରିଦ୍ରଙ୍କ ନାଶ ତାହାଙ୍କର ଦାରିଦ୍ର୍ୟ ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀର"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ତା'ର ବଳର"
+    },
+    {
+      "surface": "מחיתת",
+      "gloss": "ନାଶ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ଦରିଦ୍ରଙ୍କ"
+    },
+    {
+      "surface": "רישם",
+      "gloss": "ଦାରିଦ୍ର୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:22.659927197Z",
+  "model": "glm-5.3"
+}

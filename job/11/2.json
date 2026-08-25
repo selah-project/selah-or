@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 11:2",
+  "book": "job",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଅନେକ କଥା କ’ଣ ଉତ୍ତର ପାଇବ ନାହିଁ, ଆଉ ଓଷ୍ଠର ଲୋକ କ’ଣ ନ୍ୟାୟୀକୃତ ହେବ?",
+  "tokens": [
+    {
+      "surface": "הרב",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ଉତ୍ତର ପାଇବ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ କ’ଣ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠର"
+    },
+    {
+      "surface": "יצדק",
+      "gloss": "ନ୍ୟାୟୀକୃତ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:27:16.441502631Z",
+  "model": "glm-5.3"
+}

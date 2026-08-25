@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୋର ପ୍ରିୟ ମୋ ପାଇଁ ଏଇନ୍-ଗେଦିର ଦ୍ରାକ୍ଷାକ୍ଷେତ୍ରରେ ଗୋଟିଏ ହେନ୍ନା-ଗୁଚ୍ଛ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "ଗୁଚ୍ଛ"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ହେନ୍ନା"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ଦ୍ରାକ୍ଷାକ୍ଷେତ୍ରରେ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଏଇନ୍"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ଗେଦି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:51.204424050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 32:44",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ମୋଶେ ଆସିଲେ ଏବଂ ⟨את⟩ ଏହି ଗୀତର ସମସ୍ତ ବଚନ ପ୍ରଜାମାନଙ୍କ କାନରେ କହିଲେ — ସେ ଓ ହୋଶେୟ, ନୂନର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ଗୀତର ସମସ୍ତ ବଚନ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ବଚନ"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ଗୀତର"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "କାନରେ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜାମାନଙ୍କ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "והושע",
+      "gloss": "ଓ ହୋଶେୟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ନୂନ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:05.735038035Z",
+  "model": "glm-5.3"
+}

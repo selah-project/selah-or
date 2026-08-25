@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ମୋଶେ ସେହି ଦିନ ⟨את⟩ ଲୋକମାନଙ୍କୁ ଆଜ୍ଞା କଲେ —",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "ଆଜ୍ଞା କଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଲୋକମାନଙ୍କୁ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକମାନଙ୍କୁ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "—"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:39.940457163Z",
+  "model": "glm-5.3"
+}

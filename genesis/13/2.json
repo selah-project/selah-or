@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ଅବ୍ରାମ୍ ଗୋରୁ, ରୂପା ଓ ସୁନାରେ ⟨ଥିଲେ⟩ ଅତି ଭାରୀ।",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "ଆଉ ଅବ୍ରାମ୍"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "ଗୋରୁରେ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ରୂପାରେ"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "ଓ ସୁନାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:25:12.472771433Z",
+  "model": "glm-5.3"
+}

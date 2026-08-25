@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 148:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 148,
+  "translation": "ବନ୍ୟ ଜୀବ ଓ ସମସ୍ତ ଗୃହପାଳିତ ପଶୁ; ଚଳପ୍ରାଣୀ ଓ ଡେଣାଯୁକ୍ତ ପକ୍ଷୀ,",
+  "tokens": [
+    {
+      "surface": "ହଚିଆ",
+      "gloss": ""
+    },
+    {
+      "surface": "ବଚାଲ",
+      "gloss": ""
+    },
+    {
+      "surface": "ବହମା",
+      "gloss": ""
+    },
+    {
+      "surface": "ରମଶ",
+      "gloss": ""
+    },
+    {
+      "surface": "ବତ୍ସପର",
+      "gloss": ""
+    },
+    {
+      "surface": "କନପ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T21:33:54.153533370Z",
+  "model": "glm-5.3"
+}

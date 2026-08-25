@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଏଲୋହିମ୍ ମୋଶେଙ୍କ ସହ କଥା ହେଲେ ଏବଂ ତାହାଙ୍କୁ କହିଲେ: ମୁଁ ଯାହ୍ୱେ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କ ସହ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:02:50.891211939Z",
+  "model": "glm-5.3"
+}

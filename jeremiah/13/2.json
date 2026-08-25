@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ମୁଁ ⟨את⟩ ବେଳ୍ଟ କିଣିଲି, ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଅନୁସାରେ, ଆଉ ତାହା ମୋର କଟି ଉପରେ ଧାରଣ କଲି।",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "କିଣିଲି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବେଳ୍ଟ"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "ବେଳ୍ଟ"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "ବାକ୍ୟ ଅନୁସାରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "ଧାରଣ କଲି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ମୋର କଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:47:39.994707298Z",
+  "model": "glm-5.3"
+}

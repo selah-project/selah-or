@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ପରିହାସକକୁ ତଡ଼ିଦିଅ, ଓ ବିବାଦ ବାହାରିଯିବ, ଓ କଳହ ଓ ଅପକୀର୍ତ୍ତି ବନ୍ଦ ହେବ।",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "ତଡ଼ିଦିଅ"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "ପରିହାସକ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ଓ ବାହାରିଯିବ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ବିବାଦ"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "ଓ ବନ୍ଦ ହେବ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "କଳହ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ଓ ଅପକୀର୍ତ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:18.343733164Z",
+  "model": "glm-5.3"
+}

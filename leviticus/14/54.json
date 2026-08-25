@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏହା ⟨ହେଉଛି⟩ ସମସ୍ତ ଚର୍ମରୋଗ-ଆଘାତ, ଯାହ୍ୱେ-ଦଣ୍ଡନା ଓ କ୍ଷତର ତୋରାତ୍।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "ତୋରାତ୍"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ସମସ୍ତ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ଆଘାତ"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "ଚର୍ମରୋଗ"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "ଓ କ୍ଷତ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:46.028481015Z",
+  "model": "glm-5.3"
+}

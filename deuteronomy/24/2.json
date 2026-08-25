@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଏଣେ ସେ ତାହାର ଗୃହରୁ ବାହାରି ଯାଆନ୍ତି, ଯାଇ ଅନ୍ୟ ଜଣେ ପୁରୁଷର ସ୍ତ୍ରୀ ହୁଅନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "ଓ ବାହାରି ଯାଆନ୍ତି"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ତାହାର ଗୃହରୁ"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "ଓ ଯାଇ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ହୁଅନ୍ତି"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ଅନ୍ୟ ଜଣେ ପୁରୁଷର"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:58:54.432613256Z",
+  "model": "glm-5.3"
+}

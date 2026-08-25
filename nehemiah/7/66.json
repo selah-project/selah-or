@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ଭଳି ସମଗ୍ର ମଣ୍ଡଳୀ — ଚାରି ଦଶ ସହସ୍ର, ଦୁଇ ହଜାର, ତିନି ଶହ ଓ ଷାଠିଏ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ମଣ୍ଡଳୀ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ଗୋଟିଏ ଭଳି"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ଦଶ ସହସ୍ର"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:25.225690875Z",
+  "model": "glm-5.3"
+}

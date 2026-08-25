@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 147,
+  "translation": "ଯିଏ ତୁଷାର ଦିଅନ୍ତି ଉଲର ଭଳି, ହିମଖଣ୍ଡ ଭସ୍ମ ଭଳି ଛିଞ୍ଚନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "ଯିଏ ଦିଅନ୍ତି"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "ତୁଷାର"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ଉଲର ଭଳି"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "ହିମଖଣ୍ଡ"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "ଭସ୍ମ ଭଳି"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "ଛିଞ୍ଚନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:54:58.225665312Z",
+  "model": "glm-5.3"
+}

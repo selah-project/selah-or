@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ସେହି ଦିନ ଏସାଭ ନିଜ ପଥରେ ସେଇର ଆଡ଼କୁ ଫେରିଗଲେ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଫେରିଗଲେ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାଭ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ନିଜ ପଥରେ"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "ସେଇର ଆଡ଼କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:41:22.371135185Z",
+  "model": "glm-5.3"
+}

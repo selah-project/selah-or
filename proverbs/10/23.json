@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 10:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମୂର୍ଖ ପାଇଁ ଦୁଷ୍କର୍ମ କରିବା ହାସି ପରି, ଆଉ ବିବେକୀ ମନୁଷ୍ୟ ପାଇଁ ଜ୍ଞାନ।",
+  "tokens": [
+    {
+      "surface": "כשחוק",
+      "gloss": "ହାସି ପରି"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ମୂର୍ଖ ପାଇଁ"
+    },
+    {
+      "surface": "עשות",
+      "gloss": "କରିବା"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "ଦୁଷ୍କର୍ମ"
+    },
+    {
+      "surface": "וחכמה",
+      "gloss": "ଆଉ ଜ୍ଞାନ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ମନୁଷ୍ୟ ପାଇଁ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ବିବେକୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:20.081076576Z",
+  "model": "glm-5.3"
+}

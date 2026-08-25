@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋ ସହିତ କହିଲେ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ସହିତ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:33.724191698Z",
+  "model": "glm-5.3"
+}

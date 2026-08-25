@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "genesis 41:53",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଆଉ ମିଶ୍ରୟରେ ଥିବା ପ୍ରଚୁରତାର ସାତ ବର୍ଷ ସମାପ୍ତ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ותכלינה",
+      "gloss": "ସମାପ୍ତ ହେଲା"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ପ୍ରଚୁରତାର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶ୍ରୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:47:07.222101893Z",
+  "model": "glm-5.3"
+}

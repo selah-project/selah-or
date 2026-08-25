@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ମଣିଷ ନିଜ ସ୍ତ୍ରୀର ନାମ ହାୱା ରଖିଲା, କାରଣ ସେ ⟨ସେ⟩ ସମସ୍ତ ଜୀବିତଙ୍କର ମାଆ ହୋଇଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ନାମ ରଖିଲା"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ସ୍ତ୍ରୀର"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "ହାୱା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ମାଆ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:46.185970301Z",
+  "model": "glm-5.3"
+}

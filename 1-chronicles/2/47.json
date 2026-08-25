@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ୟାହଦାଇର ପୁତ୍ରମାନେ: ରେଗେମ୍, ୟୋତାମ୍, ଗେଶାନ୍, ପେଲେତ୍, ଏଫାହା, ଶାଅଫ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "ୟାହଦାଇର"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "ରେଗେମ୍"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "ୟୋତାମ୍"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "ଗେଶାନ୍"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "ପେଲେତ୍"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "ଏଫାହା"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "ଶାଅଫ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:49.685093206Z",
+  "model": "glm-5.3"
+}

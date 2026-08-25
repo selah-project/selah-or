@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ବିନ୍ୟାମିନ୍ ଶାଖା ପାଇଁ — ଏଲିଦାଦ୍, କିସ୍ଲୋନ୍‌ର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଶାଖା ପାଇଁ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ବିନ୍ୟାମିନ୍"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "ଏଲିଦାଦ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "କିସ୍ଲୋନ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:21.910118919Z",
+  "model": "glm-5.3"
+}

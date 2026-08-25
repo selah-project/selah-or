@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଶାମାଇର ପୁତ୍ର ମାଓନ୍; ମାଓନ୍ ବେତ୍-ତ୍ସୁରର ପିତା ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ଶାମାଇର"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ମାଓନ୍"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "ମାଓନ୍"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ତ୍ସୁରର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:49.684690254Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "କେବଳ ⟨את⟩ ସୁନା, ଆଉ ⟨את⟩ ରୂପା, ⟨את⟩ ତମ୍ବା, ⟨את⟩ ଲୁହା, ⟨את⟩ ଟିଣ ଓ ⟨את⟩ ସୀସା —",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସୁନା"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ରୂପା"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ରୂପା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତମ୍ବା"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ତମ୍ବା"
+    },
+    {
+      "surface": "ଆת",
+      "gloss": "⟨את⟩",
+      "marks": "ଲୁହା"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଟିଣ"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ଟିଣ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ସୀସା"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ସୀସା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:31:23.644317460Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "କାରଣ ମୋତେ ପାଇବାହାରୁ ଜୀବନ ପାଏ, ଆଉ ଯାହ୍ୱେଙ୍କଠାରୁ ପ୍ରୀତି ଲାଭ କରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ମୋତେ ପାଇବାହାରୁ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ପାଏ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ଆଉ ଲାଭ କରେ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ପ୍ରୀତି"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:49.172428279Z",
+  "model": "glm-5.3"
+}

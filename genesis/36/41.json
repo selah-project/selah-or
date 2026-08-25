@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "genesis 36:41",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଅଲୁଫ୍ ଓହୋଲିବାମା, ଅଲୁଫ୍ ଏଲାହ୍, ଅଲୁଫ୍ ପିନୋନ୍।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "ଓହୋଲିବାମା"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏଲାହ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ପିନୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:46:08.790464919Z",
+  "model": "glm-5.3"
+}

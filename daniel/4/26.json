@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ବାର ମାସର ଶେଷରେ ବାବୁଲର ରାଜ୍ୟର ପ୍ରାସାଦ ଉପରେ ସେ ବୁଲୁଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "ମାସର"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "ପ୍ରାସାଦ"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "ରାଜ୍ୟର"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ବାବୁଲ"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ବୁଲୁଥିଲେ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ଥିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:15:28.379196835Z",
+  "model": "glm-5.3"
+}

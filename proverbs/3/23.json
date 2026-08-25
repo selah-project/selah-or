@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 3:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତେବେ ତୁମେ ନିରାପଦରେ ତୁମର ପଥରେ ଚାଲିବ, ଆଉ ତୁମର ପାଦ ଠୋକ୍ରିହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ଚାଲିବ"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "ନିରାପଦରେ"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ତୁମର ପଥରେ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ଆଉ ତୁମର ପାଦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגוף",
+      "gloss": "ଠୋକ୍ରିହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:11.564167370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ସଭା ପାଇଁ ଜଳ ନ ଥିଲା, ଆଉ ⟨ସେମାନେ⟩ ମୋଶେ ବିରୁଦ୍ଧରେ ଓ ଅହାରୋନ୍ ବିରୁଦ୍ଧରେ ଏକତ୍ର ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "ସଭା ପାଇଁ"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "ଏକତ୍ର ହେଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହାରୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:22:08.690814632Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଦଶମ — ଶିମି, ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଗଣ ।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "ଦଶମ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମି"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଗଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:10.246113980Z",
+  "model": "glm-5.3"
+}

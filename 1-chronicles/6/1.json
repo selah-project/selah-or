@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଲେବୀଙ୍କ ପୁତ୍ରମାନେ: ଗେରେଶୋମ୍, କେହାତ ଓ ମେରାରୀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀଙ୍କ"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ଗେରେଶୋମ୍"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ଓ ମେରାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:42.322662211Z",
+  "model": "glm-5.3"
+}

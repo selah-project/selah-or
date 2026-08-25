@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଦାନ୍ ଓ ନାଫତାଲି, ଗାଦ୍ ଓ ଆଶେର୍।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ଓ ନାଫତାଲି"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ୍"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ଓ ଆଶେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:47:54.471366157Z",
+  "model": "glm-5.3"
+}

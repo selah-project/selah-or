@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସ୍ତୁତିଗାୟକମାନେ: ଆସାଫଙ୍କ ପୁତ୍ରମାନେ, ଏକଶହ ବାଇଶ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ସ୍ତୁତିଗାୟକମାନେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ଆସାଫଙ୍କ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବାଇଶ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଓ ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:31:11.268443445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 26:8",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଗୋଟିଏ ପରଦାର ଦୈର୍ଘ୍ୟ ତିରିଶି ହାତ, ଆଉ ଗୋଟିଏ ପରଦାର ଓସାର ଚାରି ହାତ; ଏଗାରଟି ପରଦା ପାଇଁ ଏକ ମାପ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ପରଦାର"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଆଉ ଓସାର"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ପରଦାର"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "לעשתי",
+      "gloss": "ଏଗାରଟି"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "—"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ପରଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:21:01.770373110Z",
+  "model": "glm-5.3"
+}

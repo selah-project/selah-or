@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 26:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ତୁମ୍ଭର ଶକ୍ତି ବୃଥା ସରିଯିବ, ଆଉ ତୁମ୍ଭର ଭୂମି ⟨את⟩ ତାହାର ଫସଲ ଦେବ ନାହିଁ ଓ ଭୂମିର ଗଛ ତାହାର ଫଳ ଦେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ותם",
+      "gloss": "ସରିଯିବ"
+    },
+    {
+      "surface": "לריק",
+      "gloss": "ବୃଥା"
+    },
+    {
+      "surface": "כחכם",
+      "gloss": "ତୁମ୍ଭର ଶକ୍ତି"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "ארצכם",
+      "gloss": "ତୁମ୍ଭର ଭୂମି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାର ଫସଲ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ତାହାର ଫସଲ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ଓ ଗଛ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଭୂମିର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ତାହାର ଫଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:48.670309847Z",
+  "model": "glm-5.3"
+}

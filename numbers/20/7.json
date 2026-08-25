@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 20:7",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଏବଂ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କହିଲେ, କହିବାକୁ ଯେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:21:50.008513398Z",
+  "model": "glm-5.3"
+}

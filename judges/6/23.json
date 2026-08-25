@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେ ତାହାଙ୍କୁ କହିଲେ, ତୁମ ପାଇଁ ଶାନ୍ତି; ଭୟ କର ନାହିଁ, ତୁମେ ମରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ଭୟ କର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ମରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:30:25.646121720Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ଗିଦ୍‌ଓନ୍, ୟୋଆଶଙ୍କ ପୁତ୍ର, ଯୁଦ୍ଧରୁ ଫେରିଲେ, ହେରେସ୍ ଉଠାଣିରୁ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଫେରିଲେ"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "ଗିଦ୍‌ଓନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ୟୋଆଶଙ୍କ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "ଉଠାଣିରୁ"
+    },
+    {
+      "surface": "החרס",
+      "gloss": "ହେରେସ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:34:49.845499995Z",
+  "model": "glm-5.3"
+}

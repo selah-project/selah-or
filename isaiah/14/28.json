@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ରାଜା ଆଖାଜଙ୍କ ମୃତ୍ୟୁର ବର୍ଷରେ ଏହି ଭାରବାଣୀ ⟨ହୋଇଥିଲା⟩।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ବର୍ଷରେ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁର"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ଆଖାଜଙ୍କ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ଭାରବାଣୀ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T12:30:47.537459445Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "କାରଣ ⟨ବ୍ୟଭିଚାରିଣୀ⟩ ⟨ଏକ⟩ ଗଭୀର ଖାଡ଼ି, ଆଉ ଅପରିଚିତା ନାରୀ ⟨ଏକ⟩ ସଙ୍କୁଚିତ କୂପ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ଖାଡ଼ି"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ଗଭୀର"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ବ୍ୟଭିଚାରିଣୀ"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ଆଉ କୂପ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ସଙ୍କୁଚିତ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "ଅପରିଚିତା ନାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:12.324182907Z",
+  "model": "glm-5.3"
+}

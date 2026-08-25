@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 1:10",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ତୁମର କପୋଳ ମାଳାମାନଙ୍କରେ ସୁନ୍ଦର, ତୁମର କଣ୍ଠ ମଣିମାଳାରେ।",
+  "tokens": [
+    {
+      "surface": "נאוו",
+      "gloss": "ସୁନ୍ଦର ଅଟେ"
+    },
+    {
+      "surface": "לחייך",
+      "gloss": "ତୁମର କପୋଳ"
+    },
+    {
+      "surface": "בתרים",
+      "gloss": "ମାଳାମାନଙ୍କରେ"
+    },
+    {
+      "surface": "צוארך",
+      "gloss": "ତୁମର କଣ୍ଠ"
+    },
+    {
+      "surface": "בחרוזים",
+      "gloss": "ମଣିମାଳାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:37.932341200Z",
+  "model": "glm-5.3"
+}

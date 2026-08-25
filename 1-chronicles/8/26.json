@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଶମଶେରାୟ୍, ଓ ଶେହରୟାହ୍, ଓ ଅତଲୟାହ୍।",
+  "tokens": [
+    {
+      "surface": "וְשַׁמְשְׁרַי",
+      "gloss": "ଓ ଶମଶେରାୟ୍"
+    },
+    {
+      "surface": "וּשְׁחַרְיָה",
+      "gloss": "ଓ ଶେହରୟାହ୍"
+    },
+    {
+      "surface": "וַעֲתַלְיָה",
+      "gloss": "ଓ ଅତଲୟାହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:12.364124543Z",
+  "model": "glm-5.3"
+}

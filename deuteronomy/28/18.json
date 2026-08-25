@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 28:18",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଅଭିଶାପିତ ତାର ଗର୍ଭର ଫଳ ଓ ତାର ମାଟିର ଫଳ — ତାର ଗାଈର ବାଛୁରୀ ଓ ତାର ମେଷମାନଙ୍କର ଛୁଆ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶାପିତ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "בטנך",
+      "gloss": "ତାର ଗର୍ଭର"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ଓ ଫଳ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ତାର ମାଟିର"
+    },
+    {
+      "surface": "שגר",
+      "gloss": "ବାଛୁରୀ"
+    },
+    {
+      "surface": "אלפיך",
+      "gloss": "ତାର ଗାଈର"
+    },
+    {
+      "surface": "ועשתרות",
+      "gloss": "ଓ ଛୁଆ"
+    },
+    {
+      "surface": "צאנך",
+      "gloss": "ତାର ମେଷମାନଙ୍କର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:01:51.953291013Z",
+  "model": "glm-5.3"
+}

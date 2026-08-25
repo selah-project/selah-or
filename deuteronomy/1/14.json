@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ତେବେ ତୁମ୍ଭେମାନେ ମୋତେ ⟨ଉତ୍ତର⟩ ଦେଲ ଓ କହିଲ: ଯାହା କଥା ତୁମେ କହିଲ, ତାହା କରିବାକୁ ଉତ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "ତୁମ୍ଭେମାନେ ଉତ୍ତର ଦେଲ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "ମୋତେ"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "ଓ କହିଲ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ଯାହା କଥା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ତୁମେ କହିଲ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:38:04.702374485Z",
+  "model": "glm-5.3"
+}

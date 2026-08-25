@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 6:12",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ, କହି।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:36.139199113Z",
+  "model": "glm-5.3"
+}

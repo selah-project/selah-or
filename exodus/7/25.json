@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ସାତ ଦିନ ପୂର୍ଣ୍ଣ ହେଲା, ଯାହ୍ୱେ ⟨את⟩ ନଦୀକୁ ମାରିବା ପରେ।",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "ପୂର୍ଣ୍ଣ ହେଲା"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ମାରିବା"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନଦୀ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ନଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:04:23.772280903Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ⟨את⟩ ଅର୍ୱାଦୀୟ, ⟨את⟩ ତ୍ସେମାରୀ ଓ ⟨את⟩ ହାମାତୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଅର୍ୱାଦୀୟ"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ଅର୍ୱାଦୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ତ୍ସେମାରୀ"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "ତ୍ସେମାରୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ହାମାତୀ"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "ହାମାତୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:26.468894270Z",
+  "model": "glm-5.3"
+}

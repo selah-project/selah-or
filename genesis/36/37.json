@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଶାମଲା ମରିଗଲା, ଆଉ ତା’ ବଦଳରେ ନଦୀର ରହୋବୋତର ଶାଉଲ୍ ରାଜୁତି କଲା।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମରିଗଲା"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ଶାମଲା"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜୁତି କଲା"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ତା’ ବଦଳରେ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ରହୋବୋତର"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ନଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:16.227207077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 25:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଅଠାରତମ ହନାନୀର — ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଟି।",
+  "tokens": [
+    {
+      "surface": "לשמונה",
+      "gloss": "ଅଠାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ତମ"
+    },
+    {
+      "surface": "לחנני",
+      "gloss": "ହନାନୀର"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:07.351850920Z",
+  "model": "glm-5.3"
+}

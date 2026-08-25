@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 29:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଯେଉଁ ଶାସକ ମିଛ କଥା ଶୁଣେ, ତାହାର ସମସ୍ତ ସେବକ ଦୁଷ୍କୃତି।",
+  "tokens": [
+    {
+      "surface": "משל",
+      "gloss": "ଶାସକ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "କାନ ଦିଏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "משרתיו",
+      "gloss": "ତାହାର ସେବକ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍କୃତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:22.604332854Z",
+  "model": "glm-5.3"
+}

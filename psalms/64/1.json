@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 64,
+  "translation": "ସଙ୍ଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ; ଦାଉଦଙ୍କ ମିଜମର।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଙ୍ଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ମିଜମର"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:16:13.049466220Z",
+  "model": "glm-5.3"
+}

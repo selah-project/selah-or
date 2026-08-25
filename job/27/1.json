@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 27:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଇଯ୍ୟୋବ ଆହୁରି ତାହାର ମଶଲ୍ ଉତ୍ତୋଳନ କଲେ ଓ କହିଲେ —",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ଆହୁରି କଲେ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇଯ୍ୟୋବ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ଉତ୍ତୋଳନ କଲେ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ତାହାର ମଶଲ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:36:18.668340748Z",
+  "model": "glm-5.3"
+}

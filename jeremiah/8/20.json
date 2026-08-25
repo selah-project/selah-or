@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଅମଳ ଗତ ହେଲା, ଗ୍ରୀଷ୍ମ ସରିଗଲା, ଆଉ ଆମ୍ଭେମାନେ ଉଦ୍ଧାର ହେଲୁ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "ଗତ ହେଲା"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ଅମଳ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ସରିଗଲା"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ଗ୍ରୀଷ୍ମ"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "ଆଉ ଆମ୍ଭେମାନେ"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "ଉଦ୍ଧାର ହେଲୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:42:25.739958213Z",
+  "model": "glm-5.3"
+}

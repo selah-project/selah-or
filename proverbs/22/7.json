@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଧନୀ ଦରିଦ୍ରଙ୍କ ଉପରେ ଶାସନ କରେ, ଆଉ ଋଣଗ୍ରହୀତା ଋଣଦାତା ବ୍ୟକ୍ତିର ଦାସ।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀ"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "ଦରିଦ୍ରଙ୍କ ଉପରେ"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "ଶାସନ କରେ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "ଆଉ ଦାସ"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ଋଣଗ୍ରହୀତା"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ବ୍ୟକ୍ତିର"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ଋଣଦାତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:58.413654433Z",
+  "model": "glm-5.3"
+}

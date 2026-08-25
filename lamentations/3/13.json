@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 3:13",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତାହାର ତୂଣାର ପୁତ୍ରମାନଙ୍କୁ ମୋର ବୃକକ୍‌ରେ ପ୍ରବେଶ କରାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "הביא",
+      "gloss": "ପ୍ରବେଶ କରାଇଲେ"
+    },
+    {
+      "surface": "בכליותי",
+      "gloss": "ମୋର ବୃକକ୍‌ରେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କୁ"
+    },
+    {
+      "surface": "אשפתו",
+      "gloss": "ତାହାର ତୂଣାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:23.880765287Z",
+  "model": "glm-5.3"
+}

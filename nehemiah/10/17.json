@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଅଦୋନିୟା, ବିଗ୍‌ୱାଇ, ଆଦିନ୍।",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "ଅଦୋନିୟା"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ବିଗ୍‌ୱାଇ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "ଆଦିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:31.679405244Z",
+  "model": "glm-5.3"
+}

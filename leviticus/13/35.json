@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ଯଦି ତାହାର ଶୁଦ୍ଧତା ପରେ ନେତେକ୍ ଚର୍ମରେ ବ୍ୟାପିଯାଏ, ବ୍ୟାପିବାକୁ ଲାଗେ,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ବ୍ୟାପିବାକୁ ଲାଗେ"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "ବ୍ୟାପିଯାଏ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ନେତେକ୍"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ଚର୍ମରେ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ତାହାର ଶୁଦ୍ଧତା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:28.271048803Z",
+  "model": "glm-5.3"
+}

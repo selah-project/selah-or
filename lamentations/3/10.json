@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେ ମୋ ପାଇଁ ଓଅଁସା କରୁଥିବା ଭାଲୁ, ଗୁପ୍ତ ସ୍ଥାନରେ ସିଂହ।",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "ଭାଲୁ"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ଓଅଁସା କରୁଥିବା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ଗୁପ୍ତ ସ୍ଥାନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:39.107649864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ବତ୍-ଶେବା କହିଲା, ଭଲ; ମୁଁ ତୁମ ନିମନ୍ତେ ରାଜାଙ୍କ ପାଖରେ କହିବି।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଓ ସେ କହିଲା"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ବତ୍-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେବା"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "କହିବି"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:34:52.153669671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ସଲ୍ଲାଇଙ୍କ ନିମନ୍ତେ କଲ୍ଲାଇ; ଅମୋକଙ୍କ ନିମନ୍ତେ ଏବେର।",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "ସଲ୍ଲାଇଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "କଲ୍ଲାଇ"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "ଅମୋକଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଏବେର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:55.760540854Z",
+  "model": "glm-5.3"
+}

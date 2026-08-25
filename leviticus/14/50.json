@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏଣୁ ସେ ଜୀବନ୍ତ ଜଳ ଉପରେ ମାଟି ପାତ୍ର ଭିତରେ ⟨את⟩ ଜଣେ ପକ୍ଷୀକୁ ବଧ କରିବ ।",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "ଏଣୁ ସେ ବଧ କରିବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜଣେ ପକ୍ଷୀ"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଭିତରେ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ପାତ୍ର"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ମାଟି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:50.838276803Z",
+  "model": "glm-5.3"
+}

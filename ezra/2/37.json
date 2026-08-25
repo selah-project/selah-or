@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଇମ୍ମେରର ପୁତ୍ରମାନେ — ହଜାର ବାଉନଖଣ୍ଡ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ଇମ୍ମେରର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ବାଉନ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:16.338105132Z",
+  "model": "glm-5.3"
+}

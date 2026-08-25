@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋ ପାଖରେ କଥା ହେଲେ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:24.258510367Z",
+  "model": "glm-5.3"
+}

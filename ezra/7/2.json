@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଶାଲ୍ଲୁମଙ୍କ ପୁତ୍ର, ତ୍ସାଦୋକଙ୍କ ପୁତ୍ର, ଆଚିତୂବଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାଲ୍ଲୁମ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ତ୍ସାଦୋକ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "ଆଚିତୂବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:33:07.358252643Z",
+  "model": "glm-5.3"
+}

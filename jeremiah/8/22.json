@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଗିଲିଅଦରେ ମଲମ ନାହିଁ? ସେଠାରେ ଚିକିତ୍ସକ ନାହିଁ? କାହିଁକି ତେବେ ମୋହର ଲୋକଙ୍କ କନ୍ୟାର ଆରୋଗ୍ୟ ଉଠି ନାହିଁ?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "ମଲମ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "ଗିଲିଅଦରେ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ଚିକିତ୍ସକ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାହିଁକି ତେବେ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ଉଠି"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "ଆରୋଗ୍ୟ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟାର"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ମୋହର ଲୋକଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:39:26.532012214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ଯାହ୍ୱେ ଆହାରୋନ୍‌ଙ୍କ ସହିତ କଥା ହେଲେ, କହିଲେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ ... କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଆହାରୋନ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:43:35.617985331Z",
+  "model": "glm-5.3"
+}

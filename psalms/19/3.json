@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଦିନ ଦିନକୁ ବାକ୍ୟ ଉତ୍ସାରଣ କରେ, ଓ ରାତ୍ରି ରାତ୍ରିକୁ ଜ୍ଞାନ ପ୍ରକାଶ କରେ।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ଦିନକୁ"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "ଉତ୍ସାରଣ କରେ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ଓ ରାତ୍ରି"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "ରାତ୍ରିକୁ"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "ପ୍ରକାଶ କରେ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:08.134925574Z",
+  "model": "glm-5.3"
+}

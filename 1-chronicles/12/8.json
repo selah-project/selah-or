@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ୟୋଏଲା, ଓ ଜେବାଦିଯା — ୟେରୋହାମର ପୁତ୍ରମାନେ, ହଗେଦୋରରୁ ।",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "ଓ ୟୋଏଲା"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "ଓ ଜେବାଦିଯା"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ୟେରୋହାମର"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ\/ରୁ"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "ହଗେଦୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:35.885112740Z",
+  "model": "glm-5.3"
+}

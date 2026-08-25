@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 33:29",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ସେମାନେ ମିତକାରୁ ଯାତ୍ରା କଲେ, ଆଉ ହଶମୋନାରେ ଶିବିର କରିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "ממתקה",
+      "gloss": "ମିତକାରୁ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଶିବିର କରିଲେ"
+    },
+    {
+      "surface": "בחשמנה",
+      "gloss": "ହଶମୋନାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:33:57.940767213Z",
+  "model": "glm-5.3"
+}

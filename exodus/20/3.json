@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ମୋର ସାମ୍ନାରେ ତୋପାଇଁ ଅନ୍ୟ ଏଲୋହିମ୍ ନାହିଁ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋପାଇଁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ସାମ୍ନାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:58.559071265Z",
+  "model": "glm-5.3"
+}

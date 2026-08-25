@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ଏବେ, ମୋ ପୁଅ, ମୋର କଥା ଶୁଣ, ଯାହା ମୁଁ ⟨את⟩ ତୁଙ୍କୁ ଆଜ୍ଞା କରୁଛି ସେହି ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଆଉ ଏବେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋ ପୁଅ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ମୋର କଥା"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "ଯାହା…ଅନୁସାରେ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ଆଜ୍ଞା କରୁଛି"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:35:44.492129166Z",
+  "model": "glm-5.3"
+}

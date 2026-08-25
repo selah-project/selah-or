@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 23:18",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ସେ ଆପଣା ମଶଲ୍ ଉଠାଇ କହିଲେ: ଉଠ, ବାଲାକ୍, ଓ ଶୁଣ; ମୋତେ କାନ ଦିଅ, ହେ ସିପ୍ପୋରର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ଉଠାଇଲେ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ଆପଣା ମଶଲ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ବାଲାକ୍"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ଓ ଶୁଣ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "କାନ ଦିଅ"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ସିପ୍ପୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:48.479152242Z",
+  "model": "glm-5.3"
+}

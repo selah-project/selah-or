@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଏଲୋହିମ୍‌ର ଲୋକ ଶମଆୟାହୁଙ୍କ ନିକଟକୁ ଆସିଲା, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ... ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "ଶମଆୟାହୁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍‌ର"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:21:43.386362454Z",
+  "model": "glm-5.3"
+}

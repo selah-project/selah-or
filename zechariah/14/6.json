@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ସେହି ଦିନ ଏପରି ହେବ — ଆଲୋକ ହେବ ନାହିଁ, ମୂଲ୍ୟବାନ ⟨ଆଲୋକମାନ⟩ ଘନୀଭୂତ ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ଆଉ ... ହେବ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ମୂଲ୍ୟବାନ"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "ଘନୀଭୂତ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:40:29.467165279Z",
+  "model": "glm-5.3"
+}

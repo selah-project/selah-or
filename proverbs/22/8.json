@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଅନ୍ୟାୟ ବୁଣିବାଳା ବିପର୍ଯ୍ୟୟ ଅମଳ କରିବ, ଆଉ ତାହାର କ୍ରୋଧର ଦଣ୍ଡ ନଷ୍ଟ ହେବ।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "ବୁଣିବାଳା"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ଅମଳ କରିବ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ବିପର୍ଯ୍ୟୟ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ଆଉ ଦଣ୍ଡ"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "ତାହାର କ୍ରୋଧର"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "ନଷ୍ଟ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:58.413795560Z",
+  "model": "glm-5.3"
+}

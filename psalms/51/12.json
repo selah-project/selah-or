@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 51:12",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 51,
+  "translation": "ଏଲୋହିମ୍, ମୋ ଭିତରେ ଏକ ଶୁଦ୍ଧ ହୃଦୟ ସୃଷ୍ଟି କର, ଆଉ ମୋ ଭିତରେ ଏକ ଋଜୁ ରୁଆଖ୍ ନୂତନ କର।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ଶୁଦ୍ଧ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ସୃଷ୍ଟି କର"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ଭିତରେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "ଆଉ … ରୁଆଖ୍"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ଋଜୁ"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ନୂତନ କର"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "ମୋ ଭିତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:30:35.803270449Z",
+  "model": "glm-5.3"
+}

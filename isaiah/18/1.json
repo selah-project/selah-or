@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 18:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ହାୟ, ଡେଣା-ଝଙ୍କୃତ ଦେଶ, ଯିଏ କୁଶ୍‌ର ନଦୀମାନଙ୍କ ପାରିରେ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "צלצל",
+      "gloss": "ଝଙ୍କୃତ"
+    },
+    {
+      "surface": "כנפים",
+      "gloss": "ଡେଣା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "ପାରିରେ"
+    },
+    {
+      "surface": "לנהרי",
+      "gloss": "ନଦୀମାନଙ୍କ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "କୁଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T12:37:57.962187567Z",
+  "model": "glm-5.3"
+}

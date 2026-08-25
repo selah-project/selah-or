@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "deuteronomy 28:44",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ସେ ତୁମକୁ ଋଣ ଦେବ, କିନ୍ତୁ ତୁମେ ତାକୁ ଋଣ ଦେବ ନାହିଁ; ସେ ମୁଣ୍ଡ ହେବ ଏବଂ ତୁମେ ଲାଞ୍ଜ ହେବ।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ילוך",
+      "gloss": "ଋଣ ଦେବ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "କିନ୍ତୁ ତୁମେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תלונו",
+      "gloss": "ଋଣ ଦେବ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לראש",
+      "gloss": "ମୁଣ୍ଡ ହେବ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ଏବଂ ତୁମେ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לזנב",
+      "gloss": "ଲାଞ୍ଜ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:26.772038429Z",
+  "model": "glm-5.3"
+}

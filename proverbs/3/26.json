@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 3:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କାରଣ ଯାହ୍ୱେ ତୋର ଭରସା ହେବେ, ଆଉ ତୋର ପାଦକୁ ଫାନ୍ଦରୁ ରକ୍ଷା କରିବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "בכסלך",
+      "gloss": "ତୋର ଭରସାରେ"
+    },
+    {
+      "surface": "ושמר",
+      "gloss": "ଆଉ ରକ୍ଷା କରିବେ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ତୋର ପାଦ"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "ଫାନ୍ଦରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:29.802554785Z",
+  "model": "glm-5.3"
+}

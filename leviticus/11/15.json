@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "⟨את⟩ ସମସ୍ତ କାକ — ତାହାର ପ୍ରକାର ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ କାକ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "କାକ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ତାହାର ପ୍ରକାର ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:40:32.526304996Z",
+  "model": "glm-5.3"
+}

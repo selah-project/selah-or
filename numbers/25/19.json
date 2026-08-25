@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏବଂ ମହାମାରୀ ପରେ ⟨ଏହା ଘଟିଲା⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ …ଘଟିଲା"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ମହାମାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:58.070209024Z",
+  "model": "glm-5.3"
+}

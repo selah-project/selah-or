@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ମେରାରୀଙ୍କ ପୁତ୍ରଗଣ — ମାଖଲୀ ଓ ମୁଶୀ; ମାଖଲୀଙ୍କ ପୁତ୍ରଗଣ — ଏଲିଆଜାର୍ ଓ କିଶ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "ମେରାରୀଙ୍କ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ମାଖଲୀ"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "ଓ ମୁଶୀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ମାଖଲୀଙ୍କ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ଏଲିଆଜାର୍"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "ଓ କିଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:09:18.123750796Z",
+  "model": "glm-5.3"
+}

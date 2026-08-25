@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ଛେଳି-ଠେକୁଆ ପାପଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ଛେଳି-ଠେକୁଆ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳି"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:05:54.506166289Z",
+  "model": "glm-5.3"
+}

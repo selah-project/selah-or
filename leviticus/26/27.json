@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 26:27",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଯଦି ଏଥିରେ ମୋର କଥା ନ ଶୁଣ, ଏବଂ ମୋ ସହିତ ବିରୋଧରେ ଚାଲିବ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "בזאת",
+      "gloss": "ଏଥିରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର କଥା"
+    },
+    {
+      "surface": "והלכתם",
+      "gloss": "ଏବଂ ଚାଲିବ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ମୋ ସହିତ"
+    },
+    {
+      "surface": "בקרי",
+      "gloss": "ବିରୋଧରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:13.074568241Z",
+  "model": "glm-5.3"
+}

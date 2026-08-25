@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 108:13",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 108,
+  "translation": "ମୁଶ୍କିଲରୁ ଆମକୁ ସାହାଯ୍ୟ ଦିଅ, କାରଣ ମନୁଷ୍ୟର ଉଦ୍ଧାର ବ୍ୟର୍ଥ।",
+  "tokens": [
+    {
+      "surface": "הבה",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମକୁ"
+    },
+    {
+      "surface": "עזרת",
+      "gloss": "ସାହାଯ୍ୟ"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ମୁଶ୍କିଲରୁ"
+    },
+    {
+      "surface": "ושוא",
+      "gloss": "କାରଣ...ବ୍ୟର୍ଥ"
+    },
+    {
+      "surface": "תשועת",
+      "gloss": "ଉଦ୍ଧାର"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:40:42.467154608Z",
+  "model": "glm-5.3"
+}

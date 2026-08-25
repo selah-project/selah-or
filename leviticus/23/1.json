@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 23:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି ବାକ୍ୟ କଲେ, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ ବାକ୍ୟ କଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:53:18.510329631Z",
+  "model": "glm-5.3"
+}

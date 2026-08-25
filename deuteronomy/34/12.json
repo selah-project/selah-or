@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 34:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଏବଂ ସମସ୍ତ ଶକ୍ତିଶାଳୀ ହାତ ଓ ସମସ୍ତ ମହାଭୟ ସମ୍ବନ୍ଧରେ, ଯାହା ମୋଶେ ସମସ୍ତ ଇସ୍‌ରାଏଲର ଆଖି ଆଗରେ କରିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ולכל",
+      "gloss": "ଏବଂ ସମସ୍ତ"
+    },
+    {
+      "surface": "היד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "החזקה",
+      "gloss": "ଶକ୍ତିଶାଳୀ"
+    },
+    {
+      "surface": "ולכל",
+      "gloss": "ଓ ସମସ୍ତ"
+    },
+    {
+      "surface": "המורא",
+      "gloss": "ମହାଭୟ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରିଥିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ଆଖି ଆଗରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:07:23.014223303Z",
+  "model": "glm-5.3"
+}

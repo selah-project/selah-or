@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଗାଦ ଦାଉଦଙ୍କ ପାଖକୁ ଆସିଲେ ଏବଂ ତାଙ୍କୁ କହିଲେ: ଏହିପରି ଯାହ୍ୱେ କହନ୍ତି — ଗ୍ରହଣ କର ⟨ନିଜ ପାଇଁ⟩",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "ଗ୍ରହଣ କର"
+    },
+    {
+      "surface": "לך",
+      "gloss": "⟨ନିଜ ପାଇଁ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T20:07:31.098396856Z",
+  "model": "glm-5.3"
+}

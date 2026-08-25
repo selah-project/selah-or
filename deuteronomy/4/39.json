@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 4:39",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଆଜି ଜାଣିବ ଓ ଏହାକୁ ତୁମ୍ଭ ହୃଦୟକୁ ଫେରାଇବ, ଯେ ଯାହ୍ୱେ ସେ ହିଁ ସ୍ୱର୍ଗରେ ଉପରେ ଓ ପୃଥିବୀ ଉପରେ ତଳେ ଏଲୋହିମ୍ — ଅନ୍ୟ କେହି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "ଆଉ ଜାଣିବ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "ଫେରାଇବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ତୁମ୍ଭ ହୃଦୟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ ହିଁ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ସ୍ୱର୍ଗରେ"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଅନ୍ୟ କେହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:41:43.625527060Z",
+  "model": "glm-5.3"
+}

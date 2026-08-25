@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଅହୀନାଦାବ୍, ଇଦ୍ଦୋଙ୍କ ପୁତ୍ର, ମାହାନାୟିମରେ।",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "ଅହୀନାଦାବ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "ଇଦ୍ଦୋ"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "ମାହାନାୟିମରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:34:14.128375670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ଆହା! ମୁଁ କେତେ ପ୍ରେମ କରେ ତାହାର ତୋରାକୁ — ଆଖି ଦିନ ମୋର ସେ ⟨ହିଁ⟩ ଚିନ୍ତନ।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କେତେ"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "ପ୍ରେମ କରେ ମୁଁ"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "ତାହାର ତୋରା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ସେ ⟨ହିଁ⟩"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "ମୋର ଚିନ୍ତନ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:46:40.990900704Z",
+  "model": "glm-5.3"
+}

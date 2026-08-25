@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 91,
+  "translation": "ଯିଏ ଏଲ୍ ଏଲିଓନ୍‌ଙ୍କ ଆଶ୍ରୟରେ ବସେ, ସେ ଶଦ୍ଦାଇଙ୍କ ଛାଆଁରେ ରାତି କାଟେ।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ବସେ"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ଆଶ୍ରୟରେ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ଏଲ୍ ଏଲିଓନ୍"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "ଛାଆଁରେ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ଶଦ୍ଦାଇ"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "ରାତି କାଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:32:38.039076829Z",
+  "model": "glm-5.3"
+}

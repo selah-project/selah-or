@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଖି ମିଟାଉଥିବା ବ୍ୟଥା ଦିଏ, ଆଉ ଓଷ୍ଠର ମୂର୍ଖ ପଡ଼ିଯାଏ।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ମିଟାଉଥିବା"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ବ୍ୟଥା"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "ଆଉ ମୂର୍ଖ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠର"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ପଡ଼ିଯାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:07.934213524Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କ୍ରୋଧ କରିବାକୁ ତୁମ ରୁଆଖରେ ତରବର କର ନାହିଁ, କାରଣ କ୍ରୋଧ ମୂର୍ଖମାନଙ୍କ କୋଳରେ ବିଶ୍ରାମ ନିଏ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ତରବର କର"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "ତୁମ ରୁଆଖରେ"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "କ୍ରୋଧ କରିବାକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "କୋଳରେ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ବିଶ୍ରାମ ନିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:24.094059991Z",
+  "model": "glm-5.3"
+}

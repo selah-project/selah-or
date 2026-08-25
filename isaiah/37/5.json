@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 37:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଆଉ ରାଜା ହିଜକିୟାଙ୍କ ଦାସମାନେ ୟେଶାୟାହଙ୍କ ନିକଟକୁ ଆସିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "ଆଉ…ଆସିଲେ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ଦାସମାନେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "ହିଜକିୟାଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ୟେଶାୟାହଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:55:28.951811642Z",
+  "model": "glm-5.3"
+}

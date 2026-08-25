@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ସେ ତାଙ୍କ ଉପରେ ⟨את⟩ ଛାତିଫଳକ ରଖିଲେ, ଏବଂ ଛାତିଫଳକରେ ⟨את⟩ ଊରିମ୍ ଓ ⟨את⟩ ତୁମିମ୍ ରଖିଲେ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତାଙ୍କ ଉପରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଛାତିଫଳକ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ଛାତିଫଳକ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ରେ"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ଛାତିଫଳକ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଊରିମ୍"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "ଊରିମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁମିମ୍"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "ତୁମିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:31.813221538Z",
+  "model": "glm-5.3"
+}

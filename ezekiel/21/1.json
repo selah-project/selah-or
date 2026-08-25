@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ' ପାଖକୁ ଆସିଲା, କହିବାକୁ ଏମିତି।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ... ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ' ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏମିତି"
+    }
+  ],
+  "timestamp": "2026-08-25T15:12:43.317851875Z",
+  "model": "glm-5.3"
+}

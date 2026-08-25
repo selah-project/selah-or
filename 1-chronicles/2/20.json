@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଖୁର୍ ⟨את⟩ ଊରୀଙ୍କୁ ଜନ୍ମ ଦେଲେ, ଏବଂ ଊରୀ ⟨את⟩ ବେତ୍ସାଲେଲଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "ଆଉ ଖୁର୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଊରୀଙ୍କୁ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ଊରୀ"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "ଆଉ ଊରୀ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବେତ୍ସାଲେଲଙ୍କୁ"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "ବେତ୍ସାଲେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:51:05.376807567Z",
+  "model": "glm-5.3"
+}

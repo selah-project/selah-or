@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏପରି ହେଲା — ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପ୍ରତି ଆସିଲା, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏପରି ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:51:46.202618420Z",
+  "model": "glm-5.3"
+}

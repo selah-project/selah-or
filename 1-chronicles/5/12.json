@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ୟୋଏଲ୍ ⟨ଙ୍କ⟩ପ୍ରଧାନ, ଆଉ ଶାଫାମ୍ ଦ୍ୱିତୀୟ, ଆଉ ୟାନାଇ ଓ ଶାଫାତ୍ ବାଶାନ୍‌ରେ।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ୟୋଏଲ୍"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ପ୍ରଧାନ"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "ଆଉ ଶାଫାମ୍"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "ଆଉ ୟାନାଇ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "ଓ ଶାଫାତ୍"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "ବାଶାନ୍‌ରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:31.007917553Z",
+  "model": "glm-5.3"
+}

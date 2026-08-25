@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 2:9",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମନୁଷ୍ୟ ମୁଣ୍ଡ ହଲାଇଲା ଓ ପୁରୁଷ ନତ ହେଲା — ତେଣୁ ତାହାଙ୍କୁ କ୍ଷମା କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וישח",
+      "gloss": "ମୁଣ୍ଡ ହଲାଇଲା"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "וישפל",
+      "gloss": "ନତ ହେଲା"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ପୁରୁଷ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "କ୍ଷମା କର"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ତାହାଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:20:58.154014241Z",
+  "model": "glm-5.3"
+}

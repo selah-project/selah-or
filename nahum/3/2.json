@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଚାବୁକର ଶବ୍ଦ, ଓ ଚକ କମ୍ପନର ଶବ୍ଦ, ଆଉ ଛାଟାଇ ଦୌଡ଼ୁଥିବା ଅଶ୍ୱ ଓ ନାଚୁଥିବା ରଥ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ଶବ୍ଦ"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "ଚାବୁକର"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ଓ ଶବ୍ଦ"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "କମ୍ପନ"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ଚକ"
+    },
+    {
+      "surface": "וסוס",
+      "gloss": "ଆଉ ଅଶ୍ୱ"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "ଛାଟାଇ ଦୌଡ଼ୁଥିବା"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "ଓ ରଥ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "ନାଚୁଥିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:24:22.370250205Z",
+  "model": "glm-5.3"
+}

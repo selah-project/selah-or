@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 15:28",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ଯଦି ସେ ନିଜ ସ୍ରାବରୁ ଶୁଚି ହୁଏ, ତେବେ ନିଜ ପାଇଁ ସାତ ଦିନ ଗଣିବ, ଏବଂ ତାପରେ ସେ ଶୁଚି ହେବ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ଶୁଚି ହୁଏ"
+    },
+    {
+      "surface": "מזובה",
+      "gloss": "ନିଜ ସ୍ରାବରୁ"
+    },
+    {
+      "surface": "וספרה",
+      "gloss": "ଗଣିବ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ତାପରେ"
+    },
+    {
+      "surface": "תטהר",
+      "gloss": "ଶୁଚି ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:49:51.086011824Z",
+  "model": "glm-5.3"
+}

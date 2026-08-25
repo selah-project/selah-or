@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଯେପର୍ଯ୍ୟନ୍ତ ରୁପା ଦଉଡ଼ି ଦୂର ହେଉ ନାହିଁ, ସୁନା ପାତ୍ର ଭାଙ୍ଗୁ ନାହିଁ, ଝରଣା ପାଖରେ କଳସୀ ଭାଙ୍ଗୁ ନାହିଁ ଓ ଚକ କୂପ ଆଡ଼କୁ ଗଡ଼ୁ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ଯେପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "ଦୂର ହେଉ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ଦଉଡ଼ି"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ରୁପା"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "ଓ ଭାଙ୍ଗୁ"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "ପାତ୍ର"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "ଓ ଭାଙ୍ଗୁ"
+    },
+    {
+      "surface": "כד",
+      "gloss": "କଳସୀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "ଝରଣା"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "ଓ ଗଡ଼ୁ"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "ଚକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "କୂପ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:06:45.226466473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ମିଖାଙ୍କ ପୁତ୍ରମାନେ ⟨ଥିଲେ⟩ ପିଥୋନ୍, ମେଲେଖ୍ ଓ ତଖରେଆ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ …ଙ୍କ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମିଖା"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ପିଥୋନ୍"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ଓ ମେଲେଖ୍"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "ଓ ତଖରେଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:18.128095442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 39:12",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଆଉ ଇସ୍‌ରାଏଲ ଗୃହ ସେମାନଙ୍କୁ ସମାଧି ଦେବେ, ଯେପରି ⟨את⟩ ଦେଶ ଶୁଦ୍ଧ ହୁଏ — ସାତ ମାସ।",
+  "tokens": [
+    {
+      "surface": "וקברום",
+      "gloss": "ସମାଧି ଦେବେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲ"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ଯେପରି"
+    },
+    {
+      "surface": "טהר",
+      "gloss": "ଶୁଦ୍ଧ ହୁଏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦେଶ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ମାସ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:34:18.046167619Z",
+  "model": "glm-5.3"
+}

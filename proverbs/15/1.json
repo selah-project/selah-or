@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 15:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଏକ କୋମଳ ଉତ୍ତର କ୍ରୋଧକୁ ଫେରାଇ ଦିଏ, ଆଉ ଯନ୍ତ୍ରଣାଦାୟକ ଶବ୍ଦ କ୍ରୋଧକୁ ଉଠାଏ।",
+  "tokens": [
+    {
+      "surface": "מענה",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "רך",
+      "gloss": "କୋମଳ"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ଫେରାଇ ଦିଏ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଆଉ ଶବ୍ଦ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ଯନ୍ତ୍ରଣାଦାୟକ"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ଉଠାଏ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "କ୍ରୋଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:47.895645030Z",
+  "model": "glm-5.3"
+}

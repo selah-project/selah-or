@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ମୋଶେ ଇସ୍ରାଏଲର ପୁତ୍ରମାନଙ୍କ ପ୍ରତି କଥା ହେଲେ ⟨את⟩ ପେସାଖ କରିବାକୁ ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲର"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "କରିବାକୁ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "⟨את⟩ ପେସାଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:11:34.928830393Z",
+  "model": "glm-5.3"
+}

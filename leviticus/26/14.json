@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 26:14",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଯଦି ତୁମ୍ଭେମାନେ ମୋତେ ଶୁଣ ନାହାଁଁଁ ଏବଂ ଏହି ସବୁ ଆଜ୍ଞାଗୁଡ଼ିକ ⟨את⟩ କର ନାହାଁଁଁ,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାଁଁଁ"
+    },
+    {
+      "surface": "תשמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ନାହାଁଁଁ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "କର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ସବୁ ଆଜ୍ଞାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "ଆଜ୍ଞାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:58:55.532356264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ୟାନୁମ୍, ବେତ୍-ତାପୁଆଖ୍ ଓ ଅଫେକା ।",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "ୟାନୁମ୍"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ତାପୁଆଖ୍"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "ଅଫେକା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:00.080970462Z",
+  "model": "glm-5.3"
+}

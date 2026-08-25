@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ସ୍ତ୍ରୀଲୋକ ସେହି ସର୍ପକୁ କହିଲା, ଉଦ୍ୟାନର ଗଛମାନଙ୍କର ଫଳରୁ ଆମ୍ଭେମାନେ ଖାଉଛୁ,",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଆଉ କହିଲା"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ସ୍ତ୍ରୀଲୋକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ସେହି ସର୍ପ"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "ଫଳରୁ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ଗଛ"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ଉଦ୍ୟାନର"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "ଆମ୍ଭେମାନେ ଖାଉଛୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:35.318052345Z",
+  "model": "glm-5.3"
+}

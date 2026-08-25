@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 47:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "ଉଠିଗଲେ ଏଲୋହିମ୍ ଜୟଧ୍ୱନି ସହିତ, ଯାହ୍ୱେ ଶିଙ୍ଗାର ଶବ୍ଦ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "ଉଠିଗଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "בתרועה",
+      "gloss": "ଜୟଧ୍ୱନି ସହିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "ଶବ୍ଦ ସହିତ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ଶିଙ୍ଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:07:03.159932360Z",
+  "model": "glm-5.3"
+}

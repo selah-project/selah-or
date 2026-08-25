@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 14:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ହସିବାରେ ମଧ୍ୟ ହୃଦୟ ପୀଡ଼ିତ ହୁଏ, ଆଉ ତାହାର ଶେଷରେ ଆନନ୍ଦ ଦୁଃଖ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "בשחוק",
+      "gloss": "ହସିବାରେ"
+    },
+    {
+      "surface": "יכאב",
+      "gloss": "ପୀଡ଼ିତ ହୁଏ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "ଆଉ ତାହାର ଶେଷରେ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "תוגה",
+      "gloss": "ଦୁଃଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:58.848718464Z",
+  "model": "glm-5.3"
+}

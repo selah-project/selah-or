@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ହାରିମଙ୍କ ପାଇଁ ଅଦନା; ମେରାୟୋତଙ୍କ ପାଇଁ ହେଲ୍କାଇ।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ହାରିମଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "ଅଦନା"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "ମେରାୟୋତଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ହେଲ୍କାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:30.892685121Z",
+  "model": "glm-5.3"
+}

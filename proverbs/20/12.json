@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଶୁଣୁଥିବା କାନ ଓ ଦେଖୁଥିବା ଆଖି — ଉଭୟ ଯାହ୍ୱେ କରିଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "କାନ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ଶୁଣୁଥିବା"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ଓ ଆଖି"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖୁଥିବା"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରିଛନ୍ତି"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ଉଭୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:28.163462815Z",
+  "model": "glm-5.3"
+}

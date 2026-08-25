@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 27:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଓ ତା' ମାଆ ତାକୁ କହିଲେ, „ମୋ' ଉପରେ ତୋ' ଅଭିଶାପ ରହୁ, ମୋ' ପୁଅ; କେବଳ ମୋ' ବାକ୍ୟ ଶୁଣ ଆଉ ଯାଇ ମୋ' ପାଇଁ ଆଣ।\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାକୁ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ତା' ମାଆ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ' ଉପରେ"
+    },
+    {
+      "surface": "קללתך",
+      "gloss": "ତୋ' ଅଭିଶାପ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋ' ପୁଅ"
+    },
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "ମୋ' ବାକ୍ୟ"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "ଆଉ ଯାଅ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ଆଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ' ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:37:08.985083645Z",
+  "model": "glm-5.3"
+}

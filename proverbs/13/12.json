@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 13:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଟାଣି ହୋଇଯାଇଥିବା ଆଶା ହୃଦୟକୁ ରୋଗୀ କରେ, ଆଉ ଆସୁଥିବା କାମନା ଜୀବନବୃକ୍ଷ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "ଆଶା"
+    },
+    {
+      "surface": "ממשכה",
+      "gloss": "ଟାଣି ହୋଇଯାଇଥିବା"
+    },
+    {
+      "surface": "מחלה",
+      "gloss": "ରୋଗୀ କରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    },
+    {
+      "surface": "ועץ",
+      "gloss": "ଆଉ ବୃକ୍ଷ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "କାମନା"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ଆସୁଥିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:16.596315825Z",
+  "model": "glm-5.3"
+}

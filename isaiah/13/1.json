@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ବାଭେଲ୍‌ର ଭାର — ଯାହା ଦେଖିଲେ ୟଶାୟାହୁ, ଆମୋତ୍‌ର ପୁତ୍ର ।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ଭାର"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ବାଭେଲ୍‌ର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ଦେଖିଲେ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "ୟଶାୟାହୁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "ଆମୋତ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T12:31:04.716075950Z",
+  "model": "glm-5.3"
+}

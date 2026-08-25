@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 16:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଯାହ୍ୱେ — ମୋର ଅଂଶର ମାପ ଓ ମୋର ପାତ୍ର; ତୁମ୍ଭେ ମୋର ଗୋରୋଳକୁ ଧରି ରଖୁଛ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ଅଂଶର ମାପ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ମୋର ଅଂଶ"
+    },
+    {
+      "surface": "וכוסי",
+      "gloss": "ଓ ମୋର ପାତ୍ର"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "תומיך",
+      "gloss": "ଧରି ରଖୁଛ"
+    },
+    {
+      "surface": "גורלי",
+      "gloss": "ମୋର ଗୋରୋଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:48:54.482927593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 22:18",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ପଶୁ ସହିତ ଶୋଇଉଥିବା ପ୍ରତ୍ୟେକ ⟨ବ୍ୟକ୍ତି⟩ ନିଶ୍ଚୟ ମୃତ୍ୟୁଦଣ୍ଡ ପାଇବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ଶୋଇଉଥିବା"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁଦଣ୍ଡ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ନିଶ୍ଚୟ ପାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:17:11.686169234Z",
+  "model": "glm-5.3"
+}

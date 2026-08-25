@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 11:5",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ⟨את⟩ ଶାଫାନ୍ — କାରଣ ସେ ପାଚି ଉଠାଏ, କିନ୍ତୁ ଖୁରା ଫାଡ଼େ ନାହିଁ; ସେ ତୁମ୍ଭ ପାଇଁ ଅଶୁଚି।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଶାଫାନ୍"
+    },
+    {
+      "surface": "השפן",
+      "gloss": "ଶାଫାନ୍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "ଉଠାଏ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ପାଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "ଖୁରା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יפריס",
+      "gloss": "ଫାଡ଼େ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:42:42.837896793Z",
+  "model": "glm-5.3"
+}

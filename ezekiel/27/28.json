@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezekiel 27:28",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ତୁମ ନାବିକମାନଙ୍କ ଚିତ୍କାରର ଶବ୍ଦରେ କମ୍ପିଉଠିବ ଉପକଣ୍ଠ।",
+  "tokens": [
+    {
+      "surface": "לקול",
+      "gloss": "ଶବ୍ଦରେ"
+    },
+    {
+      "surface": "זעקת",
+      "gloss": "ଚିତ୍କାର"
+    },
+    {
+      "surface": "חבליך",
+      "gloss": "ନାବିକମାନଙ୍କ"
+    },
+    {
+      "surface": "ירעשו",
+      "gloss": "କମ୍ପିଉଠିବ"
+    },
+    {
+      "surface": "מגרשות",
+      "gloss": "ଉପକଣ୍ଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:23:52.689738252Z",
+  "model": "glm-5.3"
+}

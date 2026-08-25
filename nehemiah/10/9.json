@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମାଆଜ୍‌ୟାହ୍, ବିଲ୍‌ଗାଇ, ଶେମାଆଯାହ୍ — ଏହି କୋହେନ୍‌ମାନେ।",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "ମାଆଜ୍‌ୟାହ୍"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "ବିଲ୍‌ଗାଇ"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ଶେମାଆଯାହ୍"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "କୋହେନ୍‌ମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:06.696312369Z",
+  "model": "glm-5.3"
+}

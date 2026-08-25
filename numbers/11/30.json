@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବଂ ମୋଶେ ଶିବିରକୁ ଫେରିଗଲେ — ସେ ଏବଂ ଯିସ୍ରାଏଲର ପରିଚ୍ଛାନ୍ତମାନେ।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "ଫେରିଗଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ଶିବିର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "ଏବଂ ପରିଚ୍ଛାନ୍ତମାନେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଯିସ୍ରାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:15:26.541679826Z",
+  "model": "glm-5.3"
+}

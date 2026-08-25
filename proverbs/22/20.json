@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 22:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ମୁଁ କ'ଣ ତୁମ୍ଭ ପାଇଁ ଉପଦେଶ ଓ ଜ୍ଞାନରେ ତିନିଥର ଲେଖି ନାହିଁ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "କ'ଣ ନାହିଁ"
+    },
+    {
+      "surface": "כתבתי",
+      "gloss": "ଲେଖି ନାହିଁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": "ତିନିଥର"
+    },
+    {
+      "surface": "במועצת",
+      "gloss": "ଉପଦେଶରେ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଓ ଜ୍ଞାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:41.581261041Z",
+  "model": "glm-5.3"
+}

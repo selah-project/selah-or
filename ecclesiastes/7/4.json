@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜ୍ଞାନୀମାନଙ୍କର ହୃଦୟ ଶୋକ-ଗୃହରେ, ଆଉ ମୂର୍ଖମାନଙ୍କର ହୃଦୟ ଆନନ୍ଦ-ଗୃହରେ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ଜ୍ଞାନୀମାନଙ୍କର"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଗୃହରେ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ଶୋକ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ଆଉ ହୃଦୟ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କର"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଗୃହରେ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:13.839344929Z",
+  "model": "glm-5.3"
+}

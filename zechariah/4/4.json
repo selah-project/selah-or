@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 4:4",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ମୁଁ ଉତ୍ତର ଦେଲି ଓ ସେହି ଦୂତଙ୍କୁ, ଯିଏ ମୋଠାରେ କହୁଥିଲେ, କହିଲି: ଏଗୁଡ଼ିକ କଣ, ମୋର ଅଦୋନି?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ଉତ୍ତର ଦେଲି"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "କହିଲି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ସେହି ଦୂତ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କହୁଥିଲେ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋଠାରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ମୋର ଅଦୋନି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:27:19.087028261Z",
+  "model": "glm-5.3"
+}

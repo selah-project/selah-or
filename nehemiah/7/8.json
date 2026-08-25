@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 7:8",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ପାରୋଶର ପୁତ୍ରମାନେ — ଦୁଇ ହଜାର ଏକ ଶହ ବାହାତର ଦୁଇ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ପାରୋଶ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଶହ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ବାହାତର"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:42:59.769288596Z",
+  "model": "glm-5.3"
+}

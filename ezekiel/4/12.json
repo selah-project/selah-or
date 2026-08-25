@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 4:12",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯବ ରୁଟି ଖାଇବ ଏବଂ ତାହା ମଣିଷର ମଳ ଦଳାରେ ସେମାନଙ୍କ ଆଖି ଆଗରେ ପାଚିବ।",
+  "tokens": [
+    {
+      "surface": "ועגת",
+      "gloss": "ଆଉ ରୁଟି"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ଯବର"
+    },
+    {
+      "surface": "תאכלנה",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "ଏବଂ ତାହା"
+    },
+    {
+      "surface": "בגללי",
+      "gloss": "ମଳ ଦଳାରେ"
+    },
+    {
+      "surface": "צאת",
+      "gloss": "ମଳ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "תעגנה",
+      "gloss": "ପାଚିବ"
+    },
+    {
+      "surface": "לעיניהם",
+      "gloss": "ସେମାନଙ୍କ ଆଖି ଆଗରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:51:23.178238220Z",
+  "model": "glm-5.3"
+}

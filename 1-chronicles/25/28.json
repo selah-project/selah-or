@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 25:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏକ-ବିଂଶତମ ହୋତିର୍‌ର — ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଟି।",
+  "tokens": [
+    {
+      "surface": "לאחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ବିଂଶତମ"
+    },
+    {
+      "surface": "להותיר",
+      "gloss": "ହୋତିର୍‌ର"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:07.352358014Z",
+  "model": "glm-5.3"
+}

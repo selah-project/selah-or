@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ବକ୍ର ହୃଦୟବିଶିଷ୍ଟ ⟨ବ୍ୟକ୍ତି⟩ ମଙ୍ଗଳ ପାଏ ନାହିଁ, ଆଉ ଯିଏ ନିଜ ଜିଭରେ ଓଲଟା କଥା କହେ, ସେ ଅନର୍ଥରେ ପଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "ବକ୍ର"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ପାଏ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ଓଲଟା"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "ନିଜ ଜିଭରେ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ପଡ଼େ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "ଅନର୍ଥରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:07.409071779Z",
+  "model": "glm-5.3"
+}

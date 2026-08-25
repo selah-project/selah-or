@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 17:1",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଓ ଏକ ଜଣ ଲୋକ ଏଫ୍ରାୟିମ୍ ପର୍ବତରୁ ଥିଲା, ଆଉ ତାହାର ନାମ ମୀଖାୟହୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଥିଲା"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଏକ ଜଣ ଲୋକ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ପର୍ବତରୁ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ଏଫ୍ରାୟିମ୍"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ଆଉ ତାହାର ନାମ"
+    },
+    {
+      "surface": "מיכיהו",
+      "gloss": "ମୀଖାୟହୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:42:14.887227848Z",
+  "model": "glm-5.3"
+}

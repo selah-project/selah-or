@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଅବିଶୁଆ ⟨את⟩ ବୁକ୍କିଙ୍କୁ ଜନ୍ମ ଦେଲେ, ବୁକ୍କି ⟨את⟩ ଉଜ୍ଜିଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "ଅବିଶୁଆ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବୁକ୍କିଙ୍କୁ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ବୁକ୍କି"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "ବୁକ୍କି"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଉଜ୍ଜିଙ୍କୁ"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ଉଜ୍ଜି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:06.408774149Z",
+  "model": "glm-5.3"
+}

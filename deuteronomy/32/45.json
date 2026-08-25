@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ମୋଶେ ଇସ୍ରାଏଲର ସମସ୍ତ ଲୋକଙ୍କ ନିକଟରେ ⟨את⟩ ଏହି ସମସ୍ତ ବାକ୍ୟଗୁଡ଼ିକ କହିବା ସମାପ୍ତ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ସମାପ୍ତ କଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "କହିବା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ବାକ୍ୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ବାକ୍ୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:55.249137335Z",
+  "model": "glm-5.3"
+}

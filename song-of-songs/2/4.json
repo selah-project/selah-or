@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସେ ମୋତେ ଦ୍ରାକ୍ଷାରସ ଗୃହକୁ ଆଣିଲେ, ଆଉ ⟨ମୋଉପରେ⟩ ପ୍ରେମ ଭାବରେ ତାଙ୍କର ଧ୍ୱଜା ଉଡ༼ିଲା।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "ସେ ମୋତେ ଆଣିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ଦ୍ରାକ୍ଷାରସ"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "ଆଉ ତାଙ୍କର ଧ୍ୱଜା"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "⟨ମୋଉପରେ⟩"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ପ୍ରେମ ଭାବରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:47:14.309942882Z",
+  "model": "glm-5.3"
+}

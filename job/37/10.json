@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 37:10",
+  "book": "job",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଏଲ୍‌ର ଶ୍ୱାସରୁ ବରଫ ଦିଆଯାଏ, ଏବଂ ଜଳର ପ୍ରସାର ଘନୀଭୂତ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "מנשמת",
+      "gloss": "ଶ୍ୱାସରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଆଯାଏ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "ବରଫ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଏବଂ ପ୍ରସାର"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳର"
+    },
+    {
+      "surface": "במוצק",
+      "gloss": "ଘନୀଭୂତ ହେବାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:40:30.215637618Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 15:16",
+  "book": "job",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆହୁତି ଅଧିକ — ଘୃଣିତ ଓ ଅଶୁଚି ମଣିଷ, ଯିଏ ଅନ୍ୟାୟକୁ ଜଳ ପରି ପାନ କରେ!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ଆହୁତି ଅଧିକ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "נתעב",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "ונאלח",
+      "gloss": "ଓ ଅଶୁଚି"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ପାନ କରେ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ଜଳ ପରି"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ଅନ୍ୟାୟକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:30:07.733259629Z",
+  "model": "glm-5.3"
+}

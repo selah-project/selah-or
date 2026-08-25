@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 37:32",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଦୁଷ୍ଟ ଧାର୍ମିକକୁ ଚୋରିରେ ଦେଖେ ଓ ତାକୁ ବଧ କରିବାକୁ ଖୋଜେ।",
+  "tokens": [
+    {
+      "surface": "צופה",
+      "gloss": "ଚୋରିରେ ଦେଖେ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ଧାର୍ମିକକୁ"
+    },
+    {
+      "surface": "ומבקש",
+      "gloss": "ଓ ଖୋଜେ"
+    },
+    {
+      "surface": "להמיתו",
+      "gloss": "ତାକୁ ବଧ କରିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:02:58.148432827Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଦ୍ୱାର ତାହାର କବଜା ଉପରେ ଘୂରେ, ଆଉ ଆଳସୀ ତାହାର ଖଟ ଉପରେ ⟨ଘୂରେ⟩।",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "ଘୂରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "ତାହାର କବଜା"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "ଆଉ ଆଳସୀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ତାହାର ଖଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.051041694Z",
+  "model": "glm-5.3"
+}

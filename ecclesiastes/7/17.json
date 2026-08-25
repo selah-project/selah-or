@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅତି ଅଧର୍ମ କର ନାହିଁ, ଆଉ ମୂର୍ଖ ହୁଅ ନାହିଁ — ତୁମର ସମୟ ପୂର୍ବରୁ କାହିଁକି ମରିବ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "ଅଧର୍ମ କର"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ହୁଅ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ମରିବ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ନ ଥାଇ"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "ତୁମର ସମୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:33.746568572Z",
+  "model": "glm-5.3"
+}

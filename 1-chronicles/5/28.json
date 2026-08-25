@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 5:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ କେହାତଙ୍କ ପୁତ୍ରଗଣ — ଅମ୍ରାମ୍, ୟିତ୍ସହାର୍, ଖେବ୍ରୋନ୍ ଓ ଉଜିଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ ... ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତଙ୍କ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ଅମ୍ରାମ୍"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ୟିତ୍ସହାର୍"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ଖେବ୍ରୋନ୍"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ଓ ଉଜିଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:00.794075556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଯିହୂଦାର ପୁତ୍ରମାନେ — ଢାଲ ଓ କଣ୍ଟାଶୂଳ ଧାରଣକାରୀ — ଛହ ହଜାର ଆଠଶହ, ସୈନ୍ୟବାହିନୀ ପାଇଁ ସଜ୍ଜିତ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦାର"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ଧାରଣକାରୀ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ଢାଲ"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "ଓ କଣ୍ଟାଶୂଳ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ଛହ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ଆଠଶହ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ସଜ୍ଜିତ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ସୈନ୍ୟବାହିନୀ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:25.203163450Z",
+  "model": "glm-5.3"
+}

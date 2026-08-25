@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 14:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ମଣିଷ, ନାରୀରୁ ଜାତ, ଅଳ୍ପ ଦିନର ଏବଂ ଅଶାନ୍ତିରେ ପରିପୂର୍ଣ୍ଣ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "ילוד",
+      "gloss": "ଜାତ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ନାରୀରୁ"
+    },
+    {
+      "surface": "קצר",
+      "gloss": "ଅଳ୍ପ ଦିନର"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଏବଂ ପରିପୂର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "רגז",
+      "gloss": "ଅଶାନ୍ତିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:27:34.500469678Z",
+  "model": "glm-5.3"
+}

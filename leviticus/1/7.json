@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 1:7",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ ୟାଜକ ଆହାରୋନଙ୍କ ପୁତ୍ରମାନେ ୟଜ୍ଞବେଦୀ ଉପରେ ଅଗ୍ନି ରଖିବେ ଓ ଅଗ୍ନି ଉପରେ କାଠ ସଜାଇବେ।",
+  "tokens": [
+    {
+      "surface": "ונתנו",
+      "gloss": "ଓ ରଖିବେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଆହାରୋନ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ୟାଜକ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ୟଜ୍ଞବେଦୀ"
+    },
+    {
+      "surface": "וערכו",
+      "gloss": "ଓ ସଜାଇବେ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ଅଗ୍ନି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:35:04.462501329Z",
+  "model": "glm-5.3"
+}

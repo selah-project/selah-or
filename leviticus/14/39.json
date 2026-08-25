@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "leviticus 14:39",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାଜକ ସପ୍ତମ ଦିନରେ ଫେରିବେ ଓ ଦେଖିବେ, ଏବଂ ଦେଖ, ମହାମାରୀ ଘରର କାନ୍ଥରେ ବ୍ୟାପିଯାଇଛି ।",
+  "tokens": [
+    {
+      "surface": "ושב",
+      "gloss": "ଓ ଫେରିବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ସପ୍ତମ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଓ ଦେଖିବେ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଏବଂ ଦେଖ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ବ୍ୟାପିଯାଇଛି"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ମହାମାରୀ"
+    },
+    {
+      "surface": "בקירת",
+      "gloss": "କାନ୍ଥରେ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘରର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:45.704677729Z",
+  "model": "glm-5.3"
+}

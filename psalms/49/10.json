@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ଯେ ସେ ଯୁଗାନ୍ତ ପର୍ଯ୍ୟନ୍ତ ତ ବଞ୍ଚିବ, ଗର୍ତ୍ତକୁ ଦେଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ଯେ ସେ ବଞ୍ଚିବ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ତ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ଯୁଗାନ୍ତ ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଦେଖିବ"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "ଗର୍ତ୍ତକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:08:20.744305960Z",
+  "model": "glm-5.3"
+}

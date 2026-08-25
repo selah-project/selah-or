@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ପ୍ରତ୍ୟେକ ଶୁଚି ପକ୍ଷୀ ତୁମ୍ଭେମାନେ ଖାଇପାରିବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ଶୁଚି"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ତୁମ୍ଭେମାନେ ଖାଇପାରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:53.881332024Z",
+  "model": "glm-5.3"
+}

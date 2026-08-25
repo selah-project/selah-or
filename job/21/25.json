@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 21:25",
+  "book": "job",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଏହି ଜଣକ ତିକ୍ତ ନେଫେଶ୍‌ରେ ମରେ, ଆଉ ଶୁଭରେ ଖାଏ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ଆଉ ଏହି ଜଣକ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ମରେ"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "ନେଫେଶ୍‌ରେ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ତିକ୍ତ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଏ"
+    },
+    {
+      "surface": "בטובה",
+      "gloss": "ଶୁଭରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:34:15.517786769Z",
+  "model": "glm-5.3"
+}

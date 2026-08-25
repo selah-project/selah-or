@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "କାରଣ ଯାହ୍ୱେ ଏଲିୟୋନ୍ ଭୟଜନକ, ସମଗ୍ର ପୃଥିବୀ ଉପରେ ମହାନ ରାଜା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ଏଲିୟୋନ୍ (ସର୍ବୋଚ୍ଚ)"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ଭୟଜନକ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:08:58.554111415Z",
+  "model": "glm-5.3"
+}

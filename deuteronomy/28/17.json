@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଅଭିଶାପିତ ତାର ଝୁଡ଼ି ଓ ତାର ମଣ୍ଡା-ପାତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶାପିତ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ତାର ଝୁଡ଼ି"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ଓ ତାର ମଣ୍ଡା-ପାତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:01:51.953111581Z",
+  "model": "glm-5.3"
+}

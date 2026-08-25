@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯାଜକ ଆସି ଦେଖିବେ, ଆଉ ଦେଖ, କ୍ଷତ ଘରରେ ମାଡ଼ିଯାଇଛି — ଏହା ଘରରେ ଏକ ମାରାତ୍ମକ ଯକ୍ଷ୍ମା; ଏହା ଅଶୁଚି।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ଆସିବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଦେଖିବେ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ମାଡ଼ିଯାଇଛି"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "କ୍ଷତ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଘରରେ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ଯକ୍ଷ୍ମା"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "ମାରାତ୍ମକ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଘରରେ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:25.692698813Z",
+  "model": "glm-5.3"
+}

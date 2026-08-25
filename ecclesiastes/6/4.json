@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 6:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ସେ ହେବେଲ୍‌ରେ ଆସେ ଓ ଅନ୍ଧାରରେ ଯାଏ, ଏବଂ ଅନ୍ଧାରରେ ତାହାର ନାମ ଢଙ୍କାଯାଏ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "בהבל",
+      "gloss": "ହେବେଲ୍‌ରେ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସେ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ଓ ଅନ୍ଧାରରେ"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "ଯାଏ"
+    },
+    {
+      "surface": "ובחשך",
+      "gloss": "ଏବଂ ଅନ୍ଧାରରେ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତାହାର ନାମ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ଢଙ୍କାଯାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:00.483229358Z",
+  "model": "glm-5.3"
+}

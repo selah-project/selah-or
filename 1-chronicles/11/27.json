@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଶାମ୍ମୋତ୍ ହାରୋରୀ; ହେଲେତ୍ସ ପେଲୋନୀ।",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ଶାମ୍ମୋତ୍"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ହାରୋରୀ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ହେଲେତ୍ସ"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ପେଲୋନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:53.201308054Z",
+  "model": "glm-5.3"
+}

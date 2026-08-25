@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 21:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଯାହ୍ୱେ ଦୂତଙ୍କୁ କହିଲେ, ଏବଂ ⟨ସେ⟩ ତାହାର ଖଣ୍ଡା ମ୍ୟାନକୁ ଫେରାଇଲା।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "למלאך",
+      "gloss": "ଦୂତଙ୍କୁ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ଫେରାଇଲା"
+    },
+    {
+      "surface": "חרבו",
+      "gloss": "ତାହାର ଖଣ୍ଡା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "נדנה",
+      "gloss": "ମ୍ୟାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:05:07.865946588Z",
+  "model": "glm-5.3"
+}

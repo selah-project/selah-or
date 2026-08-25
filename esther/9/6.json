@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଶୂଶନ ଦୁର୍ଗରେ ଯିହୁଦୀମାନେ ପାଞ୍ଚଶହ ପୁରୁଷଙ୍କୁ ବଧ ଓ ନାଶ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "ଆଉ ଶୂଶନ...ରେ"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "ବଧ କଲେ"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "ଯିହୁଦୀମାନେ"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "ଓ ନାଶ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ପୁରୁଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:09:29.374752835Z",
+  "model": "glm-5.3"
+}

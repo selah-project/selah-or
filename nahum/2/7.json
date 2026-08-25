@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନଦୀଗୁଡ଼ିକର ଦ୍ୱାରସବୁ ଖୋଲିଗଲା, ଓ ପ୍ରାସାଦ ତରଳିଗଲା।",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "ଦ୍ୱାରସବୁ"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "ନଦୀଗୁଡ଼ିକର"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "ଖୋଲିଗଲା"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "ଓ ପ୍ରାସାଦ"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "ତରଳିଗଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:22:13.342742950Z",
+  "model": "glm-5.3"
+}

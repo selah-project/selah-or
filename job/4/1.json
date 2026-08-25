@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଏଲୀଫଜ୍ ତେମାନୀୟ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଆଉ … ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ଏଲୀଫଜ୍"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ତେମାନୀୟ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:20:23.406662560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 25:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଅଧିକ ମହୁ ଖାଇବା ଉତ୍ତମ ନୁହେଁ, ଆଉ ସେମାନଙ୍କ ମହିମାର ଅନୁସନ୍ଧାନ ⟨ମହିମା ନୁହେଁ⟩।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଇବା"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ମହୁ"
+    },
+    {
+      "surface": "הרבות",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "וחקר",
+      "gloss": "ଓ ଅନୁସନ୍ଧାନ"
+    },
+    {
+      "surface": "כבדם",
+      "gloss": "ସେମାନଙ୍କ ମହିମା"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.068752550Z",
+  "model": "glm-5.3"
+}

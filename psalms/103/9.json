@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 103,
+  "translation": "ସଦା ସେ ବିବାଦ କରିବେ ନାହିଁ, ଆଉ ଅନନ୍ତକାଳ ଧରି ନିଜ କ୍ରୋଧ ରଖିବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ସଦା"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ବିବାଦ କରିବେ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ଅନନ୍ତକାଳ"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "ଧରି ରଖିବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:32:32.270552242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ଚାରି ବିଶାଳ ଜୀବ ସାଗରରୁ ଉଠିଲେ, ଜଣେ ଅନ୍ୟଜଣଙ୍କଠାରୁ ଭିନ୍ନ।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "ଓ ଚାରି"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "ଜୀବ"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ବିଶାଳ"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ଉଠିଲେ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ସାଗର"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ଭିନ୍ନ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ଅନ୍ୟଜଣଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:24:02.169621021Z",
+  "model": "glm-5.3"
+}

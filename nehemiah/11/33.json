@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହାତ୍ସୋର୍, ରାମା, ଗିତ୍ତାୟିମ୍।",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ହାତ୍ସୋର୍"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "ରାମା"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "ଗିତ୍ତାୟିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:59.420821343Z",
+  "model": "glm-5.3"
+}

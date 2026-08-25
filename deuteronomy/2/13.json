@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 2:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବେ ଉଠ ଓ ଯାଅ, ତୁମ୍ଭମାନଙ୍କ ପାଇଁ ⟨את⟩ ଜାରେଦ୍ ନଦୀ ପାର ହୁଅ; ଆଉ ଆମ୍ଭେ ⟨את⟩ ଜାରେଦ୍ ନଦୀ ପାର ହେଲୁ।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "קמו",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "ועברו",
+      "gloss": "ଓ ପାର ହୁଅ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜାରେଦ୍ ନଦୀ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ନଦୀ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ଜାରେଦ୍"
+    },
+    {
+      "surface": "ונעבר",
+      "gloss": "ଓ ଆମ୍ଭେ ପାର ହେଲୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜାରେଦ୍ ନଦୀ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ନଦୀ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ଜାରେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:09.851852077Z",
+  "model": "glm-5.3"
+}

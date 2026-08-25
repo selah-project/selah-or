@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ତୁମେ ତୁମ ହୃଦୟର ଚର୍ମାବରଣ ⟨את⟩ ପରିଛନ୍ନ କର, ଆଉ ତୁମ କଣ୍ଠକୁ ଆଉ ଦୃଢ଼ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "ଆଉ ତୁମେ ... ପରିଛନ୍ନ କର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଚର୍ମାବରଣ"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "ଚର୍ମାବରଣ"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "ତୁମ ହୃଦୟର"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "ଆଉ ତୁମ କଣ୍ଠକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "ଦୃଢ଼ କର"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:43:44.019124750Z",
+  "model": "glm-5.3"
+}

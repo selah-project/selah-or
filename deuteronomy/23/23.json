@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ଯଦି ତୁ ବ୍ରତ କରିବାରୁ ବିରତ ରୁହ, ତୋଠାରେ ପାପ ହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "ତୁ…ବିରତ ରୁହ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "ବ୍ରତ କରିବାରୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ତୋଠାରେ"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "ପାପ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:33.866771885Z",
+  "model": "glm-5.3"
+}

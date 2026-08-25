@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 17:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଦୁଷ୍କର୍ମକାରୀ ବନ୍ଧନରୁ ଘୂଷ ନିଏ, ନ୍ୟାୟର ପଥ ବକ୍ର କରିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "שחד",
+      "gloss": "ଘୂଷ"
+    },
+    {
+      "surface": "מחיק",
+      "gloss": "ବକ୍ଷରୁ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍କର୍ମକାରୀ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନିଏ"
+    },
+    {
+      "surface": "להטות",
+      "gloss": "ବକ୍ର କରିବାକୁ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ନ୍ୟାୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:51.694867829Z",
+  "model": "glm-5.3"
+}

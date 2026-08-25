@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 83:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 83,
+  "translation": "ସେମାନେ ଏନ୍-ଦୋରଠାରେ ନଷ୍ଟ ହେଲେ; ସେମାନେ ଭୂମି ପାଇଁ ଖତ ପରି ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "נשמדו",
+      "gloss": "ନଷ୍ଟ ହେଲେ"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "ଏନ୍-ଠାରେ"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "ଦୋର"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "דמן",
+      "gloss": "ଖତ ପରି"
+    },
+    {
+      "surface": "לאדמה",
+      "gloss": "ଭୂମି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:27:05.613618923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 14:28",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ପ୍ରଜାର ବହୁଳତାରେ ରାଜାଙ୍କ ମହିମା, ଆଉ ଜାତିର ଅଭାବରେ ଅଭିଜାତଙ୍କ ବିନାଶ।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ବହୁଳତାରେ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜାର"
+    },
+    {
+      "surface": "הדרת",
+      "gloss": "ମହିମା"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "ובאפס",
+      "gloss": "ଆଉ ଅଭାବରେ"
+    },
+    {
+      "surface": "לאם",
+      "gloss": "ଜାତିର"
+    },
+    {
+      "surface": "מחתת",
+      "gloss": "ବିନାଶ"
+    },
+    {
+      "surface": "רזון",
+      "gloss": "ଅଭିଜାତଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:10.898119037Z",
+  "model": "glm-5.3"
+}

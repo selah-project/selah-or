@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 8:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ମୁଁ ହିକମତି — ବିବେକ ସହ ବାସ କରେ, ଆଉ ଚତୁର ଉପାୟର ଜ୍ଞାନ ପାଏ ଆସେ ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ହିକମତି"
+    },
+    {
+      "surface": "שכנתי",
+      "gloss": "ବାସ କରେ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ବିବେକ ସହ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଆଉ ... ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ଚତୁର ଉପାୟର"
+    },
+    {
+      "surface": "אמצא",
+      "gloss": "ପାଏ ଆସେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:30.336743050Z",
+  "model": "glm-5.3"
+}

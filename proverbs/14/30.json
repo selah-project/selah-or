@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 14:30",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ମାଂସର ଜୀବନ ⟨ଅଟେ⟩ ଉପଚାରୀ ହୃଦୟ, ଆଉ ଅସ୍ଥିର କ୍ଷୟ ⟨ଅଟେ⟩ ଈର୍ଷା।",
+  "tokens": [
+    {
+      "surface": "חיי",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ମାଂସ (ଶରୀର)"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ଉପଚାରୀ (ସୁସ୍ଥ)"
+    },
+    {
+      "surface": "ורקב",
+      "gloss": "ଆଉ କ୍ଷୟ (ପଚା)"
+    },
+    {
+      "surface": "עצמות",
+      "gloss": "ଅସ୍ଥି"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ଈର୍ଷା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:17.632237292Z",
+  "model": "glm-5.3"
+}

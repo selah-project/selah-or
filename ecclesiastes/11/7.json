@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ମିଠା ଅଟେ ⟨ଏହା⟩ ଆଲୋକ, ଆଉ ଆଖିମାନଙ୍କ ପାଇଁ ଭଲ ଦେଖିବାକୁ ⟨את⟩ ସୂର୍ଯ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "ଆଉ ମିଠା"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "ଆଉ ଭଲ"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "ଆଖିମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ଦେଖିବାକୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:05:24.327704071Z",
+  "model": "glm-5.3"
+}

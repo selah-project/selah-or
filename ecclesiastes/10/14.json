@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ମୂର୍ଖ ବହୁ କଥା ବଢ଼ାଏ — ମଣିଷ ଜାଣେ ନାହିଁ କଣ ହେବ, ଆଉ ତା' ପରେ କଣ ହେବ, କିଏ ତାହାକୁ କହିବ?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "ଆଉ ମୂର୍ଖ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ବଢ଼ାଏ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ବହୁ କଥା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ଆଉ ଯାହା"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "ତା' ପରେ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:19.628572728Z",
+  "model": "glm-5.3"
+}

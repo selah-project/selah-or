@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 6:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ମୋ ପ୍ରାଣ ଅତିଶୟ କମ୍ପିତ; ଆଉ ତୁମେ, ଯାହ୍ୱେ, ⟨କେତେ ଦିନ ପର୍ଯ୍ୟନ୍ତ⟩?",
+  "tokens": [
+    {
+      "surface": "ונפשי",
+      "gloss": "ଆଉ ମୋ ପ୍ରାଣ"
+    },
+    {
+      "surface": "נבהלה",
+      "gloss": "କମ୍ପିତ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତିଶୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ତୁମେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "⟨ପର୍ଯ୍ୟନ୍ତ⟩"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "କେତେ ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:43:30.575050471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଦୁଷ୍ଟମାନେ ଏପରି ନୁହନ୍ତି, ବରଂ ⟨are⟩ ତରକାଳୀ ପରି, ଯାହାକୁ ପବନ ଉଡ଼ାଇ ନେଏ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନୁହନ୍ତି"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "ଦୁଷ୍ଟମାନେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "ତରକାଳୀ ପରି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାକୁ"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "ଉଡ଼ାଇ ନେଏ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ପବନ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:44:25.988570923Z",
+  "model": "glm-5.3"
+}

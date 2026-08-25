@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ପୁନୋନରୁ ଯାତ୍ରା କଲେ, ଓ ଓବୋତରେ ଡେରା ପକାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "ପୁନୋନରୁ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଡେରା ପକାଇଲେ"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ଓବୋତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:14.715448594Z",
+  "model": "glm-5.3"
+}

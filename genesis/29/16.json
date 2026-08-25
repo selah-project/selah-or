@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଆଉ ଲାବାନ୍‌ଙ୍କର ଦୁଇ ଝିଅ ଥିଲେ; ବଡ଼ ଝିଅର ନାମ ଲେଆ, ଆଉ ସାନ ଝିଅର ନାମ ରାଖେଲ୍।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "ଆଉ ଲାବାନ୍‌ଙ୍କର"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ବଡ଼ (ଝିଅ)ର"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ଲେଆ"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ଆଉ ନାମ"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ସାନ (ଝିଅ)ର"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ରାଖେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:38:15.934303273Z",
+  "model": "glm-5.3"
+}

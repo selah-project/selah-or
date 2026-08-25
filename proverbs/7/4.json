@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 7:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜ୍ଞାନକୁ କହ 'ତୁ ମୋର ଭଉଣୀ', ଆଉ ବିବେକକୁ ତୁହାର ଆତ୍ମୀୟା ବୋଲି ଡାକ ।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "କହ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ଜ୍ଞାନକୁ"
+    },
+    {
+      "surface": "אחותי",
+      "gloss": "ମୋର ଭଉଣୀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ତୁ ⟨ଆତ୍⟩"
+    },
+    {
+      "surface": "ומודע",
+      "gloss": "ଆଉ ଆତ୍ମୀୟାକୁ"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ବିବେକକୁ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ଡାକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:31.537453834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ସେଠାରୁ ସେମାନେ ଯାତ୍ରା କଲେ ଏବଂ ଜେରେଦର ଉପତ୍ୟକାରେ ଶିବିର ପାତିଲେ।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "ସେଠାରୁ"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଏବଂ ଶିବିର ପାତିଲେ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ଜେରେଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:20:07.737807767Z",
+  "model": "glm-5.3"
+}

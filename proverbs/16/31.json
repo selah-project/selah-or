@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ମହିମାର ମୁକୁଟ ⟨ଅଟେ⟩ ବାର୍ଦ୍ଧକ୍ୟ; ଧାର୍ମିକତାର ପଥରେ ତାହା ଲଭିତ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "ମୁକୁଟ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "ମହିମାର"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ବାର୍ଦ୍ଧକ୍ୟ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ଧାର୍ମିକତାର"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ଲଭିତ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:07.394166344Z",
+  "model": "glm-5.3"
+}

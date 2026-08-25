@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 10:8",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମେଶୁଲ୍ଲାମ୍, ଅବିୟା, ମିୟାମିନ୍।",
+  "tokens": [
+    {
+      "surface": "משלם",
+      "gloss": "ମେଶୁଲ୍ଲାମ୍"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ଅବିୟା"
+    },
+    {
+      "surface": "מימן",
+      "gloss": "ମିୟାମିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:09.716401126Z",
+  "model": "glm-5.3"
+}

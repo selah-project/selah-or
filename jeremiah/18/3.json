@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 18:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଆଉ ମୁଁ କୁମ୍ଭାରର ଘରକୁ ଓହ୍ଲାଇ ଗଲି, ଆଉ ଦେଖ — ସେ ଚକ ଉପରେ ଏକ କାର୍ଯ୍ୟ କରୁଥିଲା —",
+  "tokens": [
+    {
+      "surface": "וארד",
+      "gloss": "ଆଉ ମୁଁ ଓହ୍ଲାଇ ଗଲି"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘରକୁ"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "କୁମ୍ଭାରର"
+    },
+    {
+      "surface": "והנהו",
+      "gloss": "ଆଉ ଦେଖ ସେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରୁଥିଲା"
+    },
+    {
+      "surface": "מלאכה",
+      "gloss": "ଏକ କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ଚକ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:55:13.351966148Z",
+  "model": "glm-5.3"
+}

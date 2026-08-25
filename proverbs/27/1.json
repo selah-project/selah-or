@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଗାମୀ ଦିନ ବିଷୟରେ ଗର୍ବ କର ନାହିଁ, କାରଣ ତୁମେ ଜାଣ ନାହିଁ ଦିନ ⟨କଅଣ⟩ ଜନ୍ମ କରିବ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "ଗର୍ବ କର"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନ ବିଷୟରେ"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "ଆଗାମୀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ତୁମେ ଜାଣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨କଅଣ⟩"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ କରିବ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:49.909296473Z",
+  "model": "glm-5.3"
+}

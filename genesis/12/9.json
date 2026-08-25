@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 12:9",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଭ୍ରାମ୍ ଯାତ୍ରା କଲେ, ଚାଲି ଚାଲି ଯାତ୍ରା କରି ନେଗେଭ ଆଡ଼କୁ।",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ଆଭ୍ରାମ୍"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ଚାଲି"
+    },
+    {
+      "surface": "ונסוע",
+      "gloss": "ଓ ଯାତ୍ରା କରି"
+    },
+    {
+      "surface": "הנגבה",
+      "gloss": "ନେଗେଭ ଆଡ଼କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:29.679770879Z",
+  "model": "glm-5.3"
+}

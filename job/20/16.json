@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 20:16",
+  "book": "job",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଏପଣିମାନଙ୍କ ବିଷ ସେ ଶୋଷିବ — ଅଜଗରର ଜିଭ ତାହାକୁ ବଧ କରିବ।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "ବିଷ"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "ଏପଣିମାନଙ୍କ"
+    },
+    {
+      "surface": "יינק",
+      "gloss": "ଶୋଷିବ"
+    },
+    {
+      "surface": "תהרגהו",
+      "gloss": "ବଧ କରିବ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭ"
+    },
+    {
+      "surface": "אפעה",
+      "gloss": "ଅଜଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:33:27.675165487Z",
+  "model": "glm-5.3"
+}

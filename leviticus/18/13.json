@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ତୁମର ମାଆଙ୍କ ଭଉଣୀର ନଗ୍ନତା ଉନ୍ମୋଚନ କରିବ ନାହିଁ; କାରଣ ସେ ତୁମର ମାଆଙ୍କ ମାଂସ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ନଗ୍ନତା"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ଭଉଣୀ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ତୁମର ମାଆଙ୍କ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ଉନ୍ମୋଚନ କରିବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "ତୁମର ମାଆଙ୍କ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:27.902052005Z",
+  "model": "glm-5.3"
+}

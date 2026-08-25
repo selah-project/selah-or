@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ମୁଁ ଉତ୍ତର ଦେଲି ଓ ମୋ ସହିତ କହୁଥିବା ମାଲାଖଙ୍କୁ କହିଲି — ⟨ଏ⟩ ⟨ମାନେ⟩ କଣ, ମୋର ଅଧିପତି?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "ମୁଁ ଉତ୍ତର ଦେଲି"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଓ କହିଲି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କ ପାଖକୁ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ମାଲାଖଙ୍କୁ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କହୁଥିବା"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋ ସହିତ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "⟨ଏ⟩ ⟨ମାନେ⟩"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ମୋର ଅଧିପତି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:27:33.463452701Z",
+  "model": "glm-5.3"
+}

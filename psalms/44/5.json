@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 44:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଆପଣ ହିଁ ⟨ତାହା⟩ ମୋର ରାଜା, ଏଲୋହିମ୍; ଯାକୋବର ଉଦ୍ଧାର ଆଦେଶ ଦିଅନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ତାହା⟩ ହିଁ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ମୋର ରାଜା"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଦେଶ ଦିଅନ୍ତୁ"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "ଉଦ୍ଧାର"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ଯାକୋବର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:52.040991989Z",
+  "model": "glm-5.3"
+}

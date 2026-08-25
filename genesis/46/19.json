@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ରାଖେଲଙ୍କ — ୟାକୋଭଙ୍କ ପତ୍ନୀଙ୍କ — ପୁତ୍ରମାନେ: ୟୋସେଫ୍ ଓ ବିନୟାମିନ୍ ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ରାଖେଲ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ପତ୍ନୀ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ୍"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ବିନୟାମିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:53:48.890933284Z",
+  "model": "glm-5.3"
+}

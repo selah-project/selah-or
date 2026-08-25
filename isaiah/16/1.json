@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 16:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଭୂମିର ଶାସକଙ୍କ ପାଇଁ ମେମ୍ନା ପଠାଅ, ସେଲାରୁ ମରୁଭୂମି ଆଡ଼କୁ, ଜିୟନ କନ୍ୟାର ପର୍ବତ ପାଖକୁ।",
+  "tokens": [
+    {
+      "surface": "שלחו",
+      "gloss": "ପଠାଅ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "ମେମ୍ନା"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ଶାସକଙ୍କ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଭୂମିର"
+    },
+    {
+      "surface": "מסלע",
+      "gloss": "ସେଲାରୁ"
+    },
+    {
+      "surface": "מדברה",
+      "gloss": "ମରୁଭୂମି ଆଡ଼କୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟାର"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ଜିୟନ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:37:42.878272756Z",
+  "model": "glm-5.3"
+}

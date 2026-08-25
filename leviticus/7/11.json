@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ⟨ଏହା⟩ ହେଉଛି ଶାନ୍ତି-ଆର୍ପଣର ବିଧି, ଯାହା ଜଣେ ଯାହ୍ୱେଙ୍କ ନିକଟକୁ ଆଣିବ।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ଆଉ ଏହା"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ବିଧି"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ବଳି"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "ଶାନ୍ତି-ଆର୍ପଣର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ଜଣେ ନିକଟକୁ ଆଣିବ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:47.112049090Z",
+  "model": "glm-5.3"
+}

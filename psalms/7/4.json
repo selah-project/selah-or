@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ହେ ୟାହ୍ୱେ, ମୋର ଏଲୋହିମ୍, ଯଦି ମୁଁ ⟨ଏହା⟩ କଲି, ଯଦି ମୋର ହାତରେ ଅନ୍ୟାୟ ⟨ଅଛି⟩ —",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ୟାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ମୋର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "କଲି"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨ଏହା⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨ଅଛି⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "ମୋର ହାତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:42:32.387624844Z",
+  "model": "glm-5.3"
+}

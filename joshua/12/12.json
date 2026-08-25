@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "joshua 12:12",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଏଗ୍ଲୋନର ରାଜା, ଜଣେ; ଗେଜେରର ରାଜା, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "עגלון",
+      "gloss": "ଏଗ୍ଲୋନ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ଗେଜେର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:38.549089291Z",
+  "model": "glm-5.3"
+}

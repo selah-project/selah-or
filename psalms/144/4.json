@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 144:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 144,
+  "translation": "ମଣିଷ ଶ୍ୱାସ ସଦୃଶ; ତାହାର ଦିନଗୁଡ଼ିକ ବିତିଯାଉଥିବା ଛାୟା ପରି।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "להבל",
+      "gloss": "ଶ୍ୱାସ ସଦୃଶ"
+    },
+    {
+      "surface": "דמה",
+      "gloss": "ସଦୃଶ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ତାହାର ଦିନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ଛାୟା ପରି"
+    },
+    {
+      "surface": "עובר",
+      "gloss": "ବିତିଯାଉଥିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:54:39.567650462Z",
+  "model": "glm-5.3"
+}

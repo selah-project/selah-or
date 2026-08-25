@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 74:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 74,
+  "translation": "ଯେପରି ଉପରକୁ ଆଣିବାଳିଆ ଘନ ଜଙ୍ଗଲରେ କାଠ କୁହାଡ଼ା — ଜଣାପଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "יודע",
+      "gloss": "ଜଣାପଡ଼େ"
+    },
+    {
+      "surface": "כמביא",
+      "gloss": "ଯେପରି ଆଣିବାଳିଆ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "בסבך",
+      "gloss": "ଘନ ଜଙ୍ଗଲରେ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "קרדמות",
+      "gloss": "କୁହାଡ଼ା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:23:53.878047149Z",
+  "model": "glm-5.3"
+}

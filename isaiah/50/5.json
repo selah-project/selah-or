@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 50,
+  "translation": "ଅଦୋନାଇ ଯାହ୍ୱେ ମୋ' କାନ ଖୋଲିଲେ, ଆଉ ମୁଁ ବିଦ୍ରୋହ କଲି ନାହିଁ, ପଛକୁ ମୁଁ ଫେରିଲି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ଖୋଲିଲେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ' ପାଇଁ"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "କାନ"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ଆଉ ମୁଁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "ବିଦ୍ରୋହ କଲି"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ପଛକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "ଫେରିଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:13:18.206201598Z",
+  "model": "glm-5.3"
+}

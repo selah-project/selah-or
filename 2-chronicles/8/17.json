@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ତେବେ ଶଲୋମୋ ଏତ୍ସ୍ୟୋନ୍-ଗେବର ଏବଂ ଏଲୋତ୍‌କୁ, ସମୁଦ୍ର କୂଳରେ, ଏଦୋମ୍ ଦେଶରେ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋ"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "ଏତ୍ସ୍ୟୋନ୍‌କୁ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-ଗେବର"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଏବଂ ...କୁ"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "ଏଲୋତ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "କୂଳ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:19:48.682956193Z",
+  "model": "glm-5.3"
+}

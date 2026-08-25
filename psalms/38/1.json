@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 38:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଦାଉଦଙ୍କ ଗୀତ, ସ୍ମରଣ କରିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "להזכיר",
+      "gloss": "ସ୍ମରଣ କରିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:04:25.475464027Z",
+  "model": "glm-5.3"
+}

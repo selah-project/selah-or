@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ଅନେକ ବିଷୟ ଅଛି ଯାହା ହେବେଲକୁ ବଢ଼ାଏ; ମଣିଷ ପାଇଁ ଅତିରିକ୍ତ କଣ ⟨ଅଛି⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ବିଷୟ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ବଢ଼ାଏ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲକୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ଅତିରିକ୍ତ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମଣିଷ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:28.738526024Z",
+  "model": "glm-5.3"
+}

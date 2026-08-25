@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 1:23",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସେମାନଙ୍କ ଗଣନା ଶିମଓନ୍ ଗୋଷ୍ଠୀ ପାଇଁ — ଉଣାପଣତି ହଜାର ଓ ତିନିଶହ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ସେମାନଙ୍କ ଗଣନା"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ଶିମଓନ୍"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ଓ ପଚାଶ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ଓ ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:02:30.023472073Z",
+  "model": "glm-5.3"
+}

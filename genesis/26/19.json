@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଖୋଳିଲେ ଦାସମାନେ ଇସ୍‌ହାକଙ୍କ ଉପତ୍ୟକାରେ, ଓ ପାଇଲେ ସେଠାରେ ଏକ କୂପ ଜୀବନ୍ତ ଜଳର।",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "ଖୋଳିଲେ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ଦାସମାନେ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ଇସ୍‌ହାକଙ୍କ"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "ପାଇଲେ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ଏକ କୂପ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:35:16.817647887Z",
+  "model": "glm-5.3"
+}

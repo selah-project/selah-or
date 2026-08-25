@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "amos 7:6",
+  "book": "amos",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏହା ଉପରେ ଯାହ୍ୱେ ମନ ବଦଳାଇଲେ; ଏହା ମଧ୍ୟ ହେବ ନାହିଁ, ଅଦୋନାଇ ଯାହ୍ୱେ କହନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ମନ ବଦଳାଇଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହନ୍ତି"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:26:13.804856945Z",
+  "model": "glm-5.3"
+}

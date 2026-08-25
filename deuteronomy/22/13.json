@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଯଦି ଜଣେ ପୁରୁଷ ଜଣେ ସ୍ତ୍ରୀକୁ ବିବାହ କରେ, ଓ ତା' ପାଖକୁ ପ୍ରବେଶ କରେ, ଓ ତାକୁ ଘୃଣା କରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ବିବାହ କରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ପୁରୁଷ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ଜଣେ ସ୍ତ୍ରୀକୁ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ଓ ପ୍ରବେଶ କରେ"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "ତା' ପାଖକୁ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "ଓ ତାକୁ ଘୃଣା କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:58:11.522065007Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ତେଣୁ ମୋଶେ ୟାରଦେନର ଅତଳରେ ସୂର୍ଯ୍ୟୋଦୟ ଆଡ଼କୁ ତିନି ନଗର ପୃଥକ୍ କଲେ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "ପୃଥକ୍ କଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "ଅତଳରେ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ୟାରଦେନର"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ସୂର୍ଯ୍ୟୋଦୟ ଆଡ଼କୁ"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:41:09.784971273Z",
+  "model": "glm-5.3"
+}

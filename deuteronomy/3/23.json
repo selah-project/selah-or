@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ମୁଁ ସେହି ସମୟରେ ଯାହ୍ୱେଙ୍କ ନିକଟରେ ପ୍ରାର୍ଥନା କଲି, କହି —",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "ପ୍ରାର୍ଥନା କଲି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:54.487310060Z",
+  "model": "glm-5.3"
+}

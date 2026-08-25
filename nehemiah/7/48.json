@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଲେବନାର ପୁତ୍ରମାନେ, ହଗାବାର ପୁତ୍ରମାନେ, ଶଲ୍ମାଇ୍‌ର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ଲେବନା"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ହଗାବା"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ଶଲ୍ମାଇ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:08.392429960Z",
+  "model": "glm-5.3"
+}

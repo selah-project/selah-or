@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ଇଯ୍ୟୋବ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇଯ୍ୟୋବ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:31:26.415165099Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଯିଗାଲ୍ ନାତାନଙ୍କ ପୁତ୍ର, ତ୍ସୋବାରୁ; ବାନି ⟨ଟି⟩ ଗାଦୀ।",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "ଯିଗାଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ନାତାନଙ୍କ"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "ତ୍ସୋବାରୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ବାନି"
+    },
+    {
+      "surface": "הגדי",
+      "gloss": "ଗାଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:40.026155298Z",
+  "model": "glm-5.3"
+}

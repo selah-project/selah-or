@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଦାଉଦ ସେଠାରେ ଆରନନଙ୍କୁ ସ୍ଥାନ ପାଇଁ ଓଜନରେ ଛଅ ଶହ ଶେକେଲ୍ ସୁନା ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ଦେଲେ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦ"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "ଆରନନଙ୍କୁ"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ସ୍ଥାନ ପାଇଁ"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "ଶେକେଲ୍"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ଓଜନରେ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:05:07.865564098Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 12:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ଧୂଳି ଯେପରି ଥିଲା ସେପରି ପୃଥିବୀରେ ଫେରିବ, ଆଉ ରୁଆଖ୍ ଯିଏ ତାହା ଦେଇଥିଲେ ସେହି ଏଲୋହିମ୍‌ଙ୍କ ପାଖକୁ ଫେରିବ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଓ ଫେରିବ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "כשהיה",
+      "gloss": "ଯେପରି ଥିଲା"
+    },
+    {
+      "surface": "והרוח",
+      "gloss": "ଆଉ ରୁଆଖ୍"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ଫେରିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ଦେଇଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:06:45.226606838Z",
+  "model": "glm-5.3"
+}

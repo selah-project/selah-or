@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-kings 11:39",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ମୁଁ ଏହା ହେତୁ ଦାଭିଦର ବଂଶକୁ ⟨את⟩ ଦଣ୍ଡ ଦେବି — କିନ୍ତୁ ସବୁ ଦିନ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "ואענה",
+      "gloss": "ଦଣ୍ଡ ଦେବି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦାଭିଦର ବଂଶକୁ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଭିଦର"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ହେତୁ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "אך",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:47:12.257105695Z",
+  "model": "glm-5.3"
+}

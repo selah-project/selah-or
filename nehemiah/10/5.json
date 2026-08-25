@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଖାତ୍ତୁଶ୍, ଶେବାନ୍ୟା, ମାଲ୍ଲୁଖ୍।",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ଖାତ୍ତୁଶ୍"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "ଶେବାନ୍ୟା"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ମାଲ୍ଲୁଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:09.715914488Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 43:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ଆଉ ⟨את⟩ ତୁମ୍ହାର ଭାଇଙ୍କୁ ନିଅ, ଉଠ ଓ ସେହି ଲୋକ ପାଖକୁ ଫେରିଯାଅ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ତୁମ୍ହାର ଭାଇଙ୍କୁ"
+    },
+    {
+      "surface": "אחיכם",
+      "gloss": "ତୁମ୍ହାର ଭାଇ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "ନିଅ"
+    },
+    {
+      "surface": "וקומו",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ଫେରିଯାଅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ସେହି ଲୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:52:48.108845560Z",
+  "model": "glm-5.3"
+}

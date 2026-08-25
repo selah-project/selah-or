@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 24:1",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଓ ଦାଉଦ୍ ସେଠାରୁ ଉପରକୁ ଉଠି ଏନ୍-ଗେଦୀର ଦୁର୍ଗମାନଙ୍କରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ଉପରକୁ ଉଠିଲେ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଉଦ୍"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ସେଠାରୁ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "במצדות",
+      "gloss": "ଦୁର୍ଗମାନଙ୍କରେ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଏନ୍-"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ଗେଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:06:06.855068625Z",
+  "model": "glm-5.3"
+}

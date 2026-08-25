@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଚତୁର ମନୁଷ୍ୟ ଜ୍ଞାନ ଢାଙ୍କେ; ଆଉ ମୂର୍ଖମାନଙ୍କ ହୃଦୟ ମୂର୍ଖତା ପ୍ରଚାର କରେ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ଚତୁର"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ଢାଙ୍କେ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ଆଉ ହୃଦୟ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ପ୍ରଚାର କରେ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ମୂର୍ଖତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:41.113465239Z",
+  "model": "glm-5.3"
+}

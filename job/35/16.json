@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 35:16",
+  "book": "job",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଆଉ ଇଯ୍ୟୋବ ବୃଥାରେ ନିଜ ମୁଖ ଖୋଲେ, ଜ୍ଞାନ ବିନା କଥା ବଢ଼ାଏ।",
+  "tokens": [
+    {
+      "surface": "ואיוב",
+      "gloss": "ଆଉ ଇଯ୍ୟୋବ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ବୃଥାରେ"
+    },
+    {
+      "surface": "יפצה",
+      "gloss": "ଖୋଲେ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ନିଜ ମୁଖ"
+    },
+    {
+      "surface": "בבלי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מלין",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "יכבר",
+      "gloss": "ବଢ଼ାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:41:17.762533851Z",
+  "model": "glm-5.3"
+}

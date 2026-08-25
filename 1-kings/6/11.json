@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 6:11",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଶଲୋମୋଙ୍କ ପାଖକୁ ଆସିଲା, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ … ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… ପାଖକୁ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:06:22.791219988Z",
+  "model": "glm-5.3"
+}

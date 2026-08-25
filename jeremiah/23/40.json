@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "jeremiah 23:40",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ମୁଁ ତୁମ୍ଭ ଉପରେ ଅନନ୍ତ ନିନ୍ଦା ଓ ଅନନ୍ତ ଲଜ୍ଜା ଆଣିବି, ଯାହା ଭୁଲିହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ונתתי",
+      "gloss": "ଆଉ ମୁଁ ଆଣିବି"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ତୁମ୍ଭ ଉପରେ"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "ନିନ୍ଦା"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ଅନନ୍ତ"
+    },
+    {
+      "surface": "וכלמות",
+      "gloss": "ଓ ଲଜ୍ଜା"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ଅନନ୍ତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ଭୁଲିହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:00:46.480009409Z",
+  "model": "glm-5.3"
+}

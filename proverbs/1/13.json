@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 1:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସମସ୍ତ ମୂଲବାନ ଧନ ମିଳିବ, ଆମର ଘରଗୁଡ଼ିକୁ ଲୁଣ୍ଠନରେ ପରିପୂର୍ଣ କରିବା ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ମୂଲବାନ"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "ମିଳିବ"
+    },
+    {
+      "surface": "נמלא",
+      "gloss": "ପରିପୂର୍ଣ କରିବା"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ଆମର ଘରଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ଲୁଣ୍ଠନ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:10.658506211Z",
+  "model": "glm-5.3"
+}

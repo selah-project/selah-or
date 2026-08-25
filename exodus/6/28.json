@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏବଂ ଘଟିଲା — ଯେଉଁ ଦିନ ଯାହ୍ୱେ ମିଶ୍ର ଦେଶରେ ମୋଶେଙ୍କ ସହ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ଘଟିଲା"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଯେଉଁ ଦିନ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ଙ୍କ ସହ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:00:38.963347585Z",
+  "model": "glm-5.3"
+}

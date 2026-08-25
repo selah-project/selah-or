@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 10:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ସେ ତାହାର ହୃଦୟରେ କହେ — ମୁଁ କେବେ ହଲାଇବି ନାହିଁ, ପିଢ଼ିରୁ ପିଢ଼ି ମୁଁ ଦୁଃଖରେ ପଡ଼ିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "בלבו",
+      "gloss": "ତାହାର ହୃଦୟରେ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אמוט",
+      "gloss": "ହଲାଇବି"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ପିଢ଼ିରୁ"
+    },
+    {
+      "surface": "ודר",
+      "gloss": "ପିଢ଼ି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେ ମୁଁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ଦୁଃଖରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:49:10.689888578Z",
+  "model": "glm-5.3"
+}

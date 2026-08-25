@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-kings 7:44",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏବଂ ⟨את⟩ ଏକ ସମୁଦ୍ର, ଏବଂ ⟨את⟩ ବଳଦ ବାରଟି ସମୁଦ୍ର ତଳେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ବଳଦ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:39:09.239413903Z",
+  "model": "glm-5.3"
+}

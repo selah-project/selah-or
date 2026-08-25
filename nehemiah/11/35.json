@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଲୋଦ୍, ଓ ଓନୋ, କାରିଗରମାନଙ୍କ ଉପତ୍ୟକା।",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "ଲୋଦ୍"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ଓ ଓନୋ"
+    },
+    {
+      "surface": "גי",
+      "gloss": "ଉପତ୍ୟକା"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "କାରିଗରମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:59.421175378Z",
+  "model": "glm-5.3"
+}

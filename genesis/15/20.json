@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 15:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ହିତ୍ତୀୟଙ୍କୁ ⟨את⟩, ପ୍ରିଜ୍ଜୀୟଙ୍କୁ ⟨את⟩ ଓ ରେଫାଈମଙ୍କୁ ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ହିତ୍ତୀୟ"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ହିତ୍ତୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ପ୍ରିଜ୍ଜୀୟ"
+    },
+    {
+      "surface": "הפרזי",
+      "gloss": "ପ୍ରିଜ୍ଜୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ରେଫାଈମ"
+    },
+    {
+      "surface": "הרפאים",
+      "gloss": "ରେଫାଈମ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:25:43.977495018Z",
+  "model": "glm-5.3"
+}

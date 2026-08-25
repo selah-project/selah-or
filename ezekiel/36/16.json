@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ପୁଣି ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ' ନିକଟକୁ ଆସିଲା, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ପୁଣି ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ' ନିକଟକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:24:38.134715065Z",
+  "model": "glm-5.3"
+}

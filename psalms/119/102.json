@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 102,
+  "ref": "psalms 119:102",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ତୋର ବିଧାନରୁ ମୁଁ ଭାଙ୍ଗି ନାହିଁ, କାରଣ ତୁହି ମୋତେ ଶିଖାଇଅଛୁ।",
+  "tokens": [
+    {
+      "surface": "ממשפטיך",
+      "gloss": "ତୋର ବିଧାନରୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "סרתי",
+      "gloss": "ଭାଙ୍ଗି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁହି"
+    },
+    {
+      "surface": "הורתני",
+      "gloss": "ଶିଖାଇଅଛୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:46:26.380507844Z",
+  "model": "glm-5.3"
+}

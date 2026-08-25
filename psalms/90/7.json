@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 90:7",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 90,
+  "translation": "କାରଣ ତୁମ କ୍ରୋଧରେ ଆମେ ନାଶ ହେଲୁ; ତୁମ ଉଗ୍ରତାରେ ଆମେ ଥରିଗଲୁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כלינו",
+      "gloss": "ନାଶ ହେଲୁ"
+    },
+    {
+      "surface": "באפך",
+      "gloss": "ତୁମ କ୍ରୋଧରେ"
+    },
+    {
+      "surface": "ובחמתך",
+      "gloss": "ଓ ତୁମ ଉଗ୍ରତାରେ"
+    },
+    {
+      "surface": "נבהלנו",
+      "gloss": "ଥରିଗଲୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:32:46.713855470Z",
+  "model": "glm-5.3"
+}

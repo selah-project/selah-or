@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ସେହି ସମୟରେ ରାଜା ଅହାଜ୍ ଆଶ୍ଶୁର୍ ରାଜାମାନଙ୍କ ପାଖକୁ ତାହାଙ୍କୁ ସାହାଯ୍ୟ କରିବାକୁ ପଠାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ପଠାଇଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "ଅହାଜ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ରାଜାମାନଙ୍କ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ଆଶ୍ଶୁର୍"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "ସାହାଯ୍ୟ କରିବାକୁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:37:04.062544727Z",
+  "model": "glm-5.3"
+}

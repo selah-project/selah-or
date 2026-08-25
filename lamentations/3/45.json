@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଫେଙ୍କ-ଜଳ ଓ ଘୃଣିତ ଆବର୍ଜନା ଆପଣ ଆମକୁ ଜାତିମାନଙ୍କ ମଧ୍ୟରେ କରିଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "ଫେଙ୍କ-ଜଳ"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "ଓ ଘୃଣିତ ଆବର୍ଜନା"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "ଆପଣ ଆମକୁ କରିଅଛନ୍ତି"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ଜାତିମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:20.565052241Z",
+  "model": "glm-5.3"
+}

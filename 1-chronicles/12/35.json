@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ନାଫତାଲୀରୁ ହଜାର ସରଦାର, ଆଉ ସେମାନଙ୍କ ସହିତ ଢାଲ ଓ ଭାଲ ଧରି ସାଇତିଶହ୍ ହଜାର।",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "ଆଉ ନାଫତାଲୀରୁ"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "ସରଦାର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "ଆଉ ସେମାନଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "ଢାଲ ସହିତ"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "ଓ ଭାଲ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶହ୍"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ଓ ସାତ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:38.764686726Z",
+  "model": "glm-5.3"
+}

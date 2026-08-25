@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏତ୍ସରର ପୁତ୍ରମାନେ — ବିଲହାନ୍, ଜାଭାନ୍ ଓ ୟାକାନ୍; ଦିଶୋନର ପୁତ୍ରମାନେ — ଉତ୍ସ ଓ ଅରାନ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ଏତ୍ସରର"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ବିଲହାନ୍"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ଜାଭାନ୍"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "ୟାକାନ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "ଦିଶୋନର"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ଉତ୍ସ"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ଓ ଅରାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:54.196654439Z",
+  "model": "glm-5.3"
+}

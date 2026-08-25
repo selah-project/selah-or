@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବେବାଇର ପୁତ୍ରମାନେ — ଛଅଶହେ ଆଠାଶି।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ବେବାଇ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:31.164913507Z",
+  "model": "glm-5.3"
+}

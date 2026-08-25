@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ମୁଁ ଫେରି ଆସିଲି ଓ ସୂର୍ଯ୍ୟତଳେ ହେବେଲ୍‌କୁ ଦେଖିଲି।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "ଫେରି ଆସିଲି"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ଓ ଦେଖିଲି"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:53.518042653Z",
+  "model": "glm-5.3"
+}

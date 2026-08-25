@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଓ ଜଣେ ଲୋକ ଯଦି ⟨ତାହାର⟩ ସହଚରକୁ କୌଣସି ଆଘାତ ଦିଏ, ଯାହା ସେ କରିଛି ସେହିପରି ତାହାକୁ କରାଯିବ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ଓ ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ଆଘାତ"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "ତାହାର ସହଚରକୁ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ସେ କରିଛି"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେହିପରି"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରାଯିବ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:57:15.714559299Z",
+  "model": "glm-5.3"
+}

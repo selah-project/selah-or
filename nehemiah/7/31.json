@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ମିଖମାସ୍‌ର ⟨ଲୋକମାନେ⟩ — ଶହେ, କୋଡ଼ିଏ ଓ ଦୁଇ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "ମିଖମାସ୍"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ କୋଡ଼ିଏ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଓ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:35.212825085Z",
+  "model": "glm-5.3"
+}

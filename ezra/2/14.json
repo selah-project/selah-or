@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବିଗ୍‌ୱାଇଙ୍କ ପୁତ୍ରମାନେ — ଦୁଇ ହଜାର, ପଚାଶ ଓ ଛଅ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ବିଗ୍‌ୱାଇଙ୍କ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ଓ ଛଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:45.734908757Z",
+  "model": "glm-5.3"
+}

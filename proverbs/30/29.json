@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 30:29",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ତିନି ଜଣ ⟨ସନ୍ତେ⟩ ଚାଳନାରେ ସୁନ୍ଦର, ଆଉ ଚାରି ଜଣ ଚାଲିବାରେ ସୁନ୍ଦର।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ସନ୍ତେ⟩"
+    },
+    {
+      "surface": "מיטיבי",
+      "gloss": "ସୁନ୍ଦର କରନ୍ତି"
+    },
+    {
+      "surface": "צעד",
+      "gloss": "ଚାଳନା"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଆଉ ଚାରି"
+    },
+    {
+      "surface": "מיטבי",
+      "gloss": "ସୁନ୍ଦର କରନ୍ତି"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ଚାଲିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:50.593882696Z",
+  "model": "glm-5.3"
+}

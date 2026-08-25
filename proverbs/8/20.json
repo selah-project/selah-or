@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 8:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଧାର୍ମିକତାର ପଥରେ ମୁଁ ଚାଲିଅଛି, ନ୍ୟାୟର ପଥଗୁଡ଼ିକ ମଧ୍ୟରେ।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ଧାର୍ମିକତାର"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ମୁଁ ଚାଲିଅଛି"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "נתיבות",
+      "gloss": "ପଥଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ନ୍ୟାୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:24.599653138Z",
+  "model": "glm-5.3"
+}

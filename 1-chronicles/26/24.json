@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 26:24",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଓ ଶେବୁଏଲ୍ — ଗେର୍ଶୋମର ପୁତ୍ର, ମୋଶେଙ୍କ ପୁତ୍ର — ଭଣ୍ଡାରଗୁଡ଼ିକ ଉପରେ ଅଧ୍ୟକ୍ଷ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ו�שבאל",
+      "gloss": "ଓ ଶେବୁଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ଗେର୍ଶୋମର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ଅଧ୍ୟକ୍ଷ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "האনות",
+      "gloss": "ଭଣ୍ଡାରଗୁଡ଼ିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:11:31.433855236Z",
+  "model": "glm-5.3"
+}

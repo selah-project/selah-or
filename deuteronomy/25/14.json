@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତୋ' ଘରେ ଗୋଟିଏ ଏଇଫା ଓ ଗୋଟିଏ ଏଇଫା — ବଡ଼ ଓ ଛୋଟ — ରହିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ରହିବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋ' ପାଖରେ"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "ତୋ' ଘରେ"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ଗୋଟିଏ ଏଇଫା"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ଓ ଗୋଟିଏ ଏଇଫା"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ଓ ଛୋଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:59.605450104Z",
+  "model": "glm-5.3"
+}

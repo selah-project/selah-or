@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 103,
+  "translation": "ଦୟାଳୁ ଓ ଅନୁଗ୍ରହୀ ଯାହ୍ୱେ, କ୍ରୋଧରେ ଧୀର, ଏବଂ ଖେସେଦ୍‌ରେ ପ୍ରଚୁର।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ଦୟାଳୁ"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "ଓ ଅନୁଗ୍ରହୀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ଧୀର"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "କ୍ରୋଧରେ"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "ଏବଂ ପ୍ରଚୁର"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ଖେସେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:35:38.655097386Z",
+  "model": "glm-5.3"
+}

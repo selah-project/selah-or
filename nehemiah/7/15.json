@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 7:15",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବିନ୍ନୂର ପୁତ୍ରମାନେ — ଛଅଶହେ ଆଠଚାଳିଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בנוי",
+      "gloss": "ବିନ୍ନୂ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:31.164769574Z",
+  "model": "glm-5.3"
+}

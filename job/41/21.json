@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 41:21",
+  "book": "job",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଖଳା ପରି ଗଣାଯାଏ ମୁଗୁର; ବର୍ଛାର ଝଙ୍କାର ଉପରେ ⟨ସେ⟩ ହସେ।",
+  "tokens": [
+    {
+      "surface": "כקש",
+      "gloss": "ଖଳା ପରି"
+    },
+    {
+      "surface": "נחשבו",
+      "gloss": "ଗଣାଯାଏ"
+    },
+    {
+      "surface": "תותח",
+      "gloss": "ମୁଗୁର"
+    },
+    {
+      "surface": "וישחק",
+      "gloss": "ହସେ"
+    },
+    {
+      "surface": "לרעש",
+      "gloss": "ଝଙ୍କାର ଉପରେ"
+    },
+    {
+      "surface": "כידון",
+      "gloss": "ବର୍ଛା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:46.661300620Z",
+  "model": "glm-5.3"
+}

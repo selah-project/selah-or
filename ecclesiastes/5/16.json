@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ସମସ୍ତ ଦିନ ସେ ଅନ୍ଧାରରେ ଖାଏ, ଏବଂ ଅତ୍ୟଧିକ ବ୍ୟାକୁଳତା ଏବଂ ତାହାର ରୋଗ ଓ କ୍ରୋଧ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "ଅନ୍ଧାରରେ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଏ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ବ୍ୟାକୁଳତା"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅତ୍ୟଧିକ"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "ତାହାର ରୋଗ"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "ଓ କ୍ରୋଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:45.879187687Z",
+  "model": "glm-5.3"
+}

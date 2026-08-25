@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 13:38",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଭଶାଲୋମ୍ ପଳାଇ ଗେଶୁରକୁ ଗଲା, ଓ ⟨ସେ⟩ ସେଠାରେ ତିନି ବର୍ଷ ରହିଲା।",
+  "tokens": [
+    {
+      "surface": "ואבשלום",
+      "gloss": "ଆଭଶାଲୋମ୍"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ପଳାଇଗଲା"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲା"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "ଗେଶୁରକୁ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ରହିଲା"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:18:55.422713802Z",
+  "model": "glm-5.3"
+}

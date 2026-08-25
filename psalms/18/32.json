@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 18:32",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "କାରଣ ଯାହ୍ୱେ ବ୍ୟତୀତ କେଉଁ ଏଲୋଆହ୍? ଆଉ ଆମର ଏଲୋହିମ୍ ବ୍ୟତୀତ କେଉଁ ଶିଳା?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ମי",
+      "gloss": "କେଉଁ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "ଏଲୋଆହ୍"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ବ୍ୟତୀତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ଆଉ କେଉଁ"
+    },
+    {
+      "surface": "צו׬",
+      "gloss": "ଶିଳା"
+    },
+    {
+      "surface": "זולתי",
+      "gloss": "ବ୍ୟତୀତ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ଆମର ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:09.177710610Z",
+  "model": "glm-5.3"
+}

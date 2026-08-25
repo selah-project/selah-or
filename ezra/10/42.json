@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଶାଲ୍ଲୁମ୍, ଅମାରିଯାହ, ୟୋସେଫ।",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ଶାଲ୍ଲୁମ୍"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ଅମାରିଯାହ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:36:07.368331344Z",
+  "model": "glm-5.3"
+}

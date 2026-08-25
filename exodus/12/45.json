@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ପରବାସୀ ଓ ମଜୁରିଆ ତାହାରୁ ଖାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ପରବାସୀ"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "ଓ ମଜୁରିଆ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:09:06.101167018Z",
+  "model": "glm-5.3"
+}

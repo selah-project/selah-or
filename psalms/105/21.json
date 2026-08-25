@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 105:21",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 105,
+  "translation": "ତାହାକୁ ତାହାର ଘରର ପ୍ରଭୁ କଲେ, ଏବଂ ତାହାର ସମସ୍ତ ଧନର ଶାସକ କଲେ।",
+  "tokens": [
+    {
+      "surface": "שמו",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "אדון",
+      "gloss": "ପ୍ରଭୁ"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "ତାହାର ଘରର"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ଏବଂ ଶାସକ କଲେ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "קנינו",
+      "gloss": "ତାହାର ଧନର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:39:42.765614355Z",
+  "model": "glm-5.3"
+}

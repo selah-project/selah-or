@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଲେବୀୟ ପୁତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ ଚାରି ହଜାର ଛଅ ଶହ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ଲେବୀୟ"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:25.203462988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ସାରାହଙ୍କ ଜୀବନର ⟨ଆୟୁ⟩ ହେଲା ଏକଶହ ବର୍ଷ ଓ ବିଶି ବର୍ଷ ଓ ସାତ ବର୍ଷ — ଏହି ସାରାହଙ୍କ ଜୀବନର ବର୍ଷଗୁଡ଼ିକ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ସାରାହଙ୍କ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ ବିଶି"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଓ ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ବର୍ଷଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ସାରାହଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:31:40.008146706Z",
+  "model": "glm-5.3"
+}

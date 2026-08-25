@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେ ମୋର ମାଂସ ଓ ଚର୍ମକୁ କ୍ଷୟ କରିଛନ୍ତି; ମୋର ଅସ୍ଥିକୁ ଭାଙ୍ଗିଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "କ୍ଷୟ କରିଛନ୍ତି"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "ମୋର ମାଂସ"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ଓ ଚର୍ମକୁ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗିଛନ୍ତି"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "ମୋର ଅସ୍ଥିକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:48.676154297Z",
+  "model": "glm-5.3"
+}

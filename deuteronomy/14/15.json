@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 14:15",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏବଂ ⟨את⟩ ⟨the⟩ ଅଟାକ ଝିଅକୁ, ଏବଂ ⟨את⟩ ⟨the⟩ ରାତି ବାଜ, ଏବଂ ⟨את⟩ ⟨the⟩ ଗଙ୍ଗା-ଚିଲିକା, ଏବଂ ⟨את⟩ ⟨the⟩ ବାଜ ତାହାର ପ୍ରକାର ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ଅଟାକ ଝିଅ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "היענה",
+      "gloss": "⟨the⟩ ଅଟାକ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ରାତି ବାଜ"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "⟨the⟩ ରାତି ବାଜ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ଗଙ୍ଗା-ଚିଲିକା"
+    },
+    {
+      "surface": "השחף",
+      "gloss": "⟨the⟩ ଗଙ୍ଗା-ଚିଲିକା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ବାଜ"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "⟨the⟩ ବାଜ"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "ତାହାର ପ୍ରକାର ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:49.201966608Z",
+  "model": "glm-5.3"
+}

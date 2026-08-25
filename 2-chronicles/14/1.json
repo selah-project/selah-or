@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆସା ⟨ନିଜ⟩ ଈଶ୍ୱର ଯାହ୍ୱେଙ୍କ ଦୃଷ୍ଟିରେ ଉତ୍ତମ ଓ ସଳଖ କାର୍ଯ୍ୟ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ଆସା"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "והישר",
+      "gloss": "ଓ ସଳଖ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהיו",
+      "gloss": "ନିଜ ଈଶ୍ୱର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:25:12.294768453Z",
+  "model": "glm-5.3"
+}

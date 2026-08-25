@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ⟨את⟩ ଦାଆ, ଆଉ ⟨את⟩ ଆୟା — ତାହାର ପ୍ରକାର ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଦାଆ"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "ଦାଆ (ମାଂସଭୋଜୀ ପକ୍ଷୀ)"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଆୟା"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "ଆୟା (ବାଜ\/ପୋତରୀ)"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ତାହାର ପ୍ରକାର ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:40:32.526206363Z",
+  "model": "glm-5.3"
+}

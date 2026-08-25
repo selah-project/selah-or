@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 17:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଆଉ ସମସ୍ତ ପ୍ରଜା ଶୁଣିବେ ଓ ଭୟଭୀତ ହେବେ, ଆଉ ଅହଂକାର କରିବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ଶୁଣିବେ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ଓ ଭୟଭୀତ ହେବେ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ … ନାହିଁ"
+    },
+    {
+      "surface": "יזידון",
+      "gloss": "ଅହଂକାର କରିବେ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:53:16.984338835Z",
+  "model": "glm-5.3"
+}

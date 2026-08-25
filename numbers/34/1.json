@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେ ପ୍ରତି କହିଲେ, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ-କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:35:25.062658719Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏବଂ ଯାଜକ ତେଲର ଲଗରୁ ନେବେ ଏବଂ ଯାଜକର ବାଆଁ ହାତର କରତଳରେ ଢାଳିବେ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ଏବଂ ନେବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "ଲଗରୁ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ତେଲର"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "ଏବଂ ଢାଳିବେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "କରତଳ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକର"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ବାଆଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:03.149937142Z",
+  "model": "glm-5.3"
+}

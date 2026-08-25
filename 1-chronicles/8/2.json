@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ନୋହା ଚତୁର୍ଥ, ଆଉ ରାଫା ପଞ୍ଚମ।",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "ନୋହା"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ଚତୁର୍ଥ"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "ଆଉ ରାଫା"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ପଞ୍ଚମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:58.295896729Z",
+  "model": "glm-5.3"
+}

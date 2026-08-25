@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 10:26",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ରେଖୁମ୍, ହଶବ୍ନା, ମାଆସେୟା।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "ରେଖୁମ୍"
+    },
+    {
+      "surface": "חשבנה",
+      "gloss": "ହଶବ୍ନା"
+    },
+    {
+      "surface": "מעשיה",
+      "gloss": "ମାଆସେୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:12.991994269Z",
+  "model": "glm-5.3"
+}

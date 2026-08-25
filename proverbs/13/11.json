@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଶୂନ୍ୟତାରୁ ମିଳିଥିବା ଧନ କ୍ଷୟ ହୁଏ, ଆଉ ହାତ ଦ୍ୱାରା ଜମାକରୁଥିବା ⟨ବ୍ୟକ୍ତି⟩ ବଢ଼ିଥାଏ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "ଶୂନ୍ୟତାରୁ"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "କ୍ଷୟ ହୁଏ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "ଆଉ ଜମାକରୁଥିବା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ସାହାଯ୍ୟରେ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ବଢ଼ିଥାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:16.596205078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 31:1",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେ ପ୍ରତି କହିଲେ, ଏଥିପାଇଁ ଯେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏଥିପାଇଁ ଯେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:23:36.832381710Z",
+  "model": "glm-5.3"
+}

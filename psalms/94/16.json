@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 94:16",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 94,
+  "translation": "ମୋ ପାଇଁ କିଏ ମନ୍ଦକାରୀଙ୍କ ସହିତ ଉଠିବ? ମୋ ପାଇଁ କିଏ ଅନୀତି-କର୍ତ୍ତାଙ୍କ ସହିତ ଠିଆ ହେବ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ଉଠିବ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "ମନ୍ଦକାରୀଙ୍କ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ଠିଆ ହେବ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "କର୍ତ୍ତାଙ୍କ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ଅନୀତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:35.214537908Z",
+  "model": "glm-5.3"
+}

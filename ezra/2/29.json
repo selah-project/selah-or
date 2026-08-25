@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନେବୋର ପୁତ୍ରମାନେ, ଅଠପଚାଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ନେବୋର"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଅଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:29.015461732Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଆଉ ⟨ଓମର୍ ହେଉଛି⟩ ଏଫାର ଦଶମ ଅଂଶ।",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "ଆଉ ଓମର୍"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ଦଶମ ଅଂଶ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ଏଫାର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ହେଉଛି⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:15.436167190Z",
+  "model": "glm-5.3"
+}

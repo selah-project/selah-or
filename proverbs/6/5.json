@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 6:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ନିଜକୁ ଛଡ଼ାଅ, ହରିଣୀ ପରି ହାତରୁ, ଆଉ ପକ୍ଷୀ ପରି ଯାଳର ହାତରୁ।",
+  "tokens": [
+    {
+      "surface": "הנצל",
+      "gloss": "ନିଜକୁ ଛଡ଼ାଅ"
+    },
+    {
+      "surface": "כצבי",
+      "gloss": "ହରିଣୀ ପରି"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ହାତରୁ"
+    },
+    {
+      "surface": "וכצפור",
+      "gloss": "ଆଉ ପକ୍ଷୀ ପରି"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ହାତରୁ"
+    },
+    {
+      "surface": "יקוש",
+      "gloss": "ଯାଳର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:27.795197267Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ମୁଁ ମଧ୍ୟ ଉତ୍ତର ଦେବି, ମୋର ଭାଗ; ମୁଁ ମୋର ଜ୍ଞାନ ଦର୍ଶାଇବି, ମୁଁ ମଧ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "ଉତ୍ତର ଦେବି"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "ମୋର ଭାଗ"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "ଦର୍ଶାଇବି"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "ମୋର ଜ୍ଞାନ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:39:12.759856878Z",
+  "model": "glm-5.3"
+}

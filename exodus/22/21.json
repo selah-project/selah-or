@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ସବୁ ବିଧବା ଓ ଅନାଥଙ୍କୁ ତୁମ୍ଭେମାନେ ଦଳନ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "ବିଧବା"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ଓ ଅନାଥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "ଦଳନ କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:17:41.495349233Z",
+  "model": "glm-5.3"
+}

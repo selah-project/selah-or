@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 9:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ସରଳମାନଙ୍କୁ ଛାଡ଼ିଦିଅ ଓ ଜୀବିତ ରୁହ, ଆଉ ବିବେକର ପଥରେ ଚାଲ।",
+  "tokens": [
+    {
+      "surface": "עזבו",
+      "gloss": "ଛାଡ଼ିଦିଅ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ସରଳମାନଙ୍କୁ"
+    },
+    {
+      "surface": "וחיו",
+      "gloss": "ଓ ଜୀବିତ ରୁହ"
+    },
+    {
+      "surface": "ואשרו",
+      "gloss": "ଆଉ ଚାଲ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବିବେକର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:50.519814465Z",
+  "model": "glm-5.3"
+}

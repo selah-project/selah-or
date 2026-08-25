@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 11:5",
+  "book": "hosea",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ସେ ମିଶର ଦେଶକୁ ଫେରିବ ନାହିଁ, ଆଉ ଆଶୁର ହିଁ ତାହାର ରାଜା, କାରଣ ସେମାନେ ଫେରିବାକୁ ମନା କଲେ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶର"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "ଆଉ ଆଶୁର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ହିଁ"
+    },
+    {
+      "surface": "מלכו",
+      "gloss": "ତାହାର ରାଜା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ସେମାନେ ମନା କଲେ"
+    },
+    {
+      "surface": "לשוב",
+      "gloss": "ଫେରିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:25:44.826629459Z",
+  "model": "glm-5.3"
+}

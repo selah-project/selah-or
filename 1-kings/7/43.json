@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏବଂ ⟨את⟩ ପୀଠ ଦଶଟି, ଏବଂ ⟨את⟩ ବାସନ ଦଶଟି ପୀଠ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ପୀଠ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ପୀଠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ବାସନ"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "ବାସନ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ପୀଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:39:09.239284690Z",
+  "model": "glm-5.3"
+}

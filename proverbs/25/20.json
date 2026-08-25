@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 25:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଥଣ୍ଡା ଦିନରେ ବସ୍ତ୍ର କାଢ଼ିବା ଓ କ୍ଷାର ଉପରେ ଖଟା ପାଣି ଢାଳିବା — ଦୁଃଖିତ ହୃଦୟ ଉପରେ ଗୀତ ଗାଇବା ପରି।",
+  "tokens": [
+    {
+      "surface": "מעדה",
+      "gloss": "କାଢ଼ିବା"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "ଥଣ୍ଡା"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ଖଟା ପାଣି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "נתר",
+      "gloss": "କ୍ଷାର"
+    },
+    {
+      "surface": "ושר",
+      "gloss": "ଓ ଗାଇବା"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "ଗୀତରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ଦୁଃଖିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:06.847990475Z",
+  "model": "glm-5.3"
+}

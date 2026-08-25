@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ସବୁ ଏହା ନେବୁଖଦ୍ନେସର୍ ରାଜା ଉପରେ ଆସିଲା।",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "ନେବୁଖଦ୍ନେସର୍"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ରାଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:15:28.378973307Z",
+  "model": "glm-5.3"
+}

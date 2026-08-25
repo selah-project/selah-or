@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଧୂଳି ଉପରେ ତାହାର ଶାସକ ନାହିଁ; ସେ ⟨is⟩ ନିର୍ଭୟ ହେବାକୁ ହିଁ ସୃଷ୍ଟି।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ତାହାର ଶାସକ"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "ସୃଷ୍ଟି ହୋଇଛି"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ଭୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:26.473267833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ଫଳଦାୟୀ ପୁତ୍ର ଯୋସେଫ୍ — ଫଳଦାୟୀ ପୁତ୍ର ଝରଣା ପାଖରେ; ଝିଅମାନେ କାନ୍ଥ ଉପରେ ଚାଲି ଚାଲି ଯାଆନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ଫଳଦାୟୀ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ଯୋସେଫ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ଫଳଦାୟୀ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଝରଣା"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ଝିଅମାନେ"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "ଚାଲି ଚାଲି ଯାଆନ୍ତି"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "କାନ୍ଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:48:30.357703527Z",
+  "model": "glm-5.3"
+}

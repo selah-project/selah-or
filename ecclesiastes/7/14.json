@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 7:14",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଭଲ ଦିନରେ ଭଲରେ ରୁହ, ଆଉ ମନ୍ଦ ଦିନରେ ଦେଖ — ମଧ୍ୟ ⟨את⟩ ଏହା ସେହିର ସମାନ କରିଛନ୍ତି ଏଲୋହିମ୍, ଏଥିପାଇଁ ଯେ ତାହା ପରେ ମଣିଷ କିଛି ଖୋଜି ନ ପାଉ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ରୁହ"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ଭଲରେ"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ଆଉ ଦିନରେ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହା"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "לעמת",
+      "gloss": "ସମାନ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରିଛନ୍ତି"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଏଥିପାଇଁ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ଉଦ୍ଦେଶ୍ୟରେ"
+    },
+    {
+      "surface": "שלא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ଖୋଜି ପାଉ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ତାହା ପରେ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "କିଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:31.440177739Z",
+  "model": "glm-5.3"
+}

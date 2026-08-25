@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଗହମ, ଯବ, ଦ୍ରାକ୍ଷାଲତା, ଡିମିରି ଓ ଡାଳିମ୍ବର ଦେଶ — ଅଲେଇଭ୍ ତେଲ ଓ ମହୁର ଦେଶ।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "ଗହମ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "ଓ ଯବ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "ଓ ଦ୍ରାକ୍ଷାଲତା"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "ଓ ଡିମିରି"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ଓ ଡାଳିମ୍ବ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "זית",
+      "gloss": "ଅଲେଇଭ୍"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ତେଲ"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ଓ ମହୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:43:40.317092008Z",
+  "model": "glm-5.3"
+}

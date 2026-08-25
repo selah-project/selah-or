@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଦେଖ, ସୀସାର ⟨ଗୋଲ> ଚକତି ଉଠାଯାଉଛି, ଆଉ ଏହି ଜଣେ ସ୍ତ୍ରୀ ⟨ଏଇଫା⟩ ମଧ୍ୟରେ ବସିଛି।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ଗୋଲ ଚକତି"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "ସୀସାର"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "ଉଠାଯାଉଛି"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ଆଉ ଏହି"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ବସିଛି"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "ଏଇଫା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:32:52.811000916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 8:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ହେ ଯାହ୍ୱେ, ଆମ୍ଭର ଅଦୋନାଇ, ⟨କେଡ଼େ⟩ ମହାନ ଆପଣଙ୍କ ନାମ ସାରା ପୃଥିବୀରେ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אדנינו",
+      "gloss": "ଆମ୍ଭର ଅଦୋନାଇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "⟨କେଡ଼େ⟩"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ଆପଣଙ୍କ ନାମ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:46:49.926164001Z",
+  "model": "glm-5.3"
+}

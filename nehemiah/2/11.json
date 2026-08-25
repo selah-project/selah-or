@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ୟେରୁଶାଲାଇମ୍‌କୁ ଆସିଲି ଓ ସେଠାରେ ତିନି ଦିନ ରହିଲି।",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "ଆସିଲି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମ୍"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "ରହିଲି"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:39:50.437283576Z",
+  "model": "glm-5.3"
+}

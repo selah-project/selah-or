@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ନିନେୱେହର ଭାର; ଏଲ୍‌କୋଶୀୟ ନାଖୁମର ଦର୍ଶନର ପୁସ୍ତକ।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ଭାର"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ନିନେୱେହ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ପୁସ୍ତକ"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "ଦର୍ଶନ"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "ନାଖୁମ"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "ଏଲ୍‌କୋଶୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:22:47.281268292Z",
+  "model": "glm-5.3"
+}

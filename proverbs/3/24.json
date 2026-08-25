@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 3:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଯଦି ତୁମେ ଶୋଇବ, ଭୟ କରିବ ନାହିଁ; ବରଂ ଶୋଇଲେ ତୁମର ନିଦ ମିଠା ହେବ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ଶୋଇବ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תפחד",
+      "gloss": "ଭୟ କରିବ"
+    },
+    {
+      "surface": "ושכבת",
+      "gloss": "ବରଂ ଶୋଇଲେ"
+    },
+    {
+      "surface": "וערבה",
+      "gloss": "ମିଠା ହେବ"
+    },
+    {
+      "surface": "שנתך",
+      "gloss": "ତୁମର ନିଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:11.564398161Z",
+  "model": "glm-5.3"
+}

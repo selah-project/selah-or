@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 22:36",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ ମୋତେ ତୁମ୍ଭ ମୁକ୍ତିର ଢାଲ ଦେଲ, ଓ ତୁମ୍ଭ ବିନୟ ମୋତେ ବଢ଼ାଇଲା।",
+  "tokens": [
+    {
+      "surface": "ותתן",
+      "gloss": "ଓ ଦେଲ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ଢାଲ"
+    },
+    {
+      "surface": "ישעך",
+      "gloss": "ତୁମ୍ଭ ମୁକ୍ତିର"
+    },
+    {
+      "surface": "וענתך",
+      "gloss": "ଓ ତୁମ୍ଭ ବିନୟ"
+    },
+    {
+      "surface": "תרבני",
+      "gloss": "ମୋତେ ବଢ଼ାଇଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:31:29.274923629Z",
+  "model": "glm-5.3"
+}

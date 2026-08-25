@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ସମସ୍ତ ମାଂସ ଦେଖିବ ଯେ ମୁଁ ଯାହ୍ୱେ ଏହାକୁ ଜାଳିଛି; ଏହା ଲିଭିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ଆଉ ଦେଖିବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "ଏହାକୁ ଜାଳିଛି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ଲିଭିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:12:43.318543028Z",
+  "model": "glm-5.3"
+}

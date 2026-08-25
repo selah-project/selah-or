@@ -1,0 +1,22 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 66:16",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 66,
+  "translation": "ଆସ, ଶୁଣ, ଆଉ ମୁଁ କହିବି, ହେ ଏଲୋହିମ୍‌ଙ୍କ ଭୟ କରୁଥିବା ସମସ୍ତେ, ତାଙ୍କ ଆତ୍ମା ପାଇଁ ଯାହା କରିଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "ଶମେଆ",
+      "gloss": "ଶୁଣ",
+      "note": "placeholder"
+    }
+  ],
+  "timestamp": "2026-08-25T17:14:19.923323190Z",
+  "model": "glm-5.3"
+}

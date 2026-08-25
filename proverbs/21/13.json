@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 21:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଯିଏ ଦରିଦ୍ରର କ୍ରନ୍ଦନଠାରୁ ନିଜ କାନ ବନ୍ଦ କରେ, ସେ ମଧ୍ୟ ଡାକିବ ଓ ⟨ଉତ୍ତର⟩ ପାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אטם",
+      "gloss": "ବନ୍ଦ କରେ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "କାନ"
+    },
+    {
+      "surface": "מזעקת",
+      "gloss": "କ୍ରନ୍ଦନଠାରୁ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ଡାକିବ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ଉତ୍ତର ପାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:11.324556188Z",
+  "model": "glm-5.3"
+}

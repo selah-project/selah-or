@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସବୁ ଗୋଟିଏ ସ୍ଥାନକୁ ଯାଉଛି; ସବୁ ଧୂଳିରୁ ⟨ହୋଇଥିଲା⟩, ଏବଂ ସବୁ ଧୂଳିକୁ ଫେରୁଛି।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ଯାଉଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "ମକୋମ",
+      "gloss": "ସ୍ଥାନ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "ଏବଂ ସବୁ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ଫେରୁଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ଧୂଳି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:13.221759479Z",
+  "model": "glm-5.3"
+}

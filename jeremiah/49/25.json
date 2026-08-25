@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "କିପରି ପରିତ୍ୟକ୍ତ ହେଲା ନାହିଁ ⟨ଏହି⟩ ପ୍ରଶଂସାର ନଗର, ମୋର ଆନନ୍ଦର ନଗର!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "କିପରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "ପରିତ୍ୟକ୍ତ ହେଲା"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "ପ୍ରଶଂସାର"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "ମୋର ଆନନ୍ଦର"
+    }
+  ],
+  "timestamp": "2026-08-25T14:40:05.046667437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଓ ଆଦାମା, ଓ ରାମା, ଓ ହାତ୍ସୋର।",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "ଓ ଆଦାମା"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ଓ ରାମା"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "ଓ ହାତ୍ସୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:21:51.094159182Z",
+  "model": "glm-5.3"
+}

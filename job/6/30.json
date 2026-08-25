@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 6:30",
+  "book": "job",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ମୋର ଜିଭାରେ ଅନ୍ୟାୟ ଅଛି କି? ମୋର ତାଳୁ ବିପଦକୁ ବୁଝି ପାରେ ନାହିଁ କି?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "ଅଛି କି"
+    },
+    {
+      "surface": "בלשוני",
+      "gloss": "ମୋର ଜିଭାରେ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ମୋର ତାଳୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ବୁଝି ପାରେ"
+    },
+    {
+      "surface": "הוות",
+      "gloss": "ବିପଦକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T22:53:52.162915199Z",
+  "model": "glm-5.3"
+}

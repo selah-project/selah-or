@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏକାଦଶ — ଅଜରଏଲ୍, ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଗଣ ।",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "ଏକାଦଶ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "ଅଜରଏଲ୍"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଗଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:10.246286538Z",
+  "model": "glm-5.3"
+}

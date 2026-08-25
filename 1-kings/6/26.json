@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏକ କେରୁବର ଉଚ୍ଚତା ଦଶି ଆମା, ଏପରି ହିଁ ଦ୍ୱିତୀୟ କେରୁବ୍।",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "ଉଚ୍ଚତା"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "କେରୁବର"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ଆମା"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "ଏପରି ହିଁ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "କେରୁବ୍"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:38:39.697337967Z",
+  "model": "glm-5.3"
+}

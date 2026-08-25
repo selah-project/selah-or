@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 2:22",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ କଣ ମିଳେ ମଣିଷକୁ ତାହାର ସମସ୍ତ ପରିଶ୍ରମରୁ ଓ ତାହାର ହୃଦୟର ଚିନ୍ତାରୁ, ଯାହା ସେ ପରିଶ୍ରମ କରୁଛି ସୂର୍ଯ୍ୟତଳେ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "ମିଳେ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମଣିଷକୁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ...ରୁ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ପରିଶ୍ରମରୁ"
+    },
+    {
+      "surface": "וברעיון",
+      "gloss": "ଓ ଚିନ୍ତାରୁ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ହୃଦୟର"
+    },
+    {
+      "surface": "שהוא",
+      "gloss": "ଯାହା ସେ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ପରିଶ୍ରମ କରୁଛି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:26.952340543Z",
+  "model": "glm-5.3"
+}

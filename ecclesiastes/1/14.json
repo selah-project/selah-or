@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ ଦେଖିଲି ⟨את⟩ ସମସ୍ତ ⟨the⟩ କାର୍ଯ୍ୟ ଯାହା କରାଯାଇଛି ⟨ତଳେ⟩ ⟨the⟩ ସୂର୍ଯ୍ୟ; ଓ ଦେଖ, ⟨the⟩ ସମସ୍ତ ହେବେଲ୍ ଓ ରୁଆଖ୍‌ର ଯନ୍ତ୍ରଣା।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଲି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ⟨the⟩ କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "⟨the⟩ କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "ଯାହା କରାଯାଇଛି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "⟨the⟩ ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨the⟩ ସମସ୍ତ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ଓ ଯନ୍ତ୍ରଣା"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:30.952360183Z",
+  "model": "glm-5.3"
+}

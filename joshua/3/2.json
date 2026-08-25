@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏପରି ହେଲା — ତିନି ଦିନର ଶେଷରେ ଅଧିକାରୀମାନେ ଶିବିରର ମଧ୍ୟଭାଗ ଦେଇ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏପରି ହେଲା"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "ଅଧିକାରୀମାନେ"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ମଧ୍ୟଭାଗ ଦେଇ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ଶିବିରର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:08:42.138247717Z",
+  "model": "glm-5.3"
+}

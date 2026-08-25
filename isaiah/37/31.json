@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 37:31",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଆଉ ଯିହୂଦା ଗୃହର ପଳାୟନକାରୀ ଅଂଶ — ଯାହା ବଳିଯାଇଛି — ପୁଣି ତଳେ ମୂଳ ଧରିବ ଏବଂ ଉପରେ ଫଳ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "ପଳାୟନକାରୀ ଅଂଶ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦା"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "ବଳିଯାଇଛି"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "ମୂଳ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:53:05.676067096Z",
+  "model": "glm-5.3"
+}

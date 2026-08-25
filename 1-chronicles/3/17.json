@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଯିଖୋନିୟା ବନ୍ଦୀର ପୁତ୍ରମାନେ ⟨ଥିଲେ⟩ ଅସିର୍, ଶେଆଲତିଏଲ୍ ତାହାର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "ଯିଖୋନିୟାର"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "ଅସିର୍ ବନ୍ଦୀ"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "ଶେଆଲତିଏଲ୍"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାର ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:34.762165125Z",
+  "model": "glm-5.3"
+}

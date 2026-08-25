@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହେତ୍ସ୍ରୋ ⟨ସେ⟩ କର୍ମେଲୀୟ, ନାଆରାଇ ଆଜ୍‌ବାଇର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ହେତ୍ସ୍ରୋ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "କର୍ମେଲୀୟ"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "ନାଆରାଇ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "ଆଜ୍‌ବାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:54.445868318Z",
+  "model": "glm-5.3"
+}

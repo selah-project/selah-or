@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଏବେ ତୁମକୁ କ'ଣ — ମିତ୍ରାୟିମ୍‌ର ବାଟରେ, ଶିହୋରର ଜଳ ପିଇବାକୁ? ଆଉ ତୁମକୁ କ'ଣ — ଆଶୁରର ବାଟରେ, ନଦୀର ଜଳ ପିଇବାକୁ?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଆଉ ଏବେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିତ୍ରାୟିମ୍"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ପିଇବାକୁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "ଶିହୋରର"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ କ'ଣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ଆଶୁରର"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ପିଇବାକୁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "ନଦୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T13:28:45.139515811Z",
+  "model": "glm-5.3"
+}

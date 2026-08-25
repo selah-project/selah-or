@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 1:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସରଳମନାଙ୍କୁ ଚତୁରତା ଦେବା ପାଇଁ, ଯୁବକକୁ ଜ୍ଞାନ ଓ ବିଚକ୍ଷଣତା ଦେବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לתת",
+      "gloss": "ଦେବା ପାଇଁ"
+    },
+    {
+      "surface": "לפתאים",
+      "gloss": "ସରଳମନାଙ୍କୁ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ଚତୁରତା"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ଯୁବକକୁ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ומזמה",
+      "gloss": "ଓ ବିଚକ୍ଷଣତା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:11.495013633Z",
+  "model": "glm-5.3"
+}

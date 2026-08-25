@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ତୁମ୍ଭେ ଗୋଟିଏ ବଳଦ ଓ ଗୋଟିଏ ଗଧ ମିଶି ହଳ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "ହଳ କର"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ବଳଦରେ"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "ଓ ଗଧରେ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ଏକାଠି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:52:36.268157845Z",
+  "model": "glm-5.3"
+}

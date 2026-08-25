@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 22:17",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କଥା ହେଲେ, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:52:11.465139866Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଭାର — ଯାହ୍ୱେଙ୍କ ବାକ୍ୟର ଭାର, ଇସ୍ରାଏଲ୍‌ ପ୍ରତି, ମାଲାଖୀଙ୍କ ହାତ ଦ୍ୱାରା।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ଭାର"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟର"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍‌"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତ ଦ୍ୱାରା"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ମାଲାଖୀଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:40:08.263079852Z",
+  "model": "glm-5.3"
+}

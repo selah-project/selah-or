@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "କେବଳ ରକ୍ତ ଖାଇବ ନାହିଁ; ତାହାକୁ ପୃଥିବୀ ଉପରେ ଜଳ ପରି ଢାଳିବ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "ଢାଳିବ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "ଜଳ ପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:20.054709617Z",
+  "model": "glm-5.3"
+}

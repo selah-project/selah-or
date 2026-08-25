@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 28:10",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "କାରଣ ଆଜ୍ଞା ପରେ ଆଜ୍ଞା, ଆଜ୍ଞା ପରେ ଆଜ୍ଞା, ରେଖା ପରେ ରେଖା, ରେଖା ପରେ ରେଖା, ଅଳ୍ପ ସେଠାରେ, ଅଳ୍ପ ସେଠାରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ଆଜ୍ଞା"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ପରେ ଆଜ୍ଞା"
+    },
+    {
+      "surface": "צו",
+      "gloss": "ଆଜ୍ଞା"
+    },
+    {
+      "surface": "לצו",
+      "gloss": "ପରେ ଆଜ୍ଞା"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ରେଖା"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ପରେ ରେଖା"
+    },
+    {
+      "surface": "קו",
+      "gloss": "ରେଖା"
+    },
+    {
+      "surface": "לקו",
+      "gloss": "ପରେ ରେଖା"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "זעיר",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:42:11.131831359Z",
+  "model": "glm-5.3"
+}

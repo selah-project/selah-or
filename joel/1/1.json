@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ, ଯାହା ୟୋଏଲ୍, ପେତୁଏଲ୍‌ଙ୍କ ପୁତ୍ରଙ୍କ ନିକଟକୁ ଆସିଲା।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ୟୋଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "ପେତୁଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T16:00:50.394102522Z",
+  "model": "glm-5.3"
+}

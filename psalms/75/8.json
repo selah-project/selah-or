@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 75:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 75,
+  "translation": "କାରଣ ଏଲୋହିମ୍ ⟨is⟩ ବିଚାରକ; ଏହାକୁ ⟨ସେ⟩ ନିମ୍ନ କରନ୍ତି ଆଉ ଏହାକୁ ଉଚ୍ଚ କରନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ବିଚାରକ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହାକୁ"
+    },
+    {
+      "surface": "ישפיל",
+      "gloss": "ନିମ୍ନ କରନ୍ତି"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "ଆଉ ଏହାକୁ"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ଉଚ୍ଚ କରନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:23:08.057842358Z",
+  "model": "glm-5.3"
+}

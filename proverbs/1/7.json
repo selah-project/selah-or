@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 1:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଯାହ୍ୱେଙ୍କ ଭୟ ⟨is⟩ ଜ୍ଞାନର ଆରମ୍ଭ; ଜ୍ଞାନ ଓ ଶିକ୍ଷାକୁ ମୂର୍ଖମାନେ ଅବହେଳା କରନ୍ତି ।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "ଆରମ୍ଭ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନର"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ଓ ଶିକ୍ଷାକୁ"
+    },
+    {
+      "surface": "אוילים",
+      "gloss": "ମୂର୍ଖମାନେ"
+    },
+    {
+      "surface": "בזו",
+      "gloss": "ଅବହେଳା କରନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:16.928612712Z",
+  "model": "glm-5.3"
+}

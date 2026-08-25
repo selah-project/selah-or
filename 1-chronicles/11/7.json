@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଦାଭିଦ୍ ଦୁର୍ଗରେ ବାସ କଲେ; ଏଣୁ ଲୋକେ ଏହାକୁ ଦାଭିଦଙ୍କ ନଗର ନାମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଭିଦ୍"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ଦୁର୍ଗରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଏହା ଉପରେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ହେତୁ"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "ନାମ ଦେଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ଏହାକୁ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଭିଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:47.058705893Z",
+  "model": "glm-5.3"
+}

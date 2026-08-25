@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଯେଉଁ ଜିନିଷରେ ଦୋଷ ଅଛି, ତାହା ଆଣିବ ନାହିଁ — କାରଣ ଏହା ତୋମ୍ଭମାନଙ୍କ ପାଇଁ ଗ୍ରହଣୀୟ ହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ଏଥିରେ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ଦୋଷ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "ଆଣିବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "ଗ୍ରହଣୀୟ ପାଇଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୋମ୍ଭମାନଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:52:11.465764389Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 11:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ଏବେ ଆମ୍ଭର ପ୍ରାଣ ⟨is⟩ ଶୁଖିଯାଇଛି; ଆଉ କିଛି ନାହିଁ, କେବଳ ଏହି ମାନ୍ ଆଡ଼କୁ — ଆମ୍ଭର ଆଖି।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "נפשנו",
+      "gloss": "ଆମ୍ଭର ପ୍ରାଣ"
+    },
+    {
+      "surface": "יבשה",
+      "gloss": "ଶୁଖିଯାଇଛି"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କିଛି"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "המן",
+      "gloss": "ଏହି ମାନ୍"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ଆମ୍ଭର ଆଖି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:11:16.662498878Z",
+  "model": "glm-5.3"
+}

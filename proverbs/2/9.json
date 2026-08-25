@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 2:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତେବେ ତୁମେ ବୁଝିବ ଧାର୍ମିକତା ଓ ନ୍ୟାୟ ଓ ସରଳତା — ପ୍ରତ୍ୟେକ ଉତ୍ତମ ପଥ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ବୁଝିବ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ଧାର୍ମିକତା"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ଓ ନ୍ୟାୟ"
+    },
+    {
+      "surface": "ומישרים",
+      "gloss": "ଓ ସରଳତା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:59.846737584Z",
+  "model": "glm-5.3"
+}

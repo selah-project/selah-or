@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 3:7",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଦେଖ, ତାହାର ଶଯ୍ୟା — ଶଲୋମୋହର; ଷାଠିଏ ବୀର ତାହା ଚାରିପଟେ, ୟିସ୍ରାଏଲର ବୀରମାନଙ୍କ ମଧ୍ୟରୁ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ତାହାର ଶଯ୍ୟା"
+    },
+    {
+      "surface": "שלשלמה",
+      "gloss": "ଶଲୋମୋହର"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ଷାଠିଏ"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିପଟେ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "מגברי",
+      "gloss": "ବୀରମାନଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:48:25.171321538Z",
+  "model": "glm-5.3"
+}

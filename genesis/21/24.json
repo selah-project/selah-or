@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଅବ୍ରାହାମ୍ କହିଲେ, “ମୁଁ ଶପଥ କରିବି।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "ଶପଥ କରିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:30:31.617480829Z",
+  "model": "glm-5.3"
+}

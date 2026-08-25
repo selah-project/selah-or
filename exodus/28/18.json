@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ଦ୍ୱିତୀୟ ସାରି — ନୋଫେଖ୍, ସାପିର୍ ଓ ୟାହାଲୋମ୍।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ଓ ⟨ହେଉଛି⟩ ସାରି"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ନୋଫେଖ୍"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ସାପିର୍"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ଓ ୟାହାଲୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T08:20:09.135573644Z",
+  "model": "glm-5.3"
+}

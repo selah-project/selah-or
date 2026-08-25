@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 18:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଏବଂ ସେ କହିଲେ — ମୁଁ ତୁମକୁ ପ୍ରେମ କରେ, ହେ ଯାହ୍ୱେ, ମୋର ବଳ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଏବଂ ସେ କହିଲେ"
+    },
+    {
+      "surface": "ארחמך",
+      "gloss": "ମୁଁ ତୁମକୁ ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "חזקי",
+      "gloss": "ମୋର ବଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:50:11.573984490Z",
+  "model": "glm-5.3"
+}

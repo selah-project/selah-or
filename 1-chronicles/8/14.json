@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଅହିୟୋ, ଶାଶାକ୍ ଓ ୟେରେମୋତ୍।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ଅହିୟୋ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ଶାଶାକ୍"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ଓ ୟେରେମୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:27.175198387Z",
+  "model": "glm-5.3"
+}

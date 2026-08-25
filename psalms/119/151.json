@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 151,
+  "ref": "psalms 119:151",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ତୁମେ ନିକଟରେ ⟨ଅଛ⟩, ହେ ଯାହ୍ୱେ; ଆଉ ତୁମର ସମସ୍ତ ମିତ୍ସୱାତ୍ ସତ୍ୟ ।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "ନିକଟରେ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ତୁମର ସମସ୍ତ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ମିତ୍ସୱାତ୍"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ସତ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:46:44.903037473Z",
+  "model": "glm-5.3"
+}

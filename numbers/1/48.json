@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ — କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:56.914840052Z",
+  "model": "glm-5.3"
+}

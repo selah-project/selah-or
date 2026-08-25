@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ତା'ଉପରେ ତେଲ ରଖିବ ଓ ତା'ଉପରେ ଲିବୋନା ରଖିବ — ଏହା ⟨ହିଁ⟩ ଏକ ମନ୍ହା।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ଆଉ ରଖିବ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ତା'ଉପରେ"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "ତେଲ"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "ଓ ରଖିବ"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ତା'ଉପରେ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "ଲିବୋନା"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "ମନ୍ହା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା ⟨ହିଁ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T08:33:32.941189443Z",
+  "model": "glm-5.3"
+}

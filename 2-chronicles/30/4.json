@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଏହି କଥା ରାଜାଙ୍କ ଦୃଷ୍ଟିରେ ଓ ସମଗ୍ର ସଭାର ଦୃଷ୍ଟିରେ ସଠିକ୍ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "ସଠିକ୍ ଥିଲା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ଏହି କଥା"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "ଓ ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ସଭାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:37:52.199163282Z",
+  "model": "glm-5.3"
+}

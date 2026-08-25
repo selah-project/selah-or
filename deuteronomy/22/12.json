@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ତୁମ୍ଭେ ଯେଉଁ ଆବରଣରେ ନିଜକୁ ଢାଙ୍କୁଛ, ତାହାର ଚାରି କୋଣରେ ତୁମ୍ଭ ପାଇଁ ଗୁଣିତ ଝୁଲା ତିଆରି କର।",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "ଗୁଣିତ ଝୁଲା"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "ତିଆରି କର"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "କୋଣ"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "ତୁମ୍ଭର ଆବରଣ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ଢାଙ୍କୁଛ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ତାହାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:52:36.268373527Z",
+  "model": "glm-5.3"
+}

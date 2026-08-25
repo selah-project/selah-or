@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 22:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ ⟨את⟩ କେସେଦ୍, ଓ ⟨את⟩ ହାଜୋ, ଓ ⟨את⟩ ପିଲଦାଶ୍, ଓ ⟨את⟩ ୟିଦଲାଫ୍, ଓ ⟨את⟩ ବେତୁଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "କେସେଦ୍"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "କେସେଦ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ହାଜୋ"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "ହାଜୋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ପିଲଦାଶ୍"
+    },
+    {
+      "surface": "פלדש",
+      "gloss": "ପିଲଦାଶ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ୟିଦଲାଫ୍"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ୟିଦଲାଫ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ବେତୁଏଲ୍"
+    },
+    {
+      "surface": "בתואל",
+      "gloss": "ବେତୁଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:31:05.219561340Z",
+  "model": "glm-5.3"
+}

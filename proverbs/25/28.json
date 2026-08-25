@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 25:28",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏକ ଭାଙ୍ଗା ନଗର — ଯେଉଁଥିରେ ପ୍ରାଚୀର ନାହିଁ; ସେହି ମଣିଷ, ଯାହାର ରୁଆଖରରେ ନିୟନ୍ତ୍ରଣ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "פרוצה",
+      "gloss": "ଭାଙ୍ଗା"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "ପ୍ରାଚୀର"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "ନିୟନ୍ତ୍ରଣ"
+    },
+    {
+      "surface": "לרוחו",
+      "gloss": "ତାହାର ରୁଆଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.068897554Z",
+  "model": "glm-5.3"
+}

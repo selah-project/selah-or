@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ସେ ଅନ୍ୟ ସାତ ଦିନ ପର୍ଯ୍ୟନ୍ତ ଅପେକ୍ଷା କଲେ, ଓ ପୁଣିଥରେ ପଠାଇଲେ ⟨את⟩ ପାରାଟିକୁ ଡଙ୍ଗାରୁ।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "ଅପେକ୍ଷା କଲେ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "ପୁଣିଥରେ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ପଠାଇଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପାରାଟିକୁ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ପାରାଟିକୁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ଡଙ୍ଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:21:16.107817372Z",
+  "model": "glm-5.3"
+}

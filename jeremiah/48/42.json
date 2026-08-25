@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଆଉ ନଷ୍ଟ ହେବ ମୋଆବ ଏକ ଜାତିରୁ, କାରଣ ସେ ଯାହ୍ୱେ ବିରୁଦ୍ଧରେ ନିଜକୁ ବଡ଼ କଲା।",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "ଆଉ ନଷ୍ଟ ହେବ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବ"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "ଏକ ଜାତିରୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "ନିଜକୁ ବଡ଼ କଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T14:37:49.603155735Z",
+  "model": "glm-5.3"
+}

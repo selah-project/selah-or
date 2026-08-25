@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 27:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ପଥରର ଓଜନ ଓ ବାଲୁକାର ଭାର, କିନ୍ତୁ ମୂର୍ଖର କ୍ରୋଧ ଉଭୟଠାରୁ ଭାରୀ।",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "ଓଜନ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥରର"
+    },
+    {
+      "surface": "ונטל",
+      "gloss": "ଆଉ ଭାର"
+    },
+    {
+      "surface": "החול",
+      "gloss": "ବାଲୁକାର"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ଆଉ କ୍ରୋଧ"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ମୂର୍ଖର"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ଉଭୟଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:49.909703269Z",
+  "model": "glm-5.3"
+}

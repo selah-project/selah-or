@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 30:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ମିଛ ଓ ପ୍ରତାରଣାର ବଚନ ମଠାରୁ ଦୂର କର; ଦାରିଦ୍ର୍ୟ ଓ ଧନ ମୋତେ ଦିଅ ନାହିଁ; ମୋ ଭାଗର ଖାଦ୍ୟ ମୋତେ ଖୁଆଅ।",
+  "tokens": [
+    {
+      "surface": "שוא",
+      "gloss": "ମିଛ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଓ ପ୍ରତାରଣାର ବଚନ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ପ୍ରତାରଣା"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ଦୂର କର"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ମଠାରୁ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ଦାରିଦ୍ର୍ୟ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ଓ ଧନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "הטריפני",
+      "gloss": "ମୋତେ ଖୁଆଅ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଖାଦ୍ୟ"
+    },
+    {
+      "surface": "חקי",
+      "gloss": "ମୋ ଭାଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:21.953108129Z",
+  "model": "glm-5.3"
+}

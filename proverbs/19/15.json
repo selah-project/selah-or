@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 19:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଅଳସତା ଗଭୀର ନିଦ ଆଣେ, ଆଉ ଅଳସୀ ପ୍ରାଣ କ୍ଷୁଧାର୍ତ୍ତ ହେବ।",
+  "tokens": [
+    {
+      "surface": "עצלה",
+      "gloss": "ଅଳସତା"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ଆଣେ \/ ପକାଏ"
+    },
+    {
+      "surface": "תרדמה",
+      "gloss": "ଗଭୀର ନିଦ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ଆଉ ପ୍ରାଣ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ଅଳସୀ \/ ଶିଥିଳ"
+    },
+    {
+      "surface": "תרעב",
+      "gloss": "କ୍ଷୁଧାର୍ତ୍ତ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:40.310840961Z",
+  "model": "glm-5.3"
+}

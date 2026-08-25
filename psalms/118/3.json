@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 118,
+  "translation": "ଅହରୋନଙ୍କ ଗୃହ ଏବେ କୁହନ୍ତୁ — କାରଣ ସର୍ବଦା ତାହାଙ୍କ ଖେସେଦ୍।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "କୁହନ୍ତୁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନଙ୍କ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ତାହାଙ୍କ ଖେସେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:44:10.028711834Z",
+  "model": "glm-5.3"
+}

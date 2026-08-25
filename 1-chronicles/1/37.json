@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ରେଉଏଲଙ୍କ ପୁତ୍ରଗଣ — ନାହତ୍, ଜେରଖ୍, ଶାମା ଓ ମିଜା।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ରେଉଏଲଙ୍କ"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ନାହତ୍"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ଜେରଖ୍"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ଶାମା"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "ଓ ମିଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:25.972661779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଏକ କଠୋର ମୁହଁର ଜାତି, ଯାହା ବୃଦ୍ଧର ମୁହଁ ପାଣି କରିବ ନାହିଁ, ଏବଂ ଯୁବକ ପ୍ରତି ଦୟା କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ଜାତି"
+    },
+    {
+      "surface": "עז",
+      "gloss": "କଠୋର"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ମୁହଁର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ପାଣି କରିବ"
+    },
+    {
+      "surface": "ପନିମ୍",
+      "gloss": ""
+    },
+    {
+      "surface": "ଲଜକେନ",
+      "gloss": ""
+    },
+    {
+      "surface": "ବନାଗର",
+      "gloss": ""
+    },
+    {
+      "surface": "ଲୋ",
+      "gloss": ""
+    },
+    {
+      "surface": "ୟାଚୋନ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T10:02:23.577646269Z",
+  "model": "glm-5.3"
+}

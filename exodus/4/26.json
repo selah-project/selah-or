@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 4:26",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ସେ ତାଙ୍କୁ ଛାଡ଼ିଦେଲେ; ତେଣୁ ସେ କହିଲେ, ଚର୍ମଛେଦ ହେତୁ ରକ୍ତର ବର।",
+  "tokens": [
+    {
+      "surface": "וירף",
+      "gloss": "ଛାଡ଼ିଦେଲେ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ବର"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "ରକ୍ତର"
+    },
+    {
+      "surface": "למולת",
+      "gloss": "ଚର୍ମଛେଦ ହେତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:02:57.796458926Z",
+  "model": "glm-5.3"
+}

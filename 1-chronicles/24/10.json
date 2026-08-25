@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ସପ୍ତମ ହାକୋଜ୍‌ଙ୍କ ନିମନ୍ତେ, ଅଷ୍ଟମ ଅବିୟାହ୍‌ଙ୍କ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "ହାକୋଜ୍‌ଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ସପ୍ତମ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "ଅବିୟାହ୍‌ଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ଅଷ୍ଟମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:00.688851585Z",
+  "model": "glm-5.3"
+}

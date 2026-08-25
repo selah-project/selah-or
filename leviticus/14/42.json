@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 14:42",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏବଂ ଅନ୍ୟ ପଥରଗୁଡ଼ିକ ନେବେ ଏବଂ ସେହି ପଥରଗୁଡ଼ିକ ବଦଳରେ ଆଣିବେ, ଏବଂ ଅନ୍ୟ ଗାରି ନେଇ ⟨את⟩ ଘର ଲେପନ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "ולקחו",
+      "gloss": "ନେବେ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ପଥରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אחרות",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "והביאו",
+      "gloss": "ଆଣିବେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ପଥରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "ଗାରି"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବେ"
+    },
+    {
+      "surface": "וטח",
+      "gloss": "ଲେପନ କରିବେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଘର"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:25.692387904Z",
+  "model": "glm-5.3"
+}

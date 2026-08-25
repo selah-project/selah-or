@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ଯିହୋଶୁଆ ମଇଳା ବସ୍ତ୍ର ପିନ୍ଧି ଦୂତଙ୍କ ସମ୍ମୁଖରେ ଠିଆ ହୋଇଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "ଆଉ ଯିହୋଶୁଆ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "ପିନ୍ଧି"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "ମଇଳା"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "ଆଉ ଠିଆ ହୋଇ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସମ୍ମୁଖରେ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ଦୂତ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:32:36.287983117Z",
+  "model": "glm-5.3"
+}

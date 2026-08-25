@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ୟାଖିନ୍ ପାଇଁ ⟨ଏକ⟩ ଏବଂ ବିଶି, ଗାମୁଲ୍ ପାଇଁ ଦୁଇ ଏବଂ ବିଶି।",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "ୟାଖିନ୍ ପାଇଁ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଏବଂ ବିଶି"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "ଗାମୁଲ୍ ପାଇଁ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଏବଂ ବିଶି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:46.764810202Z",
+  "model": "glm-5.3"
+}

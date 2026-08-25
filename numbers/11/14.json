@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ମୁଁ ଏକୁଟିଆ ⟨ଏହି⟩ ସମସ୍ତ ⟨ଏହି⟩ ଲୋକଙ୍କୁ ⟨את⟩ ବହିପାରିବା ନାହିଁ, କାରଣ ⟨ଏହା⟩ ମୋ' ପାଇଁ ଅତି ଭାରୀ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ପାରିବା"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ଏକୁଟିଆ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ବହିବା ପାଇଁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ଏହି ଲୋକଙ୍କୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ମୋ' ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:14:04.048470972Z",
+  "model": "glm-5.3"
+}

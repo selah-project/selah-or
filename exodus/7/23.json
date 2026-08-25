@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ଫାରୋହ ଫେରିଗଲା ଏବଂ ଆପଣା ଘରକୁ ଗଲା, ଆଉ ଏହା ବିଷୟରେ ମଧ୍ୟ ସେ ହୃଦୟ ଦେଲା ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "ଆଉ ଫେରିଗଲା"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ଫାରୋହ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ଏବଂ ଗଲା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ଆପଣା ଘରକୁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ... ନାହିଁ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ଦେଲା"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "ଏହା ବିଷୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:01:01.492738861Z",
+  "model": "glm-5.3"
+}

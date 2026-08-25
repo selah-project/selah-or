@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ତ୍ସାଦୋକ୍ ତାହାଙ୍କ ପୁତ୍ର, ଅହୀମାତ୍ସ ତାହାଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ତ୍ସାଦୋକ୍"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "ଅହୀମାତ୍ସ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:31.115392384Z",
+  "model": "glm-5.3"
+}

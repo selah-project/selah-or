@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 5:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମୋର କଥାଗୁଡ଼ିକୁ କାନ ଦିଅ, ଯାହ୍ୱେ; ମୋର ବିଳାପକୁ ବୁଝ।",
+  "tokens": [
+    {
+      "surface": "אמרי",
+      "gloss": "ମୋର କଥାଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "କାନ ଦିଅ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବୁଝ"
+    },
+    {
+      "surface": "הגיגי",
+      "gloss": "ମୋର ବିଳାପକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:42:41.470331362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମାତାନ୍ୟା, ମାତେନାଇ ଓ ୟାଆସାଉ।",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "ମାତାନ୍ୟା"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "ମାତେନାଇ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ଓ ୟାଆସାଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:35:20.472562834Z",
+  "model": "glm-5.3"
+}

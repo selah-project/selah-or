@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ଶୁପ୍ପିମ୍ ଓ ହୁପ୍ପିମ୍ — ଏୟାରଙ୍କ ପୁତ୍ର; ହୁଶିମ୍ — ଅହେରଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "ଶୁପ୍ପିମ୍"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "ହୁପ୍ପିମ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ଏୟାରଙ୍କ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ହୁଶିମ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅହେରଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:08.805051579Z",
+  "model": "glm-5.3"
+}

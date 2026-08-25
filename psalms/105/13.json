@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 105,
+  "translation": "ଆଉ ⟨ସେମାନେ⟩ ଏକ ଜାତିରୁ ଅନ୍ୟ ଜାତିକୁ, ଏକ ରାଜ୍ୟରୁ ଅନ୍ୟ ପ୍ରଜାକୁ ଭ୍ରମଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ଭ୍ରମଣ କଲେ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ଏକ ଜାତିରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ଅନ୍ୟ ଜାତି"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "ଏକ ରାଜ୍ୟରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:39:20.378703920Z",
+  "model": "glm-5.3"
+}

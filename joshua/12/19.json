@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 12:19",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ମାଦୋନର ରାଜା, ଜଣେ; ହାତ୍ସୋରର ରାଜା, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ମାଦୋନର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ହାତ୍ସୋରର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T22:41:04.061515481Z",
+  "model": "glm-5.3"
+}

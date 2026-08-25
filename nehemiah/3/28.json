@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 3:28",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଅଶ୍ୱ-ଦ୍ୱାରର ଉପରେ ଯାଜକମାନେ ମରାମତି କଲେ — ପ୍ରତ୍ୟେକ ଜଣ ନିଜ ଗୃହ ସାମ୍ନାରେ।",
+  "tokens": [
+    {
+      "surface": "מעל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "ଅଶ୍ୱ-"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ମରାମତି କଲେ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ପ୍ରତ୍ୟେକ ଜଣ"
+    },
+    {
+      "surface": "לנגד",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ନିଜ ଗୃହ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:41:26.713433105Z",
+  "model": "glm-5.3"
+}

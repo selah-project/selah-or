@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏକତ୍ର କରି ଏକତ୍ର କରିବି ମୁଁ ସମସ୍ତକୁ ଭୂମିର ମୁହଁରୁ — ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "ଏକତ୍ର କରି"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ଏକତ୍ର କରିବି"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତକୁ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁହଁ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ଭୂମିର"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:27:28.355842785Z",
+  "model": "glm-5.3"
+}

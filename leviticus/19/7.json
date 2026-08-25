@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 19:7",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ଯଦି ତୃତୀୟ ଦିନରେ ବି ତାହା ଖିଆଯାଏ, ତାହା ⟨ହୟାଏ⟩ ପିଗ୍ଗୁଲ୍ — ଗ୍ରହଣ କରାଯିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "האכל",
+      "gloss": "ଖିଆଯାଏ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଇବା"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "פגול",
+      "gloss": "ପିଗ୍ଗୁଲ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ירצה",
+      "gloss": "ଗ୍ରହଣ କରାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:49:06.353451683Z",
+  "model": "glm-5.3"
+}

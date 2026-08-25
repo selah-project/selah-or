@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "କହିବା: ତୁମ୍ଭକୁ ମୁଁ କେନାନ୍ ଦେଶ ଦେବି, ତୁମ୍ଭମାନଙ୍କ ଉତ୍ତରାଧିକାରର ଅଂଶ ରୂପେ।",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭକୁ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ମୁଁ ଦେବି"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କେନାନ୍"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ଅଂଶ"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ଉତ୍ତରାଧିକାରର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:42.448486737Z",
+  "model": "glm-5.3"
+}

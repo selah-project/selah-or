@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-chronicles 17:18",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଆଉ ତା' ହାତରେ ଯିହୋଜାବାଦ, ଏବଂ ତା'ସହିତ ଏକ ଲକ୍ଷ ଆଶି ହଜାର ଯୁଦ୍ଧ-ସଜ୍ଜିତ ସୈନିକ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଆଉ …ଉପରେ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ତା' ହାତରେ"
+    },
+    {
+      "surface": "יהוזבד",
+      "gloss": "ଯିହୋଜାବାଦ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ଏବଂ ତା'ସହିତ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଲକ୍ଷ"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "ଆଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "ଯୁଦ୍ଧ-ସଜ୍ଜିତ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ସୈନିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:24:42.483378726Z",
+  "model": "glm-5.3"
+}

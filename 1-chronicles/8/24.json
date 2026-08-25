@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ହାନାନ୍ୟା, ଓ ଏଲାମ୍, ଓ ଅନତୋତିୟା।",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "ଓ ହାନାନ୍ୟା"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "ଓ ଏଲାମ୍"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "ଓ ଅନତୋତିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:45.630615970Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 13:41",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଓ ଯଦି ତାହାର ମୁହଁର କଡ଼ରୁ ତାହାର ମୁଣ୍ଡ ଟକିଯାଏ, ସେ କପାଳ-ଟକା ⟨ଅଟେ⟩; ସେ ଶୁଦ୍ଧ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଓ ଯଦି"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "କଡ଼ରୁ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ତାହାର ମୁହଁର"
+    },
+    {
+      "surface": "ימרט",
+      "gloss": "ଟକିଯାଏ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ତାହାର ମୁଣ୍ଡ"
+    },
+    {
+      "surface": "גבח",
+      "gloss": "କପାଳ-ଟକା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ ⟨ଅଟେ⟩"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ଶୁଦ୍ଧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ ⟨ଅଟେ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:04.683991654Z",
+  "model": "glm-5.3"
+}

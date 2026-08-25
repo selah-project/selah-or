@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଧନ ଅନେକ ବନ୍ଧୁ ଯୋଡ଼େ, ଆଉ ଦରିଦ୍ର ତାହାର ବନ୍ଧୁଠାରୁ ଅଲଗା ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "ଯୋଡ଼େ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ବନ୍ଧୁ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "ଆଉ ଦରିଦ୍ର"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "ତାହାର ବନ୍ଧୁଠାରୁ"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ଅଲଗା ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:18.253869538Z",
+  "model": "glm-5.3"
+}

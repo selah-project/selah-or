@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏକ ପାଲକି ନିଜ ପାଇଁ ନିର୍ମାଣ କଲେ ରାଜା ଶଲୋମୋହ୍, ଲେବାନୋନ୍‌ର କାଠରୁ।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "ପାଲକି"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ନିର୍ମାଣ କଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋହ୍"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "କାଠରୁ"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ଲେବାନୋନ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:48:30.434055657Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "esther 9:7",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ⟨את⟩ ପରଶନ୍‌ଦାତା, ଆଉ ⟨את⟩ ଦଲ୍ପୋନ୍, ଆଉ ⟨את⟩ ଅସ୍ପାତା —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ପରଶନ୍‌ଦାତା"
+    },
+    {
+      "surface": "פרשנדתא",
+      "gloss": "ପରଶନ୍‌ଦାତା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଦଲ୍ପୋନ୍"
+    },
+    {
+      "surface": "דלפון",
+      "gloss": "ଦଲ୍ପୋନ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଅସ୍ପାତା"
+    },
+    {
+      "surface": "אספתא",
+      "gloss": "ଅସ୍ପାତା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:09:29.374930634Z",
+  "model": "glm-5.3"
+}

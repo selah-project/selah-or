@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 6:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆସିଯିବ, ପଥିକ ଭଳି ତୋର ଦାରିଦ୍ର୍ୟ, ଆଉ ଢାଲ ଧାରୀ ଲୋକ ଭଳି ତୋର ଅଭାବ।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ଆସିଯିବ"
+    },
+    {
+      "surface": "כמהלך",
+      "gloss": "ପଥିକ ଭଳି"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ତୋର ଦାରିଦ୍ର୍ୟ"
+    },
+    {
+      "surface": "ומחסרך",
+      "gloss": "ଆଉ ତୋର ଅଭାବ"
+    },
+    {
+      "surface": "כאיש",
+      "gloss": "ଲୋକ ଭଳି"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ଢାଲ ଧାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:40.116101299Z",
+  "model": "glm-5.3"
+}

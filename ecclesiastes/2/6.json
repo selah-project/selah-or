@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 2:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ମୋ ପାଇଁ ଜଳଭର୍ତ୍ତି ପୁଷ୍କରିଣୀ ନିର୍ମାଣ କଲି, ସେଥିରୁ ଗଛ ଉତ୍ପନ୍ନ କରୁଥିବା ବନକୁ ସେଚନ କରିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "କଲି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "ברכות",
+      "gloss": "ପୁଷ୍କରିଣୀ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳଭର୍ତ୍ତି"
+    },
+    {
+      "surface": "להשקות",
+      "gloss": "ସେଚନ କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ସେଥିରୁ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ବନ"
+    },
+    {
+      "surface": "צומח",
+      "gloss": "ଉତ୍ପନ୍ନ କରୁଥିବା"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "ଗଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:44.651494491Z",
+  "model": "glm-5.3"
+}

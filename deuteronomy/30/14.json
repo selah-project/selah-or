@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "କାରଣ ⟨the⟩ ବାକ୍ୟ ତୁମ ପାଖରେ ଅତି ନିକଟରେ ଅଛି, ତୁମ ପାଟଳରେ ଓ ତୁମ ହୃଦୟରେ, ତାହା କରିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ନିକଟରେ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମ ପାଖରେ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ତୁମ ପାଟଳରେ"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "ଓ ତୁମ ହୃଦୟରେ"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "ତାହା କରିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:01:56.909243994Z",
+  "model": "glm-5.3"
+}

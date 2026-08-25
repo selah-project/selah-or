@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ପଲିଷ୍ଟୀୟମାନେ ପୁଣିଥରେ ଯୋଗ କଲେ ଓ ଉପତ୍ୟକାରେ ବ୍ୟାପିଗଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "ଯୋଗ କଲେ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣିଥରେ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ପଲିଷ୍ଟୀୟମାନେ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ବ୍ୟାପିଗଲେ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:47.527006730Z",
+  "model": "glm-5.3"
+}

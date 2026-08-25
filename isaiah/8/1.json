@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 8:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯାହ୍ୱେ ମୋତେ କହିଲେ — ନିଜ ପାଇଁ ଏକ ବଡ଼ ଫଳକ ନିଅ ଏବଂ ତା' ଉପରେ ମଣିଷର ଲେଖନୀରେ ଲେଖ: ମାହେର୍-ଶାଲାଲ୍-ଚାଶ୍-ବାଜ୍।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ନିଅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "גליון",
+      "gloss": "ଫଳକ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "וכתב",
+      "gloss": "ଲେଖ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତା' ଉପରେ"
+    },
+    {
+      "surface": "בחרט",
+      "gloss": "ଲେଖନୀରେ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "למהר",
+      "gloss": "ମାହେର୍"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ଶାଲାଲ୍"
+    },
+    {
+      "surface": "חש",
+      "gloss": "ଚାଶ୍"
+    },
+    {
+      "surface": "בז",
+      "gloss": "ବାଜ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T12:26:37.356331688Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 62:12",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 62,
+  "translation": "ଗୋଟିଏ ଥର ଏଲୋହିମ୍ କହିଲେ, ଦୁଇ ଥର ⟨ଏହା⟩ ମୁଁ ଶୁଣିଲି — ଯେ ଶକ୍ତି ଏଲୋହିମ୍‌ଙ୍କ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "אחת",
+      "gloss": "ଗୋଟିଏ ଥର"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ଦୁଇ ଥର"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ମୁଁ ଶୁଣିଲି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ଶକ୍ତି"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:16:49.507731988Z",
+  "model": "glm-5.3"
+}

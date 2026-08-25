@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 23:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "କାରଣ ମଦ୍ୟପାନକାରୀ ଓ ପେଟୁକ ଦରିଦ୍ର ହେବ, ଆଉ ନିଦ ଚିରାଲୁଙ୍ଗି ପିନ୍ଧାଇବ ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "ମଦ୍ୟପାନକାରୀ"
+    },
+    {
+      "surface": "וזולל",
+      "gloss": "ଓ ପେଟୁକ"
+    },
+    {
+      "surface": "יורש",
+      "gloss": "ଦରିଦ୍ର ହେବ"
+    },
+    {
+      "surface": "וקרעים",
+      "gloss": "ଆଉ ଚିରାଲୁଙ୍ଗି"
+    },
+    {
+      "surface": "תלביש",
+      "gloss": "ପିନ୍ଧାଇବ"
+    },
+    {
+      "surface": "נומה",
+      "gloss": "ନିଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:12.135634622Z",
+  "model": "glm-5.3"
+}

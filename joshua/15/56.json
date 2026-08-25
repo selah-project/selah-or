@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ୟିଜ୍ରେଲ୍, ୟକ୍‌ଦାମ୍ ଓ ଜାନୋଆଖ୍ ।",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "ୟିଜ୍ରେଲ୍"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "ୟକ୍‌ଦାମ୍"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "ଜାନୋଆଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:00.081445712Z",
+  "model": "glm-5.3"
+}

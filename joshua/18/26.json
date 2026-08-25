@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ମିଜ୍‌ପା, କେଫିରା ଓ ମୋଜା।",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "ମିଜ୍‌ପା"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "କେଫିରା"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "ମୋଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:12.955332393Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ଯାହ୍ୱେ ୟେହୋଶୁଆଙ୍କ ସହିତ କହିଲେ, କହିବାକୁ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ୟେହୋଶୁଆଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:22:42.080726763Z",
+  "model": "glm-5.3"
+}

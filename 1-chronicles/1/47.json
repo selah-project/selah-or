@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 1:47",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ହାଦାଦ ମରିଗଲେ, ଏବଂ ତାହାଙ୍କ ବଦଳରେ ମାଶ୍ରେକାହରୁ ସାମଲା ରାଜତ୍ୱ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମରିଗଲେ"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ହାଦାଦ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜତ୍ୱ କଲେ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ତାହାଙ୍କ ବଦଳରେ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ସାମଲା"
+    },
+    {
+      "surface": "ממשרקה",
+      "gloss": "ମାଶ୍ରେକାହରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:25.911062774Z",
+  "model": "glm-5.3"
+}

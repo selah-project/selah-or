@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 121:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 121,
+  "translation": "ଯାହ୍ୱେ ତୁମର ରକ୍ଷକ, ଯାହ୍ୱେ ତୁମର ଛାୟା, ତୁମର ଦକ୍ଷିଣ ହାତ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ତୁମର ରକ୍ଷକ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "צלך",
+      "gloss": "ତୁମର ଛାୟା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ତୁମର ଦକ୍ଷିଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:59.458048684Z",
+  "model": "glm-5.3"
+}

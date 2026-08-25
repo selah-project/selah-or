@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ପ୍ରଥମ ରଥରେ ଲାଲ୍ ଘୋଡ଼ା, ଆଉ ଦ୍ୱିତୀୟ ରଥରେ କଳା ଘୋଡ଼ା।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ରଥରେ"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ଘୋଡ଼ା"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "ଲାଲ୍"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ଆଉ ... ରଥରେ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ଘୋଡ଼ା"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "କଳା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:27:32.091324172Z",
+  "model": "glm-5.3"
+}

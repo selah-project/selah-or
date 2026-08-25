@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ମୁଁ ତୁମ ବାକ୍ୟରେ ଆନନ୍ଦିତ, ଯେପରି ଜଣେ ପ୍ରଚୁର ଲୁଣ୍ଠନ ପାଇଲା।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ଆନନ୍ଦିତ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ତୁମ ବାକ୍ୟରେ"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "ଯେପରି ପାଇଲା"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "ଲୁଣ୍ଠନ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ପ୍ରଚୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:46:44.596400975Z",
+  "model": "glm-5.3"
+}

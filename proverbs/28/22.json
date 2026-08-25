@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଧନ ପାଇଁ ବ୍ୟାକୁଳ ବ୍ୟକ୍ତି ⟨ହେଉଛି⟩ ନର୍ଦ୍ଦୟ ଆଖିର ଲୋକ, ଆଉ ⟨ସେ⟩ ଜାଣେ ନାହିଁ ଯେ ଅଭାବ ତା’ ଉପରେ ଆସିବ।",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "ବ୍ୟାକୁଳ"
+    },
+    {
+      "surface": "להון",
+      "gloss": "ଧନ ପାଇଁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ବ୍ୟକ୍ତି"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ନର୍ଦ୍ଦୟ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ … ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ଅଭାବ"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "ତା’ ଉପରେ ଆସିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:05.188990683Z",
+  "model": "glm-5.3"
+}

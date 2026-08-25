@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 10:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଧାର୍ମିକର ମୁଖ ଜୀବନର ଉତ୍ସ, ଆଉ ଦୁଷ୍କର୍ମୀମାନଙ୍କ ମୁଖ ହିଂସାକୁ ଢାଙ୍କେ।",
+  "tokens": [
+    {
+      "surface": "מקור",
+      "gloss": "ଉତ୍ସ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ଆଉ ମୁଖ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍କର୍ମୀମାନଙ୍କ"
+    },
+    {
+      "surface": "יכסה",
+      "gloss": "ଢାଙ୍କେ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ହିଂସାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:07.934365312Z",
+  "model": "glm-5.3"
+}

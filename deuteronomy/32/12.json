@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଯାହ୍ୱେ ଏକୁଟିଆ ତାହାଙ୍କୁ ପରିଚାଳନା କଲେ, ଆଉ ତାହାଙ୍କ ସହିତ କୌଣସି ପରଦେଶୀ ଏଲ୍ ⟨ନଥିଲେ⟩।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ଏକୁଟିଆ"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ପରିଚାଳନା କଲେ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ଆଉ ... ନଥିଲେ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ପରଦେଶୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:42.342999663Z",
+  "model": "glm-5.3"
+}

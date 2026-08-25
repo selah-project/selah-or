@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 20:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଯାହ୍ୱେଙ୍କ ଠାରୁ ⟨ଅଟେ⟩ ମନୁଷ୍ୟର ପାଦକ୍ଷେପ, ଆଉ ମନୁଷ୍ୟ — କିପରି ବୁଝିବ ନିଜ ପଥ?",
+  "tokens": [
+    {
+      "surface": "מיהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ଠାରୁ"
+    },
+    {
+      "surface": "מצעדי",
+      "gloss": "ପାଦକ୍ଷେପ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ଆଉ ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କିପରି"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ବୁଝିବ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ନିଜ ପଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:41.608140519Z",
+  "model": "glm-5.3"
+}

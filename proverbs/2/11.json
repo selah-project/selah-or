@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବିବେକ ତୁମକୁ ରକ୍ଷା କରିବ, ବୁଦ୍ଧି ତୁମକୁ ସଂରକ୍ଷଣ କରିବ —",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "ବିବେକ"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "ରକ୍ଷା କରିବ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ବୁଦ୍ଧି"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "ସଂରକ୍ଷଣ କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:59.847136325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 120,
+  "translation": "ଅତି ଦିନ ହେଲା ମୋର ନେଫେଶ୍ ଶାନ୍ତି-ଘୃଣାକାରୀଙ୍କ ସହିତ ବାସ କରୁଛି।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ଅତି ଦିନ"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "ବାସ କରୁଛି"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ନେଫେଶ୍"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ଘୃଣାକାରୀଙ୍କ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:24.333873974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଧନ୍ୟ ତୁମେ ⟨ହୁଅ⟩ ତୁମର ଆସିବାରେ, ଓ ଧନ୍ୟ ତୁମେ ⟨ହୁଅ⟩ ତୁମର ଯିବାରେ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "ତୁମର ଆସିବାରେ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ଓ ଧନ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "ତୁମର ଯିବାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:57:10.572677454Z",
+  "model": "glm-5.3"
+}

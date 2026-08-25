@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଇସ୍ସାଖାରର ଗୋଷ୍ଠୀ ପାଇଁ — ୟିଗଆଲ୍, ୟୋସେଫର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ଇସ୍ସାଖାରର"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ୟିଗଆଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:17.552232500Z",
+  "model": "glm-5.3"
+}

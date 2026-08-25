@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 35:7",
+  "book": "job",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଯଦି ତୁମେ ଧାର୍ମିକ ହେଲ, ତାଙ୍କୁ କଣ ଦେଲ, କିମ୍ବା ତାଙ୍କ ହାତରୁ କଣ ନେବ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "צדקת",
+      "gloss": "ଧାର୍ମିକ ହେଲ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦେଲ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ତାଙ୍କ ହାତରୁ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:42:46.010184016Z",
+  "model": "glm-5.3"
+}

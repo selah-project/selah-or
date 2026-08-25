@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 11:7",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ⟨את⟩ ଖରା — କାରଣ ସେ ଖୁରା ଫାଡ଼େ, ଖୁରାର ଚିରା ଖୁରା ଚିରେ, କିନ୍ତୁ ପାଚି ଓଡ଼ାଏ ନାହିଁ; ସେ ତୁମ୍ଭ ପାଇଁ ଅଶୁଚି।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଖରା"
+    },
+    {
+      "surface": "ହଚଜିର",
+      "gloss": "ଖରା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מפריס",
+      "gloss": "ଫାଡ଼େ"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ଖୁରା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ושסע",
+      "gloss": "ଚିର"
+    },
+    {
+      "surface": "שסע",
+      "gloss": "ଚିରା"
+    },
+    {
+      "surface": "פרסה",
+      "gloss": "ଖୁରା"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "ପାଚି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "ଓଡ଼ାଏ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:42:42.838238943Z",
+  "model": "glm-5.3"
+}

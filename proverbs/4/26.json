@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 4:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ତୁମ୍ଭ ପାଦର ପଥ ସମତଳ କର, ଆଉ ତୁମ୍ଭର ସମସ୍ତ ପଥ ସ୍ଥିର ହେବ ।",
+  "tokens": [
+    {
+      "surface": "פלס",
+      "gloss": "ସମତଳ କର"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ତୁମ୍ଭ ପାଦର"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତ"
+    },
+    {
+      "surface": "דרכיך",
+      "gloss": "ତୁମ୍ଭର ପଥ"
+    },
+    {
+      "surface": "יכנו",
+      "gloss": "ସ୍ଥିର ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:48.422746684Z",
+  "model": "glm-5.3"
+}

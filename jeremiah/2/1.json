@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 2:1",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ୟାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପାଖକୁ ଆସିଲା, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:28:06.033854418Z",
+  "model": "glm-5.3"
+}

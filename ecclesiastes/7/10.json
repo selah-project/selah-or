@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କହ ନାହିଁ, \"କ'ଣ ହେଲା ଯେ ପୂର୍ବତନ ଦିନଗୁଡ଼ିକ ଏହି ଦିନମାନଙ୍କରୁ ଭଲ ଥିଲେ?\" — କାରଣ ଏହା ବିଷୟରେ ତୁମେ ଜ୍ଞାନରୁ ପଚାରୁ ନାହଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "କହ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "ଯେ-ଦିନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "ପୂର୍ବତନ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "ଟובים",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "ଏହି ଦିନମାନଙ୍କରୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହଁ"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "ଜ୍ଞାନରୁ"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "ପଚାରୁଛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:24.094306222Z",
+  "model": "glm-5.3"
+}

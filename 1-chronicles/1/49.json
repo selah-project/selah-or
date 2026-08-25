@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଶାଉଲ୍ ମୃତ୍ୟୁ ବରଣ କଲା, ଏବଂ ତା’ ବଦଳରେ ଅଖବୋର୍ ପୁତ୍ର ବାଲ୍-ହାନାନ୍ ରାଜତ୍ୱ କଲା।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁ ବରଣ କଲା"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜତ୍ୱ କଲା"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ତା’ ବଦଳରେ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ହାନାନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "ଅଖବୋର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:04.052879042Z",
+  "model": "glm-5.3"
+}

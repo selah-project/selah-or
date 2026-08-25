@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "କାରଣ ସ୍ୱପ୍ନ ଅନେକ ବ୍ୟସ୍ତତାରେ ଆସେ, ଓ ମୂର୍ଖର ସ୍ୱର ଅନେକ ବାକ୍ୟରେ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସେ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "ସ୍ୱପ୍ନ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ଅନେକ…ରେ"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "ବ୍ୟସ୍ତତା"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "ଓ…ସ୍ୱର"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ମୂର୍ଖର"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ଅନେକ…ରେ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ବାକ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:45.160313603Z",
+  "model": "glm-5.3"
+}

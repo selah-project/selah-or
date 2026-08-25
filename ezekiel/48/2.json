@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଆଉ ଦାନ୍‌ର ସୀମା ଉପରେ — ପୂର୍ବ ଦିଗରୁ ସମୁଦ୍ର ଦିଗ ପର୍ଯ୍ୟନ୍ତ — ଅଶେର୍ — ଗୋଟିଏ ⟨ଅଂଶ⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଆଉ ଉପରେ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ଦିଗରୁ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ପୂର୍ବ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ଦିଗ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ସମୁଦ୍ର ଆଡ଼କୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଅଶେର୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:49:10.390656737Z",
+  "model": "glm-5.3"
+}

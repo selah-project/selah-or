@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଏଲିଶାମା, ଆଉ ବେଲିୟାଦା, ଆଉ ଏଲିଫାଲେତ୍।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ଆଉ ଏଲିଶାମା"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "ଆଉ ବେଲିୟାଦା"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ଆଉ ଏଲିଫାଲେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:27.873378965Z",
+  "model": "glm-5.3"
+}

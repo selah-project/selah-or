@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଓ ହାଜାର୍-ଶୁଆଲ୍, ଓ ବାଲା, ଓ ଏଜେମ୍।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ଓ ହାଜାର୍"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ଶୁଆଲ୍"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "ଓ ବାଲା"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ଓ ଏଜେମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:37.964766237Z",
+  "model": "glm-5.3"
+}

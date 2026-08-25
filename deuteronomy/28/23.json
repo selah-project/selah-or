@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ତୁମ୍ଭ ମସ୍ତକ ଉପରେ ଥିବା ତୁମ୍ଭ ଆକାଶ ⟨is⟩ ତମ୍ବା ହେବ, ଆଉ ତୁମ୍ଭ ତଳେ ଥିବା ପୃଥିବୀ ⟨is⟩ ଲୁହା ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "ତୁମ୍ଭ ଆକାଶ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ତୁମ୍ଭ ମସ୍ତକ"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ତମ୍ବା"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "ଆଉ ⟨the⟩ ପୃଥିବୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "ତୁମ୍ଭ ତଳେ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:29.720398018Z",
+  "model": "glm-5.3"
+}

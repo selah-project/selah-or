@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 10:19",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ତୁମ୍ଭେମାନେ ⟨את⟩ ପରଦେଶୀକୁ ପ୍ରେମ କର, କାରଣ ତୁମ୍ଭେମାନେ ମିଶ୍ର ଦେଶରେ ପରଦେଶୀ ଥିଲ।",
+  "tokens": [
+    {
+      "surface": "ואהבתם",
+      "gloss": "ଆଉ ... ପ୍ରେମ କର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପରଦେଶୀକୁ"
+    },
+    {
+      "surface": "הגר",
+      "gloss": "ପରଦେଶୀକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "ପରଦେଶୀ"
+    },
+    {
+      "surface": "הייתם",
+      "gloss": "ଥିଲ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:45:02.439135318Z",
+  "model": "glm-5.3"
+}

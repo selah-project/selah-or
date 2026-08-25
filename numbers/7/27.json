@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବାଛୁରୀ, ଗାଈର ବାଛ୍ଛ, ଗୋଟିଏ ମେଣ୍ଢା, ଗୋଟିଏ ମେଣ୍ଢାଛୁଆ, ବର୍ଷର ପୁଅ, ହୋମଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବାଛୁରୀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ବାଛ୍ଛ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗାଈ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢାଛୁଆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:05:54.506034912Z",
+  "model": "glm-5.3"
+}

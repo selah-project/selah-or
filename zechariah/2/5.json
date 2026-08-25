@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ମୁଁ ମୋର ଆଖି ଉଠାଇ ଦେଖିଲି, ଓ ଦେଖ, ଜଣେ ଲୋକ, ଆଉ ତାହାର ହାତରେ ଏକ ମାପ-ଦଉଡ଼ି ଅଛି।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ଓ ମୁଁ ଉଠାଇଲି"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ମୋର ଆଖି"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ଓ ମୁଁ ଦେଖିଲି"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "ଓ ତାହାର ହାତରେ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ମାପ-ଦଉଡ଼ି"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ମାପ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:33:08.058121481Z",
+  "model": "glm-5.3"
+}

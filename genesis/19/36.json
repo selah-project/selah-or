@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ଲୋଟଙ୍କ ଦୁଇ କନ୍ୟା ନିଜ ପିତାଙ୍କଠାରୁ ଗର୍ଭଧାରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "ଗର୍ଭଧାରଣ କଲେ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "କନ୍ୟା"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "ଲୋଟଙ୍କ"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "ନିଜ ପିତାଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:30:02.781761061Z",
+  "model": "glm-5.3"
+}

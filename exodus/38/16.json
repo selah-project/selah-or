@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ପ୍ରାଙ୍ଗଣର ଚାରିପାଖର ସମସ୍ତ ପରଦା ⟨ଥିଲା⟩ ବୁଣା ସୂକ୍ଷ୍ମ ଶଣବସ୍ତ୍ରର।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ପରଦା"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ପ୍ରାଙ୍ଗଣର"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିପାଖର"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଶଣବସ୍ତ୍ର"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "ବୁଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:29:54.557124561Z",
+  "model": "glm-5.3"
+}

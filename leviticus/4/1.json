@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 4:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପାଖରେ କହିଲେ, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ —"
+    }
+  ],
+  "timestamp": "2026-08-25T08:35:44.395457635Z",
+  "model": "glm-5.3"
+}

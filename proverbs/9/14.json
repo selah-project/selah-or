@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ⟨ସେ⟩ ନିଜ ଘର ଦ୍ୱାର ପାଖରେ ବସେ, ନଗରର ଉଚ୍ଚ ସ୍ଥାନରେ ଥିବା ଏକ ଆସନରେ।",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "ଆଉ ବସେ"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ଦ୍ୱାର ପାଖରେ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ନିଜ ଘର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ଆସନରେ"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ଉଚ୍ଚ ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ନଗରର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:37.337118232Z",
+  "model": "glm-5.3"
+}

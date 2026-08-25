@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଉତ୍ତମ ଯେ ⟨ଜଣେ⟩ ପ୍ରତୀକ୍ଷା କରେ ଓ ମୌନଭାବେ ରହେ ଯାହ୍ୱେଙ୍କ ପରିତ୍ରାଣ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "ପ୍ରତୀକ୍ଷା କରେ"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "ମୌନଭାବେ ରହେ"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "…ଙ୍କ ପରିତ୍ରାଣ ପାଇଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:55:05.991529902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 25:7",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଶୋହାମ୍ ପଥର, ଓ ଏଫଦ୍ ଓ ଛାତି-ପଟ୍ଟି ପାଇଁ ଖଚିତ ପଥର,",
+  "tokens": [
+    {
+      "surface": "אבני",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "שהם",
+      "gloss": "ଶୋହାମ୍"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ଓ ପଥର"
+    },
+    {
+      "surface": "מלאים",
+      "gloss": "ଖଚିତ"
+    },
+    {
+      "surface": "לאפד",
+      "gloss": "ଏଫଦ୍ ପାଇଁ"
+    },
+    {
+      "surface": "ולחשן",
+      "gloss": "ଓ ଛାତି-ପଟ୍ଟି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:18:49.885796963Z",
+  "model": "glm-5.3"
+}

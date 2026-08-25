@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ହେସରୋନ୍ — ହେସରୋନୀୟ ବଂଶ; କାର୍ମୀ — କାର୍ମୀୟ ବଂଶ।",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "ହେସରୋନ୍"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ହେସରୋନୀୟ"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "କାର୍ମୀ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "କାର୍ମୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:29.940167635Z",
+  "model": "glm-5.3"
+}

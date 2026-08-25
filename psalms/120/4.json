@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 120,
+  "translation": "ବୀରର ଧାରଦାର ତୀର, ସହିତ ରୋଧନ-ଗଛର ଅଙ୍ଗାର।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "ତୀର"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ବୀରର"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "ଧାରଦାର"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "ଅଙ୍ଗାର"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "ରୋଧନ-ଗଛର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:28.416802457Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 30:34",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ଲାବାନ କହିଲା: ଦେଖ, ଯଦି ତୁମ୍ଭର କଥା ଅନୁସାରେ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲା"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ଲାବାନ"
+    },
+    {
+      "surface": "הן",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "כדברך",
+      "gloss": "ତୁମ୍ଭର କଥା ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:40:17.118024131Z",
+  "model": "glm-5.3"
+}

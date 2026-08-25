@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ୟୋରାହର ପୁତ୍ରମାନେ — ଏକ ଶହ ବାର।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "ୟୋରାହର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଶହ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ବାରରେ ମିଶି)"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:11.082798958Z",
+  "model": "glm-5.3"
+}

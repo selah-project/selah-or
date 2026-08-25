@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବେ ତୁମ୍ଭମାନଙ୍କ ପାଖକୁ ⟨ଏହି⟩ ଆଜ୍ଞା — ହେ ଯାଜକମାନେ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଖକୁ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "ଆଜ୍ଞା"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ହେ ଯାଜକମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:38:27.867939901Z",
+  "model": "glm-5.3"
+}

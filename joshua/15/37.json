@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ତ୍ସେନାନ୍, ହାଦାଶା, ମିଗଦାଲ୍-ଗାଦ୍,",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "ତ୍ସେନାନ୍"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "ହାଦାଶା"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "ମିଗଦାଲ୍"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:53.964162634Z",
+  "model": "glm-5.3"
+}

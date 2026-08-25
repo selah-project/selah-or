@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଓ ଗଧ ତିରିଶି ହଜାର ଏବଂ ପାଞ୍ଚଶହ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ଓ ଗଧ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଏବଂ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:31:02.442266991Z",
+  "model": "glm-5.3"
+}

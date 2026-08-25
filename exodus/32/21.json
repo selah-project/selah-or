@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ମୋଶେ ଅହରୋନ୍‌ଙ୍କୁ କହିଲେ: ଏହି ଲୋକମାନେ ତୁମ ପାଇଁ କ'ଣ କଲେ, ଯେ ତୁମେ ⟨ଏହାଙ୍କ⟩ ଉପରେ ଏତେ ବଡ଼ ପାପ ଆଣିଲ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ଙ୍କୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ୍"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଏହି ଲୋକମାନେ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ଆଣିଲ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "...ଉପରେ"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "ପାପ"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ଏତେ ବଡ଼"
+    }
+  ],
+  "timestamp": "2026-08-25T08:27:50.833238055Z",
+  "model": "glm-5.3"
+}

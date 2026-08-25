@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 3:3",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ମୋଶେ କହିଲେ, ମୁଁ ବୁଝିଯିବି ଏବେ, ଓ ଦେଖିବି ⟨את⟩ ଏହି ମହା ଦୃଶ୍ୟ, କାହିଁକି ଝାଉଁ ଜଳେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אסרה",
+      "gloss": "ମୁଁ ବୁଝିଯିବି"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ଓ ଦେଖିବି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ମହା ଦୃଶ୍ୟ"
+    },
+    {
+      "surface": "המראה",
+      "gloss": "ଦୃଶ୍ୟ"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "ମହା"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יבער",
+      "gloss": "ଜଳେ"
+    },
+    {
+      "surface": "הסנה",
+      "gloss": "ଝାଉଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:59:49.689826702Z",
+  "model": "glm-5.3"
+}

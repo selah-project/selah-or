@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 10:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହ କହିଲେ, କହିବାକୁ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:10:40.985525247Z",
+  "model": "glm-5.3"
+}

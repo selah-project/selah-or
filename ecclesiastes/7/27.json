@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଦେଖ, ଏହା ମୁଁ ପାଇଛି, କହୁଛି କହେଲେତ — ଗୋଟିଏ ପରେ ଗୋଟିଏ, ହିସାବ ଖୋଜିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ମୁଁ ପାଇଛି"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "କହୁଛି"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "କହେଲେତ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ପରେ ଗୋଟିଏ"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "ଖୋଜିବାକୁ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "ହିସାବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:05.891386205Z",
+  "model": "glm-5.3"
+}

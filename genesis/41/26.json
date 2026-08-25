@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ସାତୋଟି ଉତ୍ତମ ଗାଈ ସେହି ସାତ ବର୍ଷ, ଆଉ ସାତୋଟି ଉତ୍ତମ ଶସ୍ୟଶୀର୍ଷ ସେହି ସାତ ବର୍ଷ — ଏହା ⟨ଏକମାତ୍ର⟩ ସ୍ୱପ୍ନ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "ଗାଈ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଆଉ ସାତ"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "ଶସ୍ୟଶୀର୍ଷ"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "ସ୍ୱପ୍ନ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକମାତ୍ର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:47:23.319441284Z",
+  "model": "glm-5.3"
+}

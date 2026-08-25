@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସରଦାର୍ କେନାଜ୍, ସରଦାର୍ ତେମାନ୍, ସରଦାର୍ ମିବ୍‌ତ୍ସାର୍।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର୍"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "କେନାଜ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର୍"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ତେମାନ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର୍"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ମିବ୍‌ତ୍ସାର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:44.652382578Z",
+  "model": "glm-5.3"
+}

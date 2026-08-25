@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 13:6",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ସାତ ଦିନ ତୁମେ ମାତ୍ସା ଖାଇବ, ଓ ସପ୍ତମ ଦିନରେ ଯାହ୍ୱେଙ୍କ ପାଇଁ ଏକ ଉତ୍ସବ।",
+  "tokens": [
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ତୁମେ ଖାଇବ"
+    },
+    {
+      "surface": "מצת",
+      "gloss": "ମାତ୍ସା"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଦିନରେ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ସପ୍ତମ"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ଉତ୍ସବ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:10:13.657527731Z",
+  "model": "glm-5.3"
+}

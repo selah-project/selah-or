@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଓ ଏଲ୍‌ତୋଲାଦ୍, ଓ ବେତୁଲ୍, ଓ ହର୍ମା।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ଓ ଏଲ୍‌ତୋଲାଦ୍"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "ଓ ବେତୁଲ୍"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ଓ ହର୍ମା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:37.964887885Z",
+  "model": "glm-5.3"
+}

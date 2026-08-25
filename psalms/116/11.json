@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 116:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 116,
+  "translation": "ମୁଁ ମୋର ବ୍ୟାକୁଳତାରେ କହିଲି — ପ୍ରତ୍ୟେକ ମନୁଷ୍ୟ ମିଥ୍ୟାବାଦୀ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "କହିଲି"
+    },
+    {
+      "surface": "בחפזי",
+      "gloss": "ମୋର ବ୍ୟାକୁଳତାରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "ମିଥ୍ୟାବାଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:43:58.841047356Z",
+  "model": "glm-5.3"
+}

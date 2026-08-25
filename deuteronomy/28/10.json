@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 28:10",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ⟨the⟩ ପୃଥିବୀର ସମସ୍ତ ଲୋକ ଦେଖିବେ ଯେ ଯାହ୍ୱେଙ୍କ ନାମ ତୁମ ଉପରେ ଡକାଯାଇଛି, ଆଉ ସେମାନେ ତୁମଠାରୁ ଭୟଭୀତ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "ଆଉ ଦେଖିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "נקרא",
+      "gloss": "ଡକାଯାଇଛି"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମ ଉପରେ"
+    },
+    {
+      "surface": "ויראו",
+      "gloss": "ଆଉ ଭୟଭୀତ ହେବେ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ତୁମଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:08.574155183Z",
+  "model": "glm-5.3"
+}

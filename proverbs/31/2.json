@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 31:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "କଣ, ମୋର ⟨ପୁତ୍ର⟩? କଣ, ମୋ ଗର୍ଭର ⟨ପୁତ୍ର⟩? କଣ, ମୋ ପ୍ରତିଜ୍ଞାର ⟨ପୁତ୍ର⟩?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "ברי",
+      "gloss": "ମୋର ⟨ପୁତ୍ର⟩"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ କଣ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "בטני",
+      "gloss": "ମୋ ଗର୍ଭର"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ କଣ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נדרי",
+      "gloss": "ମୋ ପ୍ରତିଜ୍ଞାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:48.376424855Z",
+  "model": "glm-5.3"
+}

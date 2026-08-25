@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ତୃତୀୟ ହାରିମ୍‌ଙ୍କ ପାଇଁ, ଚତୁର୍ଥ ଶିଓରିମ୍‌ଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "ହାରିମ୍‌ଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "ଶିଓରିମ୍‌ଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "ଚତୁର୍ଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:09:15.212580691Z",
+  "model": "glm-5.3"
+}

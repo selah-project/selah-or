@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏବଂ ⟨את⟩ ପ୍ରତ୍ୟେକ କାଉ ତାହାର ପ୍ରକାର ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ପ୍ରତ୍ୟେକ କାଉ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "କାଉ"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ତାହାର ପ୍ରକାର ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:49.201808238Z",
+  "model": "glm-5.3"
+}

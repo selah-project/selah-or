@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 4:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କାଉଁଅ ଓ ପାପ କର ନାହିଁ; ତୁମ୍ଭ ହୃଦୟରେ କୁହ, ତୁମ୍ଭ ଶଯ୍ୟା ଉପରେ, ଓ ମୌନ ରୁହ। ସେଲା।",
+  "tokens": [
+    {
+      "surface": "רגזו",
+      "gloss": "କାଉଁଅ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "תחטאו",
+      "gloss": "ପାପ କର"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "କୁହ"
+    },
+    {
+      "surface": "בלבבכם",
+      "gloss": "ତୁମ୍ଭ ହୃଦୟରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "משכבכם",
+      "gloss": "ତୁମ୍ଭ ଶଯ୍ୟା"
+    },
+    {
+      "surface": "ודמו",
+      "gloss": "ଓ ମୌନ ରୁହ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ସେଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:44:03.009031674Z",
+  "model": "glm-5.3"
+}

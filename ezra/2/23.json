@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଅନାତୋତର ଲୋକମାନେ — ଏକ ଶହ ଆଠାଇଶ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "ଅନାତୋତ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "କୋଡ଼ିଏ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:37.089309816Z",
+  "model": "glm-5.3"
+}

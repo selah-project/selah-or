@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 9:15",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ରାଜା ଶଲୋମୋହ୍ ଦୁଇ ଶହ ପିଟା ସୁନା ଢାଲ ତିଆରି କଲେ — ଛଅ ଶହ ⟨ଶେକେଲ୍⟩ ପିଟା ସୁନା ଗୋଟିଏ ଢାଲ ଉପରେ ଉଠୁଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ତିଆରି କଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋହ୍"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ଢାଲ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ପିଟା"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ପିଟା"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ଉଠୁଥିଲା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הצנה",
+      "gloss": "ଢାଲଟି"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:28.650105869Z",
+  "model": "glm-5.3"
+}

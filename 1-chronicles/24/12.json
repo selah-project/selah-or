@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଏକାଦଶ ଏଲିୟାଶିବଙ୍କ ନିମନ୍ତେ, ଦ୍ୱାଦଶ ୟାକିମ୍‌ଙ୍କ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "ଏଲିୟାଶିବଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ଏକାଦଶ-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-କ"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "ୟାକିମ୍‌ଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦ୍ୱାଦଶ-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:00.689123478Z",
+  "model": "glm-5.3"
+}

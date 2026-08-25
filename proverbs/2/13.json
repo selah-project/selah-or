@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 2:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଯେଉଁମାନେ ସିଧା ପଥ ଛାଡ଼ି ଅନ୍ଧାରର ପଥରେ ଚାଲିବାକୁ ⟨ଚାହାଁନ୍ତି⟩।",
+  "tokens": [
+    {
+      "surface": "העזבים",
+      "gloss": "ଛାଡ଼ିବାମାନେ"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ସିଧା"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ଚାଲିବାକୁ"
+    },
+    {
+      "surface": "בדרכי",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ଅନ୍ଧାରର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:50.294997381Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ଏସାଭଙ୍କ ବଂଶାବଳୀ ଏହି — ସେ ହିଁ ଏଦୋମ୍।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ଆଉ ଏହି"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ବଂଶାବଳୀ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାଭଙ୍କ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ ହିଁ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:13.194627728Z",
+  "model": "glm-5.3"
+}

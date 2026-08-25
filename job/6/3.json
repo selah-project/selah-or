@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 6:3",
+  "book": "job",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ଏବେ ତାହା ସାଗରର ବାଲିଠାରୁ ଭାରୀ; ଏଣୁ ମୋର କଥାଗୁଡ଼ିକ ଅନ୍ଧାଧନ୍ଧ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "מחול",
+      "gloss": "ବାଲି"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ସାଗରର"
+    },
+    {
+      "surface": "יכבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ମୋର କଥାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "לעו",
+      "gloss": "ଅନ୍ଧାଧନ୍ଧ ହେଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:23:05.719656930Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 12:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ପରିଶ୍ରମୀମାନଙ୍କ ହାତ ଶାସନ କରିବ; ଆଉ ଅଳସ କର ପାଇଁ ହେବ।",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "ପରିଶ୍ରମୀମାନଙ୍କ"
+    },
+    {
+      "surface": "תמשול",
+      "gloss": "ଶାସନ କରିବ"
+    },
+    {
+      "surface": "ורמיה",
+      "gloss": "ଆଉ ଅଳସ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "למס",
+      "gloss": "କର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:41.113634310Z",
+  "model": "glm-5.3"
+}

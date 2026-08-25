@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 31:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ମୋଶେ ସେମାନଙ୍କୁ କହିଲେ: ତୁମ୍ଭେମାନେ ସମସ୍ତ ସ୍ତ୍ରୀଲୋକଙ୍କୁ ଜୀଇଁ ରଖିଛ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ସେମାନଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "החייתם",
+      "gloss": "ଜୀଇଁ ରଖିଛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ସ୍ତ୍ରୀଲୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:31:08.035066442Z",
+  "model": "glm-5.3"
+}

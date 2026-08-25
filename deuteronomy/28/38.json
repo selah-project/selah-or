@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଅନେକ ବୀଜ କ୍ଷେତକୁ ବାହାର କରିବ, ଆଉ ଅଳ୍ପ ସଂଗ୍ରହ କରିବ, କାରଣ ⟨the⟩ ଫଡ଼ିଙ୍ଗ ତାହାକୁ ଖାଇ ଯିବ।",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "ବୀଜ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "ବାହାର କରିବ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତ"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "ଆଉ ଅଳ୍ପ"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "ସଂଗ୍ରହ କରିବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "ତାହାକୁ ଖାଇ ଯିବ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "ଫଡ଼ିଙ୍ଗ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:05.387146947Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ମୂର୍ଖ ⟨את⟩ ନିଜ ହାତ ଦୁଇଟି ଆଳିଙ୍ଗନ କରେ ଓ ⟨את⟩ ନିଜ ମାଂସ ଖାଏ।",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ଆଳିଙ୍ଗନ କରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିଜ ହାତ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ନିଜ ହାତ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ଓ ଖାଏ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିଜ ମାଂସ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ନିଜ ମାଂସ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:53.517626789Z",
+  "model": "glm-5.3"
+}

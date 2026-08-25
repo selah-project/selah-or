@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଫଲ୍ଲୁଙ୍କ ପୁତ୍ରମାନେ — ଏଲିୟାବ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ ... ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ଫଲ୍ଲୁଙ୍କ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ଏଲିୟାବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:29.940409238Z",
+  "model": "glm-5.3"
+}

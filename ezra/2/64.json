@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସମଗ୍ର ସଭା ଏକସଙ୍ଗେ ଚାଳିଶ ହଜାର ଦୁଇ ହଜାର ତିନଶହ ଷାଠିଏ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ଏକସଙ୍ଗେ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାଳିଶ (ଚାରି)"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "ହଜାର (ଦଶ ସହସ୍ର)"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ଷାଠିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:32:05.398990456Z",
+  "model": "glm-5.3"
+}

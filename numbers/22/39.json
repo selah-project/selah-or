@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ବିଲଆମ୍ ବାଲାକ୍‌ଙ୍କ ସହ ଗଲେ, ଆଉ ସେମାନେ କିର୍ୟାତ୍-ହୁତ୍ସୋତ୍‌କୁ ଆସିଲେ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ବିଲଆମ୍"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ବାଲାକ୍"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "କିର୍ୟାତ୍"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ହୁତ୍ସୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:40.572187007Z",
+  "model": "glm-5.3"
+}

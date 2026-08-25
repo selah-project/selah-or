@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "କିନ୍ତୁ ଯେଉଁ ଦିନ ତାହାରେ ଜୀବନ୍ତ ମାଂସ ଦେଖାଯିବ, ଅଶୁଦ୍ଧ ⟨ସେ⟩ ହେବ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଯେଉଁ ଦିନ"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ଦେଖାଯିବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାରେ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବନ୍ତ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ଅଶୁଦ୍ଧ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:45.521039130Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ହାରିମର ପୁତ୍ରମାନେ — ତିନିଶହ ବିଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ହାରିମ୍"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ବିଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:30.691162734Z",
+  "model": "glm-5.3"
+}

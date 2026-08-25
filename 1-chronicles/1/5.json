@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ୟେଫେତର ପୁତ୍ରମାନେ: ଗୋମେର, ମାଗୋଗ, ମାଦାୟ, ୟାୱାନ, ତୁବଲ, ମେଶେଖ ଓ ତିରାସ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ୟେଫେତର"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ଗୋମେର"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "ମାଗୋଗ"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "ମାଦାୟ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "ୟାୱାନ"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "ତୁବଲ"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "ମେଶେଖ"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "ତିରାସ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:37.249160857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 29:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଯାହ୍ୱେଙ୍କ ସ୍ୱର ମରୁଭୂମିକୁ କମ୍ପାଏ; ଯାହ୍ୱେ କାଦେଶ୍ ମରୁଭୂମିକୁ କମ୍ପାଏ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "କମ୍ପାଏ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ମରୁଭୂମିକୁ"
+    },
+    {
+      "surface": "יחיל",
+      "gloss": "କମ୍ପାଏ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ମରୁଭୂମିକୁ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "କାଦେଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:43.771663761Z",
+  "model": "glm-5.3"
+}

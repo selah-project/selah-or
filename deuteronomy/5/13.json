@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 5:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଛଅ ଦିନ ତୁମ୍ଭେ ପରିଶ୍ରମ କରିବ ଓ ତୁମ୍ଭର ସମସ୍ତ କାର୍ଯ୍ୟ ସମ୍ପାଦନ କରିବ।",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ତୁମ୍ଭେ ପରିଶ୍ରମ କରିବ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ଓ ସମ୍ପାଦନ କରିବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ତୁମ୍ଭର କାର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:42:13.131104233Z",
+  "model": "glm-5.3"
+}

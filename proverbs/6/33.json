@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଘାତ ଓ ଅପକୀର୍ତ୍ତି ସେ ପାଇବେ, ଆଉ ତାହାର ନିନ୍ଦା ଲିଭିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ଆଘାତ"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "ଓ ଅପକୀର୍ତ୍ତି"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ସେ ପାଇବେ"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "ଆଉ ତାହାର ନିନ୍ଦା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "ଲିଭିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:46.341544256Z",
+  "model": "glm-5.3"
+}

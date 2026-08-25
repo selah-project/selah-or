@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 13:15",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଯେ କେହି ମିଳେ, ସେ ବିଦ୍ଧ ହେବ; ଆଉ ଯେ ଧରାହେବ, ସେ ତରବାରିରେ ପଡ଼ିବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ଯେ କେହି"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ମିଳେ"
+    },
+    {
+      "surface": "ידקר",
+      "gloss": "ସେ ବିଦ୍ଧ ହେବ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ଯେ କେହି"
+    },
+    {
+      "surface": "הנספה",
+      "gloss": "ଧରାହେବ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ସେ ପଡ଼ିବ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ତରବାରିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:29:24.603188315Z",
+  "model": "glm-5.3"
+}

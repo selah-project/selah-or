@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 92:15",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 92,
+  "translation": "ବାର୍ଦ୍ଧକ୍ୟରେ ମଧ୍ୟ ତଥାପି ଫଳ ଦେବେ; ପୁଷ୍ଟ ଓ ସବୁଜ ହୋଇ ରହିବେ।",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ତଥାପି"
+    },
+    {
+      "surface": "ינובון",
+      "gloss": "ଫଳ ଦେବେ"
+    },
+    {
+      "surface": "בשיבה",
+      "gloss": "ବାର୍ଦ୍ଧକ୍ୟରେ"
+    },
+    {
+      "surface": "דשנים",
+      "gloss": "ପୁଷ୍ଟ"
+    },
+    {
+      "surface": "ורעננים",
+      "gloss": "ଓ ସବୁଜ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ହୋଇ ରହିବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:23.065825649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଦାସମାନଙ୍କୁ ମୁଁ ଘୋଡ଼ା ଉପରେ ଦେଖିଅଛି, ଆଉ ସରଦାରମାନେ ଦାସମାନଙ୍କ ପରି ଭୂମି ଉପରେ ଚାଲନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଅଛି"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ଦାସମାନଙ୍କୁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ଘୋଡ଼ା"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "ଆଉ ସରଦାରମାନେ"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "ଚାଲନ୍ତି"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "ଦାସମାନଙ୍କ ପରି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଭୂମି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:26.146578879Z",
+  "model": "glm-5.3"
+}

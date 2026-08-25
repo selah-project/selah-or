@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 33:12",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ହେବେ ଜାତିମାନେ ଚୁନର ଦହନ ସଦୃଶ, କଟା ଯାଇଥିବା କଣ୍ଟକପରି — ଅଗ୍ନିରେ ଜଳିବେ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "ଜାତିମାନେ"
+    },
+    {
+      "surface": "משרפות",
+      "gloss": "ଦହନ"
+    },
+    {
+      "surface": "שיד",
+      "gloss": "ଚୁନ"
+    },
+    {
+      "surface": "קוצים",
+      "gloss": "କଣ୍ଟକ"
+    },
+    {
+      "surface": "כסוחים",
+      "gloss": "କଟା ଯାଇଥିବା"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ଅଗ୍ନିରେ"
+    },
+    {
+      "surface": "יצתו",
+      "gloss": "ଜଳିବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:44:28.175440609Z",
+  "model": "glm-5.3"
+}

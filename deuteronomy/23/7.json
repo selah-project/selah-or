@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ସେମାନଙ୍କ କଲ୍ୟାଣ ଓ ମଙ୍ଗଳ ତୁମେ ଖୋଜିବ ନାହିଁ, ତୁମ ସମସ୍ତ ଦିନ, ସର୍ବଦା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "ତୁମେ ଖୋଜିବ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "ସେମାନଙ୍କ କଲ୍ୟାଣ"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "ଓ ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "ତୁମ ଦିନ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:01.606624929Z",
+  "model": "glm-5.3"
+}

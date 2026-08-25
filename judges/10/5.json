@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଯାଇର୍ ମୃତ୍ୟୁ ବରଣ କଲେ, ଓ ସେ କାମୋନରେ ସମାଧି ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁ ବରଣ କଲେ"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "ଯାଇର୍"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ସମାଧି ହେଲେ"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "କାମୋନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:35:29.830725420Z",
+  "model": "glm-5.3"
+}

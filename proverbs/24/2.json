@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 24:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "କାରଣ ନାଶ ସେମାନଙ୍କ ହୃଦୟ ଚିନ୍ତା କରେ, ଆଉ ଅନ୍ୟାୟ ସେମାନଙ୍କ ଓଷ୍ଠ କହନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ନାଶ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ଚିନ୍ତା କରେ"
+    },
+    {
+      "surface": "לבם",
+      "gloss": "ସେମାନଙ୍କ ହୃଦୟ"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ଆଉ ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "שפתיהם",
+      "gloss": "ସେମାନଙ୍କ ଓଷ୍ଠ"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "କହନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:03.689379318Z",
+  "model": "glm-5.3"
+}

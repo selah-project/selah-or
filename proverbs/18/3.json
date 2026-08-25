@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 18:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଦୁଷ୍ଟ ଆସିବା ବେଳେ ଅବହେଳା ମଧ୍ୟ ଆସେ, ଆଉ ଲଜ୍ଜା ସହିତ ଅପକୀର୍ତ୍ତି।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "ଆସିବା ବେଳେ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ଅବହେଳା"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ଆଉ ସହିତ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ଲଜ୍ଜା"
+    },
+    {
+      "surface": "חרפה",
+      "gloss": "ଅପକୀର୍ତ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:56.870397208Z",
+  "model": "glm-5.3"
+}

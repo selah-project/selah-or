@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଇବହାର, ଏଲିଶାମା ଓ ଏଲିଫଲେତ।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "ଓ ଇବହାର"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "ଓ ଏଲିଶାମା"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ଓ ଏଲିଫଲେତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:52:51.573987395Z",
+  "model": "glm-5.3"
+}

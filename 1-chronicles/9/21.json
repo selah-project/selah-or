@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 9:21",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଜେକରିୟା, ମେଶେଲେମିୟାଙ୍କ ପୁତ୍ର, ମିଳନ-ତମ୍ବୁର ପ୍ରବେଶଦ୍ୱାରରେ ଦ୍ୱାରପାଳ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "זכריה",
+      "gloss": "ଜେକରିୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "משלמיה",
+      "gloss": "ମେଶେଲେମିୟା"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ଦ୍ୱାରପାଳ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ପ୍ରବେଶଦ୍ୱାରରେ"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "ତମ୍ବୁର"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ମିଳନ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:26.091486978Z",
+  "model": "glm-5.3"
+}

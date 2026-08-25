@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 17:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଏକ ମନ୍ଦଲୋକ ଅଧର୍ମର ଓଠକୁ କାନ ପାଟି କରେ, ମିଥ୍ୟାବାଦୀ ବିନାଶର ଜିଭକୁ ଶୁଣେ।",
+  "tokens": [
+    {
+      "surface": "מרע",
+      "gloss": "ଏକ ମନ୍ଦଲୋକ"
+    },
+    {
+      "surface": "מקשיב",
+      "gloss": "କାନ ପାଟି କରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ଅଧର୍ମର ଓଠକୁ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ଅଧର୍ମ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଥ୍ୟାବାଦୀ"
+    },
+    {
+      "surface": "מזין",
+      "gloss": "ଶୁଣେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ବିନାଶର ଜିଭକୁ"
+    },
+    {
+      "surface": "הות",
+      "gloss": "ବିନାଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:30.215371099Z",
+  "model": "glm-5.3"
+}

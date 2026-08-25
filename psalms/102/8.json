@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 102:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 102,
+  "translation": "ମୁଁ ଜାଗି ରହିଲି ଓ ମୁଁ ଛାଦ ଉପରେ ଏକୁଟିଆ ପକ୍ଷୀ ପରି ହେଲି।",
+  "tokens": [
+    {
+      "surface": "שקדתי",
+      "gloss": "ଜାଗି ରହିଲି"
+    },
+    {
+      "surface": "ואהיה",
+      "gloss": "ଓ ମୁଁ ହେଲି"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ପକ୍ଷୀ ପରି"
+    },
+    {
+      "surface": "בודד",
+      "gloss": "ଏକୁଟିଆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ଛାଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:36:01.623635485Z",
+  "model": "glm-5.3"
+}

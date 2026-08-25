@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "1-chronicles 6:60",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ⟨את⟩ ହୁକ୍କୋକ୍ ଓ ⟨את⟩ ତାହାର ଚରିବାଟ, ⟨את⟩ ରେହୋବ୍ ଓ ⟨את⟩ ତାହାର ଚରିବାଟ ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ହୁକ୍କୋକ୍"
+    },
+    {
+      "surface": "חוקק",
+      "gloss": "ହୁକ୍କୋକ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଚରିବାଟ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରିବାଟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ରେହୋବ୍"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ରେହୋବ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଚରିବାଟ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରିବାଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:31.965556708Z",
+  "model": "glm-5.3"
+}

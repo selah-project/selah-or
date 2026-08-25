@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଶାମ୍ମା ⟨ଟି⟩ ହାରାରୀ, ଅଖିୟାମ୍ ଶାରାରଙ୍କ ପୁତ୍ର ହାରାରୀ।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ଶାମ୍ମା"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ହାରାରୀ"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "ଅଖିୟାମ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "ଶାରାରଙ୍କ"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "ହାରାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:40.025612023Z",
+  "model": "glm-5.3"
+}

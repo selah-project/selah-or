@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ କୁଶ ⟨את⟩ ନିମ୍ରୋଦକୁ ଜନ୍ମ ଦେଲା — ସେ ପୃଥିବୀରେ ଏକ ବୀର ହେବାକୁ ଆରମ୍ଭ କଲା।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ଓ କୁଶ"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିମ୍ରୋଦକୁ"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "ନିମ୍ରୋଦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ଆରମ୍ଭ କଲା"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ହେବାକୁ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ଏକ ବୀର"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:07.101840459Z",
+  "model": "glm-5.3"
+}

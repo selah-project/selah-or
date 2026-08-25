@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 137,
+  "translation": "ଆହା, ଆମ୍ଭେ କିପରି ⟨את⟩ ଯାହ୍ୱେଙ୍କ ଗୀତ ଗାଇବା ବିଦେଶୀ ଭୂମି ଉପରେ?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "କିପରି"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "ଆମ୍ଭେ ଗାଇବା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଯାହ୍ୱେଙ୍କ ଗୀତ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ଭୂମି"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ବିଦେଶୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:52:42.609948317Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 8:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ତୋର ଗୋରୁ ଓ ତୋର ମେଷଗଣ ବଢ଼ନ୍ତୁ, ଓ ରୂପା ଓ ସୁନା ତୋପାଇଁ ବଢ଼େ, ଓ ଯାହା କିଛି ତୋର ଅଛି ତାହା ବଢ଼େ।",
+  "tokens": [
+    {
+      "surface": "ובקרך",
+      "gloss": "ଓ ତୋର ଗୋରୁ"
+    },
+    {
+      "surface": "וצאנך",
+      "gloss": "ଓ ତୋର ମେଷଗଣ"
+    },
+    {
+      "surface": "ירבין",
+      "gloss": "ବଢ଼ନ୍ତୁ"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ଓ ରୂପା"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ଓ ସୁନା"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ବଢ଼େ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋପାଇଁ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋର"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ବଢ଼େ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:44:12.040715089Z",
+  "model": "glm-5.3"
+}

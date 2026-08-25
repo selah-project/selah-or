@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ଏବେ, ସତେ ଯଦି ମୁଁ ⟨ହିଁ⟩ ଗୋଏଲ୍ ଅଟି, ତଥାପି ମୋଠାରୁ ନିକଟତର ଜଣେ ଗୋଏଲ୍ ମଧ୍ୟ ⟨ଅଛନ୍ତି⟩।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ସତେ ଯଦି"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "ପ୍ରକୃତରେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ଗୋଏଲ୍"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ତଥାପି"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛନ୍ତି"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "ଗୋଏଲ୍"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ନିକଟତର"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ମୋଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:51:53.379194801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,103 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 13:56",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଓ ଯଦି ଯାଜକ ଦେଖନ୍ତୁ, ଓ ଦେଖ ଧୋଇବା ପରେ ⟨את⟩ କ୍ଷତ ମାଟିଆ ହୋଇଯାଇଛି, ତେବେ ସେ ⟨את⟩ ତାହାକୁ ବସ୍ତ୍ରରୁ କି ଚର୍ମରୁ କି ତାନାରୁ କି ବାଣାରୁ ଛିଣ୍ଡାଇ ଦେବେ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଓ ଯଦି"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖନ୍ତୁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "כהה",
+      "gloss": "ମାଟିଆ ହୋଇଯାଇଛି"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "କ୍ଷତ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "הכבס",
+      "gloss": "ଧୋଇବା"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "କ୍ଷତକୁ"
+    },
+    {
+      "surface": "וקרע",
+      "gloss": "ଓ ଛିଣ୍ଡାଇ ଦେବେ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାକୁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ଚର୍ମ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "השתי",
+      "gloss": "ତାନା"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ବାଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:19.331546742Z",
+  "model": "glm-5.3"
+}

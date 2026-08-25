@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 10:19",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ହୋଦିୟା, ଖାଶୁମ୍, ବେତ୍ସାଇ।",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ହୋଦିୟା"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ଖାଶୁମ୍"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "ବେତ୍ସାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:31.679694022Z",
+  "model": "glm-5.3"
+}

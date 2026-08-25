@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆକାଶର ପକ୍ଷୀ ଓ ସାଗରର ମାଛ, ସାଗରର ପଥଗୁଡ଼ିକ ଦେଇ ଯାଉଥିବା ଯାହା ସବୁ।",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ଆକାଶର"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "ଓ ମାଛ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସାଗରର"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଯାଉଥିବା"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "ପଥଗୁଡ଼ିକ ଦେଇ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ସାଗରର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:46:49.925678999Z",
+  "model": "glm-5.3"
+}

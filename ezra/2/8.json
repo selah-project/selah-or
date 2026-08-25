@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଜାତ୍ତୁର ପୁତ୍ରମାନେ — ନଅ ଶହ ଚାଳିଶି ଓ ପାଞ୍ଚ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ଜାତ୍ତୁର"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ଚାଳିଶି"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:59.848716501Z",
+  "model": "glm-5.3"
+}

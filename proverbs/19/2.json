@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 19:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ମଧ୍ୟ ଜ୍ଞାନ ବିନା ପ୍ରାଣ ⟨ଭଲ⟩ ନୁହେଁ, ଆଉ ପାଦରେ ତ୍ୱରାପଣ କରୁଥିବା ⟨ବ୍ୟକ୍ତି⟩ ପାପ କରେ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "⟨ଭଲ⟩"
+    },
+    {
+      "surface": "ואץ",
+      "gloss": "ଆଉ ତ୍ୱରାପଣ କରୁଥିବା"
+    },
+    {
+      "surface": "ברגלים",
+      "gloss": "ପାଦରେ"
+    },
+    {
+      "surface": "חוטא",
+      "gloss": "ପାପ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:18.253598518Z",
+  "model": "glm-5.3"
+}

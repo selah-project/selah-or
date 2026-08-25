@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ମୋଶେ ଯାହ୍ୱେଙ୍କୁ କହିଲେ, କହିବାକୁ ଯେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:29:03.190562549Z",
+  "model": "glm-5.3"
+}

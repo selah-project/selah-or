@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 15:4",
+  "book": "job",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ବରଂ ତୁମେ ଭୟକୁ ନଷ୍ଟ କରୁଛ, ଓ ଏଲ୍‌ର ସାନ୍ନିଧ୍ୟରେ ଧ୍ୟାନକୁ କମାଉଛ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "תפר",
+      "gloss": "ନଷ୍ଟ କରୁଛ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଭୟକୁ"
+    },
+    {
+      "surface": "ותגרע",
+      "gloss": "ଓ କମାଉଛ"
+    },
+    {
+      "surface": "שיחה",
+      "gloss": "ଧ୍ୟାନକୁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାନ୍ନିଧ୍ୟରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T18:30:37.293315896Z",
+  "model": "glm-5.3"
+}

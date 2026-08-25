@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "କେବଳ ଦୃଢ଼ ରହିବା ପାଇଁ — ରକ୍ତ ନ ଖାଇବାକୁ; କାରଣ ରକ୍ତ ⟨ହିଁ⟩ ପ୍ରାଣ, ଆଉ ପ୍ରାଣକୁ ଖାଇବ ନାହିଁ ମାଂସ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "ଦୃଢ଼ ରହିବା ପାଇଁ"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଇବାକୁ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ହିଁ⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ପ୍ରାଣ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ପ୍ରାଣକୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ମାଂସ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:49:15.561131681Z",
+  "model": "glm-5.3"
+}

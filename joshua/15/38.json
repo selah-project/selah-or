@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଦିଲଆନ୍, ହମିତ୍ସପେ, ୟକତ୍‌ଏଲ୍,",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "ଦିଲଆନ୍"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "ହମିତ୍ସପେ"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "ୟକତ୍‌ଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:53.964352686Z",
+  "model": "glm-5.3"
+}

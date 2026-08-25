@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଅହଂକାର ଆସିଲା, ଆଉ ଲଜ୍ଜା ମଧ୍ୟ ଆସିଲା; ଆଉ ନମ୍ରମାନଙ୍କ ସହିତ ⟨את⟩ ଜ୍ଞାନ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ଅହଂକାର"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ଆଉ ... ଆସିଲା"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ଲଜ୍ଜା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ନମ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "ନମ୍ରମାନଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:23.771484867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଆଉ ଗୋରୁ — ଛତିଶହ ହଜାର।",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ଆଉ ଗୋରୁ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ଏବଂ ତିରିଶ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:55:21.298263123Z",
+  "model": "glm-5.3"
+}

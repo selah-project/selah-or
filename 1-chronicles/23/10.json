@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଶିମିର ପୁତ୍ରମାନେ — ୟାହତ୍, ଜିନା, ୟେଉଶ୍ ଓ ବେରିଆହ୍; ଏହି ଚାରି ଜଣ ଶିମିର ପୁତ୍ର ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମିର"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ୟାହତ୍"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "ଜିନା"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ଓ ୟେଉଶ୍"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ଓ ବେରିଆହ୍"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମିର"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚାରି ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:58.516536562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଶେତର ସମସ୍ତ ଦିନମାନ ବାରଶହ ବର୍ଷ ଓ ନଅଶହ ବର୍ଷ ହେଲା, ଏବଂ ସେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନମାନ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ଶେତର"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ଓ ନଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁବରଣ କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:16:56.152377776Z",
+  "model": "glm-5.3"
+}

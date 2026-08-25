@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଲାମେଖ୍ ଏକଶହ ଅଶୀରେ ଦୁଇ ବର୍ଷ ବଞ୍ଚିଲେ, ଏବଂ ଗୋଟିଏ ପୁତ୍ର ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ବଞ୍ଚିଲେ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ଲାମେଖ୍"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ଅଶୀରେ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:12.022148415Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 7:1",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏବଂ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ' ପ୍ରତି ଆସିଲା, କହିବାକୁ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ... ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ' ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:54:04.010652335Z",
+  "model": "glm-5.3"
+}

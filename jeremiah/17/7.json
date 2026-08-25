@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 17:7",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଧନ୍ୟ ⟨ସେ⟩ ମଣିଷ ଯିଏ ଯାହ୍ୱେରେ ଭରସା ରଖେ, ଆଉ ଯାହ୍ୱେ ହେବ ⟨ତାହାର⟩ ଭରସାସ୍ଥଳ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "יבטח",
+      "gloss": "ଭରସା ରଖେ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ଯାହ୍ୱେରେ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ଆଉ … ହେବ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מבטחו",
+      "gloss": "ତାହାର ଭରସାସ୍ଥଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:17:43.607653937Z",
+  "model": "glm-5.3"
+}

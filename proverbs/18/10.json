@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 18:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ସାମର୍ଥ୍ୟର ଦୁର୍ଗ ⟨ଅଟେ⟩ ଯାହ୍ୱେଙ୍କ ନାମ; ସେଥିରେ ଧାର୍ମିକ ଦୌଡ଼େ ଓ ଉଚ୍ଚ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "מגדל",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ସାମର୍ଥ୍ୟର"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "ירוץ",
+      "gloss": "ଦୌଡ଼େ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "ונשגב",
+      "gloss": "ଓ ଉଚ୍ଚ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.042301142Z",
+  "model": "glm-5.3"
+}

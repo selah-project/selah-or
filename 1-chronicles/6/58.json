@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "1-chronicles 6:58",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ⟨את⟩ ରାମୋତ୍ ଓ ⟨את⟩ ତାହାର ଚରିବାଟ, ⟨את⟩ ଅନେମ୍ ଓ ⟨את⟩ ତାହାର ଚରିବାଟ ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ରାମୋତ୍"
+    },
+    {
+      "surface": "ראמות",
+      "gloss": "ରାମୋତ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଚରିବାଟ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରିବାଟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଅନେମ୍"
+    },
+    {
+      "surface": "ענם",
+      "gloss": "ଅନେମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଚରିବାଟ"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରିବାଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:31.965314843Z",
+  "model": "glm-5.3"
+}

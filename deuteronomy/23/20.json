@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 23:20",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ତୁମ୍ହ ଭାଇକୁ ସୁଦ ଦେବ ନାହିଁ — ରୂପାର ସୁଦ, ଖାଦ୍ୟର ସୁଦ, ଯେକୌଣସି ବସ୍ତୁର ସୁଦ ଯାହା ଉପରେ ସୁଦ ନିଆଯାଏ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשיך",
+      "gloss": "ସୁଦ ଦେବ"
+    },
+    {
+      "surface": "לאחיך",
+      "gloss": "ତୁମ୍ହ ଭାଇକୁ"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ସୁଦ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ରୂପାର"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ସୁଦ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଦ୍ୟର"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ସୁଦ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ଯେକୌଣସି"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବସ୍ତୁର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ସୁଦ ନିଆଯାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:28.470477148Z",
+  "model": "glm-5.3"
+}

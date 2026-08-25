@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ମୁଁ ⟨କହୁଅଛି⟩ — ରାଜାର ମୁଖ ରକ୍ଷା କର, ଏବଂ ଏଲୋହିମ୍‌ଙ୍କ ଶପଥର କାରଣରେ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "ରକ୍ଷା କର"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... କାରଣରେ"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ଯୋଗୁ"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "ଶପଥର"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.907403430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 6:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କଥା ହେଲେ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:37:42.880991422Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ୟେହାଲେଲେଲର ପୁତ୍ରମାନେ — ଜିଫ୍, ଜିଫା, ତିରିୟା ଓ ଅସାରେଲ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "ୟେହାଲେଲେଲର"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ଜିଫ୍"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "ଜିଫା"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "ତିରିୟା"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "ଓ ଅସାରେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:37.974061752Z",
+  "model": "glm-5.3"
+}

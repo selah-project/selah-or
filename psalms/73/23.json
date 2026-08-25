@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 73:23",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 73,
+  "translation": "ତଥାପି ମୁଁ ସର୍ବଦା ତୁମ୍ଭ ସହିତ ⟨ଅଛି⟩; ତୁମ୍ଭେ ମୋହର ଦକ୍ଷିଣ ହାତକୁ ଧରିଅଛ।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ଓ ମୁଁ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ତୁମ୍ଭ ସହିତ"
+    },
+    {
+      "surface": "אחזת",
+      "gloss": "ଧରିଅଛ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତକୁ"
+    },
+    {
+      "surface": "ימיני",
+      "gloss": "ମୋହର ଦକ୍ଷିଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:22:02.956530196Z",
+  "model": "glm-5.3"
+}

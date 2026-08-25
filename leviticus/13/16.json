@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "କିମ୍ବା ଯଦି ଜୀବନ୍ତ ମାଂସ ଫେରିଆସେ ଓ ଧଳାକୁ ପରିଣତ ହୁଏ, ତେବେ ⟨ସେ⟩ ଯାଜକ ପାଖକୁ ଆସିବ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରିଆସେ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ଜୀବନ୍ତ"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "ଓ ପରିଣତ ହୁଏ"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ଧଳାକୁ"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "ଓ ଆସିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:45.521290883Z",
+  "model": "glm-5.3"
+}

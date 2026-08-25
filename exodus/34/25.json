@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଚମେଚ୍ ସହିତ ମୋର ବଳିର ରକ୍ତ ବଧ କରିବ ନାହିଁ; ପାସହା ପର୍ବର ବଳି ସକାଳ ପର୍ଯ୍ୟନ୍ତ ରହିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "ବଧ କରିବ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ଚମେଚ୍"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ମୋର ବଳିର"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ରହିବ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "ସକାଳ ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ବଳି"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ପର୍ବର"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ପାସହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:28:39.742282956Z",
+  "model": "glm-5.3"
+}

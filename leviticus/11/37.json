@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ଯଦି ସେମାନଙ୍କ ମୃତଦେହରୁ କିଛି ପଡ଼େ ବୁଣାଯିବା ବୀଜ ଉପରକୁ, ଯାହା ବୁଣାଯିବ — ତାହା ଶୁଦ୍ଧ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ପଡ଼େ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "ସେମାନଙ୍କ ମୃତଦେହରୁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ଯେକୌଣସି"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ବୀଜ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ବୁଣାଯିବା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ବୁଣାଯିବ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ଶୁଦ୍ଧ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:29.665937284Z",
+  "model": "glm-5.3"
+}

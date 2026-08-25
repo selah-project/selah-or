@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଶେଫାତଯାହଙ୍କ ପୁତ୍ରମାନେ — ତିନି ଶହ ଏହତର ଶହ ଦୁଇ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ଶେଫାତଯାହଙ୍କ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ଏହତର"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଏବଂ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:42:06.609554813Z",
+  "model": "glm-5.3"
+}

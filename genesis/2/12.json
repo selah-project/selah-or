@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ସେହି ଦେଶର ସୁନା ଉତ୍ତମ; ସେଠାରେ ବେଦୋଲାଖ ଓ ଶୋହାମ୍ ପଥର ଅଛି ।",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "ଏବଂ ସୁନା"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ବେଦୋଲାଖ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଓ ପଥର"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "ଶୋହାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:16:36.692353293Z",
+  "model": "glm-5.3"
+}

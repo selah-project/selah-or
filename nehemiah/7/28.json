@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବେତ୍-ଅଜ୍ମାଭେତର ଲୋକମାନେ — ବୟାଳିଶି।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ଅଜ୍ମାଭେତର"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:56.682850844Z",
+  "model": "glm-5.3"
+}

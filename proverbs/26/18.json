@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ପାଗଳ ଲୋକ ପରି — ଯିଏ ନିଆଁ ଝଲକ, ତୀର ଓ ମୃତ୍ୟୁ ଫିଙ୍ଗୁଛି —",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "ପାଗଳ ପରି"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "ଫିଙ୍ଗୁଥିବା"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "ନିଆଁ ଝଲକ"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "ତୀର"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "ଓ ମୃତ୍ୟୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:25.089685553Z",
+  "model": "glm-5.3"
+}

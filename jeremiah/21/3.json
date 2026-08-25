@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 21:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଯିର୍ମିୟାହ ସେମାନଙ୍କୁ କହିଲେ, ଏପରି କହିବ ଜିଦକିୟାଙ୍କୁ —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ଯିର୍ମିୟାହ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "ସେମାନଙ୍କୁ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "תאמרן",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ଜିଦକିୟାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:56:02.169420087Z",
+  "model": "glm-5.3"
+}

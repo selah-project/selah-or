@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେ ଓ ଅହରୋନ୍‌ଙ୍କ ପ୍ରତି କହିଲେ, କି ଏମିତି କୁହନ୍ତୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପ୍ରତି"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କି ଏମିତି କୁହନ୍ତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:04:15.334130649Z",
+  "model": "glm-5.3"
+}

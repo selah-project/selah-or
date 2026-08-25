@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଶାଉଲଙ୍କ ମାମୁଁ କହିଲେ, ଦୟାକରି ମୋତେ କୁହ — ଶମୂଏଲ୍ ତୁମମାନଙ୍କୁ କ'ଣ କହିଲେ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ମାମୁଁ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲଙ୍କ"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "କୁହ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଦୟାକରି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମମାନଙ୍କୁ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ଶମୂଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:52:56.906281459Z",
+  "model": "glm-5.3"
+}

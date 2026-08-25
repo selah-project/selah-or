@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ସୁନା ଘଣ୍ଟି ଓ ଆନାର ଫଳ, ସୁନା ଘଣ୍ଟି ଓ ଆନାର ଫଳ — ଲୁଙ୍ଗିର କିନାରା ଉପରେ ଚାରିଆଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "ଘଣ୍ଟି"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ଓ ଆନାର ଫଳ"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "ଘଣ୍ଟି"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "ଓ ଆନାର ଫଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "କିନାରା"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "ଲୁଙ୍ଗିର"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:24:17.672813423Z",
+  "model": "glm-5.3"
+}

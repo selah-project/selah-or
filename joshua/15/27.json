@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଏବଂ ହାଜାର୍-ଗାଦା, ଏବଂ ହେଶମୋନ୍, ଏବଂ ବେତ୍-ପାଲେତ୍।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ଏବଂ ହାଜାର୍"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "-ଗାଦା"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "ଏବଂ ହେଶମୋନ୍"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ଏବଂ ବେତ୍"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "-ପାଲେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:19.308347238Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ପ୍ରଭାତରେ ବୁଣ ⟨את⟩ ତୁମ ବିହନ, ଆଉ ସନ୍ଧ୍ୟାରେ ଛାଡ଼ିଦିଅ ନାହିଁ ତୁମ ହାତ, କାରଣ ତୁମେ ଜାଣ ନାହଁ କେଉଁଠି ସଫଳ ହେବ — ଏହି ବି, ନା ସେହି ବି; ଆଉ ଯଦି ଉଭୟ ଏକପରି ଭଲ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ପ୍ରଭାତରେ"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ବୁଣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁମ ବିହନ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ତୁମ ବିହନ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "ଆଉ ସନ୍ଧ୍ୟାରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ଛାଡ଼ିଦିଅ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ତୁମ ହାତ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "ନାହଁ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "କେଉଁଠି"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "ସଫଳ ହେବ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "או",
+      "gloss": "ବି ନା"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ଉଭୟ"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "ଏକପରି"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "ଭଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:05:24.327537465Z",
+  "model": "glm-5.3"
+}

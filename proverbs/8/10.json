@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 8:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ମୋର ଶିକ୍ଷା ଗ୍ରହଣ କର, ଚାନ୍ଦି ନୁହେଁ, ଆଉ ଜ୍ଞାନ — ବଛା ସୁନାଠାରୁ ଅଧିକ ।",
+  "tokens": [
+    {
+      "surface": "קחו",
+      "gloss": "ଗ୍ରହଣ କର"
+    },
+    {
+      "surface": "মोसरי",
+      "gloss": "ମୋର ଶିକ୍ଷା"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ନୁହେଁ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ଚାନ୍ଦି"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଆଉ ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "ସୁନାଠାରୁ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ବଛା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:30.336408214Z",
+  "model": "glm-5.3"
+}

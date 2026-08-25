@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ୱାନିୟା, ମେରେମୋତ, ଏଲିୟାଶିବ।",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "ୱାନିୟା"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ମେରେମୋତ"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "ଏଲିୟାଶିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:35:52.038230079Z",
+  "model": "glm-5.3"
+}

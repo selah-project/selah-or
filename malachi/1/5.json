@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "malachi 1:5",
+  "book": "malachi",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ତୁମ୍ଭର ଆଖି ଦେଖିବ ଓ ତୁମ୍ଭେ କହିବ — ୟାହୱାଃ ଇସ୍ରାଏଲ୍‌ର ସୀମାରୁ ମହାନ।",
+  "tokens": [
+    {
+      "surface": "ועיניכם",
+      "gloss": "ତୁମ୍ଭର ଆଖି"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "ଦେଖିବ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "ଓ ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "תאמרו",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "יגדל",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହୱାଃ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T16:41:58.186389379Z",
+  "model": "glm-5.3"
+}

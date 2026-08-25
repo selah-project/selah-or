@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ପୁତ୍ର ଏଲ୍‌କାନା, ପୁତ୍ର ୟେରୋହାମ୍, ପୁତ୍ର ଏଲିଏଲ୍, ପୁତ୍ର ତୋଆହ୍।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ଏଲ୍‌କାନା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ୟେରୋହାମ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ଏଲିଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "ତୋଆହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:48.701026659Z",
+  "model": "glm-5.3"
+}

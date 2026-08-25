@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "କିଏ ଏ ସବୁ ଜାଣେ ନାହିଁ ଯେ ଯାହ୍ୱେଙ୍କ ହାତ ଏହା କରିଅଛି?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ଏ ସବୁ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି ସବୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "କରିଅଛି"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:26:09.696170155Z",
+  "model": "glm-5.3"
+}

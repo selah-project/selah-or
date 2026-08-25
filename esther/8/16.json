@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯିହୂଦୀମାନଙ୍କ ପାଇଁ ଆଲୋକ, ଆନନ୍ଦ, ଉଲ୍ଲାସ ଓ ସମ୍ମାନ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "ଯିହୂଦୀମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "ଉଲ୍ଲାସ"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "ଓ ସମ୍ମାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:09:55.049022699Z",
+  "model": "glm-5.3"
+}

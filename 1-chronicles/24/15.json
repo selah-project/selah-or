@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ସତର ନମ୍ବର ହେଜିରଙ୍କ ପାଇଁ, ଅଠର ନମ୍ବର ହାପିଜ୍ଜେସଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "ହେଜିରଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "ହାପିଜ୍ଜେସଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ଆଠ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:23.848028728Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହାନାନ୍ ମାଆଖାର ପୁତ୍ର, ଓ ୟୋଶାଫାତ୍ ମିତ୍ନୀୟ।",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ହାନାନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ମାଆଖା"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "ୟୋଶାଫାତ୍"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ମିତ୍ନୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:12.245539303Z",
+  "model": "glm-5.3"
+}

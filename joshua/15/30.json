@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ଏଲ୍‌ତୋଲାଦ୍ ଓ ଖେସିଲ୍ ଓ ଖର୍ମା।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "ଓ ଏଲ୍‌ତୋଲାଦ୍"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ଓ ଖେସିଲ୍"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "ଓ ଖର୍ମା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:53.832949864Z",
+  "model": "glm-5.3"
+}

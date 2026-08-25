@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 8:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଜେବଦିୟା, ଅରଦ୍ ଓ ଏଦେର୍।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ଓ ଜେବଦିୟା"
+    },
+    {
+      "surface": "וערד",
+      "gloss": "ଓ ଅରଦ୍"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ଓ ଏଦେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:27.175311199Z",
+  "model": "glm-5.3"
+}

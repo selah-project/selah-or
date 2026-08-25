@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 103:14",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 103,
+  "translation": "କାରଣ ⟨ତାହାଙ୍କ⟩ ଆମର ଗଠନ ଜଣା ଅଛି; ⟨ତାହାଙ୍କ⟩ ସ୍ମରଣ ଅଛି ଯେ ଆମେ ଧୂଳି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ତାହାଙ୍କ⟩"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜଣା ଅଛି"
+    },
+    {
+      "surface": "יצרנו",
+      "gloss": "ଆମର ଗଠନ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ସ୍ମରଣ ଅଛି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "ଆମେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:35:05.507224118Z",
+  "model": "glm-5.3"
+}

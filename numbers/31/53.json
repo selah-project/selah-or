@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ସୈନ୍ୟବାହିନୀର ଲୋକେ ଲୁଣ୍ଠନ କରିଥିଲେ, ପ୍ରତ୍ୟେକ ଜଣ ନିଜ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକେ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ସୈନ୍ୟବାହିନୀର"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ଲୁଣ୍ଠନ କରିଥିଲେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ପ୍ରତ୍ୟେକ ଜଣ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ନିଜ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:30:36.949838480Z",
+  "model": "glm-5.3"
+}

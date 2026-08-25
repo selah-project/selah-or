@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗାଜ୍ଜାମର ପୁତ୍ରମାନେ, ଉଜ୍ଜାର ପୁତ୍ରମାନେ, ପାସେଆଖର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "ଗାଜ୍ଜାମର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "ଉଜ୍ଜାର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ପାସେଆଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:37.240654571Z",
+  "model": "glm-5.3"
+}

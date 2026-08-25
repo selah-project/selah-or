@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 10:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମିଛ ଓଠରେ ଘୃଣା ଲୁଚାଏ, ଆଉ ଯିଏ ନିନ୍ଦା ବାହାର କରେ, ସେ ମୂର୍ଖ।",
+  "tokens": [
+    {
+      "surface": "מכסה",
+      "gloss": "ଲୁଚାଏ"
+    },
+    {
+      "surface": "שנאה",
+      "gloss": "ଘୃଣା"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ଓଠରେ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଛ"
+    },
+    {
+      "surface": "ומוצא",
+      "gloss": "ଆଉ ଯିଏ ବାହାର କରେ"
+    },
+    {
+      "surface": "דבה",
+      "gloss": "ନିନ୍ଦା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ମୂର୍ଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:03.922332873Z",
+  "model": "glm-5.3"
+}

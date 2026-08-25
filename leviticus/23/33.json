@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 23:33",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ, କହିବାକୁ ଲାଗି,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଲାଗି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:56:01.630808461Z",
+  "model": "glm-5.3"
+}

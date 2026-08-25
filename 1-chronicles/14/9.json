@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ପଲିଶ୍ତିମାନେ ଆସିଲେ ଓ ରାଫା-ଉପତ୍ୟକାରେ ପ୍ରସାରିତ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "ପଲିଶ୍ତିମାନେ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "ପ୍ରସାରିତ ହେଲେ"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ରାଫା-"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:30.086798605Z",
+  "model": "glm-5.3"
+}

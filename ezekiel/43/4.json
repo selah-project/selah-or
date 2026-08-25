@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 43:4",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ କାଭୋଦ୍ ସେହି ଦ୍ୱାର ଦେଇ ଗୃହକୁ ପ୍ରବେଶ କଲା, ଯାହାର ମୁହଁ ପୂର୍ବ ଦିଗକୁ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "וכבוד",
+      "gloss": "ଆଉ କାଭୋଦ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ପ୍ରବେଶ କଲା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ଦେଇ"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ମୁହଁ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ଦିଗକୁ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ପୂର୍ବ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:41:23.523130082Z",
+  "model": "glm-5.3"
+}

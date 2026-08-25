@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ନୂହା କଲେ ସମସ୍ତ ଯାହା ଯାହ୍ୱେ ତାଙ୍କୁ ଆଜ୍ଞା ଦେଇଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୂହା"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ସମସ୍ତ ଅନୁସାରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ତାଙ୍କୁ ଆଜ୍ଞା ଦେଇଥିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:00.255658721Z",
+  "model": "glm-5.3"
+}

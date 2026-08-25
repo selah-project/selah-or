@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "zechariah 12:14",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ବଳକା ଥିବା ସମସ୍ତ ବଂଶମାନେ — ବଂଶ ପରେ ବଂଶ ଅଲଗା, ଆଉ ⟨ସେମାନଙ୍କର⟩ ସ୍ତ୍ରୀମାନେ ଅଲଗା।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "המשפחות",
+      "gloss": "ବଂଶମାନେ"
+    },
+    {
+      "surface": "הנשארות",
+      "gloss": "ବଳକା ଥିବା"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ଅଲଗା"
+    },
+    {
+      "surface": "ונשיהם",
+      "gloss": "ଆଉ ସ୍ତ୍ରୀମାନେ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ଅଲଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:35:55.422569777Z",
+  "model": "glm-5.3"
+}

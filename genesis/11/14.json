@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 11:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଶେଲାଖ୍ ତିନିଶହ ବର୍ଷ ବଞ୍ଚିଲେ, ଏବଂ ⟨את⟩ ଏବେରଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ושלח",
+      "gloss": "ଶେଲାଖ୍"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ବଞ୍ଚିଲେ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିନିଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏବେରଙ୍କୁ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଏବେର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:23:17.994642555Z",
+  "model": "glm-5.3"
+}

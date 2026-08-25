@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ସେହି ରାତିରେ ଏହା ଘଟିଲା ଯେ ଏଲୋହିମ୍‌ଙ୍କ ବାକ୍ୟ ନାଥାନ୍‌ଙ୍କ ନିକଟକୁ ଆସିଲା, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏହା ଘଟିଲା"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତିରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଘଟିଲା ଯେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ନାଥାନ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:06:37.884329177Z",
+  "model": "glm-5.3"
+}

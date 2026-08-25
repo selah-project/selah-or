@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "କିନ୍ତୁ ଏହି କଥା, ଯାହା ମୁଁ ତୁମ୍ଭ କାନରେ ଓ ସମସ୍ତ ପ୍ରଜାଙ୍କ କାନରେ କହୁଅଛି, ତାହା ଦୟାକରି ଶୁଣ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଦୟାକରି"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହୁଅଛି"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "ତୁମ୍ଭ କାନରେ"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "ଓ … କାନରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:11:22.506031565Z",
+  "model": "glm-5.3"
+}

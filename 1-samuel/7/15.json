@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 7:15",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଶମୁଏଲ ଆପଣା ଜୀବନର ସମସ୍ତ ଦିନ ⟨את⟩ ଇସ୍ରାଏଲକୁ ବିଚାର କରିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "ବିଚାର କରିଥିଲେ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ଶମୁଏଲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଇସ୍ରାଏଲକୁ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "חייו",
+      "gloss": "ଆପଣା ଜୀବନର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:50:13.382307539Z",
+  "model": "glm-5.3"
+}

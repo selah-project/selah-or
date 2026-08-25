@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 85:13",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 85,
+  "translation": "ଯାହ୍ୱେ ମଧ୍ୟ ⟨the⟩ ଉତ୍ତମ ଦେବେ, ଆଉ ଆମ୍ଭର ଭୂମି ⟨the⟩ ନିଜର ଫସଲ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେବେ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "וארצנו",
+      "gloss": "ଆଉ ଆମ୍ଭର ଭୂମି"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "יבולה",
+      "gloss": "ନିଜର ଫସଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:28:32.915029469Z",
+  "model": "glm-5.3"
+}

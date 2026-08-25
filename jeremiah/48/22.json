@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଏବଂ ଦିବୋନ୍ ଉପରେ, ଏବଂ ନେବୋ ଉପରେ, ଏବଂ ବେତ୍-ଦିବ୍ଲାତାୟିମ୍ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ଦିବୋନ୍"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ନେବୋ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "ଦିବ୍ଲାତାୟିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:19:24.595187499Z",
+  "model": "glm-5.3"
+}

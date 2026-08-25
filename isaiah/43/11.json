@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ମୁଁ, ମୁଁ ହିଁ ଯାହ୍ୱେ, ଆଉ ମୋ' ବ୍ୟତୀତ କୌଣସି ଉଦ୍ଧାରକ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ ହିଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ମୋ' ବ୍ୟତୀତ"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ଉଦ୍ଧାରକ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:59:37.124939995Z",
+  "model": "glm-5.3"
+}

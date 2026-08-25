@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଏଫ୍ରାୟିମର ଗୋଷ୍ଠୀ ପାଇଁ — ହୋଶେଆ, ନୁନର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ଏଫ୍ରାୟିମର"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "ହୋଶେଆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ନୁନର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:17.552352044Z",
+  "model": "glm-5.3"
+}

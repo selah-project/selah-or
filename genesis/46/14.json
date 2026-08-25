@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଆଉ ଜେବୁଲୁନଙ୍କ ପୁତ୍ରମାନେ — ସେରେଦ୍, ଏଲୋନ୍ ଓ ୟାହଲେଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ଜେବୁଲୁନ"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "ସେରେଦ୍"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "ଏଲୋନ୍"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "ୟାହଲେଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:48:36.617272414Z",
+  "model": "glm-5.3"
+}

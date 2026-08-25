@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 2:4",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଶେଫାଟୟାର ପୁତ୍ରମାନେ — ତିନି ଶହ, ଶହ ଆଶୀ ଓ ଦୁଇ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "ଶେଫାଟୟାର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ଶହ ଆଶୀ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଓ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:28:24.145911113Z",
+  "model": "glm-5.3"
+}

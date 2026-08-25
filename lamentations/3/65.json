@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 65,
+  "ref": "lamentations 3:65",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତୁମ୍ଭେ ସେମାନଙ୍କୁ ଦିଅ ହୃଦୟର ଆବରଣ, ତାଡ଼ନାବାଣ — ସେମାନଙ୍କ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "תתן",
+      "gloss": "ତୁମ୍ଭେ ଦିଅ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କୁ"
+    },
+    {
+      "surface": "מגנת",
+      "gloss": "ଆବରଣ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟର"
+    },
+    {
+      "surface": "תאלתך",
+      "gloss": "ତାଡ଼ନାବାଣ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କ ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:51.348312594Z",
+  "model": "glm-5.3"
+}

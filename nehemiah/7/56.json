@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ନେଜିଆଖ୍‌ଙ୍କ ପୁତ୍ରମାନେ, ହାତିଫାଙ୍କ ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ନେଜିଆଖ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ହାତିଫାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:51.044723855Z",
+  "model": "glm-5.3"
+}

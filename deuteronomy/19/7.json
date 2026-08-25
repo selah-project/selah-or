@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଏଣୁ ମୁଁ ତୁମକୁ ଆଜ୍ଞା ଦେଉଛି, କହିବାକୁ ଯେ — ତୁମ ପାଇଁ ତିନିଟି ସହର ଅଲଗା କର।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଏଣୁ ସମ୍ବନ୍ଧରେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ତୁମକୁ ଆଜ୍ଞା ଦେଉଛି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନିଟି"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ସହର"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ଅଲଗା କର"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:54:32.003752038Z",
+  "model": "glm-5.3"
+}

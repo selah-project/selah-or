@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 4:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଏଶ୍ତୋନ ⟨את⟩ ବେତ୍-ରାଫା, ⟨את⟩ ପାସେହା ଓ ⟨את⟩ ଇର-ନାହାଶର ପିତା ତେହିନ୍ନାଙ୍କୁ ଜନ୍ମ କଲେ; ଏହିମାନେ ରେକାର ଲୋକ।",
+  "tokens": [
+    {
+      "surface": "ואשתון",
+      "gloss": "ଆଉ ଏଶ୍ତୋନ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବେତ୍-ରାଫା"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "ରାଫା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ପାସେହା"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ପାସେହା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ତେହିନ୍ନାଙ୍କୁ"
+    },
+    {
+      "surface": "תחנה",
+      "gloss": "ତେହିନ୍ନା"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ଇର"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ନାହାଶ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହିମାନେ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "רכה",
+      "gloss": "ରେକାର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:33.794334772Z",
+  "model": "glm-5.3"
+}

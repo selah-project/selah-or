@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଶିମଆ ⟨ତାହାଙ୍କ ପୁତ୍ର⟩, ହାଗିୟା ⟨ତାହାଙ୍କ ପୁତ୍ର⟩, ଆସାୟା ⟨ତାହାଙ୍କ ପୁତ୍ର⟩।",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "ଶିମଆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "ହାଗିୟା"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ଆସାୟା"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:01.968433278Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଏଷ୍ଟର ମାର୍ଦୋଖାଇଙ୍କ ନିକଟକୁ ଉତ୍ତର ପଠାଇବାକୁ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଆଉ … କହିଲେ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ଏଷ୍ଟର"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ଉତ୍ତର ପଠାଇବାକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "ମାର୍ଦୋଖାଇଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:06:16.885781633Z",
+  "model": "glm-5.3"
+}

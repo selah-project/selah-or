@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ସେ ସେଠାରୁ ବେଏର-ଶେବାକୁ ଉଠିଗଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ଉଠିଗଲେ"
+    },
+    {
+      "surface": "משם",
+      "gloss": "ସେଠାରୁ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ବେଏର-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେବା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:35:35.691144381Z",
+  "model": "glm-5.3"
+}

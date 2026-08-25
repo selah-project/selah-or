@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ଏଲୀହୁ ଯୋଡ଼ି କହିଲା:",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ଯୋଡ଼ିଲା"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "ଏଲୀହୁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:41:37.528218202Z",
+  "model": "glm-5.3"
+}

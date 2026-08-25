@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-kings 4:32",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଏଲୀଶା ଘର ଭିତରକୁ ଗଲେ, ଆଉ ଦେଖ — ପିଲାଟି ମୃତ, ତାହାର ଖଟଣା ଉପରେ ଶୋଇଛି।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "ଏଲୀଶା"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ଘର ଭିତରକୁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ପିଲାଟି"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ମୃତ"
+    },
+    {
+      "surface": "משכב",
+      "gloss": "ଶୋଇଛି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "ତାହାର ଖଟଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T12:02:22.403673328Z",
+  "model": "glm-5.3"
+}

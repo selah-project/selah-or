@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 3:2",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ବୀର ଓ ଯୁଦ୍ଧର ଲୋକ, ବିଚାରକ ଓ ଭାବବାଦୀ, ଜ୍ୟୋତିଷୀ ଓ ବୃଦ୍ଧ —",
+  "tokens": [
+    {
+      "surface": "גבור",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ଓ ଲୋକ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧର"
+    },
+    {
+      "surface": "שופט",
+      "gloss": "ବିଚାରକ"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "ଓ ଭାବବାଦୀ"
+    },
+    {
+      "surface": "וקסם",
+      "gloss": "ଓ ଜ୍ୟୋତିଷୀ"
+    },
+    {
+      "surface": "וזקן",
+      "gloss": "ଓ ବୃଦ୍ଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:23:43.166018425Z",
+  "model": "glm-5.3"
+}

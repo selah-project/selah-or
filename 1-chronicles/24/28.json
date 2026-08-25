@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ମାହଲୀଙ୍କ ପକ୍ଷରୁ — ଏଲଅଜାର୍; ତା'ର ପୁତ୍ରମାନେ ନ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "ମାହଲୀଙ୍କ ପକ୍ଷରୁ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ଏଲଅଜାର୍"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତା'ର"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:05.928983367Z",
+  "model": "glm-5.3"
+}

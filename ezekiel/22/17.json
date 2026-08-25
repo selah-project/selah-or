@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ' ପ୍ରତି ଆସିଲା, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ' ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:19:49.475699277Z",
+  "model": "glm-5.3"
+}

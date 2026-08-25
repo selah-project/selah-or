@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 19:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଅନେକ ଉଦାରବାନଙ୍କ ମୁଖ ପାଇଁ ନିବେଦନ କରନ୍ତି, ଆଉ ସମସ୍ତେ ⟨ଉପହାରଦାତା⟩ ମଣିଷର ବନ୍ଧୁ।",
+  "tokens": [
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "יחלו",
+      "gloss": "ନିବେଦନ କରନ୍ତି"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ଉଦାରବାନ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତେ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ବନ୍ଧୁ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "מתן",
+      "gloss": "ଉପହାରଦାତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:26.355384893Z",
+  "model": "glm-5.3"
+}

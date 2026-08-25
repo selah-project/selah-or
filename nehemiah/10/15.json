@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ପ୍ରଜାମାନଙ୍କର ମୁଖିଆ: ପରୋଶ୍, ପାଖତ୍-ମୋଆବ୍, ଏଲାମ୍, ଜାତ୍ତୁ, ବାନି,",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "ମୁଖିଆମାନେ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜାମାନଙ୍କର"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ପରୋଶ୍"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "ପାଖତ୍"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବ୍"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମ୍"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ଜାତ୍ତୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ବାନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:45.210759640Z",
+  "model": "glm-5.3"
+}

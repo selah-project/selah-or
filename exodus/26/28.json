@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 26:28",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ମଝି କିଲକଟି ତକ୍ତାଗୁଡ଼ିକ ମଧ୍ୟରେ ଗୋଟିଏ ପ୍ରାନ୍ତରୁ ଅନ୍ୟ ପ୍ରାନ୍ତ ପର୍ଯ୍ୟନ୍ତ ଖସି ଯିବ।",
+  "tokens": [
+    {
+      "surface": "והבריח",
+      "gloss": "ଆଉ ⟨the⟩ କିଲକ"
+    },
+    {
+      "surface": "התיכן",
+      "gloss": "ମଝି"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "הקרשים",
+      "gloss": "ତକ୍ତାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "מברח",
+      "gloss": "ଖସି ଯିବ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨the⟩ ପ୍ରାନ୍ତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "הקצה",
+      "gloss": "⟨the⟩ ପ୍ରାନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:21:12.149462795Z",
+  "model": "glm-5.3"
+}

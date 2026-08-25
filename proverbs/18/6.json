@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ମୂର୍ଖର ଓଷ୍ଠ କଳହରେ ପ୍ରବେଶ କରେ, ଆଉ ତାହାର ମୁଖ ମାର ଡାକେ।",
+  "tokens": [
+    {
+      "surface": "שִׂפְתֵי",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "כְסִיל",
+      "gloss": "ମୂର୍ଖର"
+    },
+    {
+      "surface": "יָבֹאוּ",
+      "gloss": "ପ୍ରବେଶ କରେ"
+    },
+    {
+      "surface": "בְרִיב",
+      "gloss": "କଳହରେ"
+    },
+    {
+      "surface": "וּפִיו",
+      "gloss": "ଆଉ ତାହାର ମୁଖ"
+    },
+    {
+      "surface": "לִמַּהֲלֻמוֹת",
+      "gloss": "ମାର"
+    },
+    {
+      "surface": "יִקְרָא",
+      "gloss": "ଡାକେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:45.171435526Z",
+  "model": "glm-5.3"
+}

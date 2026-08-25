@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 22:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଆଳସୀ କହେ, ବାହାରେ ସିଂହ ଅଛି; ଚୌକର ମଧ୍ୟରେ ମୁଁ ନିହତ ହେବି।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ଆଳସୀ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "רחבות",
+      "gloss": "ଚୌକର"
+    },
+    {
+      "surface": "ארצח",
+      "gloss": "ନିହତ ହେବି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:59.526647616Z",
+  "model": "glm-5.3"
+}

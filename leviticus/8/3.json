@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ⟨את⟩ ସମଗ୍ର ସମାଜକୁ ମିଳନ-ତମ୍ବୁର ପ୍ରବେଶ-ଦ୍ୱାର ନିକଟରେ ଏକତ୍ର କର —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ସମଗ୍ର ସମାଜକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ସମାଜ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ଏକତ୍ର କର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟରେ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ପ୍ରବେଶ-ଦ୍ୱାର"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ତମ୍ବୁ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ମିଳନର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:39:01.009741617Z",
+  "model": "glm-5.3"
+}

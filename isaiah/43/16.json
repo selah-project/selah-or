@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 43:16",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ଏହିପରି କହିଲେ ଯାହ୍ୱେ — ⟨the⟩ ସମୁଦ୍ରରେ ପଥ ଦେଉଥିବା, ଏବଂ ପ୍ରବଳ ଜଳରେ ଗତିପଥ ଦେଉଥିବା —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "הנותן",
+      "gloss": "ଦେଉଥିବା"
+    },
+    {
+      "surface": "בים",
+      "gloss": "ସମୁଦ୍ରରେ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "ובמים",
+      "gloss": "ଏବଂ ଜଳରେ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ପ୍ରବଳ"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ଗତିପଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:59:04.102229727Z",
+  "model": "glm-5.3"
+}

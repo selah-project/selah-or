@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ସେ ⟨את⟩ ସମସ୍ତ ଉଚ୍ଚ ବିଷୟକୁ ଦେଖନ୍ତି; ⟨ଏହା⟩ ଘମନ୍ତାଙ୍କ ଉପରେ ରାଜା।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ଉଚ୍ଚ ବିଷୟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଦେଖନ୍ତି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ଘମନ୍ତାଙ୍କ"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "ଘମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:26.473497772Z",
+  "model": "glm-5.3"
+}

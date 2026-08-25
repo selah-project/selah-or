@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 10:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ବୁଦ୍ଧିମାନଙ୍କ ଓଷ୍ଠରେ ଜ୍ଞାନ ⟨is⟩ ମିଳେ, ଆଉ ହୃଦୟହୀନଙ୍କ ପିଠି ପାଇଁ ⟨is⟩ ଲାଠି ।",
+  "tokens": [
+    {
+      "surface": "בשפתי",
+      "gloss": "ଓଷ୍ଠରେ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ବୁଦ୍ଧିମାନଙ୍କ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ମିଳେ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ଆଉ ଲାଠି"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ପିଠି ପାଇଁ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ହୀନଙ୍କ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:22.659528837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ପାପୀମାନଙ୍କ ପ୍ରତି ତୋର ହୃଦୟ ଈର୍ଷା ନ କରୁ, କିନ୍ତୁ ଯାହ୍ୱେର ଭୟରେ ସାରା ଦିନ ରହ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ଈର୍ଷା କରୁ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ତୋର ହୃଦୟ"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "ପାପୀମାନଙ୍କ ପ୍ରତି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ଭୟରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:49.615599480Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସେନାଆହର ପୁତ୍ରମାନେ — ତିନି ହଜାର ଛଅ ଶହ ତିରିଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ସେନାଆହର"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଓ ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ଓ ତିରିଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:10.790362074Z",
+  "model": "glm-5.3"
+}

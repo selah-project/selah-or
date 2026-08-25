@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ସତ୍ୟ କିଣ, ଆଉ ବିକ୍ରି କର ନାହିଁ — ଜ୍ଞାନ, ଶିକ୍ଷା ଓ ବିବେକ ।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "ସତ୍ୟ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "ବିକ୍ରି କର"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ଓ ଶିକ୍ଷା"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "ଓ ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:12.136065726Z",
+  "model": "glm-5.3"
+}

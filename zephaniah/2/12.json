@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତୁମ୍ଭେମାନେ ମଧ୍ୟ, ହେ କୁଶୀୟମାନେ — ମୋର ତରବାରୀରୁ ବିଦ୍ଧ ହୋଇ ନିହତ ହେବ — ସେମାନେ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ତୁମ୍ଭେମାନେ"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "କୁଶୀୟମାନେ"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ବିଦ୍ଧ (ନିହତ)"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ମୋର ତରବାରୀରୁ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ସେମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:27:20.066906804Z",
+  "model": "glm-5.3"
+}

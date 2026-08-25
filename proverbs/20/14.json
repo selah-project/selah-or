@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 20:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ମନ୍ଦ, ମନ୍ଦ — କ୍ରେତା କହେ; ଆଉ ଚାଲିଯିବା ପରେ କିନ୍ତୁ ଏହା ପ୍ରଶଂସା କରେ।",
+  "tokens": [
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "କ୍ରେତା"
+    },
+    {
+      "surface": "ואזל",
+      "gloss": "ଆଉ ଚାଲିଯିବା ପରେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "אז",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "יתהלל",
+      "gloss": "ପ୍ରଶଂସା କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:48.998084906Z",
+  "model": "glm-5.3"
+}

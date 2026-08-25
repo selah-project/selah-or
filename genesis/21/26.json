@@ -1,0 +1,94 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 21:26",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଅବୀମେଲେଖ କହିଲେ, ଏହି କାର୍ଯ୍ୟ ⟨את⟩ କିଏ କଲା ମୁଁ ଜାଣି ନାହିଁ; ତୁମ୍ଭେ ମଧ୍ୟ ମୋତେ କହି ନଥିଲ, ଏବଂ ମୁଁ ମଧ୍ୟ ଆଜି ଯାଏ ଶୁଣି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ଅବୀମେଲେଖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ମୁଁ ଜାଣି"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "କହି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଏବଂ ମଧ୍ୟ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שמעתי",
+      "gloss": "ଶୁଣି"
+    },
+    {
+      "surface": "בלתי",
+      "gloss": "ଯାଏ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:30:01.592417072Z",
+  "model": "glm-5.3"
+}

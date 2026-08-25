@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 56,
+  "translation": "ଯେଉଁ ଦିନ ମୁଁ ଭୟ କରେ, ମୁଁ ତୁମ ଉପରେ ଭରସା କରିବି।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "ଯେଉଁ ଦିନ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ମୁଁ ଭୟ କରେ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମ ଉପରେ"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "ଭରସା କରିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:12:36.636151928Z",
+  "model": "glm-5.3"
+}

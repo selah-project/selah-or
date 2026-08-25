@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତୃତୀୟ ଜାକ୍କୁର୍, ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ, ବାର ଜଣ।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "ଜାକ୍କୁର୍"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର(ଦୁଇ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ଦଶ)"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:26.009141730Z",
+  "model": "glm-5.3"
+}

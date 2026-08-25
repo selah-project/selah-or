@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 18:27",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଶୁଦ୍ଧ ସହିତ ଶୁଦ୍ଧ ହୁଅନ୍ତି; ଏବଂ ବଙ୍କା ସହିତ ଘୁଞ୍ଚିଯାନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ଶୁଦ୍ଧ"
+    },
+    {
+      "surface": "תתברר",
+      "gloss": "ଶୁଦ୍ଧ ହୁଅନ୍ତି"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ଏବଂ ... ସହିତ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ବଙ୍କା"
+    },
+    {
+      "surface": "תתפתל",
+      "gloss": "ଘୁଞ୍ଚିଯାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:54:21.320505126Z",
+  "model": "glm-5.3"
+}

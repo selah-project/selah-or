@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ଛାଗିଁ-ପୁଅ, ଛାଗମାନଙ୍କ ମଧ୍ୟରୁ — ପାପ-ବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ଛାଗିଁ-ପୁଅ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛାଗମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ-ବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:05:20.252870796Z",
+  "model": "glm-5.3"
+}

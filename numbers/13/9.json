@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ବିନ୍ୟାମିନ୍ ଗୋଷ୍ଠୀରୁ — ରାଫୁଙ୍କ ପୁତ୍ର ପଲ୍ତି।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "ବିନ୍ୟାମିନ୍"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ପଲ୍ତି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ରାଫୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:19.714088944Z",
+  "model": "glm-5.3"
+}

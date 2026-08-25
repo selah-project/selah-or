@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 31:2",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଆଉ ୟାକୋଭ୍ ଲାବାନର ମୁଖମୁଡ଼ିକୁ ⟨את⟩ ଦେଖିଲା, ଆଉ ଦେଖ, ପୂର୍ବପରି ତା' ସହିତ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ଆଉ ଦେଖିଲା"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୁଖମୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁଖମୁଡ଼ି"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ଲାବାନର"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତା' ସହିତ"
+    },
+    {
+      "surface": "כתמול",
+      "gloss": "ପୂର୍ବପରି"
+    },
+    {
+      "surface": "שלשום",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T07:41:11.496055075Z",
+  "model": "glm-5.3"
+}

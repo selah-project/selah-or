@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କ'ଣ ଲାଭ ସେହି କର୍ମୀର, ଯେଉଁଥିରେ ସେ ପରିଶ୍ରମ କରୁଛି?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ଲାଭ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ସେହି କର୍ମୀର"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ଯେଉଁଥିରେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ପରିଶ୍ରମ କରୁଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:08.563736561Z",
+  "model": "glm-5.3"
+}

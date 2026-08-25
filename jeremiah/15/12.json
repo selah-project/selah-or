@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଉତ୍ତରର ଲୁହା କ’ଣ ଲୁହାକୁ ଭାଙ୍ଗିପାରିବ — ଓ ପିତ୍ତଳକୁ?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "ଭାଙ୍ଗିପାରିବ କି"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହାକୁ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ଉତ୍ତରର"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "ଓ ପିତ୍ତଳକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:46:14.646407912Z",
+  "model": "glm-5.3"
+}

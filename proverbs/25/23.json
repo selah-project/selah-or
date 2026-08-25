@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଉତ୍ତର ପବନ ବର୍ଷା ଆଣେ, ଆଉ କ୍ରୋଧିତ ମୁଖମଣ୍ଡଳ — ଗୁପ୍ତ ଜିଭ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ପବନ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "ଆଣେ"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ବର୍ଷା"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "ଆଉ ମୁଖମଣ୍ଡଳ"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "କ୍ରୋଧିତ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭ"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ଗୁପ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:39.170947099Z",
+  "model": "glm-5.3"
+}

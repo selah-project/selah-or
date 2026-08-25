@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 93:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 93,
+  "translation": "ଅତୀତରୁ ଆପଣଙ୍କ ସିଂହାସନ ସ୍ଥିର; ଅନାଦିକାଳରୁ ଆପଣ ଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "נכון",
+      "gloss": "ସ୍ଥିର"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ଆପଣଙ୍କ ସିଂହାସନ"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ଅତୀତରୁ"
+    },
+    {
+      "surface": "מעולם",
+      "gloss": "ଅନାଦିକାଳରୁ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:32:47.376225028Z",
+  "model": "glm-5.3"
+}

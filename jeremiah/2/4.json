@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଶୁଣ, ୟାକୋଭ୍‌ର ଗୃହ ଓ ୟିସ୍ରାଏଲ୍ ଗୃହର ସମସ୍ତ ପରିବାରମାନେ, ୟାହ୍ୱେଙ୍କ ବାକ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍‌ର"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ସମସ୍ତ"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "ପରିବାରମାନେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T13:28:06.034377807Z",
+  "model": "glm-5.3"
+}

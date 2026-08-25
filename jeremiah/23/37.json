@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "jeremiah 23:37",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଏପରି ଭାବରେ ତୁମ୍ଭେ ନବୀଙ୍କୁ କହିବ — ଯାହ୍ୱେ ତୁମ୍ଭକୁ ଉତ୍ତର ଦେଲେ, ଆଉ ଯାହ୍ୱେ କଣ କହିଲେ?",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି ଭାବରେ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ତୁମ୍ଭେ କହିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "ענך",
+      "gloss": "ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ କଣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:00:46.479404696Z",
+  "model": "glm-5.3"
+}

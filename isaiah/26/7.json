@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 26:7",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଧାର୍ମିକର ପଥ ⟨ହେଉଛି⟩ ସିଧା; ତୁମ୍ଭେ, ଏକଦମ୍ ସିଧା, ଧାର୍ମିକର ଗଡ଼ାପଥ ସମତଳ କର।",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "ସିଧା"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ସିଧା"
+    },
+    {
+      "surface": "מעגל",
+      "gloss": "ଗଡ଼ାପଥ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ସମତଳ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T12:39:07.865159264Z",
+  "model": "glm-5.3"
+}

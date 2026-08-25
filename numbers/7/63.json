@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 63,
+  "ref": "numbers 7:63",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବଳଦ, ଗୋରୁର ବଛା, ଗୋଟିଏ ମେଷ, ଗୋଟିଏ ମେଣ୍ଢାଛାଗି, ବର୍ଷର ବଛା, ହୋମବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ବଛା (ପୁତ୍ର)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଷ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢାଛାଗି"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ବଛା (ପୁତ୍ର)"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:15.607860352Z",
+  "model": "glm-5.3"
+}

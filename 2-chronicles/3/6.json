@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 3:6",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ⟨ଗୃହକୁ⟩ ⟨את⟩ ସେ ମୂଲ୍ୟବାନ ପଥରରେ ଶୋଭା ପାଇଁ ସଜାଇଲେ, ଆଉ ସେହି ସୁନା — ପର୍ୱାୟିମ୍ ସୁନା।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "ସଜାଇଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗୃହକୁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "יקרה",
+      "gloss": "ମୂଲ୍ୟବାନ"
+    },
+    {
+      "surface": "לתפארת",
+      "gloss": "ଶୋଭା ପାଇଁ"
+    },
+    {
+      "surface": "והזהב",
+      "gloss": "ଆଉ ସେହି ସୁନା"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "פרוים",
+      "gloss": "ପର୍ୱାୟିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:16:51.593046361Z",
+  "model": "glm-5.3"
+}

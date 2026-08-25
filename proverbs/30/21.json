@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ତିନି ⟨ବିଷୟ⟩ ପାଇଁ ପୃଥିବୀ କମ୍ପିତ ହୁଏ, ଏବଂ ଚାରି ପାଇଁ ⟨ଏହା⟩ ଧରି ରହିପାରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ପାଇଁ (ତଳେ)"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "କମ୍ପିତ ହୁଏ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "ଏବଂ ପାଇଁ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ପାରିବ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "ଧରି ରହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:01.238803862Z",
+  "model": "glm-5.3"
+}

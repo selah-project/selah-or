@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଉରିୟା ହିତ୍ତୀୟ, ଜାବାଦ୍ ଆହଲାଇର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "ଉରିୟା"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ହିତ୍ତୀୟ"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ଜାବାଦ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "ଆହଲାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:12.245187072Z",
+  "model": "glm-5.3"
+}

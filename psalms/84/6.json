@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 84:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 84,
+  "translation": "ଧନ୍ୟ ସେହି ମନୁଷ୍ୟ ଯାହାର ଶକ୍ତି ତୁମଠାରେ ⟨ଅଛି⟩, ଯାହାର ହୃଦୟରେ ତୀର୍ଥପଥ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "עוז",
+      "gloss": "ଶକ୍ତି"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାର"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ତୁମଠାରେ"
+    },
+    {
+      "surface": "מסלות",
+      "gloss": "ତୀର୍ଥପଥ"
+    },
+    {
+      "surface": "בלבבם",
+      "gloss": "ହୃଦୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:31:18.442065425Z",
+  "model": "glm-5.3"
+}

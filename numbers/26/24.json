@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ୟାଶୁବର, ୟାଶୁବୀୟ ବଂଶ; ଶିମରୋନର, ଶିମରୋନୀୟ ବଂଶ।",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "ୟାଶୁବର"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "ୟାଶୁବୀୟ"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "ଶିମରୋନର"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "ଶିମରୋନୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:38.659749316Z",
+  "model": "glm-5.3"
+}

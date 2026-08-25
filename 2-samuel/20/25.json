@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ଶେୟା ⟨ଥିଲେ⟩ ଲେଖକ, ଏବଂ ଜାଦୋକ୍ ଓ ଏବିଆତାର୍ ⟨ଥିଲେ⟩ ଯାଜକ।",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "ଆଉ ଶେୟା"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "ଲେଖକ"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "ଏବଂ ଜାଦୋକ୍"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "ଓ ଏବିଆତାର୍"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "ଯାଜକ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:26:24.509582558Z",
+  "model": "glm-5.3"
+}

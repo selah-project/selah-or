@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 14:22",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଦଶାଂଶ ଦେବ, ତୁମ୍ଭ ବୀଜର ସମସ୍ତ ଫସଲର ⟨את⟩ ଦଶାଂଶ ଦେବ — ⟨କ୍ଷେତ⟩ରୁ ଯାହା ବାହାରେ — ବର୍ଷେ ପ୍ରତି ବର୍ଷ।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶାଂଶ"
+    },
+    {
+      "surface": "תעשר",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ଫସଲ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ଫସଲ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "ତୁମ୍ଭ-ବୀଜର"
+    },
+    {
+      "surface": "היצא",
+      "gloss": "ବାହାରୁଥିବା"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷେ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ପ୍ରତି-ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:49:48.409765292Z",
+  "model": "glm-5.3"
+}

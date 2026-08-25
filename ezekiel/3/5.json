@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କାରଣ ତୁମ୍ଭେ ଗଭୀର-ଓଷ୍ଠ ଓ ଭାରୀ-ଜିଭ ଥିବା ଏକ ଜାତି ପାଖକୁ ପଠାଯାଇନାହଁ, ଅପିତୁ ଇସ୍ରାଏଲ୍ ଗୃହ ପାଖକୁ ⟨ତୁମ୍ଭେ⟩ ପଠାଯାଇଛୁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ଜାତି"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "ଗଭୀର-"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "ଓ ଭାରୀ-"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "ପଠାଯାଇଛ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T14:52:57.233940783Z",
+  "model": "glm-5.3"
+}

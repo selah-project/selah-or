@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ମୋଶେ ⟨ଙ୍ଗୁଡ଼ିକର⟩ ପାଖକୁ ଓହ୍ଲାଇଗଲେ ଏବଂ ସେମାନଙ୍କୁ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "ଓହ୍ଲାଇଗଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜାଗଣର"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "ସେମାନଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:10:59.504421266Z",
+  "model": "glm-5.3"
+}

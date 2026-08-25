@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 4:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ⟨ତାହାଙ୍କ⟩ କହିଲେ, ତୁମେ କଣ କରିଛ? ତୁମର ଭାଇର ରକ୍ତର ସ୍ୱର ମାଟିରୁ ମୋ ଆଡ଼କୁ ଚିତ୍କାର କରୁଛି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "ତୁମେ କରିଛ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "ରକ୍ତର"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ତୁମର ଭାଇର"
+    },
+    {
+      "surface": "צעקים",
+      "gloss": "ଚିତ୍କାର କରୁଛି"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ଆଡ଼କୁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ମାଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:40.245373034Z",
+  "model": "glm-5.3"
+}

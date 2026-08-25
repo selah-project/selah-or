@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 49:21",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ନଫତାଲି — ⟨ଏକ⟩ ଛାଡ଼ି ଦିଆଯାଇଥିବା ମୃଗୀନୀ; ⟨ସେ⟩ ସୁନ୍ଦର ବଚନ ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "נפתלי",
+      "gloss": "ନଫତାଲି"
+    },
+    {
+      "surface": "אילה",
+      "gloss": "ମୃଗୀନୀ"
+    },
+    {
+      "surface": "שלחה",
+      "gloss": "ଛାଡ଼ି ଦିଆଯାଇଥିବା"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ବଚନ"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "ସୁନ୍ଦର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:48:30.357389633Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ନିକଟକୁ ଏବଂ ଅହରୋନଙ୍କ ନିକଟକୁ କହିଲେ, କହିବାକୁ ଲାଗି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଏବଂ ନିକଟକୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଲାଗି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:44.682085078Z",
+  "model": "glm-5.3"
+}

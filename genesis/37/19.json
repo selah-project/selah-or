@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଆଉ ସେମାନେ ଜଣେ ଜଣଙ୍କୁ କହିଲେ — ଦେଖ, ସେହି ସ୍ୱପ୍ନର ମାଲିକ ଆସୁଛି!",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ଆପଣା ଭାଈଙ୍କ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ମାଲିକ"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ସ୍ୱପ୍ନର"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସୁଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:45:33.696580681Z",
+  "model": "glm-5.3"
+}

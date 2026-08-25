@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ମାଖିରଙ୍କୁ ମୁଁ ⟨את⟩ ଗିଲିଆଦ ଦେଲି।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "ଆଉ ମାଖିରଙ୍କୁ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ମୁଁ ଦେଲି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗିଲିଆଦ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ଗିଲିଆଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:38:19.877333692Z",
+  "model": "glm-5.3"
+}

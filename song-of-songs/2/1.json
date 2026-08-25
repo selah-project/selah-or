@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ଶାରୋନ୍‌ର ଏକ ହବାତ୍‌ସେଲେତ୍, ଉପତ୍ୟକାମାନଙ୍କର ଏକ ଶୋଶନ୍‌ନା।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ଏକ ହବାତ୍‌ସେଲେତ୍"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "ଶାରୋନ୍‌ର"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ଏକ ଶୋଶନ୍‌ନା"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "ଉପତ୍ୟକାମାନଙ୍କର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:47:14.309389631Z",
+  "model": "glm-5.3"
+}

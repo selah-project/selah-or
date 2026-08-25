@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ନୀଳ, ବାଇଗଣୀ, କେଶରିଆ ଏବଂ ସୂକ୍ଷ୍ମ ଶଣପଟ୍ଟ, ଏବଂ ଛେଳିର ଲୋମ।",
+  "tokens": [
+    {
+      "surface": "ותכלת",
+      "gloss": "ନୀଳ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "ବାଇଗଣୀ"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "କେଶରିଆ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "କେଶରିଆ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ସୂକ୍ଷ୍ମ ଶଣପଟ୍ଟ"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "ଛେଳିର ଲୋମ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:26:35.344074507Z",
+  "model": "glm-5.3"
+}

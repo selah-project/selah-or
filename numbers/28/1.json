@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, କହିବା ପାଇଁ ⟨ଏପରି⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:29:15.283068665Z",
+  "model": "glm-5.3"
+}

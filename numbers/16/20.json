@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଯାହ୍ୱେ ମୋଶେ ଓ ଅହରୋନ୍‌ଙ୍କ ପ୍ରତି କହିଲେ, ଏଥିପାଇଁ କହିବା",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପ୍ରତି"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏଥିପାଇଁ କହିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T22:39:12.669729097Z",
+  "model": "glm-5.3"
+}

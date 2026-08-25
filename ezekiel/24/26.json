@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ସେହି ଦିନ ପଳାୟନକାରୀ ତୁମ୍ଭ ପାଖକୁ ଆସିବ, କାନକୁ ଶୁଣାଇବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ଆସିବ"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "ପଳାୟନକାରୀ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମ୍ଭ ପାଖକୁ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "ଶୁଣାଇବା ପାଇଁ"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "କାନକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:17:11.602660065Z",
+  "model": "glm-5.3"
+}

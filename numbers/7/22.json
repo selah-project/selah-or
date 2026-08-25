@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଛାଗମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ ଠେକୁଆ ପାପବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ଠେକୁଆ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛାଗମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:20.722464880Z",
+  "model": "glm-5.3"
+}

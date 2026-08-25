@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 76,
+  "translation": "ଉଜ୍ଜ୍ୱଳ ତୁମ୍ଭେ, ତୁମ୍ଭେ ମହାନ୍, ଲୁଣ୍ଟର ପର୍ବତମାନଙ୍କଠାରୁ।",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "ଉଜ୍ଜ୍ୱଳ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "ପର୍ବତମାନଙ୍କଠାରୁ"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ଲୁଣ୍ଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:22:57.985816965Z",
+  "model": "glm-5.3"
+}

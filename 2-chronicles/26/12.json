@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 26:12",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ବୀର ଯୋଦ୍ଧାମାନଙ୍କ ପିତୃକୁଳ ମୁଖ୍ୟମାନଙ୍କ ସମ୍ପୂର୍ଣ୍ଣ ସଂଖ୍ୟା ଦୁଇ ହଜାର ଛଅ ଶହ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମ୍ପୂର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ସଂଖ୍ୟା"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ମୁଖ୍ୟମାନଙ୍କ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ପିତୃକୁଳ"
+    },
+    {
+      "surface": "לגבורי",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ଯୋଦ୍ଧା"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:35:56.953215803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ହନୋଖଙ୍କ ସମସ୍ତ ଦିନଗୁଡ଼ିକ ପାଞ୍ଚ ଓ ଷାଠିଏ ବର୍ଷ ଏବଂ ତିନିଶହ ବର୍ଷ ହେଲା ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ହନୋଖଙ୍କ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠିଏ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ଏବଂ ତିନି"
+    },
+    {
+      "surface": "ମାବତ",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:47.544345937Z",
+  "model": "glm-5.3"
+}

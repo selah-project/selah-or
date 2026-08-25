@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଓ ଅବୀଶୟ, ତ୍ସରୁୟାହଙ୍କ ପୁତ୍ର, ⟨את⟩ ଏଦୋମ୍‌କୁ ଲୁଣ ଉପତ୍ୟକାରେ ପରାସ୍ତ କଲା — ଅଠରହାଜାର।",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ଓ ଅବୀଶୟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ତ୍ସରୁୟାହଙ୍କ"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ପରାସ୍ତ କଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏଦୋମ୍‌କୁ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ଲୁଣ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ଅଠର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ହାଜାର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହାଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:06:21.034577145Z",
+  "model": "glm-5.3"
+}

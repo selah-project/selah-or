@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 33:11",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ସେମାନେ ସୁଫ୍ ସାଗରଠାରୁ ଯାତ୍ରା କଲେ ଓ ସୀନ୍ ମରୁଭୂମିରେ ଡେରା ପାତିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ସାଗରଠାରୁ"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ସୁଫ୍"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଡେରା ପାତିଲେ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ମରୁଭୂମିରେ"
+    },
+    {
+      "surface": "סין",
+      "gloss": "ସୀନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:33:56.280093860Z",
+  "model": "glm-5.3"
+}

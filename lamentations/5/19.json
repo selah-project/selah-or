@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 5:19",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆପଣ ହିଁ, ହେ ଯାହ୍ୱେ, ସର୍ବଦା ସିଂହାସନସ୍ଥ; ଆପଣଙ୍କ ସିଂହାସନ ପିଢ଼ି ପରେ ପିଢ଼ି।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ ହିଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "ସିଂହାସନସ୍ଥ"
+    },
+    {
+      "surface": "כסאך",
+      "gloss": "ଆପଣଙ୍କ ସିଂହାସନ"
+    },
+    {
+      "surface": "לדר",
+      "gloss": "ପିଢ଼ି ପରେ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ପିଢ଼ି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:39.548985340Z",
+  "model": "glm-5.3"
+}

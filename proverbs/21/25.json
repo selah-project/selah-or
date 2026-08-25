@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 21:25",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଳସୀର ଲାଳସା ତାହାକୁ ମାରିଦିଏ, କାରଣ କାମ କରିବାକୁ ତାହାର ହାତ ମନା କରେ।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "ଲାଳସା"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ଆଳସୀର"
+    },
+    {
+      "surface": "תמיתנו",
+      "gloss": "ତାହାକୁ ମାରିଦିଏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מאנו",
+      "gloss": "ମନା କରେ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ତାହାର ହାତ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କାମ କରିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:16.676010327Z",
+  "model": "glm-5.3"
+}

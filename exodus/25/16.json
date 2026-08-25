@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ତୁମ୍ଭେ ଆରଣରେ ⟨את⟩ ସାକ୍ଷ୍ୟକୁ ରଖିବ, ଯାହା ମୁଁ ତୁମ୍ଭକୁ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "ରଖିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆରଣରେ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ଆରଣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସାକ୍ଷ୍ୟକୁ"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "ସାକ୍ଷ୍ୟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମ୍ଭକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:19:14.774918653Z",
+  "model": "glm-5.3"
+}

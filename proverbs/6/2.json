@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 6:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ତୁମର ମୁଖର ବଚନରେ ତୁମେ ଜାଲରେ ବନ୍ଦ, ତୁମର ମୁଖର ବଚନରେ ତୁମେ ଧରା ପଡ଼ିଅଛ।",
+  "tokens": [
+    {
+      "surface": "נוקשת",
+      "gloss": "ଜାଲରେ ବନ୍ଦ"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ବଚନରେ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ତୁମର ମୁଖର"
+    },
+    {
+      "surface": "נלכדת",
+      "gloss": "ଧରା ପଡ଼ିଅଛ"
+    },
+    {
+      "surface": "באמרי",
+      "gloss": "ବଚନରେ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ତୁମର ମୁଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:04.095930778Z",
+  "model": "glm-5.3"
+}

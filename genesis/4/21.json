@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ତାହାଙ୍କ ଭାଇଙ୍କ ନାମ ୟୂବାଲ୍ — ସେ କିନ୍ନୋର୍ ଓ ଉଗାବ୍ ବଜାଉଥିବା ସମସ୍ତଙ୍କ ପିତା ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ଆଉ ନାମ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ତାହାଙ୍କ ଭାଇଙ୍କ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ୟୂବାଲ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତଙ୍କ"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "ବଜାଉଥିବା"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "କିନ୍ନୋର୍"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "ଓ ଉଗାବ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:18.477240599Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ଏଦୋମୀମାନେ ଆସିଲେ, ଓ ଯିହୂଦାରେ ପ୍ରହାର କଲେ, ଓ ବନ୍ଦୀମାନଙ୍କୁ ଧରି ନେଲେ।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "ଏଦୋମୀମାନେ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "ପ୍ରହାର କଲେ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ଯିହୂଦାରେ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ଧରି ନେଲେ"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "ବନ୍ଦୀମାନଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:34:28.030343758Z",
+  "model": "glm-5.3"
+}

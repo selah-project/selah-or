@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ହେଲାର ପୁତ୍ରମାନେ — ସେରେତ୍, ୟିତ୍‌ସହର୍ ଓ ଏତନାନ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "ହେଲାର"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "ସେରେତ୍"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ୟିତ୍‌ସହର୍"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "ଓ ଏତନାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:52:57.033736462Z",
+  "model": "glm-5.3"
+}

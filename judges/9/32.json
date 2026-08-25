@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ଏବେ ରାତିରେ ଉଠ, ତୁମ୍ଭେ ଓ ⟨את⟩ ତୁମ୍ଭ ସହିତ ଥିବା ଲୋକମାନେ, ଓ କ୍ଷେତରେ ପାହାରି ରହ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "קום",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତିରେ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "ଓ ଲୋକମାନେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ ସହିତ"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "ଓ ପାହାରି ରହ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "କ୍ଷେତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:02:03.711762041Z",
+  "model": "glm-5.3"
+}

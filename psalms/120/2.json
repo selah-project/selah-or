@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 120,
+  "translation": "ହେ ଯାହ୍ୱେ, ମିଥ୍ୟା ଓଷ୍ଠ ଓ ଛଳର ଜିଭଠାରୁ ମୋର ନେଫେଶକୁ ଉଦ୍ଧାର କର।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "הצילה",
+      "gloss": "ଉଦ୍ଧାର କର"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ମୋର ନେଫେଶକୁ"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ଓଷ୍ଠଠାରୁ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଥ୍ୟା"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "ଜିଭଠାରୁ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ଛଳର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:28.416407875Z",
+  "model": "glm-5.3"
+}

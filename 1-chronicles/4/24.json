@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଶିମୋନର ପୁତ୍ରମାନେ: ନେମୁଏଲ୍, ୟାମିନ୍, ୟାରିବ୍, ଜେରାଖ୍, ଶାଉଲ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ଶିମୋନର"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "ନେମୁଏଲ୍"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ୟାମିନ୍"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ୟାରିବ୍"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ଜେରାଖ୍"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:12.504949119Z",
+  "model": "glm-5.3"
+}

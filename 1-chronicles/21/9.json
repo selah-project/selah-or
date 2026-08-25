@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଯାହ୍ୱେ ଗାଦଙ୍କ ପ୍ରତି — ଦାଉଦଙ୍କ ଦର୍ଶକ — କହିଲେ, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦଙ୍କ"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ଦର୍ଶକ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:07:31.097804184Z",
+  "model": "glm-5.3"
+}

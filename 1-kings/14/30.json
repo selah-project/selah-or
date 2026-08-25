@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 14:30",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ରେହାବଆମ ଓ ୟରାବଆମ ମଧ୍ୟରେ ସମସ୍ତ ଦିନ ଯୁଦ୍ଧ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ଆଉ ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "ରେହାବଆମ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ ... ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ୟରାବଆମ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:49:45.409007384Z",
+  "model": "glm-5.3"
+}

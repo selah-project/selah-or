@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଦାଗ ପରିବର୍ତ୍ତେ ଦାଗ, ଘାଆ ପରିବର୍ତ୍ତେ ଘାଆ, ଚାଡ଼ା ପରିବର୍ତ୍ତେ ଚାଡ଼ା।",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "ଦାଗ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ପରିବର୍ତ୍ତେ"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "ଦାଗ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ଘାଆ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ପରିବର୍ତ୍ତେ"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "ଘାଆ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ଚାଡ଼ା"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ପରିବର୍ତ୍ତେ"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "ଚାଡ଼ା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:16:27.375598412Z",
+  "model": "glm-5.3"
+}

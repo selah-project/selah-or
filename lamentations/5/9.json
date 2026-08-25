@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "lamentations 5:9",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆମର ନେଫେଶ୍ ବିପଦରେ ଆମର ରୁଟି ଆଣୁଥିଲୁ, ମରୁଭୂମିର ତରବାରିର ଭୟରୁ।",
+  "tokens": [
+    {
+      "surface": "בנפשנו",
+      "gloss": "ଆମର ନେଫେଶ୍ ବିପଦରେ"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ଆଣୁଥିଲୁ"
+    },
+    {
+      "surface": "לחמנו",
+      "gloss": "ଆମର ରୁଟି"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ଭୟରୁ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ତରବାରିର"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ମରୁଭୂମିର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.913343323Z",
+  "model": "glm-5.3"
+}

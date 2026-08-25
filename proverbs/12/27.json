@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 12:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ପ୍ରତାରକ ⟨ନିଜର⟩ ଶିକାର ଭାଜେ ନାହିଁ, ଆଉ ମନୁଷ୍ୟର ମୂଲ୍ୟବାନ ଧନ ⟨ଅଛି⟩ ଉଦ୍ୟମୀର।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחרך",
+      "gloss": "ଭାଜେ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ପ୍ରତାରକ"
+    },
+    {
+      "surface": "צידו",
+      "gloss": "ନିଜର ଶିକାର"
+    },
+    {
+      "surface": "והון",
+      "gloss": "ଆଉ ଧନ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "ମୂଲ୍ୟବାନ"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "ଉଦ୍ୟମୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:03.821532812Z",
+  "model": "glm-5.3"
+}

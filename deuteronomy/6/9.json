@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଓ ତୁମ୍ଭେ ସେଗୁଡ଼ିକୁ ତୁମ୍ଭ ଘରର ଦ୍ୱାରଚାକର ଓ ତୁମ୍ଭ ଫାଟକଗୁଡ଼ିକ ଉପରେ ଲେଖିବ।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "ଓ ତୁମ୍ଭେ ଲେଖିବ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ଦ୍ୱାରଚାକର"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "ତୁମ୍ଭ ଘରର"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "ଓ ତୁମ୍ଭ ଫାଟକଗୁଡ଼ିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:40:23.543255059Z",
+  "model": "glm-5.3"
+}

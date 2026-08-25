@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 27:32",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ଗୋରୁ ଓ ମେଣ୍ଢାର ସମସ୍ତ ଦଶମାଂଶ — ଛଡ଼ି ତଳକୁ ଯାଉଥିବା ପ୍ରତ୍ୟେକ — ଦଶମ ଜୀବନ୍ତୁ ଯାହ୍ୱେ ପାଇଁ ପବିତ୍ର ହେବ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ଦଶମାଂଶ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ଓ ମେଣ୍ଢା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ଯାଉଥିବା"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳକୁ"
+    },
+    {
+      "surface": "השבט",
+      "gloss": "ଛଡ଼ି"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ଦଶମ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:59:53.826564993Z",
+  "model": "glm-5.3"
+}

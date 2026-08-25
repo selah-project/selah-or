@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ତାହାର ସାନ୍ନିଧ୍ୟରୁ ଯିବାକୁ ବ୍ୟଗ୍ର ହୁଅ ନାହିଁ; ମନ୍ଦ ବିଷୟରେ ଠିଆ ହୁଅ ନାହିଁ, କାରଣ ⟨ସେ⟩ ଯାହା ଇଚ୍ଛା କରେ ସବୁ କରିବ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "ବ୍ୟଗ୍ର ହୁଅ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ତାହାର ସାନ୍ନିଧ୍ୟରୁ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ଯିବାକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ଠିଆ ହୁଅ"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ଇଚ୍ଛା କରେ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.907550237Z",
+  "model": "glm-5.3"
+}

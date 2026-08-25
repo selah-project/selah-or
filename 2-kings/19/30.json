@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-kings 19:30",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ଯିହୂଦା ଗୃହର ପଳାୟନକାରୀ ଅବଶିଷ୍ଟ ଭାଗ ପୁଣି ତଳେ ମୂଳ ଧରିବ ଓ ଉପରେ ଫଳ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "ויספה",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "פליטת",
+      "gloss": "ପଳାୟନକାରୀ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦା"
+    },
+    {
+      "surface": "הנשארה",
+      "gloss": "ଅବଶିଷ୍ଟ"
+    },
+    {
+      "surface": "שרש",
+      "gloss": "ମୂଳ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଓ ଦେବ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "למעלה",
+      "gloss": "ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:09:56.275578755Z",
+  "model": "glm-5.3"
+}

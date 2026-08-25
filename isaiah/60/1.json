@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 60:1",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 60,
+  "translation": "ଉଠ, ଉଜ୍ଜ୍ୱଳ ହୁଅ, କାରଣ ତୋର ଆଲୋକ ଆସିଛି, ଆଉ ଯାହ୍ୱେର କାଭୋଦ୍ ତୋ ଉପରେ ଉଦୟ ହୋଇଛି।",
+  "tokens": [
+    {
+      "surface": "קומי",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ଉଜ୍ଜ୍ୱଳ ହୁଅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଛି"
+    },
+    {
+      "surface": "אורך",
+      "gloss": "ତୋର ଆଲୋକ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ଆଉ କାଭୋଦ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେର"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୋ ଉପରେ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ଉଦୟ ହୋଇଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:20:53.014828321Z",
+  "model": "glm-5.3"
+}

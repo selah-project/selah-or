@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଜ୍ଞାନ କିଣ, ବିବେକ କିଣ; ଭୁଲିଯାଅ ନାହିଁ, ଆଉ ମୋର ପାଟିର ବଚନଗୁଡ଼ିକରୁ ବାଙ୍କିଯାଅ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବିବେକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "ଭୁଲିଯାଅ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ... ନାହିଁ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ବାଙ୍କିଯାଅ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ବଚନଗୁଡ଼ିକରୁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୋର ପାଟିର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:25.380734465Z",
+  "model": "glm-5.3"
+}

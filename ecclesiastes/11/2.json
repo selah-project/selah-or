@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ସାତକୁ ଏକ ଭାଗ ଦିଅ ଏବଂ ଆଠକୁ ମଧ୍ୟ; କାରଣ ପୃଥିବୀ ଉପରେ କେଉଁ ବିପଦ ହେବ ତୁମେ ଜାଣ ନାହଁ।",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ଏକ ଭାଗ"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "ସାତକୁ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଏବଂ ମଧ୍ୟ"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "ଆଠକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହଁ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ତୁମେ ଜାଣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କେଉଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ବିପଦ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.198392494Z",
+  "model": "glm-5.3"
+}

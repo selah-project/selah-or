@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଏବଂ ତାହାର ଶୁଦ୍ଧିକରଣ ପରେ ସାତ ଦିନ ତାହା ପାଇଁ ଗଣିବେ।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "ଏବଂ...ପରେ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ତାହାର ଶୁଦ୍ଧିକରଣ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "ସେ ଗଣିବେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:44:04.972852356Z",
+  "model": "glm-5.3"
+}

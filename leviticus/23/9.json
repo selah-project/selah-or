@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 23:9",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ ଯେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:53:34.917226740Z",
+  "model": "glm-5.3"
+}

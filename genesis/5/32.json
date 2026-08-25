@@ -1,0 +1,76 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ନୋଆଖ୍ ପାଞ୍ଚଶହ ବର୍ଷର ପୁଅ ହେଲେ, ଓ ନୋଆଖ୍ ⟨את⟩ ଶେମ୍‌ଙ୍କୁ, ⟨את⟩ ଖାମ୍‌ଙ୍କୁ ଓ ⟨את⟩ ୟାଫେତ୍‌ଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୋଆଖ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "ନଗ",
+      "gloss": ""
+    },
+    {
+      "surface": "נח",
+      "gloss": "⟨את⟩ ନୋଆଖ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଶେମ୍"
+    },
+    {
+      "surface": "שם",
+      "gloss": "⟨את⟩ ଶେମ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଖାମ୍"
+    },
+    {
+      "surface": "חם",
+      "gloss": "⟨את⟩ ଖାମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ୟାଫେତ୍"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ୟାଫେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:55.839152381Z",
+  "model": "glm-5.3"
+}

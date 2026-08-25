@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଶୀତଳ ଜଳ ଏକ ଥରିଆ ନଫେଶ୍ ଉପରେ — ଆଉ ଦୂର ଦେଶରୁ ଏକ ଉତ୍ତମ ସମ୍ଭାଦ।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "ଶୀତଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ନଫେଶ୍"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "ଥରିଆ"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "ଓ ସମ୍ଭାଦ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ଦେଶରୁ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ଦୂର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.068298020Z",
+  "model": "glm-5.3"
+}

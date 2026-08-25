@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 9:24",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଚାରି ଦିଗରେ ଦ୍ୱାରପାଳମାନେ ଥିଲେ — ପୂର୍ବ, ପଶ୍ଚିମ, ଉତ୍ତର ଓ ଦକ୍ଷିଣ।",
+  "tokens": [
+    {
+      "surface": "לארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "רוחות",
+      "gloss": "ଦିଗରେ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "ଦ୍ୱାରପାଳମାନେ"
+    },
+    {
+      "surface": "מזרח",
+      "gloss": "ପୂର୍ବ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ପଶ୍ଚିମ"
+    },
+    {
+      "surface": "צפונה",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "ונגבה",
+      "gloss": "ଓ ଦକ୍ଷିଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:26.091994003Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ୟୋଏଲ୍ ନାତାନଙ୍କ ଭାଇ, ମିବଚାର୍ ହାଗ୍ରୀୟର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "ୟୋଏଲ୍"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ନାତାନ"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "ମିବଚାର୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ହାଗ୍ରୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:54.446102407Z",
+  "model": "glm-5.3"
+}

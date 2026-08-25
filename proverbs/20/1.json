@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 20:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଅପହଂସକ ମଦିରା, ହଲ୍ଲଡ଼ମୟ ମଦ୍ପାନ; ଆଉ ଯେ କେହି ଏଥିରେ ଭୁଲିଯାଏ, ସେ ଜ୍ଞାନୀ ହୁଏ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לץ",
+      "gloss": "ଅପହଂସକ"
+    },
+    {
+      "surface": "היין",
+      "gloss": "ମଦିରା"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ହଲ୍ଲଡ଼ମୟ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ମଦ୍ପାନ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ଯେ କେହି"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ଭୁଲିଯାଏ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ଏଥିରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחכם",
+      "gloss": "ଜ୍ଞାନୀ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:42.127194778Z",
+  "model": "glm-5.3"
+}

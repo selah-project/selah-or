@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 18:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଓ ତ୍ସେରୁୟାହଙ୍କ ପୁତ୍ର ୟୋଆବ ⟨ସେନା⟩ ଉପରେ ଥିଲେ, ଓ ଅହୀଲୂଦଙ୍କ ପୁତ୍ର ଯିହୋଶାପାତ ସ୍ମାରକ-ଲେଖକ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויואב",
+      "gloss": "ଓ ୟୋଆବ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "ତ୍ସେରୁୟାହଙ୍କ"
+    },
+    {
+      "surface": "ଢ଼",
+      "gloss": "",
+      "notes": "placeholder"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ସେନା"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "ଓ ଯିହୋଶାପାତ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "ଅହୀଲୂଦଙ୍କ"
+    },
+    {
+      "surface": "מזכיר",
+      "gloss": "ସ୍ମାରକ-ଲେଖକ ଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:05:11.248535653Z",
+  "model": "glm-5.3"
+}

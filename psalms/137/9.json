@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 137:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 137,
+  "translation": "ଧନ୍ୟ ସେ, ଯେ ଧରିବ ଓ ⟨את⟩ ତୁମ ଶିଶୁମାନଙ୍କୁ ଶିଳା ଉପରେ ପିଟିବ।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "שיאחז",
+      "gloss": "ଯେ ଧରିବ"
+    },
+    {
+      "surface": "ונפץ",
+      "gloss": "ଓ ପିଟିବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁମ ଶିଶୁମାନଙ୍କୁ"
+    },
+    {
+      "surface": "עלליך",
+      "gloss": "ତୁମ ଶିଶୁମାନଙ୍କୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הסלע",
+      "gloss": "ଶିଳା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:52:01.687481072Z",
+  "model": "glm-5.3"
+}

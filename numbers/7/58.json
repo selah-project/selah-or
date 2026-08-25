@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଛେଳି-ପାଠୁମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ, ପାପ-ଉତ୍ସର୍ଗ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ପାଠୁ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳି-ମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ-ଉତ୍ସର୍ଗ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:28.292279979Z",
+  "model": "glm-5.3"
+}

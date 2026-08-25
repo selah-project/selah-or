@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ଗୋମରର ପୁତ୍ରମାନେ: ଅଶକନାଜ୍ ଓ ରିପତ୍ ଓ ତୋଗର୍ମା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ଗୋମର"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ଅଶକନାଜ୍"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "ଓ ରିପତ୍"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "ଓ ତୋଗର୍ମା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:22.904018663Z",
+  "model": "glm-5.3"
+}

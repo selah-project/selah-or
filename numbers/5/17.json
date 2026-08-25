@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 5:17",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଯାଜକ ମାଟି ପାତ୍ରରେ ପବିତ୍ର ଜଳ ନେବେ, ଏବଂ ତମ୍ବୁର ଚଟାଣରେ ଥିବା ଧୂଳିରୁ ଯାଜକ ନେବେ ଓ ଜଳରେ ପକାଇବେ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ନେବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "בכלי",
+      "gloss": "ପାତ୍ରରେ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ମାଟି"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ଓ...ରୁ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "בקרקע",
+      "gloss": "ଚଟାଣରେ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ତମ୍ବୁର"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "ପକାଇବେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:08:43.054556764Z",
+  "model": "glm-5.3"
+}

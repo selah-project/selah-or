@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 148,
+  "translation": "ପର୍ବତମାନେ ଓ ସମସ୍ତ ପାହାଡ଼; ଫଳଫସଲ ଗଛ ଓ ସମସ୍ତ ଦେବଦାରୁ ଗଛ,",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "ପର୍ବତମାନେ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ସମସ୍ତ"
+    },
+    {
+      "surface": "ଗବଢ଼ତ",
+      "gloss": ""
+    },
+    {
+      "surface": "ଗ଼ବଢ଼ତ",
+      "gloss": ""
+    },
+    {
+      "surface": "ଗ଼ବଢ଼ତ",
+      "gloss": ""
+    },
+    {
+      "surface": "ଗ଼ବଢ଼ତ",
+      "gloss": ""
+    },
+    {
+      "surface": "ଗ଼ବଢ଼ତ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T21:33:54.153307438Z",
+  "model": "glm-5.3"
+}

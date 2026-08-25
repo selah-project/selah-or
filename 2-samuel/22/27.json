@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 22:27",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଶୁଦ୍ଧ ସହିତ ଆପଣ ଶୁଦ୍ଧ ଦେଖାନ୍ତି; ଆଉ ବକ୍ର ସହିତ ଆପଣ ବକ୍ର ହୁଅନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "נבר",
+      "gloss": "ଶୁଦ୍ଧ"
+    },
+    {
+      "surface": "תתבר",
+      "gloss": "ଶୁଦ୍ଧ ଦେଖାନ୍ତି"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ଆଉ ସହିତ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ବକ୍ର"
+    },
+    {
+      "surface": "תתפל",
+      "gloss": "ବକ୍ର ହୁଅନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T11:31:09.746073360Z",
+  "model": "glm-5.3"
+}

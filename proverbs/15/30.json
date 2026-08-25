@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 15:30",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଖିର ଆଲୋକ ହୃଦୟକୁ ଆନନ୍ଦିତ କରେ; ଉତ୍ତମ ଖବର ଅସ୍ଥିକୁ ମେଦବାନ କରେ।",
+  "tokens": [
+    {
+      "surface": "מאור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ଆଖିର"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ଆନନ୍ଦିତ କରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    },
+    {
+      "surface": "שמועה",
+      "gloss": "ଖବର"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "תדשן",
+      "gloss": "ମେଦବାନ କରେ"
+    },
+    {
+      "surface": "עצם",
+      "gloss": "ଅସ୍ଥିକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:37.563496152Z",
+  "model": "glm-5.3"
+}

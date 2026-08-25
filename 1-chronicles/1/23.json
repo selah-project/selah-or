@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ⟨את⟩ ଓଫିର୍, ଏବଂ ⟨את⟩ ହବିଲା, ଏବଂ ⟨את⟩ ୟୋବାବ — ଏହି ସମସ୍ତେ ୟୋକ୍ତାନଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଓଫିର୍"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ଓଫିର୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ହବିଲା"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "ହବିଲା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ୟୋବାବ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "ୟୋବାବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "ୟୋକ୍ତାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.272954063Z",
+  "model": "glm-5.3"
+}

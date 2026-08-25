@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଗାତ ଖୋଳୁଥିବା ସେଥିରେ ପଡ଼େ, ଆଉ କାନ୍ଥ ଭାଙ୍ଗୁଥିବାକୁ ସାପ ଦଂଶନ କରେ।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ଖୋଳୁଥିବା"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "ଗାତ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ପଡ଼େ"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "ଆଉ ... ଭାଙ୍ଗୁଥିବା"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "କାନ୍ଥ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ଦଂଶନ କରେ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ସାପ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:26.146751818Z",
+  "model": "glm-5.3"
+}

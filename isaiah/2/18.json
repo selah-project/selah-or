@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ⟨ଓ⟩ପ୍ରତିମାଗଣ ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ ଲିଭିଯିବ।",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "ଓ ⟨ଓ⟩ପ୍ରତିମାଗଣ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ସମ୍ପୂର୍ଣ୍ଣ ଭାବରେ"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "ଲିଭିଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:21:48.962876320Z",
+  "model": "glm-5.3"
+}

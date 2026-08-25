@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ରାଜା ଶିମିଙ୍କୁ କହିଲେ: ତୁମ୍ଭେ ମରିବ ନାହିଁ। ରାଜା ତାହାଙ୍କୁ ଶପଥ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ଙ୍କୁ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "ମରିବ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ଶପଥ କଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:29:53.576498198Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ଯାହ୍ୱେଙ୍କ ଭାଗ ⟨ଅଟେ⟩ ⟨ତାହାଙ୍କ⟩ ପ୍ରଜା; ୟାକୋଭ୍ ⟨ଅଟେ⟩ ⟨ତାହାଙ୍କ⟩ ଉତ୍ତରାଧିକାରର ମାପରଜ୍ଜୁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ଭାଗ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ମାପରଜ୍ଜୁ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "ଉତ୍ତରାଧିକାରର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:42.342496437Z",
+  "model": "glm-5.3"
+}

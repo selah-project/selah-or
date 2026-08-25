@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏବଂ ବାଲିରେ ମୋର ଦାନ୍ତଗୁଡ଼ିକୁ ଚୂର୍ଣ୍ଣ କଲେ, ପଇତରେ ମୋତେ ଚାପି ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "ଚୂର୍ଣ୍ଣ କଲେ"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "ବାଲିରେ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ମୋର ଦାନ୍ତଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "ମୋତେ ଚାପି ଦେଲେ"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "ପଇତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:23.881284832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 18:18",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "କ୍ଷୟ ହିଁ କ୍ଷୟ ହେବ — ତୁମେ ମଧ୍ୟ, ମଧ୍ୟ ⟨the⟩ ଏହି ଲୋକ ଯାହା ତୁମ ସହିତ ଅଛି; କାରଣ ତୁମ ଠାରୁ ଭାରୀ ⟨the⟩ କଥା — ଏକୁଟିଆ ତାହା କରିବାକୁ ତୁମେ ସମର୍ଥ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "נבל",
+      "gloss": "କ୍ଷୟ"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "ହିଁ କ୍ଷୟ ହେବ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ ଲୋକ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ତୁମ ସହିତ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ତୁମ ଠାରୁ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ କଥା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "ସମର୍ଥ"
+    },
+    {
+      "surface": "עשהו",
+      "gloss": "ତାହା କରିବାକୁ"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ଏକୁଟିଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:13:46.136294391Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଅଭିଶପ୍ତ ସେ ଯେ କୌଣସି ପଶୁ ସହିତ ଶୋଇଥାଏ, ଆଉ ସମସ୍ତ ପ୍ରଜା କହିବେ, ଆମେନ୍।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ଶୋଇଥାଏ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଆଉ କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:19.649900092Z",
+  "model": "glm-5.3"
+}

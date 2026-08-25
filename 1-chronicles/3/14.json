@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆମୋନ୍ ତାହାଙ୍କ ପୁତ୍ର, ୟୋଶିୟାହୁ ତାହାଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "ଆମୋନ୍"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ୟୋଶିୟାହୁ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:32.616528366Z",
+  "model": "glm-5.3"
+}

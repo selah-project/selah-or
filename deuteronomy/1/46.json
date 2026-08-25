@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 1:46",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ତେଣୁ ତୁମ୍ଭେମାନେ କାଦେଶରେ ଅନେକ ଦିନ ରହିଲ, ଯେତେ ଦିନ ତୁମ୍ଭେମାନେ ସେଠାରେ ରହିଥିଲ।",
+  "tokens": [
+    {
+      "surface": "ותשבו",
+      "gloss": "ରହିଲ"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "କାଦେଶରେ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "ଯେତେ ଦିନ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେତେ (ସମ୍ପର୍କସୂଚକ)"
+    },
+    {
+      "surface": "ישבתם",
+      "gloss": "ରହିଥିଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:57:41.062639787Z",
+  "model": "glm-5.3"
+}

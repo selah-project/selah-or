@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 4:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଶୁଣ, ହେ ପୁତ୍ରମାନେ, ⟨ପିତାଙ୍କ⟩ ଶିକ୍ଷା, ଆଉ କାନ ଦିଅ ବିବେକ ଜାଣିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ହେ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ପିତାଙ୍କ"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "ଆଉ କାନ ଦିଅ"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "ଜାଣିବା ପାଇଁ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:10.864110124Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 14:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ବିଶ୍ୱସ୍ତ ସାକ୍ଷୀ ମିଛ କହେ ନାହିଁ; ମିଛର ସାକ୍ଷୀ ମିଛକଥା ଉଗାରିଦିଏ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ବିଶ୍ୱସ୍ତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יכזב",
+      "gloss": "ମିଛ କହେ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "ଉଗାରିଦିଏ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ମିଛକଥା"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଛର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:59.296504383Z",
+  "model": "glm-5.3"
+}

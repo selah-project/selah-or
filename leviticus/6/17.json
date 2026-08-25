@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ ଯେ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:37.967565132Z",
+  "model": "glm-5.3"
+}

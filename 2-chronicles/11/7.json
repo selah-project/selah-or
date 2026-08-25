@@ -1,0 +1,44 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 11:7",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବଂ ⟨את⟩ ବେତ-ତ୍ସୁର୍ ଓ ⟨את⟩ ଶୋଖୋ ଓ ⟨את⟩ ଅଦୁଲ୍ଲାମ୍।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ବେତ-ତ୍ସୁର୍"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ତ୍ସୁର୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଶୋଖୋ"
+    },
+    {
+      "surface": "שוכו",
+      "gloss": "ଶୋଖୋ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଅଦୁଲ୍ଲାମ୍"
+    },
+    {
+      "surface": "עדלם",
+      "gloss": "ଅଦୁଲ୍ଲାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:19:45.457437880Z",
+  "model": "glm-5.3"
+}

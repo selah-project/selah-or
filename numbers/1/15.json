@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ନାଫତାଲିଙ୍କ ପାଇଁ — ଅଖିରା, ଏନାନଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "ନାଫତାଲିଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ଅଖିରା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ଏନାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:04.833527961Z",
+  "model": "glm-5.3"
+}

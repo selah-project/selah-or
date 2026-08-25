@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଆଉ ଗୃହର ସମ୍ମୁଖ ଓ ପୃଥକ୍‌ସ୍ଥାନର ପ୍ରସ୍ଥ, ପୂର୍ବ ଦିଗକୁ, ଶହେ ହାତ।",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "ଆଉ ... ପ୍ରସ୍ଥ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ସମ୍ମୁଖ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "ଆଉ ପୃଥକ୍‌ସ୍ଥାନ"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "ପୂର୍ବ ଦିଗକୁ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:42:01.770784624Z",
+  "model": "glm-5.3"
+}

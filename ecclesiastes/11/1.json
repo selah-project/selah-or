@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ତୁମର ଅନ୍ନ ପାଣିର ମୁହାଁ ଉପରେ ପଠାଅ, କାରଣ ଅନେକ ଦିନରେ ତୁମେ ତାହାକୁ ପାଇବ।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "ପଠାଅ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "ତୁମର ଅନ୍ନ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁହାଁ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ପାଣିର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ଅନେକରେ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "ତୁମେ ତାହାକୁ ପାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.198122225Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଏଲାମ୍ ପଞ୍ଚମ, ୟେହୋହାନାନ୍ ଷଷ୍ଠ, ଏଲ୍ୟେହୋଏନାଇ ସପ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମ୍"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ପଞ୍ଚମ"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "ୟେହୋହାନାନ୍"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ଷଷ୍ଠ"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "ଏଲ୍ୟେହୋଏନାଇ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ସପ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:10:02.746191686Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମୂର୍ଖ ⟨ବଡ଼⟩ ଉଚ୍ଚ ସ୍ଥାନରେ ନିଯୁକ୍ତ ହୁଏ, ଆଉ ଧନୀମାନେ ନିମ୍ନ ସ୍ଥାନରେ ବସନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ନିଯୁକ୍ତ ହୁଏ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "ଉଚ୍ଚ ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "ଆଉ ଧନୀମାନେ"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "ନିମ୍ନ ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ବସନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:26.146447803Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 1:1",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଦାମ୍, ଶେତ୍, ଏନୋଶ୍।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ଆଦାମ୍"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ଶେତ୍"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ଏନୋଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:15.445614129Z",
+  "model": "glm-5.3"
+}

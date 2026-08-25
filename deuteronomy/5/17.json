@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ତୁମ୍ଭେ ହତ୍ୟା କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "ହତ୍ୟା କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:39:31.090012890Z",
+  "model": "glm-5.3"
+}

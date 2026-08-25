@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଉତ୍ତମ-ଚକ୍ଷୁ ⟨ସେ⟩ ଆଶୀର୍ବାଦ ପାଇବ, କାରଣ ସେ ନିଜ ରୁଟିରୁ ଦରିଦ୍ରକୁ ଦେଇଛି।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଚକ୍ଷୁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ଆଶୀର୍ବାଦ ପାଇବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ଦେଇଛି"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "ନିଜ ରୁଟିରୁ"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "ଦରିଦ୍ରକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:18.343479798Z",
+  "model": "glm-5.3"
+}

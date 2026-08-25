@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏବଂ ତାହାଙ୍କ ପରେ ଯାଜକମାନେ, ସମତଳ ଭୂମିର ଲୋକେ, ମରାମତି କଲେ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ଏବଂ ତାହାଙ୍କ ପରେ"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "ମରାମତି କଲେ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନେ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକେ"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "ସମତଳ ଭୂମିର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:39:41.909739643Z",
+  "model": "glm-5.3"
+}

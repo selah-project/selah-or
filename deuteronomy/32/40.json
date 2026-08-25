@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ମୁଁ ଆକାଶମଣ୍ଡଳ ଆଡ଼କୁ ମୋ' ହାତ ଉଠାଉଛି ଏବଂ କହୁଛି — ଯେପରି ମୁଁ ସର୍ବଦା ଜୀବିତ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ମୁଁ ଉଠାଉଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "ଆକାଶମଣ୍ଡଳ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ମୋ' ହାତ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "ଏବଂ ମୁଁ କହୁଛି"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବିତ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ସର୍ବଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:03:26.763321025Z",
+  "model": "glm-5.3"
+}

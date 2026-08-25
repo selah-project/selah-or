@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 21:11",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ସେହି କଥା ଅବ୍ରାହାମଙ୍କ ଆଖିରେ ଅତି ମନ୍ଦ ଲାଗିଲା, ତାଙ୍କ ପୁଅ ଯୋଗୁଁ।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "ମନ୍ଦ ଲାଗିଲା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ସେହି କଥା"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଆଖିରେ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମଙ୍କ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଯୋଗୁଁ"
+    },
+    {
+      "surface": "אודת",
+      "gloss": "କାରଣରୁ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାଙ୍କ ପୁଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:45:40.220730567Z",
+  "model": "glm-5.3"
+}

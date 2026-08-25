@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 26:17",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆରୋଦର — ଆରୋଦୀ ଗୋତ୍ର; ଆରେଲିର — ଆରେଲୀ ଗୋତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לארוד",
+      "gloss": "ଆରୋଦର"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ଗୋତ୍ର"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "ଆରୋଦୀ"
+    },
+    {
+      "surface": "לאראלי",
+      "gloss": "ଆରେଲିର"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ଗୋତ୍ର"
+    },
+    {
+      "surface": "האראלי",
+      "gloss": "ଆରେଲୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:25:11.979260799Z",
+  "model": "glm-5.3"
+}

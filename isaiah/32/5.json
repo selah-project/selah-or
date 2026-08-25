@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ନାବାଳକୁ ଆଉ ଉଦାରବାନ୍ ବୋଲି ଡାକାଯିବ ନାହିଁ, ଆଉ କଞ୍ଜାକୁ ଧନୀ ବୋଲି କୁହାଯିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ଡାକାଯିବ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ନାବାଳକୁ"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "ଉଦାରବାନ୍"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "ଆଉ କଞ୍ଜାକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "କୁହାଯିବ"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "ଧନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:48:51.313568649Z",
+  "model": "glm-5.3"
+}

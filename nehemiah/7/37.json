@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଲୋଦ୍‌ର ପୁତ୍ରମାନେ, ଖାଦିଦ୍ ଓ ଓନୋ — ସାତ ଶହ ବାଇଶି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "ଲୋଦ୍"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ଖାଦିଦ୍"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "ଓ ଓନୋ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ବାଇଶି"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ଓ ଏକ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:51.717569791Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ଶଲୋମୋଙ୍କ ନିକଟକୁ ଏକ ବର୍ଷରେ ଆସିଥିବା ସୁନାର ଓଜନ ହେଲା ଛଅ ଶହ ଛଷାଠି ଛଅ ସୁନା-ତାଳାଣ୍ଡ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "ଓଜନ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନାର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଥିବା"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ଶଲୋମୋଙ୍କ ନିକଟକୁ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ଏକ ବର୍ଷରେ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଛଷାଠି"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଓ ଛଅ"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "ତାଳାଣ୍ଡ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:17.786536625Z",
+  "model": "glm-5.3"
+}

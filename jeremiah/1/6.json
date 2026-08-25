@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ କହିଲି: ଆହା! ଅଦୋନାଇ ଯାହ୍ୱେ, ଦେଖ, ମୁଁ କହିବା ଜାଣେ ନାହିଁ, କାରଣ ମୁଁ ⟨ଏକ⟩ ବାଳକ ଅଟି।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "ଆହା"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "ମୁଁ ଜାଣେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିବା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ବାଳକ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ ଅଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:26:01.583140276Z",
+  "model": "glm-5.3"
+}

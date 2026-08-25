@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 128,
+  "translation": "ଦେଖ, ଏପରି ଭାବେ ଆଶୀର୍ବାଦ ପାଇବ ⟨ସେ⟩ ମନୁଷ୍ୟ, ଯେ ଯାହ୍ୱେଙ୍କୁ ଭୟ କରେ ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ନିଶ୍ଚୟ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏପରି ଭାବେ"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "ଆଶୀର୍ବାଦ ପାଇବ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ଭୟ କରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:49:38.175479875Z",
+  "model": "glm-5.3"
+}

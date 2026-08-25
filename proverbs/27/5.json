@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଖୋଲା ତିରସ୍କାର ଉତ୍ତମ, ଲୁଚାଯାଇଥିବା ପ୍ରେମ ଅପେକ୍ଷା।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ତିରସ୍କାର"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ଖୋଲା"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "ପ୍ରେମ ଅପେକ୍ଷା"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ଲୁଚାଯାଇଥିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:51.043448158Z",
+  "model": "glm-5.3"
+}

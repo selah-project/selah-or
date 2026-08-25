@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 36:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ସେ ଶୟ୍ୟା ଉପରେ ଅକଲ୍ୟାଣ ଚିନ୍ତନ କରେ, ଉତ୍ତମ ନ ହେଉଁ ପଥରେ ନିଜକୁ ସ୍ଥିର ରଖେ, ମନ୍ଦକୁ ଘୃଣା କରେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ଅକଲ୍ୟାଣ"
+    },
+    {
+      "surface": "יחשב",
+      "gloss": "ଚିନ୍ତନ କରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "משכבו",
+      "gloss": "ଶୟ୍ୟା"
+    },
+    {
+      "surface": "יתיצב",
+      "gloss": "ସ୍ଥିର ରଖେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ରେ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ימאס",
+      "gloss": "ଘୃଣା କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:00:00.784259213Z",
+  "model": "glm-5.3"
+}

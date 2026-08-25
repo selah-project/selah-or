@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 95,
+  "translation": "କାରଣ ଯାହ୍ୱେ ⟨is⟩ ଏକ ମହାନ୍ ଏଲ୍, ଏବଂ ସମସ୍ତ ଦେବତାଙ୍କ ଉପରେ ଏକ ମହାନ୍ ରାଜା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ଏବଂ ରାଜା"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଦେବତାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:21.177314705Z",
+  "model": "glm-5.3"
+}

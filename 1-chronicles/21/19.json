@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଦାଉଦ୍ ଗାଦଙ୍କ ବାକ୍ୟ ଅନୁସାରେ ଉପରକୁ ଗଲେ, ଯାହା ସେ ଯାହ୍ୱେଙ୍କ ନାମରେ କହିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ଆଉ ଉପରକୁ ଗଲେ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦ୍"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "ବାକ୍ୟ ଅନୁସାରେ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଥିଲେ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ନାମରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:06:54.154989347Z",
+  "model": "glm-5.3"
+}

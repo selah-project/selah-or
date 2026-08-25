@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଶାମ୍ମାହ୍ ⟨the⟩ ହରୋଦୀ, ଏଲିକା ⟨the⟩ ହରୋଦୀ।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ଶାମ୍ମାହ୍"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨the⟩ ହରୋଦୀ"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "ଏଲିକା"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "⟨the⟩ ହରୋଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:37.351427562Z",
+  "model": "glm-5.3"
+}

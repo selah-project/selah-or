@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-samuel 14:25",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଦେଶର ସମସ୍ତ ଲୋକ ଜଙ୍ଗଲକୁ ଆସିଲେ, ଏବଂ କ୍ଷେତର ପୃଷ୍ଠଭାଗରେ ମହୁ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶର ଲୋକ"
+    },
+    {
+      "surface": "באו",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ଜଙ୍ଗଲକୁ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ଥିଲା"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ମହୁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ପୃଷ୍ଠଭାଗରେ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:04:08.373278132Z",
+  "model": "glm-5.3"
+}

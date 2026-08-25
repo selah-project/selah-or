@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "nehemiah 7:40",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଇମ୍ମେରର ପୁତ୍ରମାନେ — ଏକ ହଜାର ବାଉନଭତି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ଇମ୍ମେର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ଏକ ହଜାର"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:51.718094003Z",
+  "model": "glm-5.3"
+}

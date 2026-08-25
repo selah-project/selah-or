@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 18:24",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଆଉ ମୋଶେ ନିଜ ଶ୍ୱଶୁରଙ୍କ ସ୍ୱର ଶୁଣିଲେ ଓ ସେ ଯାହା କହିଥିଲେ ସବୁ କଲେ ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ଆଉ ଶୁଣିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לקול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "חתנו",
+      "gloss": "ନିଜ ଶ୍ୱଶୁରଙ୍କ"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "ଓ କଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:15:10.237659121Z",
+  "model": "glm-5.3"
+}

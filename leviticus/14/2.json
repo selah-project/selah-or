@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 14:2",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏହା ହେଉ ମତ୍ସରୋଗୀର ବିଧି — ⟨ତାହାର⟩ ପରିଶୁଦ୍ଧତାର ଦିନରେ; ଓ ⟨ସେ⟩ ଯାଜକ ପାଖକୁ ଆଣାଯିବ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ବିଧି"
+    },
+    {
+      "surface": "המצרע",
+      "gloss": "ମତ୍ସରୋଗୀର"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "ତାହାର ପରିଶୁଦ୍ଧତାର"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ଓ ଆଣାଯିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:52.228490890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତାହାର ପଥଗୁଡ଼ିକ ମଧୁରତାର ପଥ, ଆଉ ତାହାର ସମସ୍ତ ଗଳିପଥ ଶାନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "ତାହାର ପଥଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ମଧୁରତା"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସମସ୍ତ"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "ତାହାର ଗଳିପଥ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:32.274672736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ମଧ୍ୟ ପ୍ରତ୍ୟେକ ମଣିଷ ଯେ ଖାଏ ଓ ପିଏ ଏବଂ ଆପଣା ସମସ୍ତ ପରିଶ୍ରମରେ ମଙ୍ଗଳ ଦେଖେ — ଏହା ଏଲୋହିମ୍‌ଙ୍କ ଦାନ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ମଧ୍ୟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ଯେ ଖାଏ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ଓ ପିଏ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଏବଂ ଦେଖେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ…ରେ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ଆପଣା ପରିଶ୍ରମ"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "ଦାନ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:11.684821062Z",
+  "model": "glm-5.3"
+}

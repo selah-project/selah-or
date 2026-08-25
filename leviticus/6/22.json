@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 6:22",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାଜକମାନଙ୍କ ମଧ୍ୟରୁ ପ୍ରତ୍ୟେକ ପୁରୁଷ ଏହାକୁ ⟨את⟩ ଖାଇପାରିବ; ଏହା ପରମ-ପବିତ୍ର।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "ପୁରୁଷ"
+    },
+    {
+      "surface": "בכהנים",
+      "gloss": "ଯାଜକମାନଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଇପାରିବ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହାକୁ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ପରମ-ପବିତ୍ର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:19.002147910Z",
+  "model": "glm-5.3"
+}

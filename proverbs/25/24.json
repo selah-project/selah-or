@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଛାଦର କୋଣରେ ବସିବା ଉତ୍ତମ, ଝଗଡ଼ାଟିଆ ସ୍ତ୍ରୀ ସହିତ ଆଉ ସାଙ୍ଗର ଘର ଅପେକ୍ଷା।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ବସିବା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ରେ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "କୋଣରେ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ଛାଦ"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ସ୍ତ୍ରୀ ଅପେକ୍ଷା"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ଝଗଡ଼ାଟିଆ"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ଆଉ ଘର"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ସାଙ୍ଗ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:39.171083416Z",
+  "model": "glm-5.3"
+}

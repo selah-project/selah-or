@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସେମାନଙ୍କ ଉଟ ଚାରି ଶହ ପଇତିଶ; ଗଧ ଛଅ ହଜାର ସାତ ଶହ ବିଶି।",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "ସେମାନଙ୍କ ଉଟ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ଏବଂ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ଗଧ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଏବଂ ବିଶି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:31:24.093124847Z",
+  "model": "glm-5.3"
+}

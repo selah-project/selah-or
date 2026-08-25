@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "କେହି ଅଶୁଚିରୁ ଶୁଚି ଦେବ? କେହି ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କେହି"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ଶୁଚି"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "ଅଶୁଚିରୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "କେହି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:27:34.501023101Z",
+  "model": "glm-5.3"
+}

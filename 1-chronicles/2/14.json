@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନତନଏଲ ଚତୁର୍ଥ, ରଦ୍ଦାଇ ପଞ୍ଚମ।",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "ନତନଏଲ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ଚତୁର୍ଥ"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "ରଦ୍ଦାଇ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ପଞ୍ଚମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:19.770544897Z",
+  "model": "glm-5.3"
+}

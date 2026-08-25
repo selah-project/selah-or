@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 9:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଚୋରା ଜଳ ମିଠା ହୁଏ, ଆଉ ଲୁଚାଯାଇଥିବା ରୁଟି ସ୍ୱାଦିଷ୍ଟ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "גנובים",
+      "gloss": "ଚୋରା"
+    },
+    {
+      "surface": "ימתקו",
+      "gloss": "ମିଠା ହୁଏ"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ଆଉ ରୁଟି"
+    },
+    {
+      "surface": "סתרים",
+      "gloss": "ଲୁଚାଯାଇଥିବା"
+    },
+    {
+      "surface": "ינעם",
+      "gloss": "ସ୍ୱାଦିଷ୍ଟ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:55.047749829Z",
+  "model": "glm-5.3"
+}

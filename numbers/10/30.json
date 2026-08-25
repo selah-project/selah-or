@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 10:30",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ହୋବାବ ତାଙ୍କୁ କହିଲେ: ମୁଁ ଯିବି ନାହିଁ; ବରଂ ମୁଁ ମୋର ଦେଶକୁ ଓ ମୋର ଜନ୍ମଭୂମିକୁ ଯିବି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ଯିବି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "ארצי",
+      "gloss": "ମୋର ଦେଶ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "מולדתי",
+      "gloss": "ମୋର ଜନ୍ମଭୂମି"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ଯିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:11:16.307665520Z",
+  "model": "glm-5.3"
+}

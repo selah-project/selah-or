@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 5:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କହିଲେ, କହିବାକୁ କହି,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "ଲାମର",
+      "gloss": "କହିବାକୁ କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:38:36.755828280Z",
+  "model": "glm-5.3"
+}

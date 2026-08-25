@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଇସ୍ରାଏଲରେ ଥିବା ସମସ୍ତ ସମର୍ପିତ ବସ୍ତୁ ତୁମ୍ଭର ହେବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ସମର୍ପିତ ବସ୍ତୁ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ଇସ୍ରାଏଲରେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭର"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:19:47.913027025Z",
+  "model": "glm-5.3"
+}

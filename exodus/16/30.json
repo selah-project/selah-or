@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଏଣୁ ପ୍ରଜା ସପ୍ତମ ଦିନରେ ବିଶ୍ରାମ ନେଲେ।",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "ବିଶ୍ରାମ ନେଲେ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ସପ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:15.896612874Z",
+  "model": "glm-5.3"
+}

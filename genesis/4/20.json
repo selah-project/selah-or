@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଓ ଆଦା ⟨את⟩ ୟାବାଲଙ୍କୁ ଜନ୍ମ ଦେଲା; ସେ ତମ୍ବୁବାସୀ ଓ ପଶୁପାଳକମାନଙ୍କ ପିତା ⟨ଥିଲା⟩।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "ଓ ଜନ୍ମ ଦେଲା"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ଆଦା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ୟାବାଲଙ୍କୁ"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "ୟାବାଲଙ୍କୁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ତମ୍ବୁବାସୀ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ତମ୍ବୁ"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "ଓ ପଶୁପାଳକ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:57.535975375Z",
+  "model": "glm-5.3"
+}

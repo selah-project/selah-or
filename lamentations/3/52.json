@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମର୍ଦ୍ଦିହିଁ ମୋର ଶତ୍ରୁମାନେ ମୋତେ ପକ୍ଷୀ ପରି ଖୋଜିଲେ, ବିନା କାରଣରେ।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "ମର୍ଦ୍ଦିହିଁ"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "ମୋତେ ଖୋଜିଲେ"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "ପକ୍ଷୀ ପରି"
+    },
+    {
+      "surface": "איבי",
+      "gloss": "ମୋର ଶତ୍ରୁମାନେ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ବିନା କାରଣରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:50.453877519Z",
+  "model": "glm-5.3"
+}

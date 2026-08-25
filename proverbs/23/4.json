@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଧନୀ ହେବା ପାଇଁ କଷ୍ଟ କରିବ ନାହିଁ; ନିଜ ବିବେକରୁ ଦୂରେଇ ଯାଅ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "କଷ୍ଟ କରିବ"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "ଧନୀ ହେବା ପାଇଁ"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "ନିଜ ବିବେକରୁ"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "ଦୂରେଇ ଯାଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:56.941270581Z",
+  "model": "glm-5.3"
+}

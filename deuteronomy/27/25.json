@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "deuteronomy 27:25",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଅଭିଶପ୍ତ ⟨ସେ⟩ ଯିଏ ନିର୍ଦୋଷ ରକ୍ତର ପ୍ରାଣକୁ ପିଟିବା ପାଇଁ ଘୁଣା ନିଏ; ଆଉ ସମସ୍ତ ⟨ପ୍ରଜା⟩ କହିବେ — ଆମେନ୍।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ନିଏ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ଘୁଣା"
+    },
+    {
+      "surface": "להכות",
+      "gloss": "ପିଟିବା ପାଇଁ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣକୁ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ରକ୍ତର"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ନିର୍ଦୋଷ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:28.918321108Z",
+  "model": "glm-5.3"
+}

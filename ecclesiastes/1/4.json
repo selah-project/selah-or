@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏକ ପିଢ଼ି ଚାଲିଯାଏ, ଓ ଏକ ପିଢ଼ି ଆସେ; କିନ୍ତୁ ପୃଥିବୀ ସର୍ବଦା ଠିଆ ହୋଇ ରହେ।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ପିଢ଼ି"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ଚାଲିଯାଏ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "ଓ ପିଢ଼ି"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସେ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "କିନ୍ତୁ ପୃଥିବୀ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ଠିଆ ହୋଇ ରହେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:52.702046236Z",
+  "model": "glm-5.3"
+}

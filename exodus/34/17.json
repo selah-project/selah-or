@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଗଳାଇତ ଏଲୋହିମ୍-ମୂର୍ତ୍ତି ତୁମେ ତୁମ ନିମନ୍ତେ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "ଏଲୋହିମ୍-ମୂର୍ତ୍ତିର"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ଗଳାଇତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "କରିବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:27:35.022216734Z",
+  "model": "glm-5.3"
+}

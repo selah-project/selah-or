@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ତେଣୁ ୟୋସେଫଙ୍କ ଦଶ ଭାଇ ମିଶରରୁ ଅନ୍ନ କିଣିବାକୁ ତଳକୁ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "ତଳକୁ ଗଲେ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫଙ୍କ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "କିଣିବାକୁ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ଅନ୍ନ"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "ମିଶରରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:52:24.488956123Z",
+  "model": "glm-5.3"
+}

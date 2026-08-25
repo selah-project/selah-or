@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 9:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଯାହ୍ୱେ ପୀଡ଼ିତର ଉଚ୍ଚ ଆଶ୍ରୟ ହେବେ, ସଙ୍କଟ ସମୟରେ ଉଚ୍ଚ ଆଶ୍ରୟ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେବେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ଉଚ୍ଚ ଆଶ୍ରୟ"
+    },
+    {
+      "surface": "לדך",
+      "gloss": "ପୀଡ଼ିତର"
+    },
+    {
+      "surface": "משגב",
+      "gloss": "ଉଚ୍ଚ ଆଶ୍ରୟ"
+    },
+    {
+      "surface": "לעתות",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "ସଙ୍କଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:47:13.432903236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଏବଂ ଯାଜକ ⟨את⟩ ଦାଗଟି ଦେଖିବେ ଏବଂ ⟨את⟩ ଦାଗଟି ସାତ ଦିନ ପର୍ଯ୍ୟନ୍ତ ବନ୍ଦ ରଖିବେ।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ଦେଖିବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦାଗ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ଦାଗଟି"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ବନ୍ଦ ରଖିବେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦାଗ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "ଦାଗଟି"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:37.217941519Z",
+  "model": "glm-5.3"
+}

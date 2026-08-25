@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ତାହାଙ୍କ ପରେ ଗବ୍ବାୟ ଓ ସଲ୍ଲାୟ — ନଅଶହ ବିଶି ଆଠ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ଓ ତାହାଙ୍କ ପରେ"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "ଗବ୍ବାୟ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ସଲ୍ଲାୟ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶି"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଆଠ ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:48:04.347743493Z",
+  "model": "glm-5.3"
+}

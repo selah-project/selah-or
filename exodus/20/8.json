@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ସାବତ-ଦିନକୁ ପବିତ୍ର କରିବା ପାଇଁ ⟨את⟩ ଦିନକୁ ମନେ ରଖ।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "ମନେ ରଖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦିନକୁ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ସାବତ-ଦିନକୁ"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "ପବିତ୍ର କରିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:10.342553188Z",
+  "model": "glm-5.3"
+}

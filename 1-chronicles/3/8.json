@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏଲିଶାମା, ଏଲିୟାଦା ଓ ଏଲିଫଲେତ — ନଅ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ଓ ଏଲିଶାମା"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ଓ ଏଲିୟାଦା"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ଓ ଏଲିଫଲେତ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ନଅ ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:52:51.574189081Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 9:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଚାଳିଶ ଦିନ ଓ ଚାଳିଶ ରାତ୍ରିର ଶେଷରେ, ଯାହ୍ୱେ ମୋତେ ⟨את⟩ ଦୁଇ ପଥର ଫଳକ — ନିୟମର ଫଳକ — ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ⟨ହେଲା⟩"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ଓ ଚାଳିଶ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତ୍ରି(ର)"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ଦେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦୁଇ ପଥର ଫଳକ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "ଫଳକ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ପଥର(ର)"
+    },
+    {
+      "surface": "לחות",
+      "gloss": "ଫଳକ"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "ନିୟମର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:46:59.935539695Z",
+  "model": "glm-5.3"
+}

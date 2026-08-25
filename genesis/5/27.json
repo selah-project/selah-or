@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 5:27",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମିଥୂଶେଲାଖ୍‌ଙ୍କ ସମସ୍ତ ଦିନର ସଂଖ୍ୟା ନଅଶହ ଊନସତୁରି ବର୍ଷ ହେଲା, ଏବଂ ସେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନର"
+    },
+    {
+      "surface": "מתושלח",
+      "gloss": "ମିଥୂଶେଲାଖ୍"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନଅ..."
+    },
+    {
+      "surface": "וששים",
+      "gloss": "...ସତୁରି"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁବରଣ କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:12.022003012Z",
+  "model": "glm-5.3"
+}

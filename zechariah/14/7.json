@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଏପରି ଏକ ଦିନ ହେବ — ଏହା ଯାହ୍ୱେଙ୍କ ନିକଟରେ ଜଣା; ଦିନ ନୁହେଁ, ରାତ୍ରି ମଧ୍ୟ ନୁହେଁ; ଆଉ ସନ୍ଧ୍ୟା ସମୟରେ ଆଲୋକ ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ଆଉ ହେବ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜଣା"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ନିକଟରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ମଧ୍ୟ ନୁହେଁ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତ୍ରି"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ଆଉ ହେବ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ସନ୍ଧ୍ୟା"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:40:29.467340754Z",
+  "model": "glm-5.3"
+}

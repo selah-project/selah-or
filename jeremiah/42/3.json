@@ -1,0 +1,67 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 42:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ଓ ୟାହ୍ୱେ ଆପଣଙ୍କ ଏଲୋହିମ୍ ଆମ୍ଭକୁ ଜଣାନ୍ତୁ ⟨את⟩ ବାଟ, ଯେଉଁଥିରେ ଆମ୍ଭେ ଚାଲିବା, ଏବଂ ⟨את⟩ କଥା, ଯାହା ଆମ୍ଭେ କରିବା।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "ଜଣାନ୍ତୁ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମ୍ଭକୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ଆପଣଙ୍କ ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବାଟ"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ବାଟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "נלך",
+      "gloss": "ଚାଲିବା"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "କଥା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "କରିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T14:28:45.859957608Z",
+  "model": "glm-5.3"
+}

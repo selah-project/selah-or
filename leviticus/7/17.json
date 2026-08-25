@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ବଳିର ମାଂସରୁ ଯାହା ତୃତୀୟ ଦିନରେ ବଳିଯିବ, ତାହା ଅଗ୍ନିରେ ପୋଡ଼ାଯିବ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ଆଉ ଯାହା ବଳିଯିବ"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "ମାଂସରୁ"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "ବଳିର"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ଅଗ୍ନିରେ"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "ପୋଡ଼ାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:37:31.656900715Z",
+  "model": "glm-5.3"
+}

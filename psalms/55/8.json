@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 55:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 55,
+  "translation": "ଦେଖ, ଦୂରକୁ ଦୌଡ଼ିଯିବି, ପ୍ରାନ୍ତରରେ ରାତି କାଟିବି। ସେଲା।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "ארחיק",
+      "gloss": "ଦୂରକୁ"
+    },
+    {
+      "surface": "נדד",
+      "gloss": "ଦୌଡ଼ିଯିବି"
+    },
+    {
+      "surface": "אלין",
+      "gloss": "ରାତି କାଟିବି"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ପ୍ରାନ୍ତରରେ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ସେଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:10:29.623982288Z",
+  "model": "glm-5.3"
+}

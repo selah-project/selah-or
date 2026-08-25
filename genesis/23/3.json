@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 23:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ଅବ୍ରାହାମ୍ ନିଜ ମୃତଦେହଠାରୁ ଉଠି ହେତ୍-ପୁତ୍ରମାନଙ୍କ ସହ କଥା ହେଲେ, କହିଲେ:",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ଉଠିଲେ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ସାମ୍ନାରୁ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ନିଜ ମୃତଦେହ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ହେତ୍-"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:31:40.008493213Z",
+  "model": "glm-5.3"
+}

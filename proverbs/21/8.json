@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 21:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଏକ ଲୋକର ମାର୍ଗ ବକ୍ର-ଓ ଅପରାଧମୟ; କିନ୍ତୁ ଶୁଦ୍ଧର — ସଳଖ ⟨is⟩ ତାହାର କାର୍ଯ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "הפכפך",
+      "gloss": "ବକ୍ର"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ମାର୍ଗ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଏକ ଲୋକର"
+    },
+    {
+      "surface": "וזר",
+      "gloss": "ଓ ଅପରାଧମୟ"
+    },
+    {
+      "surface": "וזך",
+      "gloss": "କିନ୍ତୁ ଶୁଦ୍ଧର"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ସଳଖ"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ତାହାର କାର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:03.451409621Z",
+  "model": "glm-5.3"
+}

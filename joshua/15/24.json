@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ିଜିଫ୍, ତେଲେମ୍ ଓ ବେଆଲୋତ୍।",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "ଜିଫ୍"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "ତେଲେମ୍"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "ବେଆଲୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:56.862502143Z",
+  "model": "glm-5.3"
+}

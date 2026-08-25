@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ମୁଁ ଯାହ୍ୱେଙ୍କ ନାମ ଡାକିବି; ଆମ୍ଭ ଏଲୋହିମ୍‌ଙ୍କ ମହତ୍ତ୍ୱ ଦିଅ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "ମୁଁ ଡାକିବି"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ମହତ୍ତ୍ୱ"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "ଆମ୍ଭ ଏଲୋହିମ୍‌ଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:05:10.538386104Z",
+  "model": "glm-5.3"
+}

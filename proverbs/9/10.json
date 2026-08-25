@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଜ୍ଞାନର ଆରମ୍ଭ ଯାହ୍ୱେଙ୍କ ଭୟ, ଆଉ ପବିତ୍ରମାନଙ୍କ ଜ୍ଞାନ ବିବେକ।",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "ଆରମ୍ଭ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନର"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଆଉ ... ଜ୍ଞାନ"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ପବିତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:08.176253450Z",
+  "model": "glm-5.3"
+}

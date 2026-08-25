@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ୟେରିଖୋର ରାଜା, ଜଣେ; ହାଇର ରାଜା, ଯିଏ ବେତ-ଏଲ୍‌ର ପାଖରେ ଅଛି, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "ୟେରିଖୋ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ହାଇ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:38.548431633Z",
+  "model": "glm-5.3"
+}

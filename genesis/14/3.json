@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏହି ସମସ୍ତେ ମିଳିତ ହେଲେ ଶିଦ୍ଦିମ୍ ଉପତ୍ୟକାକୁ — ଏହା ଲୁଣି ସାଗର।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ମିଳିତ ହେଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ଉପତ୍ୟକା"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "ଶିଦ୍ଦିମ୍‌ର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ସାଗର"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "ଲୁଣି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:19.020371899Z",
+  "model": "glm-5.3"
+}

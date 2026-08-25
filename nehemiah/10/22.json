@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 10:22",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମେଶେଜାବେଲ୍, ତ୍ସାଦୋକ୍, ୟାଦ୍ଦୁଆ।",
+  "tokens": [
+    {
+      "surface": "משיזבאל",
+      "gloss": "ମେଶେଜାବେଲ୍"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ତ୍ସାଦୋକ୍"
+    },
+    {
+      "surface": "ידוע",
+      "gloss": "ୟାଦ୍ଦୁଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:45:59.074218780Z",
+  "model": "glm-5.3"
+}

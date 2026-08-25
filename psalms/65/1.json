@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 65,
+  "translation": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକ ପାଇଁ, ଦାଉଦଙ୍କ ମିଜମୋର୍, ଗୀତ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକ ପାଇଁ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ମିଜମୋର୍"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:14:47.669731825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 94:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 94,
+  "translation": "ଉଠ, ପୃଥିବୀର ବିଚାରକ; ଅହଂକାରୀମାନଙ୍କ ଉପରେ ପ୍ରତିଫଳ ଫେରାଅ।",
+  "tokens": [
+    {
+      "surface": "הנשא",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ବିଚାରକ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀର"
+    },
+    {
+      "surface": "השב",
+      "gloss": "ଫେରାଅ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ପ୍ରତିଫଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "גאים",
+      "gloss": "ଅହଂକାରୀମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:13.653962438Z",
+  "model": "glm-5.3"
+}

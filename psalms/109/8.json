@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 109:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 109,
+  "translation": "ତା' ଦିନଗୁଡ଼ିକ ଅଳ୍ପ ହେଉ, ଅନ୍ୟ ଜଣେ ତା' ପଦବୀ ନିଅନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ତା' ଦିନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "מעטים",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "פקדתו",
+      "gloss": "ତା' ପଦବୀ\/ପାଳନ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନିଅନ୍ତୁ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:42:14.960841513Z",
+  "model": "glm-5.3"
+}

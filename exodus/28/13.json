@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 28:13",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ତୁମ୍ଭେ ସୁନାର ଜଡ଼ାବୁଣା ସେଟିଂ ମାନ ତିଆରି କରିବ।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "ଓ ତୁମ୍ଭେ ତିଆରି କରିବ"
+    },
+    {
+      "surface": "משבצת",
+      "gloss": "ଜଡ଼ାବୁଣା ସେଟିଂ ମାନ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନାର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:22:16.021904118Z",
+  "model": "glm-5.3"
+}

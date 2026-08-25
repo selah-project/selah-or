@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 11:4",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏହିପରି କହୁଛନ୍ତି ଯାହ୍ୱେ ମୋର ଏଲୋହିମ୍: ବଧକୁ ନିର୍ଦ୍ଧିଷ୍ଟ ⟨את⟩ ପଶୁପଲକୁ ଚରାଅ ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ମୋର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ଚରାଅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପଶୁପଲକୁ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ପଶୁପଲକୁ"
+    },
+    {
+      "surface": "ההרגה",
+      "gloss": "ବଧକୁ ନିର୍ଦ୍ଧିଷ୍ଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:36:58.268348170Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସାମଲା ମରିଗଲେ, ଏବଂ ତାହାଙ୍କ ବଦଳରେ ନଦୀର ରେହୋବୋତରୁ ଶାଉଲ୍ ରାଜତ୍ୱ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମରିଗଲେ"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "ସାମଲା"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜତ୍ୱ କଲେ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ତାହାଙ୍କ ବଦଳରେ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "ରେହୋବୋତରୁ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ନଦୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:25.911178321Z",
+  "model": "glm-5.3"
+}

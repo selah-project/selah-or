@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ ପୃଥିବୀରେ ଏପରି କୌଣସି ଧାର୍ମିକ ମଣିଷ ନାହାନ୍ତି ଯିଏ ଉତ୍ତମ କର୍ମ କରେ ଓ ପାପ ନ କରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ କର୍ମ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନ"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ପାପ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:33.747146813Z",
+  "model": "glm-5.3"
+}

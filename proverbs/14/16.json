@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 14:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଜ୍ଞାନୀ ଭୟ କରେ ଓ ମନ୍ଦରୁ ଦୂରେଇ ଯାଏ, ଆଉ ମୂର୍ଖ ଉତ୍ୱେଳ ହୁଏ ଓ ନିର୍ଭର କରେ।",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ଭୟ କରେ"
+    },
+    {
+      "surface": "וסר",
+      "gloss": "ଓ ଦୂରେଇ ଯାଏ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ମନ୍ଦରୁ"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "ଆଉ ମୂର୍ଖ"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "ଉତ୍ୱେଳ ହୁଏ"
+    },
+    {
+      "surface": "ובוטח",
+      "gloss": "ଓ ନିର୍ଭର କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:58.849243512Z",
+  "model": "glm-5.3"
+}

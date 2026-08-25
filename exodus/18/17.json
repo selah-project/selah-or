@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "କହିଲେ ମୋଶେଙ୍କ ଶ୍ୱଶୁର ତାଙ୍କ ପ୍ରତି: ଉତ୍ତମ ନୁହେଁ ⟨the⟩ କଥା ଯାହା ତୁମେ କରୁଛ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ଶ୍ୱଶୁର"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାଙ୍କ ପ୍ରତି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ କଥା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରୁଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:13:46.136026867Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "କହିଲେ — ଆଶୀର୍ବାଦିତ ଯାହ୍ୱେ, ଶେମର ଏଲୋହିମ୍; କେନାନ୍ ସେମାନଙ୍କର ଦାସ ହେଉ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ଆଶୀର୍ବାଦିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ଶେମର"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କେନାନ୍"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ସେମାନଙ୍କର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:29.312373087Z",
+  "model": "glm-5.3"
+}

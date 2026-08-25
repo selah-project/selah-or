@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଲିବ୍ନା, ଏତେର୍ ଓ ଅଶାନ୍।",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "ଲିବ୍ନା"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "ଏତେର୍"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "ଅଶାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:55.450534048Z",
+  "model": "glm-5.3"
+}

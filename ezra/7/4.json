@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜେରଚୟାଙ୍କ ପୁତ୍ର, ଉଜ୍ଜୀଙ୍କ ପୁତ୍ର, ବୁକ୍କୀଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ଜେରଚୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ଉଜ୍ଜୀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ବୁକ୍କୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:33:07.358499897Z",
+  "model": "glm-5.3"
+}

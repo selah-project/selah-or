@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଦାଉଦଙ୍କ ମଙ୍ଗଳଗୀତ। ଯାହ୍ୱେ ⟨is⟩ ମୋର ପାଳକ; ମୁଁ କିଛି ଅଭାବ କରିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ମଙ୍ଗଳଗୀତ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "ମୋର ପାଳକ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "ଅଭାବ କରିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:51:01.431844434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 39:16",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଏବଂ ନଗରର ନାମ ମଧ୍ୟ ହାମୋନା ହେବ; ଏପରି ସେମାନେ ଦେଶକୁ ଶୁଦ୍ଧ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଏବଂ ମଧ୍ୟ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗରର"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ହାମୋନା"
+    },
+    {
+      "surface": "וטהרו",
+      "gloss": "ଶୁଦ୍ଧ କରିବେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:35:04.513459928Z",
+  "model": "glm-5.3"
+}

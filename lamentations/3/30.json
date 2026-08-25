@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମାରିବାକାରୀକୁ ଗାଲା ଦିଏ, ନିନ୍ଦାରେ ପରିପୂର୍ଣ୍ଣ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "ମାରିବାକାରୀକୁ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ଗାଲା"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ପରିପୂର୍ଣ୍ଣ ହୁଏ"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ନିନ୍ଦାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:54.702913003Z",
+  "model": "glm-5.3"
+}

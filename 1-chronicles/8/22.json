@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଇଶ୍ପାନ୍, ଓ ଏବେର୍, ଓ ଏଲିଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "ଓ ଇଶ୍ପାନ୍"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "ଓ ଏବେର୍"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ଓ ଏଲିଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:45.630328526Z",
+  "model": "glm-5.3"
+}

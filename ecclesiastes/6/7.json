@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 6:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ମନୁଷ୍ୟର ସମସ୍ତ ପରିଶ୍ରମ ତାହାର ମୁଖ ପାଇଁ, ଏବଂ ତଥାପି ⟨ନଫେଶ୍⟩ ପରିପୂର୍ଣ୍ଣ ହୁଏ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ପରିଶ୍ରମ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "לפיהו",
+      "gloss": "ତାହାର ମୁଖ ପାଇଁ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଏବଂ ତଥାପି"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ନଫେଶ୍"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "ପରିପୂର୍ଣ୍ଣ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:21.250723939Z",
+  "model": "glm-5.3"
+}

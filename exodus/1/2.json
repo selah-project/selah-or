@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ରେଉବେନ୍, ଶିମ୍ଓନ୍, ଲେବୀ ଓ ୟିହୂଦା।",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "ରେଉବେନ୍"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ଶିମ୍ଓନ୍"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀ"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "ଓ ୟିହୂଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:48:46.420415033Z",
+  "model": "glm-5.3"
+}

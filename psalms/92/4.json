@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 92,
+  "translation": "ଦଶ-ତାରର ବାଦ୍ୟ ଉପରେ, ଓ ନେବେଲ୍ ଉପରେ, କିନ୍ନୋର୍ ସହିତ ହିଗାୟୋନ୍ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "ଦଶ-ତାରର"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ଓ ... ଉପରେ"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ନେବେଲ୍"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ହିଗାୟୋନ୍"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "କିନ୍ନୋର୍ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:16.157760529Z",
+  "model": "glm-5.3"
+}

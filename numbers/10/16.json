@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏବଂ ବନୀ-ଜେବୁଲୁନ୍ ଗୋଷ୍ଠୀର ସେନା ଉପରେ ଏଲିଆବ୍, ଖେଲୋନଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ଉପରେ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ସେନା"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ଗୋଷ୍ଠୀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ବନୀ-…ଙ୍କ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ଜେବୁଲୁନ୍"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ଏଲିଆବ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ଖେଲୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:59.219173653Z",
+  "model": "glm-5.3"
+}

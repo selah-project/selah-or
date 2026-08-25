@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆମାମ୍, ଏବଂ ଶେମା, ଏବଂ ମୋଲାଦା।",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "ଆମାମ୍"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ଏବଂ ଶେମା"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ଏବଂ ମୋଲାଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:19.308233385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 7:7",
+  "book": "job",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ମନେରଖ ଯେ ମୋର ଜୀବନ ⟨ମାତ୍ର⟩ ପବନ; ମୋର ଆଖି ପୁଣି ଭଲ ଦେଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ମନେରଖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ପବନ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ମୋର ଜୀବନ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ପୁଣି ଫେରିବ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ମୋର ଆଖି"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ଦେଖିବାକୁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:24:06.284064739Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଦାଉଦ, ୟିଶାଇଙ୍କ ପୁତ୍ର, ସମସ୍ତ ଇସ୍‌ରାଏଲ ଉପରେ ରାଜୁତି କଲେ।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "ଦାଉଦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ୟିଶାଇଙ୍କ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜୁତି କଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:12:05.368883263Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 10:14",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ହୋଦିଯାହ୍, ବାନି, ବେନିନୁ।",
+  "tokens": [
+    {
+      "surface": "הודיה",
+      "gloss": "ହୋଦିଯାହ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ବାନି"
+    },
+    {
+      "surface": "בנינו",
+      "gloss": "ବେନିନୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:45.210638081Z",
+  "model": "glm-5.3"
+}

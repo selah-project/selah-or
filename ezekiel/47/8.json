@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 47:8",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "ଓ ସେ ମୋତେ କହିଲେ: ⟨the⟩ ଜଳ ଏହି ବାହାରୁଛି ⟨the⟩ ପୂର୍ବ ପରିକ୍ରମାକୁ, ଓ ଓହିଲେ ⟨the⟩ ଆରବା ଉପରକୁ, ଓ ଆସିବେ ⟨the⟩ ସାଗରକୁ; ⟨the⟩ ସାଗରକୁ ଯାଉଥିବା ଜଳ — ଓ ଆରୋଗ୍ୟ ହେବ ⟨the⟩ ଜଳ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ ଜଳ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "יוצאים",
+      "gloss": "ବାହାରୁଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "הגלילה",
+      "gloss": "⟨the⟩ ପରିକ୍ରମା"
+    },
+    {
+      "surface": "הקדמונה",
+      "gloss": "ପୂର୍ବ"
+    },
+    {
+      "surface": "וירדו",
+      "gloss": "ଓ ଓହିଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "⟨the⟩ ଆରବା"
+    },
+    {
+      "surface": "ובאו",
+      "gloss": "ଓ ଆସିବେ"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨the⟩ ସାଗରକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "הימה",
+      "gloss": "⟨the⟩ ସାଗରକୁ"
+    },
+    {
+      "surface": "המוצאים",
+      "gloss": "ଯାଉଥିବା ଜଳ"
+    },
+    {
+      "surface": "ונרפאו",
+      "gloss": "ଓ ଆରୋଗ୍ୟ ହେବ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:44:40.801681953Z",
+  "model": "glm-5.3"
+}

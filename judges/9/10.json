@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଗଛମାନେ ଡାଳିବେର ଗଛକୁ କହିଲେ: ଆସ, ⟨ତୁମେ⟩ ଆମ ଉପରେ ରାଜତ୍ୱ କର।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "ଗଛମାନେ"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "ଡାଳିବେର ଗଛକୁ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨ତୁମେ⟩",
+      "marks": "ରାଜତ୍ୱ କର"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ରାଜତ୍ୱ କର"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ଆମ ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:33:35.750811389Z",
+  "model": "glm-5.3"
+}

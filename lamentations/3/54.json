@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଜଳ ମୋର ମସ୍ତକ ଉପରକୁ ପ୍ରବାହିତ ହେଲା; ମୁଁ କହିଲି — ମୁଁ କଟାଇ ଦିଆଗଲି।",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ପ୍ରବାହିତ ହେଲା"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ମୋର ମସ୍ତକ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ମୁଁ କଟାଇ ଦିଆଗଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:30.124433683Z",
+  "model": "glm-5.3"
+}

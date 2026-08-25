@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତୁମେ ଆଜି ⟨את⟩ ମୋଆବର ସୀମା, ⟨את⟩ ଆର୍‌କୁ ପାର ହେଉଛ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ପାର ହେଉଛ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୋଆବର ସୀମା"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଆର୍‌କୁ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "ଆର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:24.258836514Z",
+  "model": "glm-5.3"
+}

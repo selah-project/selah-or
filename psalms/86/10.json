@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 86:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 86,
+  "translation": "କାରଣ ତୁମ୍ଭେ ମହାନ୍ ଓ ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ କରୁଛ; ତୁମ୍ଭେ ଏକୁଟିଆ ଏଲୋହିମ୍।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଓ କରୁଛ"
+    },
+    {
+      "surface": "נפלאות",
+      "gloss": "ଆଶ୍ଚର୍ଯ୍ୟକର୍ମ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "לבדך",
+      "gloss": "ଏକୁଟିଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:29:09.913000635Z",
+  "model": "glm-5.3"
+}

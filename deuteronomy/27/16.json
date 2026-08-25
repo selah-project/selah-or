@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଅଭିଶପ୍ତ ସେ, ଯିଏ ନିଜ ପିତା ଓ ମାତାଙ୍କୁ ହୀନ କରେ; ଆଉ ସମସ୍ତ ପ୍ରଜା କହିବେ: ଆମେନ୍।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "ହୀନ କରେ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ନିଜ ପିତାଙ୍କୁ"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "ଓ ମାତାଙ୍କୁ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଆଉ ... କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:33.710219685Z",
+  "model": "glm-5.3"
+}

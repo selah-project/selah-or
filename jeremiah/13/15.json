@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଶୁଣ ଓ କାନ ଦିଅ; ଉଦ୍ଧତ ହୁଅ ନାହିଁ, କାରଣ ଯାହ୍ୱେ କହିଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "ଓ କାନ ଦିଅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ଉଦ୍ଧତ ହୁଅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଛନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:48:02.911596966Z",
+  "model": "glm-5.3"
+}

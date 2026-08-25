@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଯାହ୍ୱେ ମୋଶେ ଙ୍କ ପ୍ରତି ଏବଂ ଅହରୋନର ପୁତ୍ର ଯାଜକ ଏଲିଆଜାର ଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କ ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ו אל",
+      "gloss": "ଙ୍କ ପ୍ରତି"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ଏଲିଆଜାର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:56:16.268012644Z",
+  "model": "glm-5.3"
+}

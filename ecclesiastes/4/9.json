@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଉତ୍ତମ ⟨ସେହି⟩ ଦୁହେଁ ⟨ଏକରୁ⟩, ଯେଉଁଥିପାଇଁ ସେମାନଙ୍କ ପାଇଁ ଅଛି ଉତ୍ତମ ପ୍ରତିଫଳ ସେମାନଙ୍କ ପରିଶ୍ରମରେ।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ଦୁହେଁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁଥିପାଇଁ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ପ୍ରତିଫଳ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ସେମାନଙ୍କ ପରିଶ୍ରମରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:57.134710007Z",
+  "model": "glm-5.3"
+}

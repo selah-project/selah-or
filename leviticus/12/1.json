@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, ଏଥିପାଇଁ କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏଥିପାଇଁ କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:43:07.913250325Z",
+  "model": "glm-5.3"
+}

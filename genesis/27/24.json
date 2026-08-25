@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 27:24",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ପୁଣି କହିଲେ: ତୁମେ ହିଁ କି ମୋର ପୁଅ ଏସାଭ୍? କହିଲେ: ମୁଁ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ ହିଁ କି"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋର ପୁଅ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାଭ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ ଅଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:24.982769684Z",
+  "model": "glm-5.3"
+}

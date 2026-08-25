@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 15:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଜ୍ଞାନୀମାନଙ୍କ ଓଷ୍ଠ ଜ୍ଞାନ ବିତାରଣ କରେ; ଆଉ ମୂର୍ଖମାନଙ୍କ ହୃଦୟ ଏପରି ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ଜ୍ଞାନୀମାନଙ୍କ"
+    },
+    {
+      "surface": "יזרו",
+      "gloss": "ବିତାରଣ କରେ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ଆଉ ହୃଦୟ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:46.969670034Z",
+  "model": "glm-5.3"
+}

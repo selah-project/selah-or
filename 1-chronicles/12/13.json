@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଯୋହନନ୍ ଅଷ୍ଟମ; ଏଲ୍‌ଜ଼ାବାଦ୍ ନବମ।",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "ଯୋହନନ୍"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ଅଷ୍ଟମ"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "ଏଲ୍‌ଜ଼ାବାଦ୍"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "ନବମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:32.443665259Z",
+  "model": "glm-5.3"
+}

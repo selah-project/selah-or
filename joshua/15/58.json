@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ହାଲହୁଲ୍, ବେତ୍-ତ୍ସୁର୍ ଓ ଗେଦୋର୍।",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ହାଲହୁଲ୍"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ତ୍ସୁର୍"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "ଓ ଗେଦୋର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:16.873614033Z",
+  "model": "glm-5.3"
+}

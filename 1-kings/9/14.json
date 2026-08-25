@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 9:14",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ହିରାମ୍ ରାଜାଙ୍କ ପାଖକୁ ଏକଶହ ବିଶି ତାଲେଣ୍ଟ ସୁନା ପଠାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ଆଉ ପଠାଇଲେ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ହିରାମ୍"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜାଙ୍କ ପାଖକୁ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ବିଶି"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "ତାଲେଣ୍ଟ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:44:32.002981263Z",
+  "model": "glm-5.3"
+}

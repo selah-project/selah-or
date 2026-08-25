@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ହାୟ, ଏହି ମର୍ଦ୍ଦନକାରିଣୀ ଓ ଲୁଣ୍ଠିତ ନଗରୀ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ମର୍ଦ୍ଦନକାରିଣୀ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "ଓ ଲୁଣ୍ଠିତ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗରୀ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "ଏହି ଦଳନକାରିଣୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:28:10.463460444Z",
+  "model": "glm-5.3"
+}

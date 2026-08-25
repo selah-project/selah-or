@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ତା'ର ଭଉଣୀ ଦୂରରୁ ଠିଆ ହେଲା, ଜାଣିବା ପାଇଁ ଯେ ତା' ସହିତ କଣ କରାଯିବ।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "ଆଉ ଠିଆ ହେଲା"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ତା'ର ଭଉଣୀ"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ଦୂରରୁ"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "ଜାଣିବା ପାଇଁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରାଯିବ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତା' ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:59:14.003957202Z",
+  "model": "glm-5.3"
+}

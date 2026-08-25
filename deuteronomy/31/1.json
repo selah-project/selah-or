@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ମୋଶେ ଚାଲିଗଲେ ଓ ⟨את⟩ ଏହି କଥାଗୁଡ଼ିକୁ ାହ୍ୱେର ସମସ୍ତ ଲୋକଙ୍କ ନିକଟକୁ — ମୁଁ ାହ୍ୱେର କଥା କହିଲି",
+  "tokens": [],
+  "timestamp": "2026-08-25T10:04:31.404238471Z",
+  "model": "glm-5.3"
+}

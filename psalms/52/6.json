@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 52,
+  "translation": "ତୁମ୍ଭେ ଗିଳିଦେବା ବାକ୍ୟସବୁ ଭଲବାସୁଛ, ଛଳନାମୟୀ ଜିଭର।",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "ତୁମ୍ଭେ ଭଲବାସୁଛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ଗିଳିଦେବା"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ଛଳନାମୟୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:10:37.100267654Z",
+  "model": "glm-5.3"
+}

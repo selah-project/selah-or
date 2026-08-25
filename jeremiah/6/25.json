@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ପଡ଼ିଆକୁ ଯାଅ ନାହିଁ, ଆଉ ରାସ୍ତାରେ ଚାଲ ନାହିଁ, କାରଣ ଶତ୍ରୁର ⟨ତଲବାର⟩, ଚାରିଆଡ଼େ ଭୟ ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "ଯାଅ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ପଡ଼ିଆକୁ"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "ଆଉ ରାସ୍ତାରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "ଚାଲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ତଲବାର"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "ଶତ୍ରୁର"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:18:27.339898141Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 90:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 90,
+  "translation": "କିଏ ଜାଣେ ତୁମ କ୍ରୋଧର ଶକ୍ତି? ତୁମ ଭୟ ଅନୁସାରେ ତୁମ ଉଗ୍ରତା।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ଶକ୍ତି"
+    },
+    {
+      "surface": "אפך",
+      "gloss": "ତୁମ କ୍ରୋଧର"
+    },
+    {
+      "surface": "וכיראתך",
+      "gloss": "ତୁମ ଭୟ ଅନୁସାରେ"
+    },
+    {
+      "surface": "עברתך",
+      "gloss": "ତୁମ ଉଗ୍ରତା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:30.409018739Z",
+  "model": "glm-5.3"
+}

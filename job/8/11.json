@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "କଖି କି ଦଳଦଳ ବିନା ଉଚ୍ଚ ହୁଏ? ଆଖୁ କି ଜଳ ବିନା ବଢ଼େ?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "କି ଉଚ୍ଚ ହୁଏ"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "କଖି"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "ଦଳଦଳ"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "କି ବଢ଼େ"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "ଆଖୁ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:24:31.356569157Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ୟିତ୍‌ହାରଙ୍କ ପୁତ୍ରମାନେ — କୋରାଖ୍, ନେଫେଗ୍ ଓ ଜିଖ୍ରୀ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ …ଙ୍କ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ୟିତ୍‌ହାର"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "କୋରାଖ୍"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "ଓ ନେଫେଗ୍"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ଓ ଜିଖ୍ରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:00:02.735116769Z",
+  "model": "glm-5.3"
+}

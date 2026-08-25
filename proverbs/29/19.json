@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "କଥାରେ ଦାସ ଶାସ୍ତନ ହୁଏ ⟨ନାହିଁ⟩; କାରଣ ସେ ବୁଝିଲେ ⟨ମଧ୍ୟ⟩ ଉତ୍ତର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "କଥାରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "ଶାସ୍ତନ ହୁଏ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ସେ ବୁଝିଲେ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ମଧ୍ୟ ନାହିଁ"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "ଉତ୍ତର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:46.285731818Z",
+  "model": "glm-5.3"
+}

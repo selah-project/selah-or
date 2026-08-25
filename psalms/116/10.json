@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 116:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 116,
+  "translation": "ମୁଁ ବିଶ୍ୱାସ କଲି, ତେଣୁ ମୁଁ କହିଲି — ମୁଁ ଅତିଶୟ ପୀଡ଼ିତ ହେଲି।",
+  "tokens": [
+    {
+      "surface": "האמנתי",
+      "gloss": "ବିଶ୍ୱାସ କଲି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "עניתי",
+      "gloss": "ପୀଡ଼ିତ ହେଲି"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତିଶୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:43:58.840916289Z",
+  "model": "glm-5.3"
+}

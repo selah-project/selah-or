@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "କର୍ଣ୍ଣ ଯାହା ଜୀବନର ତାଡ଼ନା ଶୁଣେ, ସେ ⟨ହିଁ⟩ ଜ୍ଞାନୀମାନଙ୍କ ମଧ୍ୟରେ ବାସ କରେ।",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "କର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ଶୁଣେ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ତାଡ଼ନା"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "ଜ୍ଞାନୀମାନଙ୍କ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ବାସ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:37.563636778Z",
+  "model": "glm-5.3"
+}

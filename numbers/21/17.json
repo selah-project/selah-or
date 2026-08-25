@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ତେବେ ଇସ୍ରାଏଲ୍ ⟨את⟩ ⟨ଏହି⟩ ଗୀତଟି ଗାଇଲେ — ଉଠ, ହେ କୂପ, ତୁମକୁ ଗାଅ ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "ଗାଇଲେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗୀତଟି"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ଗୀତଟି"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "⟨ଏହି⟩"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ହେ କୂପ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ଗାଅ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ତୁମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:20:14.084259342Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 17:4",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ମୁଁ — ଦେଖ, ମୋର ନିୟମବନ୍ଧ ⟨את⟩ ତୁମ ସହ ଅଛି, ଆଉ ତୁମେ ବହୁ ଜାତିର ପିତା ହେବ ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ମୋର ନିୟମବନ୍ଧ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁମ ସହ"
+    },
+    {
+      "surface": "והיית",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לאב",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ବହୁ ଜାତିର...ଭିଡ଼"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ଜାତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:28:19.790507Z",
+  "model": "glm-5.3"
+}

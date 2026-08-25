@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ୟିହୂଦାର ରାଜାଙ୍କ ଗୃହ ପ୍ରତି — ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଶୁଣ।",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "ଓ ଗୃହ ପ୍ରତି"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟିହୂଦାର"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:52:05.563694459Z",
+  "model": "glm-5.3"
+}

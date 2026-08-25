@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଧାର୍ମିକତା ଓ ଖେସେଦକୁ ଯେ ଅନୁସରଣ କରେ, ଜୀବନ, ଧାର୍ମିକତା ଓ ମହିମା ପାଏ।",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "ଅନୁସରଣ କରେ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ଧାର୍ମିକତା"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "ଓ ଖେସେଦ"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "ପାଏ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ଧାର୍ମିକତା"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ଓ ମହିମା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:17.121447140Z",
+  "model": "glm-5.3"
+}

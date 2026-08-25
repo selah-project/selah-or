@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 41:23",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଆଉ ହେଇକାଲ ପାଇଁ ଦୁଇଟି ଦ୍ୱାର ଓ ପବିତ୍ର ସ୍ଥାନ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ושתים",
+      "gloss": "ଆଉ ଦୁଇଟି"
+    },
+    {
+      "surface": "דלתות",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "להיכל",
+      "gloss": "ହେଇକାଲ ପାଇଁ"
+    },
+    {
+      "surface": "ולקדש",
+      "gloss": "ଆଉ ପବିତ୍ର ସ୍ଥାନ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:38:29.627746246Z",
+  "model": "glm-5.3"
+}

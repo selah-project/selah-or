@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଇସ୍ରାଏଲର ସମସ୍ତ ଲୋକ ପର୍ବରେ — ଅର୍ଥାତ୍ ସପ୍ତମ ମାସରେ — ରାଜାଙ୍କ ପାଖକୁ ଏକତ୍ର ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "ଏକତ୍ର ହେଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲର"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ପର୍ବରେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅର୍ଥାତ୍"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "ମାସ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ସପ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:18:58.919871790Z",
+  "model": "glm-5.3"
+}

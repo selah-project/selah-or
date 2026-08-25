@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ବିଶି ବର୍ଷର ଶେଷରେ — ଯେଉଁ ବର୍ଷଗୁଡ଼ିକରେ ଶଲୋମୋ ଯାହ୍ୱେଙ୍କ ⟨ଘର⟩ ଓ ⟨ନିଜ⟩ ଘର ନିର୍ମାଣ କଲା — ଏହା ଘଟିଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଘଟିଲା"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶି"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ନିର୍ମାଣ କଲା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଯାହ୍ୱେଙ୍କ ଘର"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨ଏବଂ את⟩",
+      "marks": "ନିଜ ଘର"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ନିଜ ଘର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:20:01.618618706Z",
+  "model": "glm-5.3"
+}

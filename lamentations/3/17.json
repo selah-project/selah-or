@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 3:17",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ⟨ତୁମେ⟩ ଦୂର କରିଦଇ ଶାନ୍ତିରୁ ମୋର ନେଫେଶ୍, ମୁଁ ଭୁଲିଗଲି ମଙ୍ଗଳ।",
+  "tokens": [
+    {
+      "surface": "ותזנח",
+      "gloss": "ଓ ଦୂର କରିଦଇ"
+    },
+    {
+      "surface": "משלום",
+      "gloss": "ଶାନ୍ତିରୁ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ମୋର ନେଫେଶ୍"
+    },
+    {
+      "surface": "נשיתי",
+      "gloss": "ମୁଁ ଭୁଲିଗଲି"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ମଙ୍ଗଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:53.960068677Z",
+  "model": "glm-5.3"
+}

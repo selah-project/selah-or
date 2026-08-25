@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ ଲାଗି,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଲାଗି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:04:06.575627050Z",
+  "model": "glm-5.3"
+}

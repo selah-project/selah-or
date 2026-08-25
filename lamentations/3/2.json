@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "⟨את⟩ ମୋତେ ସେ ଚଲାଇ ନେଲେ, ଅନ୍ଧାରକୁ ଯିବା କଲେ, ଆଉ ଆଲୋକ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "ମୋତେ"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "ଚଲାଇ ନେଲେ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଯିବା କଲେ"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ଅନ୍ଧାରକୁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ... ନୁହେଁ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:48.675929858Z",
+  "model": "glm-5.3"
+}

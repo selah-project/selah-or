@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ହେବ୍ରୋନର ପୁତ୍ରମାନେ — କୋରଖ୍, ତାପ୍ପୁଖ୍, ରେକେମ୍ ଓ ଶେମା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "ହେବ୍ରୋନ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "କୋରଖ୍"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "ତାପ୍ପୁଖ୍"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "ରେକେମ୍"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "ଶେମା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:03.260663158Z",
+  "model": "glm-5.3"
+}

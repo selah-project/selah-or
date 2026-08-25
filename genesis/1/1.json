@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 1:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଦିରେ ଏଲୋହିମ୍ ⟨את⟩ ଆକାଶମଣ୍ଡଳ ଓ ⟨את⟩ ପୃଥିବୀକୁ ସୃଷ୍ଟି କଲେ।",
+  "tokens": [
+    {
+      "surface": "בראשית",
+      "gloss": "ଆଦିରେ"
+    },
+    {
+      "surface": "ברא",
+      "gloss": "ସୃଷ୍ଟି କଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଆକାଶମଣ୍ଡଳ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ଆକାଶମଣ୍ଡଳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:14:45.832838871Z",
+  "model": "glm-5.3"
+}

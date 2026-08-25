@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଏବଂ ହାଜାର୍-ଶୁଆଲ୍, ଏବଂ ବେର୍-ଶେବା, ଏବଂ ବିଜିୟୋଥିଯା।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "ଏବଂ ହାଜାର୍"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "-ଶୁଆଲ୍"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "ଏବଂ ବେର୍"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-ଶେବା"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "ଏବଂ ବିଜିୟୋଥିଯା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:19.308452293Z",
+  "model": "glm-5.3"
+}

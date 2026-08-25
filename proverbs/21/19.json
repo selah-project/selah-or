@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 21:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ପ୍ରାନ୍ତର ଦେଶରେ ବସିବା ଭଲ, ଝଗଡ଼ାଟେ ଓ କ୍ରୋଧିତ ସ୍ତ୍ରୀ ସହିତ ଅପେକ୍ଷା।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ବସିବା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ପ୍ରାନ୍ତର"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ସ୍ତ୍ରୀ ଅପେକ୍ଷା"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ଝଗଡ଼ାଟେ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ଓ କ୍ରୋଧିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:05.857607762Z",
+  "model": "glm-5.3"
+}

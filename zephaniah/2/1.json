@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏକତ୍ରିତ ହୁଅ, ହଁ ଏକତ୍ରିତ ହୁଅ, ହେ ଜାତି, ⟨ଯିଏ⟩ ଆକାଂକ୍ଷିତ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "ଏକତ୍ରିତ ହୁଅ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "ହଁ ଏକତ୍ରିତ ହୁଅ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "ହେ ଜାତି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "ଆକାଂକ୍ଷିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:29:33.884445782Z",
+  "model": "glm-5.3"
+}

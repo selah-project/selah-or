@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 6:3",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଓ ତୃତୀୟ ରଥରେ ଧଳା ଘୋଡ଼ାମାନେ, ଓ ଚତୁର୍ଥ ରଥରେ ଚିତାଂଶ, ବଳବାନ୍ ଘୋଡ଼ାମାନେ।",
+  "tokens": [
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ଓ ରଥରେ"
+    },
+    {
+      "surface": "השלשית",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ଘୋଡ଼ାମାନେ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ଧଳା"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "ଓ ରଥରେ"
+    },
+    {
+      "surface": "הרבעית",
+      "gloss": "ଚତୁର୍ଥ"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ଘୋଡ଼ାମାନେ"
+    },
+    {
+      "surface": "ברדים",
+      "gloss": "ଚିତାଂଶ"
+    },
+    {
+      "surface": "אמצים",
+      "gloss": "ବଳବାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:27:33.463177612Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 27:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଯେପରି ଜଳରେ ମୁହଁ ⟨ମୁହଁ⟩ ସହିତ ମିଳେ, ସେପରି ମଣିଷର ହୃଦୟ ମଣିଷ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "כמים",
+      "gloss": "ଯେପରି ଜଳରେ"
+    },
+    {
+      "surface": "הפנים",
+      "gloss": "ମୁହଁ"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "ମୁହଁ ସହିତ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେପରି"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମଣିଷ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:17.824104104Z",
+  "model": "glm-5.3"
+}

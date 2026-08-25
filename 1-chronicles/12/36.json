@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ଦାନୀୟମାନଙ୍କ ମଧ୍ୟରୁ — ଯୁଦ୍ଧ ଗୋଟାଉଥିବା ଆଠାଶହ୍ ହଜାର ଓ ଛଅଶହ୍।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ଆଉ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "ଦାନୀୟ"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ଗୋଟାଉଥିବା"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "କୋଡ଼ି"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "ଓ ଆଠ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଓ ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:38.764838614Z",
+  "model": "glm-5.3"
+}

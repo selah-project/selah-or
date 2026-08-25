@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଜଣେ ପୁରୁଷ ⟨את⟩ ତା'ର ପିତାର ସ୍ତ୍ରୀକୁ ନେବ ନାହିଁ, ଏବଂ ତା'ର ପିତାର ଆଞ୍ଚଳ ଉନ୍ମୋଚନ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ପୁରୁଷ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତା'ର ପିତାର ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ତା'ର ପିତାର"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ନାହିଁ"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "ଉନ୍ମୋଚନ କରିବ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ଆଞ୍ଚଳ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ତା'ର ପିତାର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:39.482010416Z",
+  "model": "glm-5.3"
+}

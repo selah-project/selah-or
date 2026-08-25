@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯେହେତୁ ମନ୍ଦ କାର୍ଯ୍ୟର ବିଚାର ଶୀଘ୍ର କରାଯାଏ ନାହିଁ, ଏଣୁ ମଣିଷପୁତ୍ରମାନଙ୍କ ହୃଦୟ ତାହାଙ୍କରେ ପୂର୍ଣ୍ଣ ହୁଏ ମନ୍ଦ କରିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ଯେହେତୁ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "କରାଯାଏ"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "ବିଚାର"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "କାର୍ଯ୍ୟର"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ଶୀଘ୍ର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ପୂର୍ଣ୍ଣ ହୁଏ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ତାହାଙ୍କରେ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:00.762115898Z",
+  "model": "glm-5.3"
+}

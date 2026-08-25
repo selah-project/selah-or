@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ୟେଶୁଆରେ, ମୋଲାଦାରେ ଓ ବେତ୍-ପାଲେତରେ।",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "ଆଉ ୟେଶୁଆରେ"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "ମୋଲାଦାରେ"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "ବେତ୍-...ରେ"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ପାଲେତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:34.879006488Z",
+  "model": "glm-5.3"
+}

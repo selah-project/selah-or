@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ତିର୍ଜାହର ରାଜା ଜଣେ। ସମସ୍ତ ରାଜା — ଏକତ୍ରିଶ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "ତିର୍ଜାହର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ଏକତ୍ରିଶ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:53.973106545Z",
+  "model": "glm-5.3"
+}

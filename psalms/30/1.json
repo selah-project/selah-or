@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ସ୍ତୁତି-ସଙ୍ଗୀତ, ⟨ଗୃହର⟩ ଉତ୍ସର୍ଗର ଗୀତ, ଦାୱିଦର।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ସ୍ତୁତି-ସଙ୍ଗୀତ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "ଉତ୍ସର୍ଗ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨ଗୃହର⟩"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାୱିଦର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:55:24.560170697Z",
+  "model": "glm-5.3"
+}

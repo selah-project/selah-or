@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଜ୍‌ଗଦଙ୍କ ପୁତ୍ରମାନେ — ହଜାର ଦୁଇ ଶହ ବାଇଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ଆଜ୍‌ଗଦଙ୍କ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:41.623082860Z",
+  "model": "glm-5.3"
+}

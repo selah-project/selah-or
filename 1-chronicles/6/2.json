@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଏହି ସମସ୍ତ ଗେରେଶୋମଙ୍କ ପୁତ୍ରମାନଙ୍କର ନାମ: ଲିବନୀ ଓ ଶିମେଇ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ଆଉ ଏହି ସମସ୍ତ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କର"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ଗେରେଶୋମଙ୍କ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ଲିବନୀ"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ଓ ଶିମେଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:42.322847916Z",
+  "model": "glm-5.3"
+}

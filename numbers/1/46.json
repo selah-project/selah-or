@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ ସେମାନେ ହେଲେ ସମସ୍ତ ଗଣିତ — ଛଅ ଲକ୍ଷ ତିନି ହଜାର ପାଞ୍ଚଶହ ପଞ୍ଚାଶ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଓ ସେମାନେ ହେଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "ଗଣିତ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "ଓ ତିନି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ଓ ପଞ୍ଚାଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:56.914491841Z",
+  "model": "glm-5.3"
+}

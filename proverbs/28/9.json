@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 28:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଯିଏ ଆପଣା କାନକୁ ତୋରା ଶୁଣିବାରୁ ହଟାଏ, ତାହାର ପ୍ରାର୍ଥନା ମଧ୍ୟ ଘୃଣିତ ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "מסיר",
+      "gloss": "ହଟାଏ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "ଆପଣା କାନକୁ"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "ଶୁଣିବାରୁ"
+    },
+    {
+      "surface": "תורה",
+      "gloss": "ତୋରା"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "תפלתו",
+      "gloss": "ତାହାର ପ୍ରାର୍ଥନା"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ଘୃଣିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:33.475738754Z",
+  "model": "glm-5.3"
+}

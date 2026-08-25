@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "psalms 68:32",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 68,
+  "translation": "ଧନୀମାନେ ମିଶରରୁ ଆସିବେ; କୂଶ ନିଜ ହାତ ଦୌଡ଼ାଇବ ଏଲୋହିମ୍ ଆଡ଼କୁ।",
+  "tokens": [
+    {
+      "surface": "יאתיו",
+      "gloss": "ଆସିବେ"
+    },
+    {
+      "surface": "חשמנים",
+      "gloss": "ଧନୀମାନେ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶର"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "କୂଶ"
+    },
+    {
+      "surface": "תריץ",
+      "gloss": "ଦୌଡ଼ାଇବ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ନିଜ ହାତ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ଏଲୋହିମ୍ ଆଡ଼କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:18:55.456908764Z",
+  "model": "glm-5.3"
+}

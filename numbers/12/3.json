@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 12:3",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ମଣିଷ ମୋଶେ ଅତି ବିନୟୀ ଥିଲେ, ଭୂମିର ଅଗ୍ରଭାଗ ଉପରେ ଥିବା ସମସ୍ତ ମଣିଷଙ୍କ ଅପେକ୍ଷା ଅଧିକ।",
+  "tokens": [
+    {
+      "surface": "והאיש",
+      "gloss": "ଓ ମଣିଷ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ବିନୟୀ ଥିଲେ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ସମସ୍ତଙ୍କ ଅପେକ୍ଷା"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମଣିଷଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାରା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ଅଗ୍ରଭାଗ"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "ଭୂମିର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:15:45.947809852Z",
+  "model": "glm-5.3"
+}

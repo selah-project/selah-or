@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ତୁମ ମଧ୍ୟରେ ଥିବା ପରଦେଶୀ ତୁମ ଉପରେ କ୍ରମଶଃ ଉପରକୁ ଉଠିବ, ଏବଂ ତୁମେ କ୍ରମଶଃ ତଳକୁ ଖସିବ।",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "ପରଦେଶୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "ତୁମ ମଧ୍ୟରେ ଥିବା"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ଉଠିବ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମ ଉପରେ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "କ୍ରମଶଃ ଉପରକୁ"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "କ୍ରମଶଃ ଉପରକୁ"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "ଏବଂ ତୁମେ"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "ଖସିବ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "କ୍ରମଶଃ ତଳକୁ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "କ୍ରମଶଃ ତଳକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:26.771888746Z",
+  "model": "glm-5.3"
+}

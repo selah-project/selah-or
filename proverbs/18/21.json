@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 18:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ମୃତ୍ୟୁ ଓ ଜୀବନ ଜିଭର ହାତରେ; ଆଉ ଯାହା ତାହାକୁ ପ୍ରେମ କରେ, ସେ ତାହାର ଫଳ ଖାଇବ।",
+  "tokens": [
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ଓ ଜୀବନ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭର"
+    },
+    {
+      "surface": "ואהביה",
+      "gloss": "ଆଉ ଯାହା ତାହାକୁ ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "פריה",
+      "gloss": "ତାହାର ଫଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:04.718691115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 121:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 121,
+  "translation": "ମାଆଳୋତର ଗୀତ — ମୁଁ ପର୍ବତମାଳା ଆଡ଼କୁ ମୋ ଆଖି ଉଠାଉଛି; ମୋ ସାହାଯ୍ୟ କେଉଁଠୁ ଆସିବ?",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "למעלות",
+      "gloss": "ମାଆଳୋତର"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ଉଠାଉଛି"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ମୋ ଆଖି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ପର୍ବତମାଳା"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "କେଉଁଠୁ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ଆସିବ"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "ମୋ ସାହାଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:44.895184893Z",
+  "model": "glm-5.3"
+}

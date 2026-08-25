@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 19:7",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଓ ସେ କହିଲେ, ଦୟାକରି, ମୋର ଭାଇମାନେ, ଏପରି ମନ୍ଦ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଦୟାକରି"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ମୋର ଭାଇମାନେ"
+    },
+    {
+      "surface": "תרעו",
+      "gloss": "ମନ୍ଦ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:25:56.473919759Z",
+  "model": "glm-5.3"
+}

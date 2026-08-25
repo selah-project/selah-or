@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଏଇସବୁ ଦିଶାନଙ୍କ ପୁତ୍ରଗଣ: ଊଜ୍ ଏବଂ ଅରାନ୍।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ଏଇସବୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "ଦିଶାନଙ୍କ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ଊଜ୍"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "ଏବଂ ଅରାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:42:45.276098388Z",
+  "model": "glm-5.3"
+}

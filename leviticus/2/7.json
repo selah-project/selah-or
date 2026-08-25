@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 2:7",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଯଦି ତାବଖିଆରେ ପ୍ରସ୍ତୁତ ତୋର ଅନ୍ନବଳି-ଅର୍ପଣ, ବଳଦାଣ୍ଡି ତେଲରେ ମିଶାଇ କରାଯିବ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ଅନ୍ନବଳି"
+    },
+    {
+      "surface": "מרחשת",
+      "gloss": "ତାବଖିଆରେ ପ୍ରସ୍ତୁତ"
+    },
+    {
+      "surface": "קרבנך",
+      "gloss": "ତୋର ଅର୍ପଣ"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ବଳଦାଣ୍ଡି"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "ତେଲରେ"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "କରାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:50:35.753745193Z",
+  "model": "glm-5.3"
+}

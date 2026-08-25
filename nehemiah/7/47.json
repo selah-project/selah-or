@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କେରୋସ୍‌ର ପୁତ୍ରମାନେ, ସିଆର ପୁତ୍ରମାନେ, ପାଦୋନ୍‌ର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "କେରୋସ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "ସିଆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ପାଦୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:08.392309984Z",
+  "model": "glm-5.3"
+}

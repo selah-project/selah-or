@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 8:18",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଦୁଃଖ ଉପରେ ମୋର ସାନ୍ତ୍ୱନା ନାହିଁ — ମୋ ଉପରେ ମୋର ହୃଦୟ ରୋଗଗ୍ରସ୍ତ।",
+  "tokens": [
+    {
+      "surface": "מבליגיתי",
+      "gloss": "ସାନ୍ତ୍ୱନା"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "יגון",
+      "gloss": "ଦୁଃଖ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ ଉପରେ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ମୋର ହୃଦୟ"
+    },
+    {
+      "surface": "דוי",
+      "gloss": "ରୋଗଗ୍ରସ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:42:25.739614189Z",
+  "model": "glm-5.3"
+}

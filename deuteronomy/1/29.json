@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ ତୁମ୍ଭମାନଙ୍କରୁ କହିଲି: ଭୟଭୀତ ହୁଅ ନାହିଁ, ଆଉ ସେମାନଙ୍କଠାରୁ ଡରିଅ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କରୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "ଭୟଭୀତ ହୁଅ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תיראון",
+      "gloss": "ଡରିଅ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ସେମାନଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:38:38.686780841Z",
+  "model": "glm-5.3"
+}

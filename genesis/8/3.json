@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 8:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ଜଳ ପୃଥିବୀରୁ ଫେରିଗଲା, ଯିବା ଓ ଆସିବା କରି; ଆଉ ଏକଶହ ପଚାଶ ଦିନର ଶେଷରେ ଜଳ ହ୍ରାସ ପାଇଲା।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ଆଉ ଫେରିଗଲା"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ଯିବା"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ଓ ଆସିବା"
+    },
+    {
+      "surface": "ויחסרו",
+      "gloss": "ଆଉ ହ୍ରାସ ପାଇଲା"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:11.356576743Z",
+  "model": "glm-5.3"
+}

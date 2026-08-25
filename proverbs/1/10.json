@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ହେ ମୋର ପୁତ୍ର, ଯଦି ପାପୀମାନେ ତୁହାକ ପ୍ରଲୋଭ କରନ୍ତି, ସମ୍ମତ ହୁଅ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ହେ ମୋର ପୁତ୍ର"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "ତୁହାକ ପ୍ରଲୋଭ କରନ୍ତି"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ପାପୀମାନେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ସମ୍ମତ ହୁଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:56:48.276285047Z",
+  "model": "glm-5.3"
+}

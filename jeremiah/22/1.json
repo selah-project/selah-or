@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଏହିପରି କହୁଛନ୍ତି ଯାହ୍ୱେ: ୟହୂଦାର ରାଜାର ଘରକୁ ଓହ୍ଲାଇ ଯାଅ ଏବଂ ସେଠାରେ ଏହି ବାକ୍ୟ ⟨את⟩ କୁହ,",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ଓହ୍ଲାଇ ଯାଅ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘରକୁ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟହୂଦାର"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "ଏବଂ କହିବ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ବାକ୍ୟ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:17:52.100219153Z",
+  "model": "glm-5.3"
+}

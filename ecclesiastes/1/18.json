@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "କାରଣ ଅଧିକ ଜ୍ଞାନରେ ଅଧିକ କ୍ରୋଧ, ଓ ଜ୍ଞାନ ବଢ଼ାଇବାବାଲା ଦୁଃଖ ବଢ଼ାଏ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ଅଧିକ...ରେ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "ଓ...ବଢ଼ାଏ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ବଢ଼ାଏ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "ଦୁଃଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:57.434038709Z",
+  "model": "glm-5.3"
+}

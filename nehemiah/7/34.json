@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅନ୍ୟ ଏଲାମର ପୁତ୍ରମାନେ — ହଜାର ଦୁଇଶହ ଅର୍ଦ୍ଧଶତ ଚାରି।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମ୍"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ଅର୍ଦ୍ଧଶତ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଚାରି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:30.691058950Z",
+  "model": "glm-5.3"
+}

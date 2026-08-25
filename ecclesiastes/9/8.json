@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ସର୍ବଦା ତୋର ବସ୍ତ୍ରଗୁଡ଼ିକ ଧଳା ରହୁ, ଆଉ ତୋର ମସ୍ତକରେ ତେଲ ଅଭାବ ନ ହେଉ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସବୁ ସମୟ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ରହୁ"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "ତୋର ବସ୍ତ୍ରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ଧଳା"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ଆଉ ତେଲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ତୋର ମସ୍ତକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ଅଭାବ ହେଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:56.514105036Z",
+  "model": "glm-5.3"
+}

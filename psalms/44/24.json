@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 44:24",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଜାଗ୍ରତ ହୁଅ! କାହିଁକି ଶୋଇଛ, ହେ ଅଦୋନାଇ? ଉଠ! ସର୍ବଦା ପରିତ୍ୟାଗ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ଜାଗ୍ରତ ହୁଅ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "תישן",
+      "gloss": "ଶୋଇଛ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ହେ ଅଦୋନାଇ"
+    },
+    {
+      "surface": "הקיצה",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תזנח",
+      "gloss": "ପରିତ୍ୟାଗ କର"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ସର୍ବଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:06:42.590518626Z",
+  "model": "glm-5.3"
+}

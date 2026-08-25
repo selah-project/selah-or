@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଏବଂ ଗେରା, ଏବଂ ଶେଫୁଫାନ୍, ଏବଂ ହୁରାମ୍।",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "ଏବଂ ଗେରା"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "ଏବଂ ଶେଫୁଫାନ୍"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "ଏବଂ ହୁରାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:01.937437435Z",
+  "model": "glm-5.3"
+}

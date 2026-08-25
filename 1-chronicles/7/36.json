@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜୋଫାଖର ପୁତ୍ରମାନେ — ସୁଆଖ୍, ହର୍ନେଫର୍, ଶୁଆଲ୍, ୱିବେରି ଓ ୟିମରା।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ଜୋଫାଖର"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "ସୁଆଖ୍"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "ଓ ହର୍ନେଫର୍"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "ଓ ଶୁଆଲ୍"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "ଓ ୱିବେରି"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "ଓ ୟିମରା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:33.459220721Z",
+  "model": "glm-5.3"
+}

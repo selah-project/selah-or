@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଗାଦଙ୍କ ପାଇଁ — ଏଲିୟାସାଫ୍, ଦେଉଏଲଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "ଗାଦଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ଏଲିୟାସାଫ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ଦେଉଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:04.833403217Z",
+  "model": "glm-5.3"
+}

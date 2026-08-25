@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଏକ ପଥ ମନୁଷ୍ୟ ସାମ୍ନାରେ ଋଜୁ ଦେଖାଯାଏ, କିନ୍ତୁ ତାହାର ଶେଷ ମୃତ୍ୟୁର ପଥ ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ଏକ ପଥ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ଋଜୁ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "କିନ୍ତୁ ତାହାର ଶେଷ"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:50.380019953Z",
+  "model": "glm-5.3"
+}

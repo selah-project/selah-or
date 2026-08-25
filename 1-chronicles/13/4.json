@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ସମସ୍ତ ସଭା ଏହିପରି କରିବାକୁ କହିଲେ, କାରଣ ସେହି କଥା ସମସ୍ତ ପ୍ରଜାଙ୍କ ଆଖିରେ ଉଚିତ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ଉଚିତ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ସେହି କଥା"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଆଖିରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:44.488517Z",
+  "model": "glm-5.3"
+}

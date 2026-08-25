@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆତେର୍, ଖିଜକିୟା, ଆଜ୍ଜୁର୍।",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "ଆତେର୍"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ଖିଜକିୟା"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "ଆଜ୍ଜୁର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:31.679578625Z",
+  "model": "glm-5.3"
+}

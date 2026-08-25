@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 26:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "କାଠ ଶେଷ ହେଲେ ଅଗ୍ନି ନିବିଯାଏ, ଆଉ ପରନିନ୍ଦାକାରୀ ନ ଥିଲେ କଳହ ଶାନ୍ତ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "באפס",
+      "gloss": "ଶେଷ ହେଲେ"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ନିବିଯାଏ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "ובאין",
+      "gloss": "ଆଉ ... ନ ଥିଲେ"
+    },
+    {
+      "surface": "נרגן",
+      "gloss": "ପରନିନ୍ଦାକାରୀ"
+    },
+    {
+      "surface": "ישתק",
+      "gloss": "ଶାନ୍ତ ହୁଏ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "କଳହ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:25.090030679Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ତେଣୁ ତାହାଙ୍କ ସାମ୍ନାରୁ ହାତର ତଳପଟା ପଠାଗଲା, ଏବଂ ଏହି ଲେଖା ଲେଖାଗଲା।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "ତାହାଙ୍କ ସାମ୍ନା"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "ପଠାଗଲା"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "ହାତର ତଳପଟା"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "ଏବଂ ଲେଖା"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ଲେଖାଗଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:17:14.621335474Z",
+  "model": "glm-5.3"
+}

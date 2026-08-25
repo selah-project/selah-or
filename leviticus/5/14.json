@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 5:14",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ଆଡ଼କୁ କହିଲେ, କହିବାକୁ ଏହାକୁ:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏହାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:39.010521263Z",
+  "model": "glm-5.3"
+}

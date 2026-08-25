@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 15:10",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ସେମାନେ ଆସାଙ୍କ ରାଜୁତିର ପନ୍ଦରହ ବର୍ଷର ତୃତୀୟ ମାସରେ ୟେରୁଶାଲାଇମରେ ଏକତ୍ର ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "ଏକତ୍ର ହେଲେ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମରେ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ମାସରେ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "לשנת",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ରାଜୁତିର"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ଆସା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:24:30.224552354Z",
+  "model": "glm-5.3"
+}

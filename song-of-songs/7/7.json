@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 7:7",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କେତେ ସୁନ୍ଦର ତୁମେ, ଆଉ କେତେ ମଧୁର ହେ ପ୍ରିୟତମା, ଆନନ୍ଦମୟୀ!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କେତେ"
+    },
+    {
+      "surface": "יפית",
+      "gloss": "ସୁନ୍ଦର"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ କେତେ"
+    },
+    {
+      "surface": "נעמת",
+      "gloss": "ମଧୁର"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "ହେ ପ୍ରିୟତମା"
+    },
+    {
+      "surface": "בתענוגים",
+      "gloss": "ଆନନ୍ଦମୟୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:43.859881052Z",
+  "model": "glm-5.3"
+}

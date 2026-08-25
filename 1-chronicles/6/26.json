@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏଥନିର ପୁତ୍ର, ଜେରଖର ପୁତ୍ର, ଅଦାୟାହର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "ଏଥନି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ଜେରଖ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "ଅଦାୟାହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:27.375816095Z",
+  "model": "glm-5.3"
+}

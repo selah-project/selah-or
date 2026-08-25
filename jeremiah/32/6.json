@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଓ ୟିରମିୟହୁ କହିଲେ: ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପାଖକୁ ଆସିଲା, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିରମିୟହୁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:15:07.353619495Z",
+  "model": "glm-5.3"
+}

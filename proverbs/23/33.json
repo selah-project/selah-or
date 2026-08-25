@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 23:33",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ତୁମ ଆଖି ଅଚିହ୍ନା ବସ୍ତୁ ଦେଖିବ, ଆଉ ତୁମ ହୃଦୟ କୁଟିଳ କଥା କହିବ।",
+  "tokens": [
+    {
+      "surface": "עיניך",
+      "gloss": "ତୁମ ଆଖି"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "ଦେଖିବ"
+    },
+    {
+      "surface": "זרות",
+      "gloss": "ଅଚିହ୍ନା ବସ୍ତୁ"
+    },
+    {
+      "surface": "ולבך",
+      "gloss": "ଆଉ ତୁମ ହୃଦୟ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "କୁଟିଳ କଥା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:48.192441360Z",
+  "model": "glm-5.3"
+}

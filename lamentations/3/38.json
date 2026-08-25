@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏଲ୍ ଏଲିଓନ୍‌ଙ୍କ ମୁଖରୁ କ’ଣ ମନ୍ଦ ଓ ମଙ୍ଗଳ ବାହାରି ନାହାନ୍ତି?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "ମୁଖରୁ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ଏଲ୍ ଏଲିଓନ୍"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "ବାହାରି"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "ଓ ମଙ୍ଗଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:39.270090661Z",
+  "model": "glm-5.3"
+}

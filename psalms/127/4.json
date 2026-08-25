@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 127:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 127,
+  "translation": "ଯେପରି ବୀରର ହାତରେ ତୀରଗୁଡ଼ିକ, ତାହାପରି ଯୌବନର ପୁତ୍ରଗଣ।",
+  "tokens": [
+    {
+      "surface": "כחצים",
+      "gloss": "ତୀରଗୁଡ଼ିକ ପରି"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ବୀରର"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ତାହାପରି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "הנעורים",
+      "gloss": "ଯୌବନର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:51:06.712595246Z",
+  "model": "glm-5.3"
+}

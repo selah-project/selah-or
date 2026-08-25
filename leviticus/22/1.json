@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 22:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ ଏହା କୁହନ୍ତୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ କହନ୍ତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:55:21.159148076Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ⟨the⟩ ଏହି ବାକ୍ୟଗୁଡ଼ିକ, ଯାହା ମୁଁ ଆଜି ତୁମ୍ଭକୁ ଆଜ୍ଞା ଦେଉଛି, ସେଗୁଡ଼ିକ ତୁମ୍ଭ ହୃଦୟ ଉପରେ ରହିବ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ଆଉ ରହିବ"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ଏହି ବାକ୍ୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ତୁମ୍ଭକୁ ଆଜ୍ଞା ଦେଉଛି"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ତୁମ୍ଭ ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:40:07.983695097Z",
+  "model": "glm-5.3"
+}

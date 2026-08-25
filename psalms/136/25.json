@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 136,
+  "translation": "ସମସ୍ତ ମାଂସକୁ ଖାଦ୍ୟ ଦିଅନ୍ତି, କାରଣ ସର୍ବଦା ତାହାଙ୍କ ଖେସେଦ୍।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "ଦିଅନ୍ତି"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଖାଦ୍ୟ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ତାହାଙ୍କ ଖେସେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:52:11.862223134Z",
+  "model": "glm-5.3"
+}

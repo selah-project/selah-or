@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆମର ସମସ୍ତ ଶତ୍ରୁ ଆମ ବିରୁଦ୍ଧରେ ⟨ତାହାଙ୍କର⟩ ମୁଖ ଖୋଲିଅଛି।",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "ଖୋଲିଅଛି"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ଆମ ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "⟨ତାହାଙ୍କର⟩ ମୁଖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ଶତ୍ରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:20.565382076Z",
+  "model": "glm-5.3"
+}

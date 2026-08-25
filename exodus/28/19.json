@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ତୃତୀୟ ସାରି — ଲେଶେମ୍, ଶେଭୋ ଓ ଅହଲାମା।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ଓ ⟨ହେଉଛି⟩ ସାରି"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ଲେଶେମ୍"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ଶେଭୋ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ଓ ଅହଲାମା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:20:09.135744769Z",
+  "model": "glm-5.3"
+}

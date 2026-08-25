@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହାଶୁମର ପୁତ୍ରମାନେ — ଦୁଇ ଶହ ବାଇଶି ତିନି।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ହାଶୁମର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବାଇଶି"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ତିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:11.082896640Z",
+  "model": "glm-5.3"
+}

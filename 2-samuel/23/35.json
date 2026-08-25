@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ହେଜ୍ରୋ ⟨ଟି⟩ କାର୍ମେଲୀ, ପାଆରାଇ ⟨ଟି⟩ ଅର୍ବୀ।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "ହେଜ୍ରୋ"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "କାର୍ମେଲୀ"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ପାଆରାଇ"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ଅର୍ବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:40.026020393Z",
+  "model": "glm-5.3"
+}

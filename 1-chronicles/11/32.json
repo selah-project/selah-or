@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହୁରାଇ, ଗାଆଶର ନାହାଲୀ ରୁ; ଅବିୟେଲ ⟨the⟩ ଅରବାଥୀ।",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "ହୁରାଇ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ନାହାଲୀ ରୁ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ଗାଆଶ"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ଅବିୟେଲ"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ଅରବାଥୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:36.188176152Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଆଉ ୟାକୋଭ୍ ଆରାମୀୟ ଲାବାନଙ୍କ ⟨ମନକୁ⟩ ⟨את⟩ ଚୋରି କଲା, ଯେଣୁ ସେ ପଳାଉଛି ବୋଲି ତାହାକୁ ଜଣାଇ ନ ଦେଇ।",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "ଆଉ ... ଚୋରି କଲା"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମନକୁ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ମନକୁ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ଲାବାନଙ୍କ"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ଆରାମୀୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଯେଣୁ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ନ ଦେଇ"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "ଜଣାଇ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ସେ ପଳାଉଛି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:46:46.020929507Z",
+  "model": "glm-5.3"
+}

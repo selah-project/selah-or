@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 91,
+  "translation": "ତୁମେ ରାତ୍ରିର ଭୟରୁ ଭୟ ଭୋଗ କରିବ ନାହିଁ, ଦିବା ଉଡ଼ୁଥିବା ତୀରରୁ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ଭୟ ଭୋଗ କରିବ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "ଭୟରୁ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତ୍ରି"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "ତୀରରୁ"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "ଉଡ଼ୁଥିବା"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ଦିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:25.189951768Z",
+  "model": "glm-5.3"
+}

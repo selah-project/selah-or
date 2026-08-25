@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ଦାନିୟେଲ୍ କୋରେଶ୍ ରାଜାଙ୍କ ପ୍ରଥମ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ ରହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ରହିଲେ"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ଦାନିୟେଲ୍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "କୋରେଶ୍ ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:09:13.912416947Z",
+  "model": "glm-5.3"
+}

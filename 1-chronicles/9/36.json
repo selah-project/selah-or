@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 9:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ତାଙ୍କ ପୁତ୍ର — ଜ୍ୟେଷ୍ଠ ଅବଦୋନ୍, ତାପରେ ତ୍ସୁର୍, କିଶ୍, ବାଲ୍, ନେର୍ ଓ ନାଦାବ୍।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "ଆଉ ତାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "ଜ୍ୟେଷ୍ଠ"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "ଅବଦୋନ୍"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ତାପରେ ତ୍ସୁର୍"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "କିଶ୍"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ନେର୍"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "ଓ ନାଦାବ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:25.415550106Z",
+  "model": "glm-5.3"
+}

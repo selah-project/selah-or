@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଆଉ ମନେ ରଖ ଯେ ତୁମେ ମିସ୍ର ଦେଶରେ ଦାସ ଥିଲ; ଏଣୁ ମୁଁ ତୁମକୁ ⟨את⟩ ଏହି କାର୍ଯ୍ୟ କରିବାକୁ ଆଜ୍ଞା ଦେଉଛି।",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "ଆଉ ମନେ ରଖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ଥିଲ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିସ୍ର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଏଣୁ ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏଣୁ ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ତୁମକୁ ଆଜ୍ଞା ଦେଉଛି"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:05.440607559Z",
+  "model": "glm-5.3"
+}

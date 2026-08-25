@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ଯାହ୍ୱେ ସୈନ୍ୟବାହିନୀଙ୍କ ବାକ୍ୟ ମୋ ନିକଟକୁ ଆସିଲା, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଘଟିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ସୈନ୍ୟବାହିନୀଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ନିକଟକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:33:44.331359258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 23:5",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଯାହ୍ୱେ ବିଲ୍‌ଆମ୍‌ର ମୁଖରେ ଏକ ବାକ୍ୟ ରଖିଲେ ଓ କହିଲେ, ବାଲାକ୍ ପାଖକୁ ଫେରିଯାଅ ଏବଂ ଏହିପରି କହିବ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ମୁଖରେ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "ବିଲ୍‌ଆମ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "ଫେରିଯାଅ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ବାଲାକ୍"
+    },
+    {
+      "surface": "וכה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "କହିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:25:32.650923743Z",
+  "model": "glm-5.3"
+}

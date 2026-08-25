@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 15:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଧାର୍ମିକଙ୍କ ଘରେ ବହୁ ସମ୍ପଦ ଥାଏ; ଆଉ ଦୁଷ୍କର୍ମୀର ଆୟରେ ବିପର୍ଯ୍ୟୟ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ଘରେ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକଙ୍କ"
+    },
+    {
+      "surface": "חסן",
+      "gloss": "ସମ୍ପଦ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ବହୁ"
+    },
+    {
+      "surface": "ובתבואת",
+      "gloss": "ଆଉ ଆୟରେ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍କର୍ମୀର"
+    },
+    {
+      "surface": "נעכרת",
+      "gloss": "ବିପର୍ଯ୍ୟୟ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:46.969493648Z",
+  "model": "glm-5.3"
+}

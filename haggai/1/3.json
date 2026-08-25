@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ଖଗ୍ଗୟ ନବୀଙ୍କ ହାତ ଦ୍ୱାରା ଯିହ୍ୱେଙ୍କ ବାକ୍ୟ ହେଲା, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ... ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯିହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତ ଦ୍ୱାରା"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "ଖଗ୍ଗୟ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:30:38.356357967Z",
+  "model": "glm-5.3"
+}

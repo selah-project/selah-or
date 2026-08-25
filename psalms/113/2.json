@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 113,
+  "translation": "ଯାହ୍ୱେଙ୍କ ନାମ ଆଶୀର୍ବାଦିତ ହେଉ, ଏବେଠାରୁ ଅନନ୍ତ ପର୍ଯ୍ୟନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "ଆଶୀର୍ବାଦିତ"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "ଏବେଠାରୁ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ଅନନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:42:04.412325105Z",
+  "model": "glm-5.3"
+}

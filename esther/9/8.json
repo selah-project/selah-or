@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ⟨את⟩ ପୋରାତା, ଆଉ ⟨את⟩ ଅଦଲ୍‌ୟା, ଆଉ ⟨את⟩ ଅରିଦାତା —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ପୋରାତା"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "ପୋରାତା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଅଦଲ୍‌ୟା"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "ଅଦଲ୍‌ୟା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଅରିଦାତା"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "ଅରିଦାତା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:09:29.375057032Z",
+  "model": "glm-5.3"
+}

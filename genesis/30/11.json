@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ଲେଆହା କହିଲା, ଭାଗ୍ୟ ଆସିଛି; ତେଣୁ ସେ ⟨את⟩ ତା' ନାମ ଗାଦ୍ ରଖିଲା।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "କହିଲା"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "ଲେଆହା"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "ଭାଗ୍ୟ ଆସିଛି"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "ନାମ ରଖିଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତା' ନାମ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତା' ନାମ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:14.540509655Z",
+  "model": "glm-5.3"
+}

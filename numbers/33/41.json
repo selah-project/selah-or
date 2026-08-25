@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ହୋର୍ ପର୍ବତରୁ ଯାତ୍ରା କଲେ, ଓ ସଲ୍‌ମୋନାହରେ ଡେରା ପକାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ପର୍ବତରୁ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ହୋର୍"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଡେରା ପକାଇଲେ"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "ସଲ୍‌ମୋନାହରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:14.715117868Z",
+  "model": "glm-5.3"
+}

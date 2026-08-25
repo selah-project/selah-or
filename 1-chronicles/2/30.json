@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ନାଦାବର ପୁତ୍ରମାନେ ସେଲେଦ ଓ ଅପ୍ପାୟିମ୍; ଓ ସେଲେଦ ପୁତ୍ରହୀନ ଅବସ୍ଥାରେ ମରିଗଲା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ନାଦାବର"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "ସେଲେଦ"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "ଓ ଅପ୍ପାୟିମ୍"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ଓ ମରିଗଲା"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "ସେଲେଦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:52.647795967Z",
+  "model": "glm-5.3"
+}

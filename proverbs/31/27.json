@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 31:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ସେ ନିଜ ଗୃହର ଚଳଣିକୁ ଦେଖେ; ଆଉ ଆଳସ୍ୟର ରୁଟି ଖାଏ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "צופיה",
+      "gloss": "ସେ ଦେଖେ"
+    },
+    {
+      "surface": "הליכות",
+      "gloss": "ଚଳଣିକୁ"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ନିଜ ଗୃହର"
+    },
+    {
+      "surface": "ולחם",
+      "gloss": "ଆଉ ... ରୁଟି"
+    },
+    {
+      "surface": "עצלות",
+      "gloss": "ଆଳସ୍ୟର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:55.904636588Z",
+  "model": "glm-5.3"
+}

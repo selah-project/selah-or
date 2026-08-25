@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 7:18",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅଦୋନିକାମ୍‌ଙ୍କ ପୁତ୍ରମାନେ — ଛଅଶହ ସତଷ୍ଠି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "ଅଦୋନିକାମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ସତଷ୍ଠି"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ଓ ସାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:54.824144611Z",
+  "model": "glm-5.3"
+}

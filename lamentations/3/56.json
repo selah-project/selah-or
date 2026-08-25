@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "lamentations 3:56",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୋର ସ୍ୱର ତୁମେ ଶୁଣିଲ; ମୋର ହାହାରେ, ମୋର କାନ୍ଦଣରେ ତୁମ କାନକୁ ଢାଙ୍କି ନ ରଖ।",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "ମୋର ସ୍ୱର"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ତୁମେ ଶୁଣିଲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תעלם",
+      "gloss": "ଢାଙ୍କି ରଖ"
+    },
+    {
+      "surface": "אזנך",
+      "gloss": "ତୁମ କାନକୁ"
+    },
+    {
+      "surface": "לרוחתי",
+      "gloss": "ମୋର ହାହାରେ"
+    },
+    {
+      "surface": "לשועתי",
+      "gloss": "ମୋର କାନ୍ଦଣରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:30.124672069Z",
+  "model": "glm-5.3"
+}

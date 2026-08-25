@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 8:7",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ସେ ⟨את⟩ କାଉକୁ ପଠାଇଲେ; ଏହା ଯିବା ଓ ଫେରିବା କରୁଥିଲା, ଯାଏଁ ଜଳ ପୃଥିବୀରୁ ଶୁଖିଗଲା।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ଆଉ ସେ ପଠାଇଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "କାଉ"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "କାଉ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ଏହା ବାହାରିଗଲା"
+    },
+    {
+      "surface": "יצוא",
+      "gloss": "ଯିବା"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ଓ ଫେରିବା"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ଯାଏଁ"
+    },
+    {
+      "surface": "יבשת",
+      "gloss": "ଶୁଖିବା"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ପୃଥିବୀରୁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:40.898869458Z",
+  "model": "glm-5.3"
+}

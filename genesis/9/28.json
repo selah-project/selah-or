@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ପ୍ରଳୟ ପରେ ନୋଖ ଆଉ ତିନିଶହ ପଚାଶ ବର୍ଷ ବଞ୍ଚିରହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ବଞ୍ଚିରହିଲେ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୋଖ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ପ୍ରଳୟ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:29.312724904Z",
+  "model": "glm-5.3"
+}

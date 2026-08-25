@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ହେଲେ ମୃତମାନେ ମହାମାରୀରେ — ଚାରି ଓ ବିଶି ହଜାର।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ମୃତମାନେ"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ମହାମାରୀରେ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ ବିଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:26.619505409Z",
+  "model": "glm-5.3"
+}

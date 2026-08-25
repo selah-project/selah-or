@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଶୂନ୍ୟତାର ନଗର ଭାଙ୍ଗି ପଡ଼ିଛି; ପ୍ରବେଶରୁ ପ୍ରତ୍ୟେକ ଘର ବନ୍ଦ ହୋଇଛି।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "ଭାଙ୍ଗି ପଡ଼ିଛି"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "ଶୂନ୍ୟତା"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "ବନ୍ଦ ହୋଇଛି"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ପ୍ରବେଶରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:39:11.836516064Z",
+  "model": "glm-5.3"
+}

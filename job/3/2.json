@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଇୟୋବ୍ ଉତ୍ତର ଦେଲା ଓ କହିଲା —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଓ ଉତ୍ତର ଦେଲା"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇୟୋବ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:20:40.946448074Z",
+  "model": "glm-5.3"
+}

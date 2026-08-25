@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 33:42",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ସଲ୍‌ମୋନାହରୁ ଯାତ୍ରା କଲେ, ଓ ପୁନୋନରେ ଡେରା ପକାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "מצלמנה",
+      "gloss": "ସଲ୍‌ମୋନାହରୁ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଡେରା ପକାଇଲେ"
+    },
+    {
+      "surface": "בפונן",
+      "gloss": "ପୁନୋନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:14.715312067Z",
+  "model": "glm-5.3"
+}

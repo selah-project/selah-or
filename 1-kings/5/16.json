@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଶ୍ଳୋମୋ ଖିରାମ୍‌ଙ୍କ ନିକଟକୁ ପଠାଇଲେ, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ଓ ... ପଠାଇଲେ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶ୍ଳୋମୋ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ଖିରାମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:38:40.647819467Z",
+  "model": "glm-5.3"
+}

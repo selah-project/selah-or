@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 20:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ବାଳକ ମଧ୍ୟ ତାହାର ଆଚରଣ ଦ୍ୱାରା ପ୍ରତୀତ ହୁଏ — ତାହାର କାର୍ଯ୍ୟ ନିର୍ମଳ କି, ସିଧା କି।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "במעלליו",
+      "gloss": "ତାହାର ଆଚରଣ ଦ୍ୱାରା"
+    },
+    {
+      "surface": "יתנכר",
+      "gloss": "ପ୍ରତୀତ ହୁଏ"
+    },
+    {
+      "surface": "נער",
+      "gloss": "ବାଳକ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "זך",
+      "gloss": "ନିର୍ମଳ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ସିଧା"
+    },
+    {
+      "surface": "פעלו",
+      "gloss": "ତାହାର କାର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:28.163354483Z",
+  "model": "glm-5.3"
+}

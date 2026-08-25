@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଏବଂ ଏଲିଏନାଇ, ଏବଂ ଜିଲେଥାଇ, ଏବଂ ଏଲିଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "ଏବଂ ଏଲିଏନାଇ"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "ଏବଂ ଜିଲେଥାଇ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "ଏବଂ ଏଲିଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:49.601954792Z",
+  "model": "glm-5.3"
+}

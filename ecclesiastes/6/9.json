@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଖିର ଦେଖିବା ନଫେଶ୍‌ର ଭ୍ରମଣଠାରୁ ଉତ୍ତମ; ଏହା ମଧ୍ୟ ହେବେଲ୍ ଓ ରୁଆଖ୍‌ର ବ୍ୟଥା।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "ଦେଖିବା"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ଆଖିର"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "ଭ୍ରମଣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ନଫେଶ୍‌ର"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ଓ ବ୍ୟଥା"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:28.738126753Z",
+  "model": "glm-5.3"
+}

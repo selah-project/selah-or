@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 49:18",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "କାରଣ ସେ ମରିବା ସମୟରେ ⟨ସବୁ⟩ ନେବ ନାହିଁ; ତାହାର ମହିମା ତାହା ପରେ ତଳକୁ ଯାଇ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "במותו",
+      "gloss": "ମରିବା ସମୟରେ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "⟨ସବୁ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ତଳକୁ ଯାଇ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ତାହା ପରେ"
+    },
+    {
+      "surface": "כבודו",
+      "gloss": "ତାହାର ମହିମା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:30:54.827843635Z",
+  "model": "glm-5.3"
+}

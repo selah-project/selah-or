@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଯେପର୍ଯ୍ୟନ୍ତ ଯାହ୍ୱେ ଆକାଶମଣ୍ଡଳରୁ ଝାକି ଦେଖନ୍ତି ଓ ଦେଖନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ଯେପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "ଝାକି ଦେଖନ୍ତି"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "ଓ ଦେଖନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "ଆକାଶମଣ୍ଡଳରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:40.951571312Z",
+  "model": "glm-5.3"
+}

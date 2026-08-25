@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 13:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଦୁଷ୍ଟର ଦୂତ ଅକଲ୍ୟରେ ପଡ଼ିବ, ଆଉ ବିଶ୍ୱସ୍ତମାନଙ୍କ ଦୂତ ⟨ଏ⟩ ଆରୋଗ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "מלאך",
+      "gloss": "ଦୂତ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ପଡ଼ିବ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ଅକଲ୍ୟରେ"
+    },
+    {
+      "surface": "וציר",
+      "gloss": "ଆଉ ଦୂତ"
+    },
+    {
+      "surface": "אמונים",
+      "gloss": "ବିଶ୍ୱସ୍ତମାନଙ୍କ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ଆରୋଗ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:27.807051097Z",
+  "model": "glm-5.3"
+}

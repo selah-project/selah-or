@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 3:28",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତୋର ବନ୍ଧୁକୁ କହ ନାହିଁ — ଯା, ଫେରି ଆସ, ଆଉ କାଲି ମୁଁ ଦେବି — ଯେତେବେଳେ ତୋ ପାଖରେ ⟨ତାହା⟩ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "କହ"
+    },
+    {
+      "surface": "לרעיך",
+      "gloss": "ତୋର ବନ୍ଧୁକୁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ଯା"
+    },
+    {
+      "surface": "ושוב",
+      "gloss": "ଆଉ ଫେରି ଆସ"
+    },
+    {
+      "surface": "ומחר",
+      "gloss": "ଆଉ କାଲି"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ମୁଁ ଦେବି"
+    },
+    {
+      "surface": "ויש",
+      "gloss": "ଆଉ ⟨ତାହା⟩ ଅଛି"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "ତୋ ପାଖରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:29.802891183Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଆଉ ତୃତୀୟ ପଙ୍କ୍ତି — ଲେଶେମ୍, ଶେଭୋ ଓ ଅଖଲାମା।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ଆଉ ପଙ୍କ୍ତି"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "ଲେଶେମ୍"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ଶେଭୋ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "ଓ ଅଖଲାମା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:30:03.200128593Z",
+  "model": "glm-5.3"
+}

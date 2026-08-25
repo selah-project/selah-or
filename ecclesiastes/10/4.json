@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 10:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଯଦି ଶାସକର ରୁଆଖ୍ ତୁମ ଉପରକୁ ଉଠେ, ନିଜ ସ୍ଥାନ ଛାଡ଼ନାହିଁ, କାରଣ ପ୍ରଶାନ୍ତତା ବଡ଼ ଅପରାଧଗୁଡ଼ିକୁ ଶାନ୍ତ କରେ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖ୍"
+    },
+    {
+      "surface": "המושל",
+      "gloss": "ଶାସକର"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ଉଠେ"
+    },
+    {
+      "surface": "ଅଲିଚିକା",
+      "gloss": ""
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମ ଉପରକୁ"
+    },
+    {
+      "surface": "מקומך",
+      "gloss": "ତୁମ ସ୍ଥାନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "ଛାଡ଼"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מרפא",
+      "gloss": "ପ୍ରଶାନ୍ତତା"
+    },
+    {
+      "surface": "יניח",
+      "gloss": "ଶାନ୍ତ କରେ"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "ଅପରାଧଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "גדולים",
+      "gloss": "ବଡ଼"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:32.438114747Z",
+  "model": "glm-5.3"
+}

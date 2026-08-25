@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ମଧ୍ୟରେ ମାନବ-ପୁତ୍ରମାନେ, ମଧ୍ୟରେ ମହାନ-ପୁତ୍ରମାନେ, ଏକତ୍ର, ଧନୀ ଓ ଦରିଦ୍ର।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମାନବ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମହାନ-ପୁରୁଷ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ଏକତ୍ର"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ଓ ଦରିଦ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:09:00.608058108Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "genesis 36:42",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଅଲୁଫ୍ କେନାଜ୍, ଅଲୁଫ୍ ତେମାନ୍, ଅଲୁଫ୍ ମିବ୍‌ତ୍ସାର୍।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "କେନାଜ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ତେମାନ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ଅଲୁଫ୍"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ମିବ୍‌ତ୍ସାର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:46:08.790698305Z",
+  "model": "glm-5.3"
+}

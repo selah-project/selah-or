@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 35:25",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଆଉ ବିଲ୍‌ହା, ରାହେଲର ଦାସୀର ପୁତ୍ରମାନେ — ଦାନ୍ ଓ ନଫ୍‌ତାଲି।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "ବିଲ୍‌ହା"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "ଦାସୀ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ରାହେଲର"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "ଓ ନଫ୍‌ତାଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:45.297289177Z",
+  "model": "glm-5.3"
+}

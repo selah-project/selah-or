@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଯିହୋଶୀୟାଙ୍କ ରାଜୁତିର ଅଠାରାବିଂଶ ବର୍ଷରେ ଏହି ପେସାଖ୍ କରାଗଲା ।",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ଅଠାରାବିଂଶରେ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ରାଜୁତିର"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "ଯିହୋଶୀୟାଙ୍କ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "କରାଗଲା"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ପେସାଖ୍"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:41:57.978939543Z",
+  "model": "glm-5.3"
+}

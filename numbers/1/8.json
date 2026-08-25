@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ୟିସାସ୍‌ଖାର୍ ପାଇଁ — ନେତାନେଲ୍, ତ୍ସୁଆରର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "ୟିସାସ୍‌ଖାର୍ ପାଇଁ"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "ନେତାନେଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ତ୍ସୁଆରର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:40.753656772Z",
+  "model": "glm-5.3"
+}

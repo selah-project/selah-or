@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅତ୍ୟଧିକ ଧାର୍ମିକ ହୁଅ ନାହିଁ, ଆଉ ଅତ୍ୟଧିକ ଜ୍ଞାନୀ ହୁଅ ନାହିଁ — କାହିଁକି ନଷ୍ଟ ହେବ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ହୁଅ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅତ୍ୟଧିକ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "ଜ୍ଞାନୀ ହୁଅ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ଅତ୍ୟଧିକ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "ନଷ୍ଟ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:31.440485932Z",
+  "model": "glm-5.3"
+}

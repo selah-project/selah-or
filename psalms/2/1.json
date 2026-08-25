@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାହିଁକି କୋଳାହଳ କଲେ ଜାତିମାନେ, ଆଉ ପ୍ରଜାଗଣ ବ୍ୟର୍ଥ ବିଚାର କଲେ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "କୋଳାହଳ କଲେ"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ଜାତିମାନେ"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "ଆଉ ପ୍ରଜାଗଣ"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "ବିଚାର କଲେ"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "ବ୍ୟର୍ଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:42:58.440190558Z",
+  "model": "glm-5.3"
+}

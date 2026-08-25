@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ଦାନ୍ନା, ଓ କିର୍ୟତ୍-ସାନ୍ନା — ଏହା ⟨ହିଁ⟩ ଦେବିର୍।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ଓ ଦାନ୍ନା"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "ଓ କିର୍ୟତ୍-"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "ସାନ୍ନା"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା ⟨ହିଁ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ଦେବିର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:59.250016265Z",
+  "model": "glm-5.3"
+}

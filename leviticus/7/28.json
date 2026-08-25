@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କହିଲେ, କହିବାକୁ ଲାଗି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଲାଗି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:39:10.846796364Z",
+  "model": "glm-5.3"
+}

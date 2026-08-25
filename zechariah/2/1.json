@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ମୋର ଆଖି ଉଠାଇଲି ଓ ଦେଖିଲି, ଓ ଦେଖ — ଚାରି ଶିଙ୍ଗ ।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "ଉଠାଇଲି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଆଖି"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ମୋର ଆଖି"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ଦେଖିଲି"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "ଶିଙ୍ଗ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:33:57.318729565Z",
+  "model": "glm-5.3"
+}

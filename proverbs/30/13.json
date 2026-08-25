@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 30:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଏକ ପିଢ଼ି — କେଡ଼ିଏ ଉଚ୍ଚ ⟨ତାହାର⟩ ଆଖି! ଆଉ ତାହାର ଆଖିପତା ଉଠାଯାଇଛି।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ଏକ ପିଢ଼ି"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କେଡ଼ିଏ"
+    },
+    {
+      "surface": "רמו",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "ତାହାର ଆଖି"
+    },
+    {
+      "surface": "ועפעפיו",
+      "gloss": "ଆଉ ତାହାର ଆଖିପତା"
+    },
+    {
+      "surface": "ינשאו",
+      "gloss": "ଉଠାଯାଇଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:46.197051097Z",
+  "model": "glm-5.3"
+}

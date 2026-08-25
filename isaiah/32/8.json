@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 32:8",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ଉଦାରବାନ୍ ଉଦାର ପରାମର୍ଶ କରିବ, ଆଉ ସେ ଉଦାରତା ଉପରେ ଠିଆ ହେବ।",
+  "tokens": [
+    {
+      "surface": "ונדיב",
+      "gloss": "ଆଉ ଉଦାରବାନ୍"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ଉଦାର ପରାମର୍ଶ"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "କରିବ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "נדיבות",
+      "gloss": "ଉଦାରତା"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ଠିଆ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:48:51.314171890Z",
+  "model": "glm-5.3"
+}

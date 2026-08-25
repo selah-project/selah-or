@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଟେକେଲ୍ — ତୁମ୍ଭକୁ ତକ୍ତାରେ ମାପି ତୁମ୍ଭକୁ ଅଭାବୀ ବୋଲି ମିଳିଲ।",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "ଟେକେଲ୍"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "ତୁମ୍ଭକୁ ମାପି"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "ତକ୍ତାରେ"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "ମିଳିଲ"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "ଅଭାବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:14:45.696055698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ହତୁଡ଼ି ଓ ତରବାରି ଓ ଧାରୁଆ ତୀର — ଆତ୍ମୀୟ ବିରୁଦ୍ଧରେ ମିଥ୍ୟା ସାକ୍ଷୀ ଦେଉଥିବା ଲୋକ।",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "ହତୁଡ଼ି"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ଓ ତରବାରି"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "ଓ ତୀର"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "ଧାରୁଆ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ସାକ୍ଷୀ ଦେଉଥିବା"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ଆତ୍ମୀୟ ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଥ୍ୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:06.847626403Z",
+  "model": "glm-5.3"
+}

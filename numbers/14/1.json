@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ସମଗ୍ର ମଣ୍ଡଳୀ ⟨ନିଜ⟩ ସ୍ୱର ଉଚ୍ଚ କଲେ, ଓ ଲୋକମାନେ ସେହି ରାତିରେ କାନ୍ଦିଲେ ।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "ଉଚ୍ଚ କଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ମଣ୍ଡଳୀ"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିଜ ସ୍ୱର"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ନିଜ ସ୍ୱର"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "କାନ୍ଦିଲେ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ସେହି ରାତିରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:14:11.617017438Z",
+  "model": "glm-5.3"
+}

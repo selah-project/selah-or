@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 25:2",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ସେ ଯାହ୍ୱେଙ୍କ ଦୃଷ୍ଟିରେ ଯାହା ସଠିକ୍ ତାହା କଲେ, କେବଳ ⟨ଏକ⟩ ସମ୍ପୂର୍ଣ୍ଣ ହୃଦୟରେ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ଆଉ ସେ ... କଲେ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ସଠିକ୍"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "רק",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "בלבב",
+      "gloss": "ହୃଦୟରେ"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "ସମ୍ପୂର୍ଣ୍ଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:47.921961479Z",
+  "model": "glm-5.3"
+}

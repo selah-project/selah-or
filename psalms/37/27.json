@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 37:27",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ମନ୍ଦରୁ ଦୂରେଇ ଯାଅ, ଉତ୍ତମ କାର୍ଯ୍ୟ କର, ଆଉ ଅନନ୍ତକାଳ ବାସ କର।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "ଦୂରେଇ ଯାଅ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ମନ୍ଦରୁ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଆଉ କର"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ושכן",
+      "gloss": "ଆଉ ବାସ କର"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ଅନନ୍ତକାଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:03.978795632Z",
+  "model": "glm-5.3"
+}

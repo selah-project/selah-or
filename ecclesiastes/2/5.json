@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ମୋ ପାଇଁ ଉଦ୍ୟାନ ଓ ପାର୍ଦେସ୍ ନିର୍ମାଣ କଲି, ଏବଂ ସେଥିରେ ସମସ୍ତ ଫଳର ଗଛ ରୋପଣ କଲି।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "କଲି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "ଉଦ୍ୟାନ"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "ଓ ପାର୍ଦେସ୍"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "ଏବଂ ରୋପଣ କଲି"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ଗଛ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:44.651271054Z",
+  "model": "glm-5.3"
+}

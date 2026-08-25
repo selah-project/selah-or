@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 45,
+  "translation": "ଦେଶର ସମସ୍ତ ଲୋକ ଇସ୍‌ରାଏଲରେ ନାସୀଙ୍କ ନିମନ୍ତେ ଏହି ଉତ୍ଥାପନୀ ପ୍ରତି ହେବେ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶର"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "ଉତ୍ଥାପନୀ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "ନାସୀଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ଇସ୍‌ରାଏଲରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:46:39.938736101Z",
+  "model": "glm-5.3"
+}

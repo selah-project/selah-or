@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଏବଂ ଜେବୁଲୁନ୍‌ର ସୀମାରେ, ପୂର୍ବ ଦିଗଠାରୁ ପଶ୍ଚିମ ଦିଗ ପର୍ଯ୍ୟନ୍ତ, ଗାଦ୍ — ଗୋଟିଏ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ...ଉପରେ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ଜେବୁଲୁନ୍‌ର"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ଠାରୁ ଦିଗ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ପୂର୍ବକୁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ଦିଗ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ପଶ୍ଚିମକୁ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:52:47.622328260Z",
+  "model": "glm-5.3"
+}

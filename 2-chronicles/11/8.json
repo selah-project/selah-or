@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବଂ ⟨את⟩ ଗତ୍ ଓ ⟨את⟩ ମାରେଶା ଓ ⟨את⟩ ଜିଫ୍।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଗତ୍"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ଗତ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ମାରେଶା"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "ମାରେଶା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଜିଫ୍"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ଜିଫ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:19:45.457566391Z",
+  "model": "glm-5.3"
+}

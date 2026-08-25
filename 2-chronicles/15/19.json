@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ଯୁଦ୍ଧ ହୋଇନଥିଲା ଆସାର ରାଜତ୍ୱର ପଇଂଶିପାଞ୍ଚ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "ଆଉ ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିଂଶି"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "ରାଜତ୍ୱର"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ଆସାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:24:12.977989911Z",
+  "model": "glm-5.3"
+}

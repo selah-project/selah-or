@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 14:1",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ଆଡ଼କୁ କହିଲେ କି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:10:46.943990435Z",
+  "model": "glm-5.3"
+}

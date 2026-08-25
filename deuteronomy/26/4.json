@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 26:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଯାଜକ ତାହା ତୁମ୍ଭ ଏଲୋହିମ୍ ଯାହ୍ୱେଙ୍କ ଯଜ୍ଞବେଦୀ ସାମ୍ନାରେ ରଖିବେ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ନେଇବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "הטנא",
+      "gloss": "ଟୋକେଇ"
+    },
+    {
+      "surface": "מידך",
+      "gloss": "ତୁମ୍ଭ ହାତରୁ"
+    },
+    {
+      "surface": "והניחו",
+      "gloss": "ରଖିବେ ତାହା"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ଯଜ୍ଞବେଦୀ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ତୁମ୍ଭ ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:03.126934253Z",
+  "model": "glm-5.3"
+}

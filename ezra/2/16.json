@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆତେରର ପୁତ୍ରମାନେ, ହିଜ୍‌କିୟାଙ୍କ — ନବୟ ଓ ଆଠ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ଆତେରର"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "ହିଜ୍‌କିୟାଙ୍କ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ନବୟ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଓ ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:45.735150641Z",
+  "model": "glm-5.3"
+}

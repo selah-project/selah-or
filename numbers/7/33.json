@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 7:33",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବଳଦ, ଗୋଧଳିର ପୁଅ, ଗୋଟିଏ ମେଣ୍ଢା ପାଠୁଆ, ଗୋଟିଏ ମେଣ୍ଢାଛୁଆ, ବର୍ଷର ପୁଅ, ହୋମବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋଧଳି"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଣ୍ଢା ପାଠୁଆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢାଛୁଆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:06:34.198324101Z",
+  "model": "glm-5.3"
+}

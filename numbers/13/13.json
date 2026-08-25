@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଶେର୍ ଗୋଷ୍ଠୀରୁ ମିଖାଏଲଙ୍କ ପୁତ୍ର ସେତୁର୍।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଆଶେର୍"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "ସେତୁର୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ମିଖାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:26.615560187Z",
+  "model": "glm-5.3"
+}

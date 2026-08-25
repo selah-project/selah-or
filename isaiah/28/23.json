@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "isaiah 28:23",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "କାନ ଦିଅ ଓ ମୋର ସ୍ୱର ଶୁଣ; ଧ୍ୟାନ ଦିଅ ଓ ମୋର ବାକ୍ୟ ଶୁଣ।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "କାନ ଦିଅ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ଓ ଶୁଣ"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "ମୋର ସ୍ୱର"
+    },
+    {
+      "surface": "הקשיבו",
+      "gloss": "ଧ୍ୟାନ ଦିଅ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "ଓ ଶୁଣ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ମୋର ବାକ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T22:45:45.852135396Z",
+  "model": "glm-5.3"
+}

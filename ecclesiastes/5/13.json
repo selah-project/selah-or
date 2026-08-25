@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ସେହି ଧନ ମନ୍ଦ ଦୁର୍ଘଟଣାରେ ନଷ୍ଟ ହୁଏ, ଏବଂ ସେ ଗୋଟିଏ ପୁତ୍ର ଜନ୍ମ ଦିଏ, ଏବଂ ତାହାର ହାତରେ କିଛି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "ଆଉ ... ନଷ୍ଟ ହୁଏ"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "ଦୁର୍ଘଟଣାରେ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "ଜନ୍ମ ଦିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "କିଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:45.878543437Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏକ ଅଯୋଗ୍ୟ ମଣିଷ, ଅଧର୍ମୀ ଲୋକ — ⟨ସେ⟩ ବଙ୍କା ମୁଖ ସହିତ ଚାଲେ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ଅଯୋଗ୍ୟ\/ନିରର୍ଥକ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ଅଧର୍ମ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ଚାଲେ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ବଙ୍କାପଣ"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ମୁଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:40.116254989Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଗର୍ବର ପାଦ ମୋ ପାଖକୁ ନ ଆସୁ, ଆଉ ଦୁଷ୍କର୍ମୀମାନଙ୍କ ହାତ ମୋତେ ବିଚଳିତ ନ କରୁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ମୋ ପାଖକୁ ଆସୁ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ପାଦ"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "ଗର୍ବର"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "ଆଉ ହାତ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍କର୍ମୀମାନଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "ମୋତେ ବିଚଳିତ କରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:59:27.737278101Z",
+  "model": "glm-5.3"
+}

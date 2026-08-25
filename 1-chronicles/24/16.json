@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଊଣାଇଶ ନମ୍ବର ପେତାହୟାଙ୍କ ପାଇଁ, କୋଡ଼ିଏ ନମ୍ବର ୟେହେଜ୍‌କେଲଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "ପେତାହୟାଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "ୟେହେଜ୍‌କେଲଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "העשרים",
+      "gloss": "କୋଡ଼ିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:23.848221857Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯାଫଲେତର ପୁତ୍ରମାନେ — ପାସାଖ୍, ୱିମହାଲ୍ ଓ ଅଶ୍ୱାତ୍। ଏମାନେ ଯାଫଲେତର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "ଯାଫଲେତର"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "ପାସାଖ୍"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "ଓ ୱିମହାଲ୍"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "ଓ ଅଶ୍ୱାତ୍"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏମାନେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "ଯାଫଲେତର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:33.458723305Z",
+  "model": "glm-5.3"
+}

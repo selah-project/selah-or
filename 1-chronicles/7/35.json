@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ତାଙ୍କ ଭାଇ ହେଲେମର ପୁତ୍ରମାନେ — ଜୋଫାଖ୍, ୟିମନା, ଶେଲେଶ୍ ଓ ଅମାଲ୍।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "ହେଲେମର"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ତାଙ୍କ ଭାଇ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "ଜୋଫାଖ୍"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "ଓ ୟିମନା"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "ଓ ଶେଲେଶ୍"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "ଓ ଅମାଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:33.459100074Z",
+  "model": "glm-5.3"
+}

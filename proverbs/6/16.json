@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏ ଛଅଟି ଜିନିଷ ଯାହ୍ୱେ ଘୃଣା କରନ୍ତି, ଆଉ ସାତୋଟି ତାହାଙ୍କ ପ୍ରାଣକୁ ଘୃଣିତ।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "ହେନା",
+      "gloss": "ଏ"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "ଘୃଣା କରନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଆଉ ସାତ"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "ଘୃଣିତ ବସ୍ତୁ"
+    },
+    {
+      "surface": "ନଫଶୋ",
+      "gloss": "ତାହାଙ୍କ ପ୍ରାଣକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:35.402602732Z",
+  "model": "glm-5.3"
+}

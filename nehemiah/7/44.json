@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗାୟକମାନେ — ଆସାଫଙ୍କ ପୁତ୍ରମାନେ — ଏକ ଶହ ଚାଳିଶ ଓ ଆଠ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "ଗାୟକମାନେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ଆସାଫଙ୍କ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଶହ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଓ ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:34.551032314Z",
+  "model": "glm-5.3"
+}

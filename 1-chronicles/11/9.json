@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଦାଉଦ ଆଗେଇ ଆଗେଇ ମହାନ ହେଲେ, କାରଣ ସୈନ୍ୟବାହିନୀର ଯାହ୍ୱେ ତାଙ୍କ ସହିତ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଆଗେଇ ଯାଇ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦ"
+    },
+    {
+      "surface": "הלוך",
+      "gloss": "ଆଗେଇ ଆଗେଇ"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "ମହାନ ହେଲେ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ସୈନ୍ୟବାହିନୀର"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତାଙ୍କ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:37.349085858Z",
+  "model": "glm-5.3"
+}

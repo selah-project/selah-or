@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଗାଦ ଗୋଷ୍ଠୀରୁ ମାଖିଙ୍କ ପୁତ୍ର ଗେଉଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "ଗେଉଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "ମାଖି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:26.616007332Z",
+  "model": "glm-5.3"
+}

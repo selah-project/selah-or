@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ଏସାଭ୍ ଦେଖିଲେ ଯେ କେନାନୀୟ କନ୍ୟାମାନେ ତାଙ୍କ ପିତା ଇସ୍‌ହାକଙ୍କ ଦୃଷ୍ଟିରେ ମନ୍ଦ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ଦେଖିଲେ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାଭ୍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "କନ୍ୟାମାନେ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କେନାନୀୟ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ଇସ୍‌ହାକଙ୍କ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ପିତା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:59.847959771Z",
+  "model": "glm-5.3"
+}

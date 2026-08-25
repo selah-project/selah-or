@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ⟨the⟩ ପ୍ରଜା ମୋଶେଙ୍କ ବିରୁଦ୍ଧରେ ବଖାଣିଲେ, କହିବାକୁ: ଆମେ କ'ଣ ପିବା?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "ଓ ବଖାଣିଲେ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "ପିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:09:47.927829457Z",
+  "model": "glm-5.3"
+}

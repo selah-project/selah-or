@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ଅଜର୍ୟା ହେଲେତ୍ସ‌ଙ୍କୁ ଜନ୍ମ ଦେଲେ, ଓ ହେଲେତ୍ସ ଏଲଆସାଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ଓ ଅଜର୍ୟା"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ହେଲେତ୍ସ‌ଙ୍କୁ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ହେଲେତ୍ସ"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "ଓ ହେଲେତ୍ସ"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏଲଆସାଙ୍କୁ"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "ଏଲଆସା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:18.760829924Z",
+  "model": "glm-5.3"
+}

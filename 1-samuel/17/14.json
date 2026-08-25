@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଆଉ ଦାୱିଦ୍ ସେ ହେଉଛି ସାନ, ଏବଂ ତିନି ବଡ଼ ଶାଉଲଙ୍କ ପରେ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "ଆଉ ଦାୱିଦ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "הקטן",
+      "gloss": "ସାନ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ଏବଂ ତିନି"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:58:58.433219645Z",
+  "model": "glm-5.3"
+}

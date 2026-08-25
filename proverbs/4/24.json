@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 4:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ବକ୍ର ପାଟିକୁ ତୋ'ଠାରୁ ଦୂର କର, ଆଉ ଚଞ୍ଚଳ ଓଷ୍ଠକୁ ତୋ'ଠାରୁ ବହୁ ଦୂର କର।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ଦୂର କର"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ତୋ'ଠାରୁ"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ବକ୍ର"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ପାଟିକୁ"
+    },
+    {
+      "surface": "ולזות",
+      "gloss": "ଆଉ ଚଞ୍ଚଳ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠକୁ"
+    },
+    {
+      "surface": "הרחק",
+      "gloss": "ବହୁ ଦୂର କର"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ତୋ'ଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:11.060345753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଓ ଏହା ଘଟିଲା ତୁମ୍ହାର ସମସ୍ତ ମନ୍ଦତା ପରେ — ହାୟ, ହାୟ ତୁମ୍ହ ପାଇଁ, ଅଦୋନାଇ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଘଟିଲା"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "ମନ୍ଦତା"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ହ ପାଇଁ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:01:51.745538694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ବିବେକର ପଥରୁ ଭ୍ରଷ୍ଟ ହେଉଥିବା ମନୁଷ୍ୟ ରେଫାଇମଙ୍କ ସଭାରେ ବିଶ୍ରାମ ନେବ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "ଭ୍ରଷ୍ଟ ହେଉଥିବା"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ପଥରୁ"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "ବିବେକର"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ସଭାରେ"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ରେଫାଇମଙ୍କ"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "ବିଶ୍ରାମ ନେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:11.325127437Z",
+  "model": "glm-5.3"
+}

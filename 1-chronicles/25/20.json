@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତ୍ରୟୋଦଶ — ଶୁବଏଲ୍, ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଗଣ ।",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "ତ୍ରୟୋଦଶ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "ଶୁବଏଲ୍"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଗଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:10.246527290Z",
+  "model": "glm-5.3"
+}

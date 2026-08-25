@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ତୁମଭ ସାରା ଶରୀର ସୁନ୍ଦର, ମୋର ପ୍ରିୟା, ଆଉ ତୁମ୍ଭରେ କୌଣସି ଦୋଷ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "ତୁମଭ ସାରା"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ସୁନ୍ଦର"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ମୋର ପ୍ରିୟା"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "ଆଉ ଦୋଷ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ତୁମ୍ଭରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:49.951057302Z",
+  "model": "glm-5.3"
+}

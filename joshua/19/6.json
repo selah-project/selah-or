@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଓ ବେତ୍-ଲେଭାଓତ୍, ଓ ଶାରୁହେନ୍ — ତେରଟି ନଗର ଓ ⟨ଏହାର⟩ ଗାଁଗୁଡ଼ିକ।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ଓ ବେତ୍"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "ଲେଭାଓତ୍"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "ଓ ଶାରୁହେନ୍"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "ଓ ⟨ଏହାର⟩ ଗାଁଗୁଡ଼ିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:48.711610325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମନୁଷ୍ୟ ପାଇଁ ଉତ୍ତମ ଯେ ସେ ⟨ନିଜର⟩ ଯୌବନରେ ଜୁଆଚକ ବହନ କରେ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "ମନୁଷ୍ୟ ପାଇଁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ବହନ କରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଜୁଆଚକ"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "⟨ନିଜର⟩ ଯୌବନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:55:05.991701578Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "କାରଣ ତୁମେ ତା'ର ମସ୍ତକ ଉପରେ ଅଙ୍ଗାର ସଞ୍ଚୟ କରୁଛ, ଆଉ ଯାହ୍ୱେ ତୁମକୁ ପ୍ରତିଫଳ ଦେବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ଅଙ୍ଗାର"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "ସଞ୍ଚୟ କରୁଛ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ତା'ର ମସ୍ତକ"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ଆଉ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ପ୍ରତିଫଳ ଦେବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:39.170819539Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 22:12",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ କୋହେନର ଝିଅ ଯଦି ଜଣେ ଅପରିଚିତ ପୁରୁଷର ହୁଏ, ସେ ପବିତ୍ର ବସ୍ତୁର ତେରୁମାହ୍‌ରୁ ଖାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ובת",
+      "gloss": "ଓ ଝିଅ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "କୋହେନର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ଜଣେ ପୁରୁଷର"
+    },
+    {
+      "surface": "זר",
+      "gloss": "ଅପରିଚିତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "בתרומת",
+      "gloss": "ତେରୁମାହ୍‌ରୁ"
+    },
+    {
+      "surface": "הקדשים",
+      "gloss": "ପବିତ୍ର ବସ୍ତୁର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:54:21.439149446Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 46:1",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଯାହା ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ନବୀ ୟିରିମିୟାଙ୍କ ପ୍ରତି ଜାତିଗଣଙ୍କ ବିଷୟରେ ହୋଇଥିଲା।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିରିମିୟାଙ୍କ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ଜାତିଗଣଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:19:36.010855503Z",
+  "model": "glm-5.3"
+}

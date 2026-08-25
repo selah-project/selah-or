@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଜୋକପାଖରେ ଦୁଇ ଝିଅ — ଦାଓ, ଦାଓ! ତିନୋଟି ⟨ବସ୍ତୁ⟩ ତୃପ୍ତ ହୁଏ ନାହିଁ, ଆଉ ଚାରୋଟି 'ଯଥେଷ୍ଟ' କହନ୍ତି ନାହିଁ:",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "ଜୋକପାଖରେ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ଦାଓ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "ଦାଓ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ତିନୋଟି"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨ବସ୍ତୁ⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "ତୃପ୍ତ ହୁଏ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରୋଟି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "କହନ୍ତି"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ଯଥେଷ୍ଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:46.197467151Z",
+  "model": "glm-5.3"
+}

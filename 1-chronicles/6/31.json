@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅମତ୍ସିଙ୍କ ପୁତ୍ର, ବାନିଙ୍କ ପୁତ୍ର, ଶେମେରଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "ଅମତ୍ସି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ବାନି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ଶେମେର"
+    }
+  ],
+  "timestamp": "2026-08-25T22:54:56.747216124Z",
+  "model": "glm-5.3"
+}

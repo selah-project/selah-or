@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 4:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଓ ଲେମେଖ ନିଜ ପାଇଁ ଦୁଇ ସ୍ତ୍ରୀ ଗ୍ରହଣ କଲା; ଜଣଙ୍କ ନାମ ⟨ଥିଲା⟩ ଆଦା, ଓ ଦ୍ୱିତୀୟାଙ୍କ ନାମ ⟨ଥିଲା⟩ ତ୍ସିଲା।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ଓ ଗ୍ରହଣ କଲା"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ଲେମେଖ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଜଣଙ୍କ"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "ଆଦା"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "ଓ ନାମ"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ଦ୍ୱିତୀୟାଙ୍କ"
+    },
+    {
+      "surface": "צלה",
+      "gloss": "ତ୍ସିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:57.535825142Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଲଜ୍ଜିତା ହେଲା ମିସରର କନ୍ୟା; ଉତ୍ତରର ଲୋକମାନଙ୍କ ହାତରେ ସମର୍ପିତ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "ଲଜ୍ଜିତା ହେଲା"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟା"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିସର"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ସମର୍ପିତ ହେଲା"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ଲୋକମାନଙ୍କ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ଉତ୍ତରର"
+    }
+  ],
+  "timestamp": "2026-08-25T14:28:58.871812714Z",
+  "model": "glm-5.3"
+}

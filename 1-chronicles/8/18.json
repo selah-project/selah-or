@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଏବଂ ଇଶ୍ମେରାଇ, ଏବଂ ଇଜଲିଆ, ଏବଂ ୟୋବାବ — ଏଲ୍ପାଲଙ୍କ ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "ଏବଂ ଇଶ୍ମେରାଇ"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "ଏବଂ ଇଜଲିଆ"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "ଏବଂ ୟୋବାବ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "ଏଲ୍ପାଲଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:49.601732346Z",
+  "model": "glm-5.3"
+}

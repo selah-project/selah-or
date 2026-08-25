@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ତାହାର ତୂଣୀର ଏକ ଖୋଲା କବର ପରି; ସେମାନେ ସମସ୍ତେ ବୀର ପୁରୁଷ।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "ତାହାର ତୂଣୀର"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "କବର ପରି"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ଖୋଲା"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ସେମାନେ ସମସ୍ତେ"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "ବୀର ପୁରୁଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:34:43.960187702Z",
+  "model": "glm-5.3"
+}

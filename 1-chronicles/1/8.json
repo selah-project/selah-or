@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ହାମର ପୁତ୍ରମାନେ: କୂଶ, ମିତ୍ରାୟିମ, ପୁତ ଓ କେନାନ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ହାମର"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "କୂଶ"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "ମିତ୍ରାୟିମ"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "ପୁତ"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "କେନାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:37.249714084Z",
+  "model": "glm-5.3"
+}

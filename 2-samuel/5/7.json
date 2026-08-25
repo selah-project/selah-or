@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଦାଭିଦ୍ ⟨את⟩ ଜିୟନ୍ ଦୁର୍ଗ ବଶ କଲେ — ⟨ଏହା⟩ ଦାଭିଦର ନଗର।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "ବଶ କଲେ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଭିଦ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜିୟନ୍ ଦୁର୍ଗ"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ଜିୟନ୍"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଭିଦର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:16:01.823232939Z",
+  "model": "glm-5.3"
+}

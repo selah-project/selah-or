@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଆଉ ଶେମାୟାହୁ ନେହଲାମୀଙ୍କ ବିଷୟରେ ତୁମେ କହିବ, କହିବାକୁ:",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "ଆଉ … ବିଷୟରେ"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "ଶେମାୟାହୁ"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "ନେହଲାମୀ"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ତୁମେ କହିବ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:08:04.147164758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହାର ନାହିଁ ⟨ତା’⟩ କୌଣସି ଅଧ୍ୟକ୍ଷ, ଶାସନ-ଅଧିକାରୀ କିମ୍ବା ଶାସକ;",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "⟨ତା’⟩"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "କୌଣସି ଅଧ୍ୟକ୍ଷ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ଶାସନ-ଅଧିକାରୀ"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "କିମ୍ବା ଶାସକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:27.795572792Z",
+  "model": "glm-5.3"
+}

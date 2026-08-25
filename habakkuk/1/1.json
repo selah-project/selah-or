@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଭାର, ଯାହା ଦେଖିଲେ ହବକ୍କୂକ୍ ନବୀ।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ଭାର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ଦେଖିଲେ"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "ହବକ୍କୂକ୍"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:21:30.395169636Z",
+  "model": "glm-5.3"
+}

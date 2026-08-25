@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପ୍ରତି ଉପସ୍ଥିତ ହେଲା, କହିବାକୁ ଏପରି:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଉପସ୍ଥିତ ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:23:56.774923843Z",
+  "model": "glm-5.3"
+}

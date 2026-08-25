@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ସେମାନେ ବେଏର୍-ଶେବା, ମୋଲାଦା ଓ ହାତ୍ସାର୍-ଶୁଆଲରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "ଆଉ ବାସ କଲେ"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "ବେଏର୍-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେବା"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "ଓ ମୋଲାଦା"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "ଓ ହାତ୍ସାର୍-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ଶୁଆଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:36.495035884Z",
+  "model": "glm-5.3"
+}

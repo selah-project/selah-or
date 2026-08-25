@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ମଧ୍ୟ ଯଦି ଶୋଇଯାଆନ୍ତି ଦୁହେଁ, ଉଷ୍ମା ସେମାନଙ୍କ ପାଇଁ; କିନ୍ତୁ ଏକର ପାଇଁ କେମିତି ଉଷ୍ମା ହେବ?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ଆଉ ମଧ୍ୟ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "ଶୋଇଯାଆନ୍ତି"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁହେଁ"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ଉଷ୍ମା"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "କିନ୍ତୁ ଏକର ପାଇଁ"
+    },
+    {
+      "surface": "איך",
+      "gloss": "କେମିତି"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "ଉଷ୍ମା ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:57.135156429Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଯକୃତ୍‌ବାଚୀ — ସମସ୍ତ ଶୁଚି ପକ୍ଷୀ ତୁମ୍ଭେମାନେ ଖାଇପାରିବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "ଶୁଚି"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ତୁମ୍ଭେମାନେ ଖାଇପାରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:07.998057816Z",
+  "model": "glm-5.3"
+}

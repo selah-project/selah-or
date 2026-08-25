@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 133:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 133,
+  "translation": "ଆରୋହଣ-ଗୀତ, ଦାଉଦଙ୍କ। ଦେଖ, କେତେ ଉତ୍ତମ ଓ କେତେ ମଧୁର — ଭାଇମାନେ ଏକତ୍ରେ ବସିବା!",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ଆରୋହଣ-ଗୀତ"
+    },
+    {
+      "surface": "המעלות",
+      "gloss": "ଆରୋହଣର"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କେତେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଓ କେତେ"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "ମଧୁର"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ବସିବା"
+    },
+    {
+      "surface": "אחים",
+      "gloss": "ଭାଇମାନେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ଏକତ୍ରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:50:11.830346054Z",
+  "model": "glm-5.3"
+}

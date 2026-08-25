@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସେମାନଙ୍କ ଗଣନା ଦାନ ଗୋଷ୍ଠୀ ପାଇଁ — ଦୁଇ ଓ ଷାଠିଏ ହଜାର ଓ ସାତ ଶହ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ସେମାନଙ୍କ ଗଣନା"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠିଏ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଓ ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:19.734030638Z",
+  "model": "glm-5.3"
+}

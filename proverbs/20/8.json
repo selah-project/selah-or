@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ରାଜା ବିଚାର-ସିଂହାସନରେ ଉପବିଷ୍ଟ — ତାହାର ଆଖିରେ ସମସ୍ତ ମନ୍ଦକୁ ଝାଡ଼ି ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ଉପବିଷ୍ଟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ସିଂହାସନରେ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ବିଚାର"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ଝାଡ଼ି ଦିଏ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ତାହାର ଆଖିରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:02.291787367Z",
+  "model": "glm-5.3"
+}

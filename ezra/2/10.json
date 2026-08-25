@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezra 2:10",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବାନୀଙ୍କ ପୁତ୍ରମାନେ — ଛଅ ଶହ ବାପାଳିଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ବାନୀ",
+      "gloss": "ବାନୀଙ୍କ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:41.622819585Z",
+  "model": "glm-5.3"
+}

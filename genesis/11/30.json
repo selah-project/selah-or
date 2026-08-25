@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ସାରୟ୍ ଜାତେ ଅଟନ୍ତୀ — ତାହାର ସନ୍ତାନ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ଆଉ...ଅଟନ୍ତୀ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ସାରୟ୍"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "ଜାତ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ତାହାର"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "ସନ୍ତାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:44.023472216Z",
+  "model": "glm-5.3"
+}

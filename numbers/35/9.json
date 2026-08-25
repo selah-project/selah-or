@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ, କହିବାକୁ ଲାଗି,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଲାଗି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:35:05.317941264Z",
+  "model": "glm-5.3"
+}

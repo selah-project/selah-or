@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ଏମିତି ହେଲା, ଯେତେବେଳେ ଯୁଦ୍ଧର ସମସ୍ତ ପୁରୁଷ ଲୋକଙ୍କ ମଧ୍ୟଭାଗରୁ ମରି ସମାପ୍ତ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଏମିତି ହେଲା"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "ସମାପ୍ତ ହେଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ପୁରୁଷ ଲୋକଙ୍କ"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "ଯୁଦ୍ଧର"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ମରି"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ଠାରୁ ମଧ୍ୟଭାଗ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:09.852384276Z",
+  "model": "glm-5.3"
+}

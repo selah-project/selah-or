@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ସଂଗୀତ-ନେତାଙ୍କ ପାଇଁ, ଦାଉଦଙ୍କ ମିଜମର।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଂଗୀତ-ନେତାଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ମିଜମର"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:48:14.030191591Z",
+  "model": "glm-5.3"
+}

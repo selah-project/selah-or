@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 14:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଫେରିଯାଉଥିବା ହୃଦୟ ତାହାର ପଥରୁ ତୃପ୍ତ ହେବ, ଆଉ ଉତ୍ତମ ଲୋକ ତାହାଠାରୁ ⟨ତୃପ୍ତ⟩।",
+  "tokens": [
+    {
+      "surface": "מדרכיו",
+      "gloss": "ତାହାର ପଥରୁ"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ତୃପ୍ତ ହେବ"
+    },
+    {
+      "surface": "סוג",
+      "gloss": "ଫେରିଯାଉଥିବା"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "ומעליו",
+      "gloss": "ଆଉ ତାହାଠାରୁ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:58.848954015Z",
+  "model": "glm-5.3"
+}

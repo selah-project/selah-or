@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଶବତ ଦିନରେ ତୁମ୍ଭର ସମସ୍ତ ବାସସ୍ଥାନରେ ଅଗ୍ନି ଜାଳିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "ଜାଳିବ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "ତୁମ୍ଭର ବାସସ୍ଥାନରେ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ଶବତ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:26:22.550436920Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କେବଳ ମୋ ପ୍ରତି ସେ ଫେରିଛନ୍ତି — ସାରା ଦିନ ସେ ତାହାଙ୍କ ହାତ ଓଲଟାଉଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ଫେରିଛନ୍ତି"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "ଓଲଟାଉଛନ୍ତି"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ତାହାଙ୍କ ହାତ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:48.676052388Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଆଉ ମୋଶେ ସେହି ପର୍ବତକୁ ଉଠିଗଲେ, ଆଉ ମେଘ ସେହି ପର୍ବତକୁ ⟨את⟩ ଆବୃତ କଲା।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ଆଉ … ଉଠିଗଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ସେହି ପର୍ବତ"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ଆଉ … ଆବୃତ କଲା"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "ମେଘ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସେହି ପର୍ବତକୁ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ସେହି ପର୍ବତ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:18:24.657834152Z",
+  "model": "glm-5.3"
+}

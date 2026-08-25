@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏକ ଭୟଙ୍କର ଓ ଅଦ୍ଭୁତ ବିଷୟ ଦେଶରେ ଘଟିଛି।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ଭୟଙ୍କର ବିଷୟ"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "ଓ ଅଦ୍ଭୁତ"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "ଘଟିଛି"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:33:29.814529185Z",
+  "model": "glm-5.3"
+}

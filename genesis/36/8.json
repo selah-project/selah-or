@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ଏସାବ ଶେଇର ପର୍ବତରେ ବାସ କଲା — ଏସାବ ⟨ହିଁ⟩ ଏଦୋମ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲା"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ପର୍ବତରେ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ଶେଇର"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ହିଁ⟩"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:59.870080246Z",
+  "model": "glm-5.3"
+}

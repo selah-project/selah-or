@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏହା ମୁଁ ମୋର ହୃଦୟକୁ ଫେରାଏଁ, ଏଣୁ ମୁଁ ଆଶା କରେ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "ମୁଁ ... ଫେରାଏଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ମୋର ହୃଦୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ତାହା ସକାଶେ"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "ମୁଁ ଆଶା କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:23.582822828Z",
+  "model": "glm-5.3"
+}

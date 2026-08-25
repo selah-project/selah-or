@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ଛେଳି-ପାଠି, ପାପ-ଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ଛେଳି-ପାଠି"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳି"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ-ଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:05:54.289214951Z",
+  "model": "glm-5.3"
+}

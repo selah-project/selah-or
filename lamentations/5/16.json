@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 5:16",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆମ ମସ୍ତକର ମୁକୁଟ ଖସି ପଡ଼ିଲା — ହାୟ ଆମକୁ! କାରଣ ଆମେ ପାପ କରିଅଛୁ।",
+  "tokens": [
+    {
+      "surface": "נפלה",
+      "gloss": "ଖସି ପଡ଼ିଲା"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ମୁକୁଟ"
+    },
+    {
+      "surface": "ראשנו",
+      "gloss": "ଆମ ମସ୍ତକର"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨ଏତିକି⟩"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חטאנו",
+      "gloss": "ଆମେ ପାପ କରିଅଛୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.408602273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ରଥ ଦେଖିବ — ଅଶ୍ୱାରୋହୀଙ୍କ ଯୋଡ଼ି, ଗଧର ରଥ, ଉଟର ରଥ; ଆଉ ସେ ଧ୍ୟାନ ଦେବ, ମହାନ ଧ୍ୟାନ ।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ଆଉ ଦେଖିବ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "ଯୋଡ଼ି"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ଅଶ୍ୱାରୋହୀଙ୍କ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ଗଧର"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "ଉଟର"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "ଆଉ ଧ୍ୟାନ ଦେବ"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ଧ୍ୟାନ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ଧ୍ୟାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:35:44.440171826Z",
+  "model": "glm-5.3"
+}

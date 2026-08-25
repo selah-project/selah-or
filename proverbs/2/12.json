@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମନ୍ଦ ପଥରୁ ତୁମକୁ ଉଦ୍ଧାର କରିବାକୁ, ବିକୃତ କଥା କୁହଉଥିବା ମଣିଷଠାରୁ —",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "ତୁମକୁ ଉଦ୍ଧାର କରିବାକୁ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ପଥରୁ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ମଣିଷଠାରୁ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "କୁହଉଥିବା"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ବିକୃତ କଥା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:59.847272983Z",
+  "model": "glm-5.3"
+}

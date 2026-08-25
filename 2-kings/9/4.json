@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-kings 9:4",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ସେହି ଯୁବକ — ସେହି ଯୁବକ ନବୀ — ରାମୋତ୍ ଗିଲଆଦକୁ ଗଲା।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲା"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ସେହି ଯୁବକ"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "ସେହି ଯୁବକ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "ରାମୋତ୍"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "ଗିଲଆଦକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:05:40.641780323Z",
+  "model": "glm-5.3"
+}

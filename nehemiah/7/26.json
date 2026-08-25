@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବେତ୍-ଲେଖେମ ଓ ନେତୋଫାର ଲୋକମାନେ — ଶହେ ଆଶୀ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଲେଖେମ"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "ଓ ନେତୋଫାର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "שמনים",
+      "gloss": "ଆଶୀ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଆଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:56.682556594Z",
+  "model": "glm-5.3"
+}

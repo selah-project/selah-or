@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଯାହାର ଈଶ୍ୱରପାଖ ଓ କାତରଖଣ୍ଡ ନାହିଁ — ଜଳରେ — ସେ ତୁମ୍ଭମାନଙ୍କ ପାଇଁ ଘୃଣିତ ବସ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାର ପାଖରେ"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ଈଶ୍ୱରପାଖ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ଓ କାତରଖଣ୍ଡ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ଜଳରେ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ଘୃଣିତ ବସ୍ତୁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:40:54.147662722Z",
+  "model": "glm-5.3"
+}

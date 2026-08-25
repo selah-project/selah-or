@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 12:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓଠର ଅପରାଧରେ ⟨ଅଛି⟩ ଦୁଷ୍ଟର ଫାନ୍ଦ, ଆଉ ଧାର୍ମିକ ମୁଶକିଲରୁ ବାହାରି ଆସେ।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ଅପରାଧରେ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଠର"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ଫାନ୍ଦ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ଆଉ … ବାହାରି ଆସେ"
+    },
+    {
+      "surface": "מצרה",
+      "gloss": "ମୁଶକିଲରୁ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:21.226771357Z",
+  "model": "glm-5.3"
+}

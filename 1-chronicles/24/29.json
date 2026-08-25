@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "କିଶ୍ — କିଶ୍‌ର ପୁତ୍ରମାନେ: ୟେରଖମ୍‌ଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "କିଶ୍‌ର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "କିଶ୍"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ୟେରଖମ୍‌ଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:09:22.372204378Z",
+  "model": "glm-5.3"
+}

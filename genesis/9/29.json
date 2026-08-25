@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 9:29",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ନୋଖଙ୍କ ସମସ୍ତ ଦିନଗୁଡ଼ିକ ନଅଶହ ବର୍ଷ ଓ ପଚାଶ ବର୍ଷ ହେଲା, ଏବଂ ସେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଆଉ...ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୋଖଙ୍କ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "ଓ ପଚାଶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ଏବଂ ମୃତ୍ୟୁବରଣ କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:17.796163480Z",
+  "model": "glm-5.3"
+}

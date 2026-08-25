@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 23:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଶୁଣ, ତୁଁ ହେ ମୋର ପୁତ୍ର, ଆଉ ଜ୍ଞାନୀ ହୁଅ, ଆଉ ବାଟରେ ତୋର ହୃଦୟକୁ ସିଧା କର।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁଁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋର ପୁତ୍ର"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "ଆଉ ଜ୍ଞାନୀ ହୁଅ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ଆଉ ସିଧା କର"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ତୋର ହୃଦୟକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:49.616035273Z",
+  "model": "glm-5.3"
+}

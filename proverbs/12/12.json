@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଦୁଷ୍ଟ ମନ୍ଦମାନଙ୍କ ଜାଲ କାମନା କରେ; କିନ୍ତୁ ଧାର୍ମିକମାନଙ୍କ ମୂଳ ⟨ଫଳ⟩ ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "କାମନା କରେ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "ଜାଲ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ମନ୍ଦମାନଙ୍କ"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "କିନ୍ତୁ-ମୂଳ"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ଧାର୍ମିକମାନଙ୍କ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:48.784063564Z",
+  "model": "glm-5.3"
+}

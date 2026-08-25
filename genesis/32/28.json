@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଓ ସେ ତାଙ୍କୁ କହିଲେ, ତୁମର ନାମ କଣ? ଓ ସେ କହିଲେ, ୟାକୋଭ୍।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "ତୁମର ନାମ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:39:33.000617817Z",
+  "model": "glm-5.3"
+}

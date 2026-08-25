@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 33:23",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ୟିର୍‌ମିୟାହୁଙ୍କ ନିକଟକୁ ଆସିଲା, କହିଲା —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିର୍‌ମିୟାହୁଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:13:27.928334116Z",
+  "model": "glm-5.3"
+}

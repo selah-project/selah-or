@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 12:21",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ତାନାଖର ରାଜା ଜଣେ; ମେଗିଦ୍ଦୋର ରାଜା ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "תענך",
+      "gloss": "ତାନାଖର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "מגדו",
+      "gloss": "ମେଗିଦ୍ଦୋର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:53.972630543Z",
+  "model": "glm-5.3"
+}

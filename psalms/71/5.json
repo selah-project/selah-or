@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 71:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 71,
+  "translation": "କାରଣ ଆପଣ ମୋର ଆଶା, ଅଦୋନାଇ ଯାହ୍ୱେ, ମୋର ବାଲ୍ୟକାଳରୁ ମୋର ଭରସା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    },
+    {
+      "surface": "תקותי",
+      "gloss": "ମୋର ଆଶା"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מבטחי",
+      "gloss": "ମୋର ଭରସା"
+    },
+    {
+      "surface": "מנעורי",
+      "gloss": "ମୋର ବାଲ୍ୟକାଳରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:18:25.076633120Z",
+  "model": "glm-5.3"
+}

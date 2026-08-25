@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଆଉ ଇସ୍‌ହାକଙ୍କ ଦିନମାନ ଶହେ ବର୍ଷ ଓ ଅଶୀ ବର୍ଷ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନମାନ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ଇସ୍‌ହାକଙ୍କ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ଓ ଅଶୀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:45.297898960Z",
+  "model": "glm-5.3"
+}

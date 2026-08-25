@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 26:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ମୁଁ ନିରର୍ଥକ ଲୋକଙ୍କ ସହିତ ବସି ନାହିଁ, ଆଉ ଛଦ୍ମବେଶୀମାନଙ୍କ ସହିତ ମୁଁ ଯିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישבתי",
+      "gloss": "ବସି"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ନିରର୍ଥକ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "ଆଉ ... ସହିତ"
+    },
+    {
+      "surface": "נעלמים",
+      "gloss": "ଛଦ୍ମବେଶୀମାନଙ୍କ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אבוא",
+      "gloss": "ଯିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:56:43.401169672Z",
+  "model": "glm-5.3"
+}

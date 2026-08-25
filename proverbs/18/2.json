@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ମୂର୍ଖ ବୁଦ୍ଧିରେ ଆନନ୍ଦ ପାଏ ନାହିଁ, କେବଳ ନିଜ ହୃଦୟ ⟨କଥା⟩ ପ୍ରକାଶ କରିବାରେ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "ଆନନ୍ଦ ପାଏ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ବୁଦ୍ଧିରେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ପ୍ରକାଶ କରିବାରେ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ନିଜ ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:56.870251302Z",
+  "model": "glm-5.3"
+}

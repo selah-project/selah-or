@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯେଉଁ ପ୍ରାଣୀ କୌଣସି ରକ୍ତ ଖାଇବ, ସେହି ପ୍ରାଣୀ ⟨ତା'⟩ ଲୋକଙ୍କଠାରୁ ଛିନ୍ନ ହେବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ଯେଉଁ…ମଧ୍ୟ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "ଛିନ୍ନ ହେବ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ପ୍ରାଣୀ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "ତା' ଲୋକଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:39:10.846696969Z",
+  "model": "glm-5.3"
+}

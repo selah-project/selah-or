@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ, ଦାଉଦଙ୍କ ଗୀତ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:53:02.094093414Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 26:17",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଭୂମିର ପ୍ରାଚୀନମାନଙ୍କ ମଧ୍ୟରୁ କେତେକ ଲୋକ ଉଠି ସମଗ୍ର ଜନସମାଗମର ଲୋକଙ୍କୁ କହିଲେ କି —",
+  "tokens": [
+    {
+      "surface": "ויקמו",
+      "gloss": "ଉଠିଲେ"
+    },
+    {
+      "surface": "אנשים",
+      "gloss": "କେତେକ ଲୋକ"
+    },
+    {
+      "surface": "מזקני",
+      "gloss": "ପ୍ରାଚୀନମାନଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଭୂମିର"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ଜନସମାଗମର"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କି"
+    }
+  ],
+  "timestamp": "2026-08-25T14:04:19.679951822Z",
+  "model": "glm-5.3"
+}

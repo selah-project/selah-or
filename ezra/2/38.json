@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ପଶହୂରର ପୁତ୍ରମାନେ — ହଜାର ଦୁଇଶହ ସଇତିଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "ପଶହୂରର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇଶହ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ସାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:16.338307879Z",
+  "model": "glm-5.3"
+}

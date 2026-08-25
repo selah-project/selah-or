@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 43:14",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ପୃଥିବୀର କୋଳରୁ ତଳ ପୀଠ ପର୍ଯ୍ୟନ୍ତ ଦୁଇ କରଭ, ଓସାର ଗୋଟିଏ କରଭ; ଛୋଟ ପୀଠରୁ ବଡ଼ ପୀଠ ପର୍ଯ୍ୟନ୍ତ ଚାରି କରଭ, ଆଉ ଓସାର କରଭ।",
+  "tokens": [
+    {
+      "surface": "ומחיק",
+      "gloss": "କୋଳରୁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "ପୀଠ"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "ତଳ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "କରଭ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଓ ଓସାର"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "କରଭ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "ומהעזרה",
+      "gloss": "ପୀଠରୁ"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "ଛୋଟ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "ପୀଠ"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "କରଭ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଓ ଓସାର"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "କରଭ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:43:04.713193771Z",
+  "model": "glm-5.3"
+}

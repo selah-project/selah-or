@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଓ ଆମକୁ ଏହି ସ୍ଥାନ‌କୁ ଆଣିଲେ, ଓ ଆମକୁ ⟨את⟩ ଏହି ଦେଶ ଦେଲେ — କ୍ଷୀର ଓ ମହୁ ବୋହୁଥିବା ଦେଶ।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "ଓ ଆଣିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ସ୍ଥାନ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ଓ ଦେଲେ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମକୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ଦେଶ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "ବୋହୁଥିବା"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "କ୍ଷୀର"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "ଓ ମହୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:47.589277577Z",
+  "model": "glm-5.3"
+}

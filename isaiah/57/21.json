@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 57,
+  "translation": "ଶାନ୍ତି ନାହିଁ, ମୋର ଏଲୋହିମ୍ କହନ୍ତି, ଦୁଷ୍ଟମାନଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହନ୍ତି"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ମୋର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "ଦୁଷ୍ଟମାନଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:17:22.371819633Z",
+  "model": "glm-5.3"
+}

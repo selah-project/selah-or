@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 13:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଜ୍ଞାନୀର ଶିକ୍ଷା ଜୀବନର ଉତ୍ସ — ମୃତ୍ୟୁର ଫାନ୍ଦରୁ ବିଚଳିତ ହେବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "תורת",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀର"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ଉତ୍ସ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "ବିଚଳିତ ହେବା ପାଇଁ"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "ଫାନ୍ଦରୁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:30.198572945Z",
+  "model": "glm-5.3"
+}

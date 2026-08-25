@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଆଉ ରିଉବେନର ପୁତ୍ରମାନେ: ହାନୋଖ୍ ଓ ପଲ୍ଲୁ ଓ ଖେତ୍ସରୋନ୍ ଓ କର୍ମି।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ …ର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ରିଉବେନର"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ହାନୋଖ୍"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "ଓ ପଲ୍ଲୁ"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "ଓ ଖେତ୍ସରୋନ୍"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ଓ କର୍ମି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:53:49.132394269Z",
+  "model": "glm-5.3"
+}

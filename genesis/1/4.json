@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 1:4",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ଏଲୋହିମ୍ ⟨את⟩ ଆଲୋକ ଦେଖିଲେ ଯେ ତାହା ଉତ୍ତମ, ଆଉ ଏଲୋହିମ୍ ଆଲୋକ ଓ ଅନ୍ଧକାର ମଧ୍ୟରେ ପୃଥକ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ଆଉ ଦେଖିଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଆଲୋକ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ויבדל",
+      "gloss": "ଆଉ ପୃଥକ କଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ଅନ୍ଧକାର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:15:57.511067230Z",
+  "model": "glm-5.3"
+}

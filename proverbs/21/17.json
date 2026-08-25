@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଅଭାବର ମଣିଷ ଆନନ୍ଦକୁ ପ୍ରେମ କରେ; ଦ୍ରାକ୍ଷାରସ ଓ ତୈଳକୁ ପ୍ରେମ କରିଳା ଧନୀ ହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ଅଭାବର"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦକୁ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରିଳା"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ଦ୍ରାକ୍ଷାରସ"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "ଓ ତୈଳକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ଧନୀ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:09.554655786Z",
+  "model": "glm-5.3"
+}

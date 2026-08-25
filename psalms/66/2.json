@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 66,
+  "translation": "ତାହାଙ୍କ ନାମର ମହିମା ଗାଅ, ତାହାଙ୍କ ପ୍ରଶଂସାକୁ ମହିମାମୟ କର।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "ଗାଅ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମା"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତାହାଙ୍କ ନାମର"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "କର"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମାମୟ"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "ତାହାଙ୍କ ପ୍ରଶଂସାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:15:06.653464528Z",
+  "model": "glm-5.3"
+}

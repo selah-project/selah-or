@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 27:22",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଅଭିଶପ୍ତ ସେ ଯେ ତା' ଭଉଣୀ ସହିତ ଶୋଇଥାଏ — ତା' ପିତାଙ୍କ ଝିଅ କିମ୍ବା ତା' ମାଆଙ୍କ ଝିଅ, ଆଉ ସମସ୍ତ ପ୍ରଜା କହିବେ, ଆମେନ୍।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ଶୋଇଥାଏ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "ତା' ଭଉଣୀ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ତା' ପିତାଙ୍କ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ତା' ମାଆଙ୍କ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଆଉ କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:19.650152336Z",
+  "model": "glm-5.3"
+}

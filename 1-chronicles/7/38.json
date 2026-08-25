@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯେତେରଙ୍କ ପୁତ୍ରମାନେ — ୟେଫୁନ୍ନେହ୍, ପିସ୍‌ପା ଓ ଆରା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ଯେତେର"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ୟେଫୁନ୍ନେହ୍"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "ପିସ୍‌ପା"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "ଆରା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:10.569163263Z",
+  "model": "glm-5.3"
+}

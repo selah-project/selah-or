@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ଦାନ୍ ବିଷୟରେ କହିଲେ: ଦାନ୍ ସିଂହର ଛୁଆ, ଯିଏ ବାଶାନ୍‌ରୁ ଆକ୍ରମଣ କରିବ।",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "ଆଉ ଦାନ୍ ବିଷୟରେ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ଛୁଆ"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ସିଂହର"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "ଆକ୍ରମଣ କରିବ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ବାଶାନ୍‌"
+    }
+  ],
+  "timestamp": "2026-08-25T10:03:20.355413537Z",
+  "model": "glm-5.3"
+}

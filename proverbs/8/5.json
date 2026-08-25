@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ହେ ସରଳମାନେ, ଚତୁରତା ବୁଝ; ଆଉ ହେ ନିର୍ବୋଧମାନେ, ହୃଦୟକୁ ବୁଝ।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "ବୁଝ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "ହେ ସରଳମାନେ"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "ଚତୁରତା"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "ଆଉ ନିର୍ବୋଧମାନେ"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "ବୁଝ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:35.156263720Z",
+  "model": "glm-5.3"
+}

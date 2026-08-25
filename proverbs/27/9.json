@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 27:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ତୈଳ ଓ ଧୂପ ହୃଦୟକୁ ଆନନ୍ଦିତ କରେ, ଆଉ ତାହାର ବନ୍ଧୁର ମିଠା — ପ୍ରାଣର ପରାମର୍ଶ ।",
+  "tokens": [
+    {
+      "surface": "שמן",
+      "gloss": "ତୈଳ"
+    },
+    {
+      "surface": "וקטרת",
+      "gloss": "ଓ ଧୂପ"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ଆନନ୍ଦିତ କରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    },
+    {
+      "surface": "ומתק",
+      "gloss": "ଆଉ ମିଠା"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ତାହାର ବନ୍ଧୁର"
+    },
+    {
+      "surface": "מעצת",
+      "gloss": "ପରାମର୍ଶ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:52.211570815Z",
+  "model": "glm-5.3"
+}

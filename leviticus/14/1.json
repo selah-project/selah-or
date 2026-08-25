@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 14:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପାଖକୁ କହିଲେ, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:52.228284807Z",
+  "model": "glm-5.3"
+}

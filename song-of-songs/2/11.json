@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ ଦେଖ, ଶୀତ ଗତି ହୋଇଗଲାଣି, ବର୍ଷା ଚାଲିଗଲାଣି, ଯାଇ ପହଞ୍ଚି ଗଲାଣି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ଶୀତ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଗତି ହୋଇଗଲାଣି"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ବର୍ଷା"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "ଚାଲିଗଲାଣି"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ଯାଇଗଲାଣି"
+    },
+    {
+      "surface": "לו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T18:48:11.693796401Z",
+  "model": "glm-5.3"
+}

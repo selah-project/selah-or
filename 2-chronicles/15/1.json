@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 15:1",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ଆଜାର୍ୟାହୁଙ୍କ — ଓଦେଦଙ୍କ ପୁତ୍ର — ଉପରେ ଏଲୋହିମଙ୍କ ରୁଆଖ୍ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ועזריהו",
+      "gloss": "ଆଉ ଆଜାର୍ୟାହୁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עודד",
+      "gloss": "ଓଦେଦଙ୍କ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖ୍"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:25:55.863289591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 11:30",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଧାର୍ମିକର ଫଳ ଜୀବନ-ବୃକ୍ଷ, ଆଉ ପ୍ରାଣଗୁଡ଼ିକୁ ବାଜି ନେଉଥିବା ଜ୍ଞାନୀ।",
+  "tokens": [
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ବୃକ୍ଷ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ-"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "ଆଉ ... ବାଜି ନେଉଥିବା"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "ପ୍ରାଣଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:12.762609801Z",
+  "model": "glm-5.3"
+}

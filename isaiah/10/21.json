@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଶେଷଭାଗ ଫେରିବ — ୟାକୋଭ୍‌ର ଶେଷଭାଗ — ବୀର ଏଲ୍‌ ଙ୍କ ପାଖକୁ।",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "ଶେଷଭାଗ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରିବ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ଶେଷଭାଗ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍‌ର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍‌"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ବୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T12:30:03.446161868Z",
+  "model": "glm-5.3"
+}

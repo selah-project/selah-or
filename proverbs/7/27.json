@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଶେଓଲ୍‌ର ପଥଗୁଡ଼ିକ ତା'ର ଘର, ମୃତ୍ୟୁର କୋଠରିଗୁଡ଼ିକକୁ ଓହ୍ଲାଉଥିବା।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "ପଥଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶେଓଲ୍‌ର"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "ତା'ର ଘର"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ଓହ୍ଲାଉଥିବା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "କୋଠରିଗୁଡ଼ିକକୁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:08.008399189Z",
+  "model": "glm-5.3"
+}

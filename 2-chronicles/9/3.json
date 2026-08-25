@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଶେବା ରାଣୀ ଶଲୋମୋଙ୍କ ⟨את⟩ ଜ୍ଞାନ ଓ ⟨the⟩ ପ୍ରାସାଦ ଯାହା ସେ ନିର୍ମାଣ କରିଥିଲେ ଦେଖିଲେ,",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "ଆଉ ଦେଖିଲେ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ରାଣୀ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ଶେବା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋଙ୍କ"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "ଓ ⟨the⟩ ପ୍ରାସାଦ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ନିର୍ମାଣ କରିଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:23:38.038263410Z",
+  "model": "glm-5.3"
+}

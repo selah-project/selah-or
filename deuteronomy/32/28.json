@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 32:28",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ପରାମର୍ଶହୀନ ଜାତି ⟨ସେମାନେ⟩, ଆଉ ସେମାନଙ୍କରି ମଧ୍ୟରେ କୌଣସି ବିବେକ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ଜାତି"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ପରାମର୍ଶହୀନ"
+    },
+    {
+      "surface": "עצות",
+      "gloss": "ପରାମର୍ଶ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "⟨ସେମାନେ⟩"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ଆଉ … ନାହିଁ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ସେମାନଙ୍କ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:55.904232542Z",
+  "model": "glm-5.3"
+}

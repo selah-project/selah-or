@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏବଂ ତୁମ୍ଭେ ବ୍ୟଭିଚାର କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ନାହିଁ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ବ୍ୟଭିଚାର କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:39:31.090263871Z",
+  "model": "glm-5.3"
+}

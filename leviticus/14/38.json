@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାଜକ ଘରୁ ବାହାରି ଘରର ପ୍ରବେଶଦ୍ୱାରକୁ ଯାଆନ୍ତି, ଏବଂ ⟨את⟩ ଘରକୁ ସାତ ଦିନ ପାଇଁ ବନ୍ଦ କରିବେ ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ଓ ... ବାହାରି ଯାଆନ୍ତି"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ପ୍ରବେଶଦ୍ୱାର"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘରର"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "ଏବଂ ... ବନ୍ଦ କରିବେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଘରକୁ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘରକୁ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:45.704501775Z",
+  "model": "glm-5.3"
+}

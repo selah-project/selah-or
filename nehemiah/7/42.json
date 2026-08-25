@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ହାରିମର ପୁତ୍ରମାନେ — ଏକ ହଜାର ସତେରୋ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ହାରିମର"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ଏକ ହଜାର"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ (ସତେରୋ)"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:34.550771781Z",
+  "model": "glm-5.3"
+}

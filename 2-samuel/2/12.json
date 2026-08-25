@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-samuel 2:12",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବଂ ନେରଙ୍କ ପୁତ୍ର ଅବନେର ାା।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ଏବଂ ବାହାରି ଗଲେ"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ଅବନେର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ନେର"
+    },
+    {
+      "surface": "ועבדי",
+      "gloss": "ଏବଂ ାା"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଇଶ୍-"
+    },
+    {
+      "surface": "בשת",
+      "gloss": "ବୋଶେତ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ"
+    },
+    {
+      "surface": "ממחנים",
+      "gloss": "ମାହାନାୟିମରୁ"
+    },
+    {
+      "surface": "גבעונה",
+      "gloss": "ଗିବ୍‌ଓନାହକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:12:59.585848465Z",
+  "model": "glm-5.3"
+}

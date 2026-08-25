@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହାଶେମ୍ ଗିଜୋନୀଙ୍କ ପୁତ୍ରମାନେ, ୟୋନାତାନ୍ ଶାଗେଙ୍କ ପୁତ୍ର, ହାରାରୀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "השם",
+      "gloss": "ହାଶେମ୍"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "ଗିଜୋନୀ"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "ୟୋନାତାନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "ଶାଗେ"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ହାରାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:29.805411833Z",
+  "model": "glm-5.3"
+}

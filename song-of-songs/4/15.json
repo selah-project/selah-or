@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ବଗିଚାମାନଙ୍କର ଝରଣା, ଜୀବନ୍ତ ଜଳର କୂପ, ଲେବାନୋନରୁ ବୋହିଆସୁଥିବା ପ୍ରବାହିତ ଧାରା।",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ଝରଣା"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "ବଗିଚାମାନଙ୍କର"
+    },
+    {
+      "surface": "באר",
+      "gloss": "କୂପ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳର"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ୍ତ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ଓ ପ୍ରବାହିତ ଧାରା"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "ଲେବାନୋନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:47:36.289799223Z",
+  "model": "glm-5.3"
+}

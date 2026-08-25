@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓଟ ଚାରି ଶହ ପଇତିଶି; ଗଧ ଛଅ ହଜାର ସାତ ଶହ ବିଶି।",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ଓଟ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "মאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ଗଧ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ ବିଶି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:25.225969774Z",
+  "model": "glm-5.3"
+}

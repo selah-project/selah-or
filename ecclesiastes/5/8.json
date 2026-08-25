@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଭୂମିର ଲାଭ — ସବୁଥିରେ ⟨ଏହା⟩: ଏକ ରାଜା କ୍ଷେତ୍ର ପାଇଁ ସେବିତ।",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "ଆଉ ଲାଭ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଭୂମି"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସବୁଥିରେ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ଏହା⟩"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "କ୍ଷେତ୍ର ପାଇଁ"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "ସେବିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:42.090936195Z",
+  "model": "glm-5.3"
+}

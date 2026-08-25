@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 2:29",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ନଫତାଲିର ଗୋଷ୍ଠୀ, ଆଉ ନଫତାଲି ପୁତ୍ରମାନଙ୍କ ନାୟକ ଅହିରା, ଏନାନର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "ଆଉ ଗୋଷ୍ଠୀ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ନଫତାଲିର"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "ଆଉ ନାୟକ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ନଫତାଲି"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ଅହିରା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ଏନାନର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:03:45.921026530Z",
+  "model": "glm-5.3"
+}

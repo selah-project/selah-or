@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ସେମାନଙ୍କ ଗଣନା ହେଲା ଆଠି ହଜାର ଏବଂ ପାଞ୍ଚଶହ ଏବଂ ଆଶୀ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଆଉ...ହେଲା"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "ସେମାନଙ୍କ ଗଣିତ"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "ଆଠି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଏବଂ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "ଏବଂ ଆଶୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:54:06.155069707Z",
+  "model": "glm-5.3"
+}

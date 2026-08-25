@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 1:2",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମାସର ପଞ୍ଚମ ଦିନରେ — ଏହା ରାଜା ୟୋୟାଖିନ୍‌ଙ୍କ ନିର୍ବାସନର ପଞ୍ଚମ ବର୍ଷ।",
+  "tokens": [
+    {
+      "surface": "בחמשה",
+      "gloss": "ପଞ୍ଚମରେ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସକୁ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "החמישית",
+      "gloss": "ପଞ୍ଚମ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "ନିର୍ବାସନର"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "יויכין",
+      "gloss": "ୟୋୟାଖିନ୍‌ଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:49:05.385408280Z",
+  "model": "glm-5.3"
+}

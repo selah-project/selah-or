@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଉଜିୟା ଅଶ୍ତରତୀୟ, ଶାମା ଓ ୟେଉଏଲ୍, ହୋତାମ୍ ଅରୋଏରୀୟର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "ଉଜିୟା"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "ଅଶ୍ତରତୀୟ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶାମା"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "ୟେଉଏଲ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "ହୋତାମ୍"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "ଅରୋଏରୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:12.245699798Z",
+  "model": "glm-5.3"
+}

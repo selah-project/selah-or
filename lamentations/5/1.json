@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମନେ ରଖ, ହେ ଯାହ୍ୱେ, ଆମ୍ହାକୁ କଣ ଘଟିଛି; ଧ୍ୟାନରେ ଚାହିଁ ଦେଖ ⟨את⟩ ଆମ୍ହାର ଅପମାନ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ମନେ ରଖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଘଟିଛି"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମ୍ହାକୁ"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "ଧ୍ୟାନରେ ଚାହିଁ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଆମ୍ହାର ଅପମାନ"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "ଆମ୍ହାର ଅପମାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:53.250421884Z",
+  "model": "glm-5.3"
+}

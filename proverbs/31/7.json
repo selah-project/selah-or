@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ପାନ କରୁ ଓ ତା'ର ଦାରିଦ୍ର୍ୟ ଭୁଲିଯାଉ, ଓ ତା'ର କଷ୍ଟ ଆଉ ମନେ ରଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "ପାନ କରୁ"
+    },
+    {
+      "surface": "ויש׬ח רישו",
+      "gloss": ""
+    },
+    {
+      "surface": "רישו",
+      "gloss": "ତା'ର ଦାରିଦ୍ର୍ୟ"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "ଓ ତା'ର କଷ୍ଟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "ମନେ ରଖିବ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:53.136052345Z",
+  "model": "glm-5.3"
+}

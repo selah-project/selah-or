@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 15:9",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ରାଜା ତାହାକୁ କହିଲେ, ଶାନ୍ତିରେ ଯାଅ; ଓ ସେ ଉଠି ହେବ୍ରୋନକୁ ଚାଲିଗଲା।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ-କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାକୁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ଯାଅ"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "ଶାନ୍ତିରେ"
+    },
+    {
+      "surface": "ויקם",
+      "gloss": "ଓ-ଉଠି"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଓ-ଚାଲିଗଲା"
+    },
+    {
+      "surface": "חברונה",
+      "gloss": "ହେବ୍ରୋନକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:24:03.155854253Z",
+  "model": "glm-5.3"
+}

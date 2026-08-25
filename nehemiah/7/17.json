@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଅଜ୍‌ଗଦ୍‌ଙ୍କ ପୁତ୍ରମାନେ — ଦୁଇ ହଜାର ତିନିଶହ ବାଇଶି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ଅଜ୍‌ଗଦ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବାଇଶି"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଓ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:54.823940058Z",
+  "model": "glm-5.3"
+}

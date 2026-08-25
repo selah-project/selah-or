@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ଭେଟିଟି ତାହା ସାମ୍ନାରେ ପାର ହେଲା, ଆଉ ସେ ସେହି ରାତିରେ ଶିବିରରେ ରହିଲା।",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "ଆଉ ପାର ହେଲା"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "ଭେଟିଟି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ତାହାର ମୁହଁ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "לן",
+      "gloss": "ରାତି କାଟିଲା"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତିରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ଶିବିରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:41:25.132578043Z",
+  "model": "glm-5.3"
+}

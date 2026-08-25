@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଅନ୍ଧକାର ସ୍ଥାନରେ ସେ ମୋତେ ବସିବାକୁ କଲେ, ପୁରାକାଳର ମୃତମାନଙ୍କ ପରି।",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "ଅନ୍ଧକାର ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ସେ ମୋତେ ବସିବାକୁ କଲେ"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "ମୃତମାନଙ୍କ ପରି"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ପୁରାକାଳର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:44.889655370Z",
+  "model": "glm-5.3"
+}

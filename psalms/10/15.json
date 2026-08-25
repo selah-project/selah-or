@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 10:15",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଦୁଷ୍ଟର ବାହୁ ଭାଙ୍ଗ, ଆଉ ମନ୍ଦର — ତାହାର ମନ୍ଦତା ଖୋଜିବା; କିଛି ମିଳିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ବାହୁ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "ଆଉ ମନ୍ଦର"
+    },
+    {
+      "surface": "תדרוש",
+      "gloss": "ଖୋଜିବା"
+    },
+    {
+      "surface": "רשעו",
+      "gloss": "ମନ୍ଦତା"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ମିଳିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:48:41.818562257Z",
+  "model": "glm-5.3"
+}

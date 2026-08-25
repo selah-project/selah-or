@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଶିଲୋନୀମାନଙ୍କ ମଧ୍ୟରୁ — ଆସାୟାହ୍ ⟨the⟩ ଜ୍ୟେଷ୍ଠ, ଓ ତାହାର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ଆଉ ... ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "ଶିଲୋନୀମାନଙ୍କ"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "ଆସାୟାହ୍"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "⟨the⟩ ଜ୍ୟେଷ୍ଠ"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "ଓ ତାହାର ପୁତ୍ରମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:46.548052352Z",
+  "model": "glm-5.3"
+}

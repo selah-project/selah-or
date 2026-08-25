@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nahum 3:11",
+  "book": "nahum",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତୁଁ ମଧ୍ୟ ମାତାଳ ହେବ, ଲୁଚି ଯିବ; ତୁଁ ମଧ୍ୟ ଶତ୍ରୁଙ୍କ ଯୋଗୁଁ ଦୁର୍ଗ ଖୋଜିବ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ତୁଁ"
+    },
+    {
+      "surface": "תשכרי",
+      "gloss": "ମାତାଳ ହେବ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "נעלמה",
+      "gloss": "ଲୁଚି ଯିବ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "ତୁଁ"
+    },
+    {
+      "surface": "תבקשי",
+      "gloss": "ଖୋଜିବ"
+    },
+    {
+      "surface": "מעוז",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "מאויב",
+      "gloss": "ଶତ୍ରୁଙ୍କ ଯୋଗୁଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:25:56.397708890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 1:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଜ୍ଞାନୀ ଶୁଣିବ ଓ ଶିକ୍ଷା ବଢ଼ାଇବ, ବୋଧିମାନ୍ ଚତୁର ପରାମର୍ଶ ପାଇବ ।",
+  "tokens": [
+    {
+      "surface": "ישמע",
+      "gloss": "ଶୁଣିବ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "ויוסף",
+      "gloss": "ବଢ଼ାଇବ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "ונבון",
+      "gloss": "ବୋଧିମାନ୍"
+    },
+    {
+      "surface": "תחבלות",
+      "gloss": "ଚତୁର ପରାମର୍ଶ"
+    },
+    {
+      "surface": "יקנה",
+      "gloss": "ପାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:16.928246886Z",
+  "model": "glm-5.3"
+}

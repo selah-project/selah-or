@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଦରିଦ୍ର ନିବେଦନ କରି କହେ; କିନ୍ତୁ ଧନୀ କଠୋର ଉତ୍ତର ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "ନିବେଦନ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "କିନ୍ତୁ ଧନୀ"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "ଉତ୍ତର ଦିଏ"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "କଠୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:04.719039177Z",
+  "model": "glm-5.3"
+}

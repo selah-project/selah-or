@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 3:9",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ସେମାନଙ୍କ ହାତ ପାଖରେ ଦୃଢ଼ କଲେ ରେଫାୟା, ହୁରର ପୁତ୍ର, ୟେରୁଶାଲାଇମର ଅଧା ଜିଲ୍ଲାର ଅଧ୍ୟକ୍ଷ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଓ...ପାଖରେ"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ସେମାନଙ୍କ ହାତ"
+    },
+    {
+      "surface": "החזיק",
+      "gloss": "ଦୃଢ଼ କଲେ"
+    },
+    {
+      "surface": "רפיה",
+      "gloss": "ରେଫାୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ହୁର"
+    },
+    {
+      "surface": "שר",
+      "gloss": "ଅଧ୍ୟକ୍ଷ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ଅଧା"
+    },
+    {
+      "surface": "פלך",
+      "gloss": "ଜିଲ୍ଲା"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:40:41.577999168Z",
+  "model": "glm-5.3"
+}

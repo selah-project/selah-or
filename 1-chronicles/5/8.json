@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 5:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ବେଲା — ଆଜାଜଙ୍କ ପୁତ୍ର, ଶେମାଙ୍କ ପୁତ୍ର, ୟୋଏଲଙ୍କ ପୁତ୍ର; ସେ ⟨ବାସ କରୁଥିଲେ⟩ ଆରୋଏରରୁ ନେବୋ ପର୍ଯ୍ୟନ୍ତ ଏବଂ ବାଲ-ମେଓନରୁ ।",
+  "tokens": [
+    {
+      "surface": "ובלע",
+      "gloss": "ଆଉ ବେଲା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עזז",
+      "gloss": "ଆଜାଜ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶେମା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "ୟୋଏଲ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "ବାସ କରୁଥିଲେ"
+    },
+    {
+      "surface": "בערער",
+      "gloss": "ଆରୋଏରରୁ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "ନେବୋ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ଏବଂ ବାଲ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ମେଓନ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:29.811950156Z",
+  "model": "glm-5.3"
+}

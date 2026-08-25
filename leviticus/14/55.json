@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ବସ୍ତ୍ରର ଚର୍ମରୋଗ ନିମନ୍ତେ ଓ ଗୃହ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "ଓ ଚର୍ମରୋଗ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "ବସ୍ତ୍ରର"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "ଓ ଗୃହ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:46.028626580Z",
+  "model": "glm-5.3"
+}

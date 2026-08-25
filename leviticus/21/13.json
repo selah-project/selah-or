@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 21:13",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ସେ ଜଣେ ସ୍ତ୍ରୀଙ୍କୁ — ତାହାର କନ୍ୟାତ୍ୱ ଅବସ୍ଥାରେ — ଗ୍ରହଣ କରିବ।",
+  "tokens": [
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ଜଣେ ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "בבתוליה",
+      "gloss": "ତାହାର କନ୍ୟାତ୍ୱ ଅବସ୍ଥାରେ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ଗ୍ରହଣ କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:53:30.850787936Z",
+  "model": "glm-5.3"
+}

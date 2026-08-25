@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କେତେ ଦିନ ପର୍ଯ୍ୟନ୍ତ ମୁଁ ପତାକା ଦେଖିବି, ଶଙ୍ଖର ଶବ୍ଦ ଶୁଣିବି।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "କେତେ ଦିନ"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ମୁଁ ଦେଖିବି"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ପତାକା"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ମୁଁ ଶୁଣିବି"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ଶବ୍ଦ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ଶଙ୍ଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:31:51.456667697Z",
+  "model": "glm-5.3"
+}

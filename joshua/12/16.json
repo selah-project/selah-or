@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ମାକ୍କେଦାହ୍ ର ରାଜା, ଜଣେ; ବେଇତ-ଏଲ୍ ର ରାଜା, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "ମାକ୍କେଦାହ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେଇତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-ଏଲ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:39.850230382Z",
+  "model": "glm-5.3"
+}

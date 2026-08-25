@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଦ୍ୱାରମାନଙ୍କ ପାଖରେ, ନଗରର ମୁହଁରେ, ପ୍ରବେଶ ଦ୍ୱାରମାନଙ୍କ ପାଖରେ ⟨ସେ⟩ ଜୋରରେ ଡାକୁଛନ୍ତି —",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ଦ୍ୱାରମାନଙ୍କ"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ମୁହଁରେ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ପ୍ରବେଶ"
+    },
+    {
+      "surface": "ତpthaim → פתחים",
+      "gloss": "ଦ୍ୱାରମାନଙ୍କ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ଜୋରରେ ଡାକୁଛନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:06.734323073Z",
+  "model": "glm-5.3"
+}

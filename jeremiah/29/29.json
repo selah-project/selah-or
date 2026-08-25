@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଆଉ ଯାଜକ ସେଫାନିଆ ଏହି ପତ୍ର ⟨ଟି⟩ ନବୀ ୟିର୍ମିୟାହୁଙ୍କ କାନରେ ପଢ଼ିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ପଢ଼ିଲେ"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "ସେଫାନିଆ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ପତ୍ର"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "ପତ୍ର"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "କାନରେ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିର୍ମିୟାହୁଙ୍କ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:09:50.866539019Z",
+  "model": "glm-5.3"
+}

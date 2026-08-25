@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମହାଲଲେଲ୍ ପାଞ୍ଚ ବର୍ଷ ଓ ଷାଠିଏ ବର୍ଷ ବଞ୍ଚିଲେ, ଓ ୟେରେଦ୍‌ଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ବଞ୍ଚିଲେ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ମହାଲଲେଲ୍"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠିଏ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଓ ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ୟେରେଦ୍‌ଙ୍କୁ"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ୟେରେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:33.288670263Z",
+  "model": "glm-5.3"
+}

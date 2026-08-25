@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 26:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଅମ୍ରାମୀୟ, ୟିତ୍ସହାରୀ, ହେବ୍ରୋନୀ ଓ ଉଜ୍ଜିଏଲୀୟ ବଂଶର —",
+  "tokens": [
+    {
+      "surface": "לעמרמי",
+      "gloss": "ଅମ୍ରାମୀୟ"
+    },
+    {
+      "surface": "ליצהרי",
+      "gloss": "ୟିତ୍ସହାରୀ"
+    },
+    {
+      "surface": "לחברוני",
+      "gloss": "ହେବ୍ରୋନୀ"
+    },
+    {
+      "surface": "לעזיאלי",
+      "gloss": "ଉଜ୍ଜିଏଲୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:11:31.433747485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଯେରାଖମେଲଙ୍କ ପାଇଁ ଆଉ ଜଣେ ସ୍ତ୍ରୀ ଥିଲେ, ଓ ତାହାଙ୍କ ନାମ ଅତାରା — ସେ ଓନାମର ମାତା।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ଆଉ ଜଣେ"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "ଯେରାଖମେଲଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "ଓ ତାହାଙ୍କ ନାମ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "ଅତାରା"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ମାତା"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ଓନାମର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.663455041Z",
+  "model": "glm-5.3"
+}

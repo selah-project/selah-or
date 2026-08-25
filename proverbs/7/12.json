@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 7:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କେବେ ବାହାରେ, କେବେ ଚାକିଆରେ; ଆଉ ପ୍ରତ୍ୟେକ କୋଣରେ ସେ ଓହରି ରହେ।",
+  "tokens": [
+    {
+      "surface": "פעם",
+      "gloss": "କେବେ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "କେବେ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ଚାକିଆ\/ଓସାରିଆ ରାସ୍ତାରେ"
+    },
+    {
+      "surface": "ואצל",
+      "gloss": "ଆଉ ... ପାଖରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "କୋଣରେ"
+    },
+    {
+      "surface": "תארב",
+      "gloss": "ସେ ଓହରି ରହେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:45.252404038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ କନାନ୍ ⟨את⟩ ସିଦୋନକୁ ତାହାର ଜ୍ୟେଷ୍ଠପୁତ୍ର ଓ ⟨את⟩ ହେତକୁ ଜନ୍ମ ଦେଲା।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ଆଉ କନାନ୍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସିଦୋନକୁ"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ସିଦୋନକୁ"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ତାହାର ଜ୍ୟେଷ୍ଠପୁତ୍ର"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ହେତକୁ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ହେତକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:26.468355402Z",
+  "model": "glm-5.3"
+}

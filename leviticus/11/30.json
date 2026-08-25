@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 11:30",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଗିଞ୍ଜିଆ, ଗୋଧି, ଢେଙ୍କା, ଚିପ୍ପିଳି ଓ ଗିରଗିଟି।",
+  "tokens": [
+    {
+      "surface": "והאנקה",
+      "gloss": "ଗିଞ୍ଜିଆ"
+    },
+    {
+      "surface": "והכח",
+      "gloss": "ଗୋଧି"
+    },
+    {
+      "surface": "והלטאה",
+      "gloss": "ଢେଙ୍କା"
+    },
+    {
+      "surface": "והחמט",
+      "gloss": "ଚିପ୍ପିଳି"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ଗିରଗିଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:17.083107996Z",
+  "model": "glm-5.3"
+}

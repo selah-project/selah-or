@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଆଉ ବିଚାର ଆସିଛି ମଇଦାନ-ଦେଶ ଉପରେ — ହୋଲୋନ୍ ଉପରେ, ୟାହାତ୍ସା ଉପରେ ଓ ମୋଫାଆତ୍ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "ଆଉ ବିଚାର"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "ମଇଦାନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ହୋଲୋନ୍"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ଉପରେ"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "ୟାହାତ୍ସା"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ଉପରେ"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "ମୋଫାଆତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T14:37:46.301504539Z",
+  "model": "glm-5.3"
+}

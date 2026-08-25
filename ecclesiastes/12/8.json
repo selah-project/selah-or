@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ହେବେଲ୍ ହେବାଲିମ୍, କହିଲେ କୋହେଲେତ୍; ସବୁ ହେବେଲ୍।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ହେବାଲିମ୍"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "କୋହେଲେତ୍"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:06:45.226727744Z",
+  "model": "glm-5.3"
+}

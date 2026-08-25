@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 11:34",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହାଦିଦ୍, ତ୍ସେବୋଇମ୍, ନେବାଲାତ୍।",
+  "tokens": [
+    {
+      "surface": "חדיד",
+      "gloss": "ହାଦିଦ୍"
+    },
+    {
+      "surface": "צבעים",
+      "gloss": "ତ୍ସେବୋଇମ୍"
+    },
+    {
+      "surface": "נבלט",
+      "gloss": "ନେବାଲାତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:59.421038489Z",
+  "model": "glm-5.3"
+}

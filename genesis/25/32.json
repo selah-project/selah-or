@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ଏସାବ କହିଲା, ଦେଖ, ମୁଁ ମରିବାକୁ ଯାଉଛି, ଆଉ ଏହି ଜ୍ୟେଷ୍ଠତ୍ୱ ମୋର କ'ଣ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲା"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ଯାଉଛି"
+    },
+    {
+      "surface": "למות",
+      "gloss": "ମରିବାକୁ"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "ଆଉ କାହିଁକି"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "ଜ୍ୟେଷ୍ଠତ୍ୱ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:34:39.902749307Z",
+  "model": "glm-5.3"
+}

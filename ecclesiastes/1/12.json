@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ କୋହେଲେତ୍ ୟିସ୍ରାଏଲ୍ ଉପରେ ୟେରୁଶାଲାଇମ୍‌ରେ ରାଜା ହୋଇଥିଲି।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "କୋହେଲେତ୍"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ହୋଇଥିଲି"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲ୍‌ର"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମ୍‌ରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:29.910320041Z",
+  "model": "glm-5.3"
+}

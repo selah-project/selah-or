@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନେତୋଫାର ଲୋକମାନେ — ଛପଞ୍ଚାଶ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "ନେତୋଫା"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ଛଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:37.089199880Z",
+  "model": "glm-5.3"
+}

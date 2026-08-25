@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 1:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଯାହ୍ୱେ ଆମର ଏଲୋହିମ୍ ହୋରେବରେ ଆମ ସହିତ କଥା ହେଲେ, କହିବାକୁ: ଏହି ପର୍ବତରେ ବସିବା ତୁମପାଇଁ ଯଥେଷ୍ଟ ହେଲାଣି।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ଆମର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କଥା ହେଲେ"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ଆମ ସହିତ"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ହୋରେବରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ଯଥେଷ୍ଟ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମପାଇଁ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "ବସିବା"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ପର୍ବତରେ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:38:38.324220907Z",
+  "model": "glm-5.3"
+}

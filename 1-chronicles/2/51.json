@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଶଲମା ବେତ-ଲେହମର ପିତା, ହାରେଫ୍ ବେତ-ଗାଦେରର ପିତା।",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "ଶଲମା"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଲେହମର"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ହାରେଫ୍"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ-"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "ଗାଦେରର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:42.276362007Z",
+  "model": "glm-5.3"
+}

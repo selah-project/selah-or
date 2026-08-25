@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 6:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ତୁମର ଆଖିକୁ ନିଦ ଦିଅ ନାହିଁ, ଆଉ ତୁମର ଓଦାଆଖିକୁ ଟିବିନିଦ ଦିଅ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ନିଦ"
+    },
+    {
+      "surface": "לעיניך",
+      "gloss": "ତୁମର ଆଖିକୁ"
+    },
+    {
+      "surface": "ותנומה",
+      "gloss": "ଆଉ ଟିବିନିଦ"
+    },
+    {
+      "surface": "לעפעפיך",
+      "gloss": "ତୁମର ଓଦାଆଖିକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:04.096263940Z",
+  "model": "glm-5.3"
+}

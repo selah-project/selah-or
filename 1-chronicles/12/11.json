@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ମିଶମନା ଚତୁର୍ଥ, ୟିରମିଆ ପଞ୍ଚମ।",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "ମିଶମନା"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ଚତୁର୍ଥ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ୟିରମିଆ"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ପଞ୍ଚମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:22.295333119Z",
+  "model": "glm-5.3"
+}

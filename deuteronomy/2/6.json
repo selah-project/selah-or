@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 2:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଖାଦ୍ୟ ସେମାନଙ୍କ ଠାରୁ ⟨את⟩ ରୂପା ଦେଇ କିଣି ଖାଅ; ଆଉ ମଧ୍ୟ ଜଳ ସେମାନଙ୍କ ଠାରୁ ⟨את⟩ ରୂପା ଦେଇ କିଣି ପିଅ।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଦ୍ୟ"
+    },
+    {
+      "surface": "תשברו",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ସେମାନଙ୍କ ଠାରୁ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ରୂପା ଦେଇ"
+    },
+    {
+      "surface": "ואכלתם",
+      "gloss": "ଓ ଖାଅ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଓ ମଧ୍ୟ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "תכרו",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "מאתם",
+      "gloss": "⟨את⟩ ସେମାନଙ୍କ ଠାରୁ"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ରୂପା ଦେଇ"
+    },
+    {
+      "surface": "ושתיתם",
+      "gloss": "ଓ ପିଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:40:09.273248768Z",
+  "model": "glm-5.3"
+}

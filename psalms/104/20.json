@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 104:20",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 104,
+  "translation": "ଆପଣ ଅନ୍ଧାର ରଖନ୍ତି ଓ ରାତ୍ରି ହୁଏ; ସେଥିରେ ଅରଣ୍ୟର ସମସ୍ତ ପଶୁ ବିଚରଣ କରେ।",
+  "tokens": [
+    {
+      "surface": "תשת",
+      "gloss": "ରଖନ୍ତି"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "ଅନ୍ଧାର"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତ୍ରି"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "תרמש",
+      "gloss": "ବିଚରଣ କରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ଅରଣ୍ୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:32:47.390159250Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 15:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଯେ ନିଷ୍କଳଙ୍କ ଭାବରେ ଚାଲେ, ଧାର୍ମିକତା କରେ, ଆଉ ନିଜ ହୃଦୟରେ ସତ୍ୟ କହେ।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ଚାଲେ"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "ନିଷ୍କଳଙ୍କ ଭାବରେ"
+    },
+    {
+      "surface": "ופעל",
+      "gloss": "ଆଉ କରେ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ଧାର୍ମିକତା"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଆଉ କହେ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ସତ୍ୟ"
+    },
+    {
+      "surface": "בלבבו",
+      "gloss": "ନିଜ ହୃଦୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:50:19.951694170Z",
+  "model": "glm-5.3"
+}

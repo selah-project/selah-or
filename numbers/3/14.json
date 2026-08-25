@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 3:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଯାହ୍ୱେ ସୀନୟ ମରୁଭୂମିରେ ମୋଶେଙ୍କୁ କହିଲେ, କହିବାକୁ ଏହି ପରି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ମରୁଭୂମିରେ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ସୀନୟ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏହି ପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:03:32.487067628Z",
+  "model": "glm-5.3"
+}

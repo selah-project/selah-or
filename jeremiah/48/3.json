@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 48:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ହୋରୋନାୟିମରୁ ଏକ କାନ୍ଦିବା କଣ୍ଠ — ଲୁଣ୍ଟ ଓ ମହା ଭଙ୍ଗ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "କଣ୍ଠ"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "କାନ୍ଦିବା"
+    },
+    {
+      "surface": "מחרונים",
+      "gloss": "ହୋରୋନାୟିମରୁ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ଲୁଣ୍ଟ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ଓ ଭଙ୍ଗ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହା"
+    }
+  ],
+  "timestamp": "2026-08-25T14:34:10.208492301Z",
+  "model": "glm-5.3"
+}

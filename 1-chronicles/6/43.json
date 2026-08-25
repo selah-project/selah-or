@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 6:43",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ⟨את⟩ ଖିଲେନ ଓ ⟨את⟩ ତାହାର ଚରାଭୂମି, ⟨את⟩ ଦେବିର ଓ ⟨את⟩ ତାହାର ଚରାଭୂମି।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଖିଲେନ"
+    },
+    {
+      "surface": "חילז",
+      "gloss": "ଖିଲେନ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଚରାଭୂମି"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରାଭୂମି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦେବିର"
+    },
+    {
+      "surface": "דביר",
+      "gloss": "ଦେବିର"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଚରାଭୂମି"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରାଭୂମି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:20.535034566Z",
+  "model": "glm-5.3"
+}

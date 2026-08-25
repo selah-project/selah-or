@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 12:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଏଜର୍ ପ୍ରଥମ, ଓବାଦିଆ ଦ୍ୱିତୀୟ, ଏଲିଆବ ତୃତୀୟ।",
+  "tokens": [
+    {
+      "surface": "עזר",
+      "gloss": "ଏଜର୍"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ଓବାଦିଆ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ଏଲିଆବ"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "ତୃତୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:22.295212863Z",
+  "model": "glm-5.3"
+}

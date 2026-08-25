@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆହିଆମ୍ ସାକାରଙ୍କ ପୁତ୍ର, ହାରାରୀ; ଏଲିଫାଲ୍ ଊରଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "ଆହିଆମ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ଶାକାର"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "ହାରାରୀ"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "ଏଲିଫାଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଊର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:29.805531888Z",
+  "model": "glm-5.3"
+}

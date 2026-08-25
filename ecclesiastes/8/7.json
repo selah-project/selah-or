@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "କାରଣ ସେ ଜାଣେ ନାହିଁ କଣ ହେବ, କାରଣ ଯେତେବେଳେ ହେବ — କିଏ ତାକୁ କହିବ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ସେ ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:57.054864272Z",
+  "model": "glm-5.3"
+}

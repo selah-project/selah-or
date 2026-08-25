@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 10:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଦୁଷ୍ଟର ଭୟ — ⟨ଏହା⟩ ତା' ଉପରକୁ ଆସିବ, ଆଉ ଧାର୍ମିକମାନଙ୍କ ଇଚ୍ଛା ଦିଆଯିବ।",
+  "tokens": [
+    {
+      "surface": "מגורת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ଏହା⟩"
+    },
+    {
+      "surface": "תבואנו",
+      "gloss": "ତା' ଉପରକୁ ଆସିବ"
+    },
+    {
+      "surface": "ותאות",
+      "gloss": "ଆଉ ଇଚ୍ଛା"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ଧାର୍ମିକମାନଙ୍କ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଆଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:20.081210679Z",
+  "model": "glm-5.3"
+}

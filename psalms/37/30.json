@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଧାର୍ମିକର ମୁଖ ଜ୍ଞାନ ଉଚ୍ଚାରଣ କରେ, ଆଉ ତା'ର ଜିଭ ନ୍ୟାୟ କହେ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ଉଚ୍ଚାରଣ କରେ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "ଆଉ ତା'ର ଜିଭ"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ନ୍ୟାୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:02:58.148163741Z",
+  "model": "glm-5.3"
+}

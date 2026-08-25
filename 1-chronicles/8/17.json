@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଏବଂ ଜେବଦିଆ, ଏବଂ ମେଶୁଲାମ୍, ଏବଂ ହିଜକି, ଏବଂ ହେବର୍।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "ଏବଂ ଜେବଦିଆ"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ଏବଂ ମେଶୁଲାମ୍"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "ଏବଂ ହିଜକି"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "ଏବଂ ହେବର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:49.601488127Z",
+  "model": "glm-5.3"
+}

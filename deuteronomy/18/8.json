@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 18:8",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଭାଗ ଅନୁସାରେ ଭାଗ ଖାଇବେ, ପିତୃକୁଳ ଅନୁସାରେ ତାହାଙ୍କ ବିକ୍ରୟ ବସ୍ତୁ ବ୍ୟତୀତ।",
+  "tokens": [
+    {
+      "surface": "חלק",
+      "gloss": "ଭାଗ"
+    },
+    {
+      "surface": "כחלק",
+      "gloss": "ଭାଗ ଅନୁସାରେ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ଖାଇବେ"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "ବ୍ୟତୀତ"
+    },
+    {
+      "surface": "ממכריו",
+      "gloss": "ତାହାଙ୍କ ବିକ୍ରୟ ବସ୍ତୁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଅନୁସାରେ"
+    },
+    {
+      "surface": "האבות",
+      "gloss": "ପିତୃକୁଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:52:51.569724605Z",
+  "model": "glm-5.3"
+}

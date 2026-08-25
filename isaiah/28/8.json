@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "କାରଣ ସମସ୍ତ ଟେବୁଲ ବାନ୍ତି ଓ ମଳରେ ପୂର୍ଣ୍ଣ, ବିନା ଖାଲି ସ୍ଥାନ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "ଟେବୁଲ"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "ପୂର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "ବାନ୍ତି"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "ମଳ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ସ୍ଥାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:43:27.752824109Z",
+  "model": "glm-5.3"
+}

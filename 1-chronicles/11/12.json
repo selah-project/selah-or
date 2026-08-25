@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 11:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ତାଙ୍କ ପରେ ଦୋଦୋଙ୍କ ପୁତ୍ର ଅହୋହୀୟ ଏଲିଆଜାର, ସେ ତିନି ସାହସୀଙ୍କ ମଧ୍ୟରୁ ଜଣେ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "ତାଙ୍କ ପରେ"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "ଏଲିଆଜାର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "ଦୋଦୋଙ୍କ"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ଅହୋହୀୟ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "ତିନିଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "ସାହସୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:37.349707467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 31:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ସେ ବ୍ୟବସାୟୀ ଜାହାଜ ଭଳି ⟨ହେଲା⟩, ଦୂରରୁ ନିଜ ଖାଦ୍ୟ ଆଣେ।",
+  "tokens": [
+    {
+      "surface": "היתה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כאניות",
+      "gloss": "ଜାହାଜ ଭଳି"
+    },
+    {
+      "surface": "סוחר",
+      "gloss": "ବ୍ୟବସାୟୀ"
+    },
+    {
+      "surface": "ממרחק",
+      "gloss": "ଦୂରରୁ"
+    },
+    {
+      "surface": "תביא",
+      "gloss": "ଆଣେ"
+    },
+    {
+      "surface": "לחמה",
+      "gloss": "ନିଜ ଖାଦ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:20:24.293333768Z",
+  "model": "glm-5.3"
+}

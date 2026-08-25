@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 3:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଫାଡ଼ିବା ପାଇଁ ସମୟ, ଆଉ ସେଲାଇ କରିବା ପାଇଁ ସମୟ; ମୌନ ରହିବା ପାଇଁ ସମୟ, ଆଉ କହିବା ପାଇଁ ସମୟ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "לקרוע",
+      "gloss": "ଫାଡ଼ିବା ପାଇଁ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "לתפור",
+      "gloss": "ସେଲାଇ କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "לחשות",
+      "gloss": "ମୌନ ରହିବା ପାଇଁ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:56.591898893Z",
+  "model": "glm-5.3"
+}

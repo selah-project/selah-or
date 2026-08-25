@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 5:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ପିଅ ଜଳ ତୋର ନିଜ କୂପରୁ, ଏବଂ ପ୍ରବାହିତ ଜଳ ତୋର ନିଜ କୂପ ମଧ୍ୟରୁ।",
+  "tokens": [
+    {
+      "surface": "שתה",
+      "gloss": "ପିଅ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מבורך",
+      "gloss": "ତୋର ନିଜ କୂପରୁ"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "ଏବଂ ପ୍ରବାହିତ ଜଳ"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "בארך",
+      "gloss": "ତୋର ନିଜ କୂପ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:59.716353184Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କିନ୍ତୁ ନୋଆଖ୍ ଯାହ୍ୱେଙ୍କ ଆଖିରେ ଅନୁଗ୍ରହ ପାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "କିନ୍ତୁ ନୋଆଖ୍"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ପାଇଲେ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ଅନୁଗ୍ରହ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଆଖିରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:58.840438191Z",
+  "model": "glm-5.3"
+}

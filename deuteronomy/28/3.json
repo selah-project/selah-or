@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଧନ୍ୟ ତୁମ୍ଭେ ନଗରରେ, ଆଉ ଧନ୍ୟ ତୁମ୍ଭେ କ୍ଷେତ୍ରରେ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ନଗରରେ"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "ଆଉ ଧନ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "କ୍ଷେତ୍ରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:51.154910584Z",
+  "model": "glm-5.3"
+}

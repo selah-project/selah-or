@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ମଧ୍ୟ ମୂର୍ଖ ବାଟରେ ଚାଲିବା ସମୟରେ ତାହାର ହୃଦୟ ଅଭାବୟୁକ୍ତ, ଏବଂ ⟨ମୂର୍ଖ⟩ ସମସ୍ତଙ୍କୁ କହେ ଯେ ସେ ମୂର୍ଖ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ମଧ୍ୟ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "ଯେତେବେଳେ ମୂର୍ଖ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ଚାଲେ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ତାହାର ହୃଦୟ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ଅଭାବୟୁକ୍ତ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଏବଂ କହେ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ସମସ୍ତଙ୍କୁ"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:32.437954032Z",
+  "model": "glm-5.3"
+}

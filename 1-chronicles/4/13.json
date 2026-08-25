@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ କେନାଜର ପୁତ୍ରମାନେ — ଓଥନିଏଲ୍ ଓ ସେରାୟା; ଆଉ ଓଥନିଏଲର ପୁତ୍ରମାନେ — ହାତତ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "କେନାଜର"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ଓଥନିଏଲ୍"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "ଓ ସେରାୟା"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ଓଥନିଏଲର"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "ହାତତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:37.973546420Z",
+  "model": "glm-5.3"
+}

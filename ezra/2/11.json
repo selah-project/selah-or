@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବେବାଇଙ୍କ ପୁତ୍ରମାନେ — ଛଅ ଶହ ତେଇଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ବେବାଇଙ୍କ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ତିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:41.622950481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 18:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ବିନାଶ ପୂର୍ବରୁ ମଣିଷର ହୃଦୟ ଉଦ୍ଧତ ହୁଏ, ଆଉ ମହିମା ପୂର୍ବରୁ ବିନମ୍ରତା ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ପୂର୍ବରୁ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ବିନାଶ"
+    },
+    {
+      "surface": "יגבה",
+      "gloss": "ଉଦ୍ଧତ ହୁଏ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ଆଉ ପୂର୍ବରୁ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମା"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "ବିନମ୍ରତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.042542895Z",
+  "model": "glm-5.3"
+}

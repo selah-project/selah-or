@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଏବଂ ମିଶକାନର ଦ୍ୱିତୀୟ ପାଖ ପାଇଁ, ଉତ୍ତର ପାଖ ପାଇଁ, ବିଶି କାଠଫଳା।",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "ଏବଂ ପାଖ ପାଇଁ"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "ମିଶକାନର"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "ପାଖ ପାଇଁ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶି"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "କାଠଫଳା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:20:33.406386179Z",
+  "model": "glm-5.3"
+}

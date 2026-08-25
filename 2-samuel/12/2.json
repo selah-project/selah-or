@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଧନୀଙ୍କ ପାଖରେ ମେଷ ଓ ଗୋଧିଳ — ବହୁତ ଅଧିକ — ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "ଧନୀଙ୍କ ପାଖରେ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "ମେଷ"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "ଓ ଗୋଧିଳ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ବହୁତ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:22:04.130028418Z",
+  "model": "glm-5.3"
+}

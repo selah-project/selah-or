@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ତାଙ୍କ ସହିତ କିଛି ଦିନ ରହ, ଯେପର୍ଯ୍ୟନ୍ତ ତୋର ଭାଇର କ୍ରୋଧ ଫେରିଯାଏ।",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "ରହ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତାଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "କିଛି"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ଯେପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ଫେରିଯାଏ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "ତୋର ଭାଇର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:58.011908433Z",
+  "model": "glm-5.3"
+}

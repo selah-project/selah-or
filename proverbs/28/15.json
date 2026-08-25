@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଗର୍ଜନ୍ତା ସିଂହ ଓ ଦୌଡ଼ୁଥିବା ଭାଲୁକ — ଦରିଦ୍ର ପ୍ରଜା ଉପରେ ଶାସନ କରୁଥିବା ଦୁଷ୍ଟ।",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "נהם",
+      "gloss": "ଗର୍ଜନ୍ତା"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "ଓ ଭାଲୁକ"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "ଦୌଡ଼ୁଥିବା"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ଶାସନ କରୁଥିବା"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦରିଦ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:53.203717008Z",
+  "model": "glm-5.3"
+}

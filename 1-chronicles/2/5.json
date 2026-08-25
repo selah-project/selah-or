@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ପେରେତ୍ସଙ୍କ ପୁତ୍ରମାନେ: ଖେତ୍ସରୋନ୍ ଓ ଖାମୁଲ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ପେରେତ୍ସଙ୍କ"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ଖେତ୍ସରୋନ୍"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "ଓ ଖାମୁଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:03.087194969Z",
+  "model": "glm-5.3"
+}

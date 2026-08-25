@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-samuel 5:16",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏଲିଶାମା, ଏଲିୟାଦା ଓ ଏଲିପେଲେଟ୍।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "ଏଲିଶାମା"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "ଏଲିୟାଦା"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "ଏଲିପେଲେଟ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T11:15:17.366042717Z",
+  "model": "glm-5.3"
+}

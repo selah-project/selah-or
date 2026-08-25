@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 2:11",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବଂ ାା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ାା"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ସଂଖ୍ୟା"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ାା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ାା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ାା"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଉଦ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "בחברון",
+      "gloss": "ହେବ୍ରୋନରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟହୂଦା"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ଏବଂ ଛଅ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ମାସ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:12:59.585719050Z",
+  "model": "glm-5.3"
+}

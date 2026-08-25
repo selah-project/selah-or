@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆରଖର ପୁତ୍ରମାନେ — ସାତ ଶହ ପାଞ୍ଚ ଓ ସତୁରି।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ଆରଖର"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ଓ ସତୁରି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:59.848263564Z",
+  "model": "glm-5.3"
+}

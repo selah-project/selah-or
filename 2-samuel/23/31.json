@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଅବୀ-ଅଲ୍ବୋନ୍ ଆରବାତୀ; ଅଜ୍‌ମାଭେଥ ବର୍‌ହୁମୀ।",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "ଅବୀ"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "ଅଲ୍ବୋନ୍"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ଆରବାତୀ"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "ଅଜ୍‌ମାଭେଥ"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ବର୍‌ହୁମୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:31:11.628145823Z",
+  "model": "glm-5.3"
+}

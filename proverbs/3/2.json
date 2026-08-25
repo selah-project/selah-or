@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କାରଣ ଦୀର୍ଘ ଦିନ ଓ ଜୀବନର ବର୍ଷଗୁଡ଼ିକ ଏବଂ ଶାନ୍ତି ସେଗୁଡ଼ିକ ତୁମକୁ ଯୋଗ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ଦୀର୍ଘ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "ଓ ବର୍ଷଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "ଏବଂ ଶାନ୍ତି"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "ଯୋଗ କରିବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:14.811921811Z",
+  "model": "glm-5.3"
+}

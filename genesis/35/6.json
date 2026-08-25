@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଓ ୟାକୋଭ୍ ଲୁଜ୍‌କୁ ଆସିଲେ, ଯାହା କନାନ୍ ଦେଶରେ ଅଛି — ସେହିଟି ବେତ-ଏଲ୍ — ସେ ଓ ତାହାଙ୍କ ସହିତ ଥିବା ସମସ୍ତ ଲୋକ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "ଲୁଜ୍‌କୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କନାନ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେହିଟି"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାଙ୍କ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତାହାଙ୍କ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:44:25.634524182Z",
+  "model": "glm-5.3"
+}

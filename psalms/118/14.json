@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 118:14",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 118,
+  "translation": "ମୋର ଶକ୍ତି ଓ ଗୀତ ଯାହ୍, ଆଉ ସେ ମୋତେ ⟨ପାଇଁ⟩ ଉଦ୍ଧାର ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "עזי",
+      "gloss": "ମୋର ଶକ୍ତି"
+    },
+    {
+      "surface": "וזמרת",
+      "gloss": "ଓ ଗୀତ"
+    },
+    {
+      "surface": "יה",
+      "gloss": "ଯାହ୍"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ସେ ହେଲେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ପାଇଁ⟩ ମୋତେ"
+    },
+    {
+      "surface": "לישועה",
+      "gloss": "ଉଦ୍ଧାର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:45:29.570576804Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "କାରଣ ଯାହ୍ୱେ ବିନା କେଉଁ ଏଲ୍? ଆଉ ଆମ୍ଭର ଏଲୋହିମ୍ ବିନା କେଉଁ ଶିଳା?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କେଉଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ଆଉ କେଉଁ"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ଶିଳା"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ଆମ୍ଭର ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:44.715898711Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 41:16",
+  "book": "job",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ତାହାର ହୃଦୟ ପଥର ପରି ଢଳା, ଆଉ ତଳ ପ୍ରସ୍ତର-ଚକତି ପରି ଢଳା।",
+  "tokens": [
+    {
+      "surface": "לבו",
+      "gloss": "ତାହାର ହୃଦୟ"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ଢଳା"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ପରି"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "ויצוק",
+      "gloss": "ଆଉ ଢଳା"
+    },
+    {
+      "surface": "כפלח",
+      "gloss": "ପ୍ରସ୍ତର-ଚକତି ପରି"
+    },
+    {
+      "surface": "ତଚତିତ",
+      "gloss": "ତଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:45:51.789503007Z",
+  "model": "glm-5.3"
+}

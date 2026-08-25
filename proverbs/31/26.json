@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ତାହାର ମୁଖ ଜ୍ଞାନରେ ଖୋଲେ; ଆଉ ଖେସେଦର ତୋରା ତାହାର ଜିଭ ଉପରେ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "ତାହାର ମୁଖ"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "ଖୋଲେ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ଜ୍ଞାନରେ"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "ଆଉ ତୋରା"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "ଖେସେଦର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "ତାହାର ଜିଭ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:55.904474811Z",
+  "model": "glm-5.3"
+}

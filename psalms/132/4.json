@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 132:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 132,
+  "translation": "ମୁଁ ମୋର ଆଖିକୁ ନିଦ ଦେବି ନାହିଁ, ମୋର ପତାଶିକୁ ଆଳସ୍ୟ-ନିଦ ଦେବି ନାହିଁ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ଦେବି"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ନିଦ"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "ମୋର ଆଖିକୁ"
+    },
+    {
+      "surface": "לעפעפי",
+      "gloss": "ମୋର ପତାଶିକୁ"
+    },
+    {
+      "surface": "תנומה",
+      "gloss": "ଆଳସ୍ୟ-ନିଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:50:27.470453240Z",
+  "model": "glm-5.3"
+}

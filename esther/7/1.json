@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ରାଜା ଓ ହାମାନ୍ ମହାରାଣୀ ଏସ୍ଥେର୍‌ଙ୍କ ସହିତ ପାନ କରିବାକୁ ଆସିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "ଓ ହାମାନ୍"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "ପାନ କରିବାକୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "ଏସ୍ଥେର୍"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "ମହାରାଣୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:10:51.283064593Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "numbers 7:68",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ସୁନା ଚାମୁଚ ଗୋଟିଏ, ଦଶ ଶେକେଲ୍, ଧୂପ ଭର୍ତ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ଚାମୁଚ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ଭର୍ତ୍ତି"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ଧୂପ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:52.926339262Z",
+  "model": "glm-5.3"
+}

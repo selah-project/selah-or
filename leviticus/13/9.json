@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 13:9",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "କୁଷ୍ଠର ପ୍ରକୋପ — ଯେତେବେଳେ ତାହା ମନୁଷ୍ୟଠାରେ ହେବ, ତେବେ ତାହାକୁ ଯାଜକ ପାଖକୁ ଆଣାଯିବ।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "ପ୍ରକୋପ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "କୁଷ୍ଠର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ମନୁଷ୍ୟଠାରେ"
+    },
+    {
+      "surface": "והובא",
+      "gloss": "ତାହାକୁ ଆଣାଯିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:03.253069238Z",
+  "model": "glm-5.3"
+}

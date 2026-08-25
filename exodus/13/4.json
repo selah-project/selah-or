@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଏହି ଦିନ ତୁମ୍ଭେମାନେ ବାହାରୁଛ — ଆବୀବ ମାସରେ।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "ଏହି ଦିନ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ତୁମ୍ଭେମାନେ"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ବାହାରୁଛ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ମାସରେ"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "ଆବୀବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:10:13.024265975Z",
+  "model": "glm-5.3"
+}

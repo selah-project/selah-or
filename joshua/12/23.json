@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ନାଫତ-ଦୋରର ଦୋରର ରାଜା ଜଣେ; ଗିଲ୍‌ଗାଲର ଗୋୟିମର ରାଜା ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ଦୋରର"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "ନାଫତ-"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ଦୋରର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "ଗୋୟିମର"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "ଗିଲ୍‌ଗାଲର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:53.972999346Z",
+  "model": "glm-5.3"
+}

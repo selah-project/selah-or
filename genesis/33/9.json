@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ଏସାବ କହିଲା, ମୋର ପ୍ରଚୁର ଅଛି, ମୋର ଭାଇ, ତୁହାର ଯାହା ଅଛି ତାହା ତୁହା ପାଖରେ ରହୁ ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲା"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ପ୍ରଚୁର"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ମୋର ଭାଇ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ରହୁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁହା ପାଖରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁହାର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:39:25.043268179Z",
+  "model": "glm-5.3"
+}

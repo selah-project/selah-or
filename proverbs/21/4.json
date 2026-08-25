@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଉଦ୍ଧତ ଆଖି ଓ ଉଦ୍ଧୃତ ହୃଦୟ — ଦୁଷ୍କୃତକାରୀମାନଙ୍କ ନାହିଁ ଆଲୋକ, ତାହା ପାପ।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "ଉଦ୍ଧତ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଓ ଉଦ୍ଧୃତ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ନାହିଁ ଆଲୋକ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍କୃତକାରୀମାନଙ୍କ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "ପାପ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:00.709517624Z",
+  "model": "glm-5.3"
+}

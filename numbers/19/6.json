@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 19:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ଯାଜକ ଦେବଦାରୁ, ଯୁଫା ଓ ଲାଲ କ୍ରିମି-ରଙ୍ଗ ନେଇ ଗାଈର ଦାହ ମଧ୍ୟଭାଗକୁ ଫିଙ୍ଗିବ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ନେଇ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "ארז",
+      "gloss": "ଦେବଦାରୁ"
+    },
+    {
+      "surface": "ואזוב",
+      "gloss": "ଯୁଫା"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ଲାଲ"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "କ୍ରିମି-ରଙ୍ଗ"
+    },
+    {
+      "surface": "והשליך",
+      "gloss": "ଫିଙ୍ଗିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "ମଧ୍ୟଭାଗ"
+    },
+    {
+      "surface": "שרפת",
+      "gloss": "ଦାହ"
+    },
+    {
+      "surface": "הפרה",
+      "gloss": "ଗାଈ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:20:51.603971265Z",
+  "model": "glm-5.3"
+}

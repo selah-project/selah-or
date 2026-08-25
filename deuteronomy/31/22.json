@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଆଉ ମୋଶେ ସେହି ଦିନ ଏହି ଗୀତଟି ଲେଖିଲେ ଏବଂ ଇସ୍‌ରାଏଲର ପୁତ୍ରମାନଙ୍କୁ ⟨ଏହା⟩ ଶିଖାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "ଆଉ ଲେଖିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗୀତଟି"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "ଗୀତଟି"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "ଏବଂ ଶିଖାଇଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପୁତ୍ରମାନଙ୍କୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:05:31.791545677Z",
+  "model": "glm-5.3"
+}

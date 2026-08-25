@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "amos 7:3",
+  "book": "amos",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏହା ଉପରେ ଯାହ୍ୱେ ଅନୁତାପ କଲେ; ଏମିତି ହେବ ନାହିଁ, ଯାହ୍ୱେ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "נחם",
+      "gloss": "ଅନୁତାପ କଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:12:55.313360232Z",
+  "model": "glm-5.3"
+}

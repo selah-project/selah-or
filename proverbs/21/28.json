@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ମିଥ୍ୟା ସାକ୍ଷୀ ନଷ୍ଟ ହେବ, କିନ୍ତୁ ଶୁଣୁଥିବା ବ୍ୟକ୍ତି ସର୍ବଦା କହିବ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "ମିଥ୍ୟା"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ନଷ୍ଟ ହେବ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "କିନ୍ତୁ ବ୍ୟକ୍ତି"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ଶୁଣୁଥିବା"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "କହିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:16.676555093Z",
+  "model": "glm-5.3"
+}

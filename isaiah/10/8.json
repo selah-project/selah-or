@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 10:8",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "କାରଣ ସେ କହେ, ମୋର ସରଦାରମାନେ କ'ଣ ଏକାଠି ସମସ୍ତେ ରାଜା ନୁହନ୍ତି?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "ସେ କହେ"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "କ'ଣ ... ନୁହନ୍ତି?"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ମୋର ସରଦାରମାନେ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ଏକାଠି ସମସ୍ତେ"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "ରାଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T12:29:12.792207931Z",
+  "model": "glm-5.3"
+}

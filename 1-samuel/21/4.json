@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଓ ଏବେ, ତୁମ ହାତ ତଳେ କ'ଣ ଅଛି? ମୋ ହାତରେ ପାଞ୍ଚଟି ରୁଟି ଦିଅ, କିମ୍ବା ଯାହା ମିଳେ ତାହା।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ତୁମ ହାତ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ପାଞ୍ଚଟି"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ରୁଟି"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "ମୋ ହାତରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "ଯାହା ମିଳେ ତାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:04:42.767212500Z",
+  "model": "glm-5.3"
+}

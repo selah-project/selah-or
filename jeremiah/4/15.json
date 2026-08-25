@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 4:15",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କାରଣ ଦାନରୁ ଘୋଷଣାକାରୀର ସ୍ୱର, ଓ ଏଫ୍ରାୟିମ୍ ପର୍ବତରୁ ବିପଦର ସୂଚନା ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "מגיד",
+      "gloss": "ଘୋଷଣାକାରୀର"
+    },
+    {
+      "surface": "מדן",
+      "gloss": "ଦାନରୁ"
+    },
+    {
+      "surface": "ומשמיע",
+      "gloss": "ଓ ସୂଚନା ଦିଏ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ବିପଦର"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "ପର୍ବତରୁ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ଏଫ୍ରାୟିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T13:33:36.094602341Z",
+  "model": "glm-5.3"
+}

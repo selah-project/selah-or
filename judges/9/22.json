@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆବିମେଲେଖ୍ ଇସ୍‌ରାଏଲ୍ ଉପରେ ତିନି ବର୍ଷ ଶାସନ କଲା।",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "ଶାସନ କଲା"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ଆବିମେଲେଖ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍‌ରାଏଲ୍"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:33:23.363799864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାଜକ ତୈଳରୁ ୟାଜକଙ୍କ ବାଆଁ ହାତର କରତଳ ଉପରେ ଢାଳିବ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ଓ ରୁ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ତୈଳ"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ଢାଳିବ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "କରତଳ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକଙ୍କ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ବାଆଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:07.828510749Z",
+  "model": "glm-5.3"
+}

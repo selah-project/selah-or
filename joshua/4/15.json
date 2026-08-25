@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ ୟହୋଶୁଆଙ୍କୁ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ ... କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...ଙ୍କୁ (ପ୍ରତି)"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ୟହୋଶୁଆଙ୍କୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T10:07:35.556691678Z",
+  "model": "glm-5.3"
+}

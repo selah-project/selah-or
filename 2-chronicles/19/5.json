@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 19:5",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ସେ ଯିହୂଦାର ସମସ୍ତ ଦୁର୍ଗ-ନଗରରେ, ନଗରେ ନଗରେ, ଦେଶରେ ବିଚାରକମାନଙ୍କୁ ନିଯୁକ୍ତ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "ନିଯୁକ୍ତ କଲେ"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ବିଚାରକମାନଙ୍କୁ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "ନଗରରେ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦାର"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "ଦୁର୍ଗ-"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ନଗରେ"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "ନଗରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:33.838439787Z",
+  "model": "glm-5.3"
+}

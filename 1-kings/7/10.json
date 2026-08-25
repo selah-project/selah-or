@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏବଂ ଭିତ୍ତି ଥିଲା ମୂଲ୍ୟବାନ ପଥରର, ବଡ଼ ପଥର — ଦଶ ହାତ ପଥର ଏବଂ ଆଠ ହାତ ପଥର।",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "ଏବଂ ଭିତ୍ତି"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ପଥରର"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "ମୂଲ୍ୟବାନ"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "ଏବଂ ପଥର"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ଆଠ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:37:20.817407880Z",
+  "model": "glm-5.3"
+}

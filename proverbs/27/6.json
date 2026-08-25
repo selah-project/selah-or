@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 27:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ପ୍ରିୟଜନର ଆଘାତ ବିଶ୍ୱସ୍ତ, ଆଉ ଶତ୍ରୁର ଚୁମ୍ବନ ପ୍ରଚୁର।",
+  "tokens": [
+    {
+      "surface": "נאמנים",
+      "gloss": "ବିଶ୍ୱସ୍ତ"
+    },
+    {
+      "surface": "פצעי",
+      "gloss": "ଆଘାତ"
+    },
+    {
+      "surface": "אוהב",
+      "gloss": "ପ୍ରିୟଜନର"
+    },
+    {
+      "surface": "ונעתרות",
+      "gloss": "ଆଉ ... ପ୍ରଚୁର"
+    },
+    {
+      "surface": "נשיקות",
+      "gloss": "ଚୁମ୍ବନ"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "ଶତ୍ରୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:51.043744899Z",
+  "model": "glm-5.3"
+}

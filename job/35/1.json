@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଆଉ ଏଲିହୁ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଆଉ ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ଏଲିହୁ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:41:15.814768070Z",
+  "model": "glm-5.3"
+}

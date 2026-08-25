@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ବେନାୟା, ବେଦିୟା, କେଲୁହାଇ।",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "ବେନାୟା"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "ବେଦିୟା"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "କେଲୁହାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:35:52.038107880Z",
+  "model": "glm-5.3"
+}

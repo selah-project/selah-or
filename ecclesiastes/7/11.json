@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଉତ୍ତରାଧିକାର ସହିତ ଜ୍ଞାନ ଭଲ, ଏବଂ ସୂର୍ଯ୍ୟ ଦେଖୁଥିବା ମାନଙ୍କ ପାଇଁ ଅଧିକ ଲାଭଦାୟକ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ଉତ୍ତରାଧିକାର"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "ଏବଂ ଅଧିକ ଲାଭ"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "ଦେଖୁଥିବା ମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:24.094448380Z",
+  "model": "glm-5.3"
+}

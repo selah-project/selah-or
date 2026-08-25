@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 3:18",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମଲକିରାମ୍, ପେଦାଇୟା, ଶେନାଜାର୍, ୟିକମିୟା, ହୋଶାମା ଓ ନେଦାବିୟା।",
+  "tokens": [
+    {
+      "surface": "ומלכירם",
+      "gloss": "ମଲକିରାମ୍"
+    },
+    {
+      "surface": "ופדיה",
+      "gloss": "ପେଦାଇୟା"
+    },
+    {
+      "surface": "ושנאצר",
+      "gloss": "ଶେନାଜାର୍"
+    },
+    {
+      "surface": "יקמיה",
+      "gloss": "ୟିକମିୟା"
+    },
+    {
+      "surface": "הושמע",
+      "gloss": "ହୋଶାମା"
+    },
+    {
+      "surface": "ונדביה",
+      "gloss": "ନେଦାବିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:34.762402781Z",
+  "model": "glm-5.3"
+}

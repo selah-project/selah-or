@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 104:34",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 104,
+  "translation": "ମୋର ଧ୍ୟାନ ତାହାଙ୍କ ନିକଟରେ ମଧୁର ହୁଏ; ମୁଁ — ମୁଁ ଯାହ୍ୱେଙ୍କରେ ଆନନ୍ଦ କରିବି।",
+  "tokens": [
+    {
+      "surface": "ଯୋମିମୁ",
+      "gloss": ""
+    },
+    {
+      "surface": "ଯୋମିମୁ",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T17:38:16.934364067Z",
+  "model": "glm-5.3"
+}

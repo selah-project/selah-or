@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "କୀଶ୍ ଶାଉଲର ପିତା ଥିଲେ, ଆଉ ନେର — ଅବ୍‌ନେରଙ୍କ ପିତା — ଅବୀଏଲଙ୍କ ପୁତ୍ର ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "ଓ କୀଶ୍"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲର"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "ଓ ନେର"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "ଅବ୍‌ନେରଙ୍କ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "ଅବୀଏଲଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:57:36.269716772Z",
+  "model": "glm-5.3"
+}

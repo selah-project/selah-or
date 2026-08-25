@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବିନ୍ୟାମୀନ — ବେଲା, ବେଖେର ଓ ୟିଦିଆେଲ, ତିନି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "ବିନ୍ୟାମୀନ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "ବେଲା"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "ଓ ବେଖେର"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "ଓ ୟିଦିଆେଲ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନି ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:07.884085668Z",
+  "model": "glm-5.3"
+}

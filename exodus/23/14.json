@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ବର୍ଷରେ ତିନି ପର୍ବ ତୁମ୍ଭେ ମୋ' ନିମନ୍ତେ ପାଳନ କର।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ପର୍ବ"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "ପାଳନ କର"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ' ନିମନ୍ତେ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ବର୍ଷରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:17:37.126253266Z",
+  "model": "glm-5.3"
+}

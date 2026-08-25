@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ନାହିଁ ବାକ୍ୟ ଓ ନାହିଁ ଶବ୍ଦମାନ — ବିନା ଶୁଣାଯିବା ସେମାନଙ୍କ ସ୍ୱର।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ଶବ୍ଦମାନ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "נשמע",
+      "gloss": "ଶୁଣାଯିବା"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "ସେମାନଙ୍କ ସ୍ୱର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:08.135205101Z",
+  "model": "glm-5.3"
+}

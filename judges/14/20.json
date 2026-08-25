@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଶିମ୍ଶୋନର ସ୍ତ୍ରୀ ⟨ହେଲା⟩ ତାହାର ସାଥୀର, ଯିଏ ତାହାର ବନ୍ଧୁ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "ଶିମ୍ଶୋନର"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "ତାହାର ସାଥୀର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ବନ୍ଧୁ ଥିଲା"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:39:42.823866958Z",
+  "model": "glm-5.3"
+}

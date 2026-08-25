@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ୟାରବଆମ୍ ରାଜାଙ୍କ ଅଠାରଭ ବର୍ଷରେ ଆବିୟା ୟହୂଦା ଉପରେ ରାଜତ୍ୱ କଲେ।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ବର୍ଷରେ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "ଅଠାର"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ାଭ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "ୟାରବଆମ୍"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜତ୍ୱ କଲେ"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "ଆବିୟା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟହୂଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:25:06.268502421Z",
+  "model": "glm-5.3"
+}

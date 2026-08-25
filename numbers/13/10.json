@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଜେବୁଲୁନ୍ ଗୋଷ୍ଠୀରୁ — ସୋଦିଙ୍କ ପୁତ୍ର ଗାଦ୍ଦିଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ଜେବୁଲୁନ୍"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "ଗାଦ୍ଦିଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "ସୋଦି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:19.714263065Z",
+  "model": "glm-5.3"
+}

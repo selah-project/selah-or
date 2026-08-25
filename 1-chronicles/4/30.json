@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ବେତୁଏଲ୍, ହର୍ମା ଓ ଜିକ୍‌ଲାଗରେ ।",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "ଆଉ ବେତୁଏଲ୍‌ରେ"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "ହର୍ମାରେ"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "ଜିକ୍‌ଲାଗରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:55.003056771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତା'ର ମାମଲାରେ ଜଣେ ମନୁଷ୍ୟକୁ ବଙ୍କେଇବା ପାଇଁ — ଅଦୋନାଇ ଦେଖନ୍ତି ନାହାନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "ବଙ୍କେଇବା ପାଇଁ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ଜଣେ ମନୁଷ୍ୟକୁ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ତା'ର ମାମଲାରେ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖିଛନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:31.482344734Z",
+  "model": "glm-5.3"
+}

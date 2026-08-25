@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ମେଷମାନଙ୍କ ଉପରେ ହାଗରୀୟ ୟାଜିଜ୍; ଏହି ସମସ୍ତେ ରାଜା ଦାବିଦଙ୍କ ସମ୍ପତ୍ତିର ଅଧ୍ୟକ୍ଷ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଆଉ ... ଉପରେ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ମେଷମାନଙ୍କ"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "ୟାଜିଜ୍"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "ହାଗରୀୟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ଅଧ୍ୟକ୍ଷ"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "ସମ୍ପତ୍ତିର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାବିଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:11:48.996242271Z",
+  "model": "glm-5.3"
+}

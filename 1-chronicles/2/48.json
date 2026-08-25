@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାଲେଭର ଉପପତ୍ନୀ ମାଆଖା ⟨את⟩ ଶେବେର୍ ଓ ⟨את⟩ ତିର୍ଖାନାଙ୍କୁ ଜନ୍ମ ଦେଲା।",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ଉପପତ୍ନୀ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "କାଲେଭର"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "ମାଆଖା"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲା"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଶେବେର୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ତିର୍ଖାନା"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ତିର୍ଖାନାଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:49.685205376Z",
+  "model": "glm-5.3"
+}

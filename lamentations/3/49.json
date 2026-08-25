@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୋର ଆଖି ଝରି ହେଉଛି ଓ ବନ୍ଦ ହେଉନାହିଁ, ବିଶ୍ରାମର ଅଭାବରୁ।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ମୋର ଆଖି"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ଝରି ହେଉଛି"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "ବନ୍ଦ ହେଉନାହିଁ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "ଅଭାବରୁ"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "ବିଶ୍ରାମ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:40.951374677Z",
+  "model": "glm-5.3"
+}

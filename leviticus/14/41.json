@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 14:41",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ⟨את⟩ ଘରକୁ ଭିତରୁ ଚାରିଆଡ଼େ ଖୋସିବେ, ଏବଂ ଯାହା ଖୋସାଯାଇଛି ସେହି ⟨את⟩ ଧୂଳିକୁ ସହର ବାହାରକୁ ଅଶୁଚି ସ୍ଥାନକୁ ଢାଳିବେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଘର"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "יקצע",
+      "gloss": "ଖୋସିବେ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ଭିତରୁ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    },
+    {
+      "surface": "ושפכו",
+      "gloss": "ଢାଳିବେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଧୂଳି"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ଧୂଳି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "הקצו",
+      "gloss": "ଖୋସାଯାଇଥିବା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "ସହର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ସ୍ଥାନ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:25.692175448Z",
+  "model": "glm-5.3"
+}

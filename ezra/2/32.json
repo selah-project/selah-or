@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହାରିମର ପୁତ୍ରମାନେ, ତିନି ଶହ କୋଡ଼ିଏ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ହାରିମର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "କୋଡ଼ିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:29.015878798Z",
+  "model": "glm-5.3"
+}

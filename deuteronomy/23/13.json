@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଏବଂ ଶିବିରର ବାହାରକୁ ତୁମ ପାଇଁ ଏକ ସ୍ଥାନ ହେବ; ଏବଂ ତୁମେ ବାହାରକୁ ସେହି ସ୍ଥାନକୁ ଯାଉ।",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "ଏବଂ ଏକ ସ୍ଥାନ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ବାହାରକୁ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ଶିବିରର"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "ଏବଂ ତୁମେ ଯାଉ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ସେହି ସ୍ଥାନକୁ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ବାହାରକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:31.318919264Z",
+  "model": "glm-5.3"
+}

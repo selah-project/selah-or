@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ୟେହୋନାତନଙ୍କ ପୁତ୍ର ମେରିବ୍-ବାଲ୍; ମେରିବ୍-ବାଲ୍ ⟨את⟩ ମୀଖାଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ୟେହୋନାତନଙ୍କ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ମେରିବ୍-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "ମେରିବ୍-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୀଖାଙ୍କୁ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମୀଖା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:52.632626909Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 3:7",
+  "book": "job",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଦେଖ, ସେହି ରାତ୍ରି ନିସ୍ସନ୍ତାନ ହେଉ; ତା'ରେ କୌଣସି ଆନନ୍ଦଧ୍ୱନି ନ ଆସୁ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "ରାତ୍ରି"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "גלמוד",
+      "gloss": "ନିସ୍ସନ୍ତାନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "ଆସୁ"
+    },
+    {
+      "surface": "רננה",
+      "gloss": "ଆନନ୍ଦଧ୍ୱନି"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତା'ରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:21:02.509160837Z",
+  "model": "glm-5.3"
+}

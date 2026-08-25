@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ଯେଉଁ ଚରକାରେ ସେ ସ୍ରାବୀ ବ୍ୟକ୍ତି ଚଢ଼େ, ତାହା ଅଶୁଚି ହେବ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ଯେଉଁ"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "ଚରକା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "ଚଢ଼େ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତାହା ଉପରେ"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ସ୍ରାବୀ ବ୍ୟକ୍ତି"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "ଅଶୁଚି ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:52.723675150Z",
+  "model": "glm-5.3"
+}

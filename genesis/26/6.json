@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଇସ୍‌ହାକ୍ ଗେରାରରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଆଉ ବାସ କଲେ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ଇସ୍‌ହାକ୍"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ଗେରାରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:34:13.278334756Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ଆନାବ୍, ଓ ଏଶ୍ତେମୋହ୍, ଓ ଆନିମ୍।",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "ଓ ଆନାବ୍"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "ଓ ଏଶ୍ତେମୋହ୍"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "ଓ ଆନିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:59.250338716Z",
+  "model": "glm-5.3"
+}

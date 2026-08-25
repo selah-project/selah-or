@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 8:8",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆମର ଗୋଟିଏ ସାନ ଭଉଣୀ ⟨is⟩, ଆଉ ତାହାର ସ୍ତନ ନାହିଁ; ଆମ ଭଉଣୀ ନିମନ୍ତେ କଣ କରିବା, ଯେଉଁ ଦିନ ତା’ ବିଷୟରେ କଥା ହେବ?",
+  "tokens": [
+    {
+      "surface": "אחות",
+      "gloss": "ଭଉଣୀ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମର"
+    },
+    {
+      "surface": "קטנה",
+      "gloss": "ସାନ"
+    },
+    {
+      "surface": "ושדים",
+      "gloss": "ଆଉ ସ୍ତନ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ତାହାର"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "କରିବା"
+    },
+    {
+      "surface": "לאחתנו",
+      "gloss": "ଆମ ଭଉଣୀ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଯେଉଁ ଦିନ"
+    },
+    {
+      "surface": "שידבר",
+      "gloss": "କଥା ହେବ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ତା’ ବିଷୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:02.931687989Z",
+  "model": "glm-5.3"
+}

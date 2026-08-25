@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 89:27",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 89,
+  "translation": "ସେ ମୋତେ ଡାକିବ — ଆପଣ ମୋର ପିତା, ମୋର ଏଲ୍, ଏବଂ ମୋର ମୁକ୍ତିର ଶିଳା।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יקראני",
+      "gloss": "ମୋତେ ଡାକିବ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ମୋର ପିତା"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋର ଏଲ୍"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "ଏବଂ ଶିଳା"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "ମୋର ମୁକ୍ତିର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:29:27.239826493Z",
+  "model": "glm-5.3"
+}

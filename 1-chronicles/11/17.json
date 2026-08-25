@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 11:17",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଦାବିଦ୍ ଇଚ୍ଛା କଲେ ଓ କହିଲେ, କିଏ ମୋତେ ପାଣି ପିଆଇବ — ପାଟିଦ୍ୱାରରେ ଥିବା ବେତ-ଲେଖେମର କୂପରୁ?",
+  "tokens": [
+    {
+      "surface": "ויתאו",
+      "gloss": "ଇଚ୍ଛା କଲେ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାବିଦ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "ישקני",
+      "gloss": "ପିଆଇବ ମୋତେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ପାଣି"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "କୂପରୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଲେଖେମର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ପାଟିଦ୍ୱାରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:00:04.232664439Z",
+  "model": "glm-5.3"
+}

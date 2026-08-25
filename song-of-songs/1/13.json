@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୋର ପ୍ରିୟ ମୋ ପାଇଁ ଗୋଟିଏ ପୁଡ଼ା ମୂର୍ ଅଟେ, ସେ ମୋର ସ୍ତନଦ୍ୱୟ ମଧ୍ୟରେ ରାତି କାଟେ।",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ପୁଡ଼ା"
+    },
+    {
+      "surface": "המר",
+      "gloss": "ମୂର୍"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ସ୍ତନଦ୍ୱୟ"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "ରାତି କାଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:51.204218308Z",
+  "model": "glm-5.3"
+}

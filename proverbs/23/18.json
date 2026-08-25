@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "କାରଣ ବର୍ତ୍ତମାନ ⟨ଏକ⟩ ଶେଷ ଅଛି, ଆଉ ତୋର ଆଶା କଟାଯିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ନିଶ୍ଚୟ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "ଶେଷ"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "ଆଉ ତୋର ଆଶା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "କଟାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:49.615894578Z",
+  "model": "glm-5.3"
+}

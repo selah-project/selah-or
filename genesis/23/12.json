@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ଅବ୍ରାହାମ ଦେଶର ପ୍ରଜାଙ୍କ ସାମ୍ନାରେ ପ୍ରଣାମ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "ପ୍ରଣାମ କଲେ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜାଙ୍କ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:29:58.065610048Z",
+  "model": "glm-5.3"
+}

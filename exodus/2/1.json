@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଲେବୀ ଗୃହରୁ ଜଣେ ଲୋକ ଗଲା, ଆଉ ଲେବୀର ଝିଅକୁ ⟨את⟩ ବିବାହ କଲା।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲା"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ଗୃହରୁ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀର"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ବିବାହ କଲା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଲେବୀର ଝିଅକୁ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:59:14.003404488Z",
+  "model": "glm-5.3"
+}

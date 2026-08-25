@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ⟨את⟩ ଦେଦାନ୍, ଆଉ ⟨את⟩ ତେମା, ଆଉ ⟨את⟩ ବୁଜ୍, ଆଉ ⟨את⟩ କପାଳ-କଟା ସମସ୍ତ ଲୋକଙ୍କୁ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଦେଦାନ୍"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "ଦେଦାନ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ତେମା"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "ତେମା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ବୁଜ୍"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "ବୁଜ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "କପାଳ-କଟା ସମସ୍ତ ଲୋକ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "କଟା"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "କପାଳ\/କୋଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:58:27.684328583Z",
+  "model": "glm-5.3"
+}

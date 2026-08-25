@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 7:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜ୍ଞାନୀର ଗାଳି ଶୁଣିବା ଭଲ, ମୂର୍ଖମାନଙ୍କ ଗୀତ ଶୁଣୁଥିବା ଜଣେ ଲୋକଠାରୁ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "ଶୁଣିବା"
+    },
+    {
+      "surface": "גערת",
+      "gloss": "ଗାଳି"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀର"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ଜଣେ ଲୋକଠାରୁ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣୁଥିବା"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:25.696785373Z",
+  "model": "glm-5.3"
+}

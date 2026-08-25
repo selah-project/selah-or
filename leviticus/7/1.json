@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏବଂ ଏହା ⟨ହେଉଛି⟩ ଅଶାମ-ଅର୍ପଣର ବିଧି; ଏହା ପବିତ୍ରଗଣର ପବିତ୍ର।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "ଏବଂ ଏହା"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ବିଧି"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "ଅଶାମ-ଅର୍ପଣର"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "ପବିତ୍ରଗଣର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:38:18.556282781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ଗେର୍‌ଶୁନୀମାନଙ୍କ ପିତୃକୁଳର ନାୟକ — ଏଲ୍ୟାସାଫ୍, ଲାଏଲର ପୁଅ।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "ଆଉ ନାୟକ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "କୁଳ"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ପିତୃ"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "ଗେର୍‌ଶୁନୀମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ଏଲ୍ୟାସାଫ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ଲାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:02:52.182822522Z",
+  "model": "glm-5.3"
+}

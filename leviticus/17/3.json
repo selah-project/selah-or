@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଇସ୍ରାଏଲର ଗୃହରୁ ଜଣେ ଜଣେ ଲୋକ, ଯିଏ ଗାଈ ବା ମେଣ୍ଢା ବା ଛେଳୀ ଶିବିରରେ ବଧ କରେ, ବା ଯିଏ ଶିବିର ବାହାରେ ବଧ କରେ —",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "ଗୃହରୁ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ବଧ କରେ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ଗାଈ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ବା"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "או",
+      "gloss": "ବା"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ଛେଳୀ"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "ଶିବିରରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "ବା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "ବଧ କରେ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ଶିବିରରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:53.694278418Z",
+  "model": "glm-5.3"
+}

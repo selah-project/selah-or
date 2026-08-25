@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତାହାର ଗୋଡ଼ଗୁଡ଼ିକ ଲୁହାର; ତାହାର ପାଦ — ସେଥିରୁ କିଛି ଲୁହାର ଓ ସେଥିରୁ କିଛି ମାଟିର।",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "ଗୋଡ଼ଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "ପାଦ"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "ସେଥିରୁ କିଛି"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "ଓ ସେଥିରୁ କିଛି"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "ମାଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:15:43.753268962Z",
+  "model": "glm-5.3"
+}

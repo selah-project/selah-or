@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 22:26",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କହିଲେ, କହିବାକୁ ଏପରି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ ... କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:53:33.088615051Z",
+  "model": "glm-5.3"
+}

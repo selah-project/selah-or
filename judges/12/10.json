@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 12:10",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଇବ୍ତ୍ସାନ୍ ମୃତ୍ୟୁବରଣ କଲେ ଓ ବେତ୍ଲେହେମରେ ସମାଧି ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁବରଣ କଲେ"
+    },
+    {
+      "surface": "אבצן",
+      "gloss": "ଇବ୍ତ୍ସାନ୍"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "ସମାଧି ହେଲେ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ବେତ୍ଲେ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ହେମରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:37:04.932572761Z",
+  "model": "glm-5.3"
+}

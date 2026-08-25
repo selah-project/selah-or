@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 17:4",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ସେହି ଦିନ ହେବ ୟାକୋବର ମହିମା କ୍ଷୟ ହେବ ଏବଂ ତାହାର ଶରୀରର ମେଦ ମନ୍ଦ ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ידל",
+      "gloss": "କ୍ଷୟ ହେବ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମା"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋବର"
+    },
+    {
+      "surface": "ומשמן",
+      "gloss": "ଏବଂ ମେଦ"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "ତାହାର ଶରୀରର"
+    },
+    {
+      "surface": "ירזה",
+      "gloss": "ମନ୍ଦ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:36:25.945106101Z",
+  "model": "glm-5.3"
+}

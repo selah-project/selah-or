@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହେ ୟାକୋଭ୍ ଗୃହ, ଆସନ୍ତୁ, ଓ ଆମ୍ଭେ ଯାହ୍ୱେଙ୍କ ଆଲୋକରେ ଚାଲିବା।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "ଆସନ୍ତୁ"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "ଓ ଆମ୍ଭେ ଚାଲିବା"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ଆଲୋକରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:22:10.053380803Z",
+  "model": "glm-5.3"
+}

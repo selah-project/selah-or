@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ନବମ ୟେଶୁଆଙ୍କ ନିମନ୍ତେ, ଦଶମ ଶେଖାନିୟାହୁଙ୍କ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "ୟେଶୁଆଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "ନବମ"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "ଶେଖାନିୟାହୁଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "ଦଶମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:00.688990638Z",
+  "model": "glm-5.3"
+}

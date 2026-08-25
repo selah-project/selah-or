@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 10:4",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ୟାଭାନର ପୁତ୍ରମାନେ: ଏଲୀଶା ଓ ତର୍ଶୀଶ, କିତ୍ତୀୟ ଓ ଦୋଦାନୀୟ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ୟାଭାନ"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ଏଲୀଶା"
+    },
+    {
+      "surface": "ותרשיש",
+      "gloss": "ଓ ତର୍ଶୀଶ"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "କିତ୍ତୀୟ"
+    },
+    {
+      "surface": "ודדנים",
+      "gloss": "ଓ ଦୋଦାନୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:22.904922242Z",
+  "model": "glm-5.3"
+}

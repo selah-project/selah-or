@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ତୁମର ସମସ୍ତ ଗଛ ଓ ତୁମର ଭୂମିର ଫଳ ଦ୍ୱାରକୀର୍ଣ୍ଣ ଆକ୍ରମଣ କରି ଖାଇଯିବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ତୁମର ଗଛ"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "ଓ ଫଳ"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "ତୁମର ଭୂମିର"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ଆକ୍ରମଣ କରି ଖାଇଯିବ"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ଦ୍ୱାରକୀର୍ଣ୍ଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:26.771675709Z",
+  "model": "glm-5.3"
+}

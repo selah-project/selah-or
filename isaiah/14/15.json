@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "କିନ୍ତୁ ତୁମ୍ଭକୁ ଶେଓଲ୍‌କୁ ଖସାଇ ଦିଆଯିବ, ଗାତର ଗଭୀର କୋଣକୁ ଓହ୍ଲାଇ ଦିଆଯିବ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶେଓଲ୍"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ଖସାଇ ଦିଆଯିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ଗଭୀର କୋଣ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ଗାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:13:32.904070604Z",
+  "model": "glm-5.3"
+}

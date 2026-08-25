@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "zephaniah 3:16",
+  "book": "zephaniah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେହି ଦିନ ‏ୟେରୁଶାଲାଇମକୁ କୁହାଯିବ — ଭୟ କର ନାହିଁ; ହେ ଜିୟୋନ, ତୋର ହାତ ଶିଥିଳ ହେଉ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "କୁହାଯିବ"
+    },
+    {
+      "surface": "לירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תיראי",
+      "gloss": "ଭୟ କର"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ଜିୟୋନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ירפו",
+      "gloss": "ଶିଥିଳ ହେଉ"
+    },
+    {
+      "surface": "ידיך",
+      "gloss": "ତୋର ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:27:35.002085947Z",
+  "model": "glm-5.3"
+}

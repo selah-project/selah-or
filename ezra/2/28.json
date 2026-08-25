@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବେତ୍-ଏଲ୍ ଓ ହାଇର ଲୋକମାନେ — ଦୁଇଶହ ତେଇଶ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକମାନେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "ଓ ହାଇ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ତିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:10.856742659Z",
+  "model": "glm-5.3"
+}

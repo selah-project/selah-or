@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ମୃଣ୍ମୟ ପାତ୍ର ଉପରେ ମଢ଼ା ହୋଇଥିବା ଖୋରା ରୁପା ପରି ⟨ହେଉଛି⟩ ଜ୍ୱଳନ୍ତ ଓଷ୍ଠ ଓ ମନ୍ଦ ହୃଦୟ।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ରୁପା"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ଖୋରା"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "ମଢ଼ା ହୋଇଥିବା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ମୃଣ୍ମୟ ପାତ୍ର"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "ଜ୍ୱଳନ୍ତ"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "ଓ ହୃଦୟ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:12.729160929Z",
+  "model": "glm-5.3"
+}

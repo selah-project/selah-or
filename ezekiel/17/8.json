@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 17:8",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଉତ୍ତମ ପଡ଼ିଆରେ, ଅନେକ ଜଳ ପାଖରେ ଏହା ଲଗାଯାଇଥିଲା — ଡାଳ କରିବାକୁ, ଓ ଫଳ ଧାରଣ କରିବାକୁ, ଏକ ମହାନ୍ ଲତା ହେବାକୁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "ପଡ଼ିଆ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "שתולה",
+      "gloss": "ଲଗାଯାଇଥିଲା"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    },
+    {
+      "surface": "ענף",
+      "gloss": "ଡାଳ"
+    },
+    {
+      "surface": "ולשאת",
+      "gloss": "ଓ ଧାରଣ କରିବାକୁ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ହେବାକୁ"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "ଏକ ଲତା"
+    },
+    {
+      "surface": "אדרת",
+      "gloss": "ମହାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T15:07:31.908943420Z",
+  "model": "glm-5.3"
+}

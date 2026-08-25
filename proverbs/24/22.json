@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 24:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "କାରଣ ହଠାତ୍ ସେମାନଙ୍କ ବିପଦ ଉଠିବ; ଆଉ ଉଭୟଙ୍କ ବିନାଶ କେହି ଜାଣେ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "ହଠାତ୍"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "ଉଠିବ"
+    },
+    {
+      "surface": "אידם",
+      "gloss": "ସେମାନଙ୍କ ବିପଦ"
+    },
+    {
+      "surface": "ופיד",
+      "gloss": "ଆଉ ବିନାଶ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ଉଭୟଙ୍କ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କେହି"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:25.914959891Z",
+  "model": "glm-5.3"
+}

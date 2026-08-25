@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 30:12",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "କାରଣ ଏପରି କହିଅଛନ୍ତି ଯାହ୍ୱେ: ଅଚିକିତ୍ସସାଧ୍ୟ ⟨is⟩ ତୁମର ଭାଙ୍ଗ, ଭୟଙ୍କର ତୁମର ଆଘାତ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଅଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ଅଚିକିତ୍ସସାଧ୍ୟ"
+    },
+    {
+      "surface": "לשברך",
+      "gloss": "ତୁମର ଭାଙ୍ଗ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "ଭୟଙ୍କର"
+    },
+    {
+      "surface": "מכתך",
+      "gloss": "ତୁମର ଆଘାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:08:58.983835010Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଆଉ ସେ ଦ୍ୱାର ପ୍ରବେଶ ପଥର ⟨את⟩ ଓସାର ମାପିଲେ — ଦଶ ହାତ; ଦ୍ୱାରର ଦୈର୍ଘ୍ୟ — ତେର ହାତ।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ଆଉ ସେ ମାପିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦ୍ୱାର ପ୍ରବେଶ ପଥର ଓସାର"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ଓସାର"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ପ୍ରବେଶ ପଥ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ଦ୍ୱାରର"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-ଦଶ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:40:08.185795364Z",
+  "model": "glm-5.3"
+}

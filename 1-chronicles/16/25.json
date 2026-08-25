@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 16:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "କାରଣ ଯାହ୍ୱେ ମହାନ୍, ଓ ଅତି ପ୍ରଶଂସିତ; ଆଉ ⟨ସେ⟩ ସମସ୍ତ ଦେବତାଙ୍କ ଉପରେ ଭୟପ୍ରଦ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ଓ ପ୍ରଶଂସିତ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "ונורא",
+      "gloss": "ଆଉ ଭୟପ୍ରଦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ସେ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଦେବତାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:20.486476530Z",
+  "model": "glm-5.3"
+}

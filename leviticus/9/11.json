@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ⟨את⟩ ମାଂସ ଓ ⟨את⟩ ଚର୍ମ ଶିବିର ବାହାରେ ଅଗ୍ନିରେ ପୋଡ଼ିଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ମାଂସ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଚର୍ମ"
+    },
+    {
+      "surface": "העור",
+      "gloss": "ଚର୍ମ"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "ପୋଡ଼ିଦେଲେ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ଅଗ୍ନିରେ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ଶିବିର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:43:12.468217691Z",
+  "model": "glm-5.3"
+}

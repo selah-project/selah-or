@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 114,
+  "translation": "ଯିଏ ଶିଳାକୁ ଜଳାଶୟ କଲେ, ଚକମକି ପଥରକୁ ଜଳଧାରାରେ ପରିଣତ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ଯିଏ ... ପରିଣତ କଲେ"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ଶିଳାକୁ"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "ଜଳାଶୟ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳର"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "ଚକମକି ପଥରକୁ"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "ଜଳଧାରାରେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:41:34.821863796Z",
+  "model": "glm-5.3"
+}

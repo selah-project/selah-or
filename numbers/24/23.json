@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 24:23",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଆଉ ସେ ନିଜ ମଶାଲ୍ ଉଚ୍ଚାରଣ କଲେ ଓ କହିଲେ: ହାୟ ରେ! ଏଲ୍ ଏହା କରିବା ପରେ କିଏ ବଞ୍ଚିବ?",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ଉଚ୍ଚାରଣ କଲେ"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ନିଜ ମଶାଲ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "ହାୟ ରେ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יחיה",
+      "gloss": "ବଞ୍ଚିବ"
+    },
+    {
+      "surface": "משמו",
+      "gloss": "ଏହା କରିବା ପରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:06.210750012Z",
+  "model": "glm-5.3"
+}

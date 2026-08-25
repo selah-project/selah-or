@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 28:17",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ହନନିୟା ନବୀ ସେହି ବର୍ଷରେ, ସପ୍ତମ ମାସରେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ଆଉ ମୃତ୍ୟୁବରଣ କଲେ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ହନନିୟା"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ସେହି ବର୍ଷରେ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ସପ୍ତମ ମାସରେ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ସପ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:05:10.585607026Z",
+  "model": "glm-5.3"
+}

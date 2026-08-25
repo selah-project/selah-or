@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏଲିଏଲ୍, ଏବଂ ଓବେଦ, ଏବଂ ୟାଆସିଏଲ୍ ⟨ମେଜୋବୀୟ⟩।",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "ଏଲିଏଲ୍"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ଏବଂ ଓବେଦ"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "ଏବଂ ୟାଆସିଏଲ୍"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "⟨ମେଜୋବୀୟ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:35.347339883Z",
+  "model": "glm-5.3"
+}

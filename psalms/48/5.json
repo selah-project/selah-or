@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "କାରଣ ଦେଖ, ⟨the⟩ ରାଜାମାନେ ମିଳିତ ହେଲେ, ସେମାନେ ଏକାଠି ଆଗେଇ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ରାଜାମାନେ"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "ମିଳିତ ହେଲେ"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "ଆଗେଇ ଗଲେ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ଏକାଠି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:07:30.037886695Z",
+  "model": "glm-5.3"
+}

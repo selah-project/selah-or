@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 1:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "କାରଣ ନିରର୍ଥକ ଭାବରେ ଜାଲ ପକାଯାଏ ପ୍ରତ୍ୟେକ ଡେଣାଧାରୀର ଆଖି ସାମ୍ନାରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ନିରର୍ଥକ ଭାବରେ"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "ପକାଯାଏ"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ଜାଲ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଆଖି ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ଧାରୀ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ଡେଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:56:53.495125484Z",
+  "model": "glm-5.3"
+}

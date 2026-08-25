@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ମାହାରାଇ ⟨the⟩ ନେତୋଫାଥୀ, ହେଲେଦ ବିନ ବାନାହା ⟨the⟩ ନେତୋଫାଥୀ।",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "ମାହାରାଇ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ନେତୋଫାଥୀ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "ହେଲେଦ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ବାନାହା"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ନେତୋଫାଥୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:36.187889720Z",
+  "model": "glm-5.3"
+}

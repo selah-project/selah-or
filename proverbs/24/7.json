@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 24:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଉଚ୍ଚ ବିଷୟ ମୂର୍ଖ ପାଇଁ — ଜ୍ଞାନ; ଫାଟକରେ ସେ ⟨ନିଜ⟩ ପାଟି ଖୋଲିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ראמות",
+      "gloss": "ଉଚ୍ଚ ବିଷୟ"
+    },
+    {
+      "surface": "לאויל",
+      "gloss": "ମୂର୍ଖ ପାଇଁ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ଫାଟକରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ଖୋଲିବ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ନିଜ ପାଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:29.195829228Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 47:5",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "ଓ ସେ ଏକ ହଜାର ମପିଲେ — ଏକ ନଦୀ ଯାହା ମୁଁ ପାର ହେବାକୁ ପାରିବି ନାହିଁ, କାରଣ ଉଠିଅଛି ⟨the⟩ ଜଳ — ପହଁରିବା ପାଇଁ ଜଳ — ଏକ ନଦୀ ଯାହା ପାର ହେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ଓ ମପିଲେ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ଏକ ହଜାର"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ଏକ ନଦୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ମୁଁ ପାରିବି"
+    },
+    {
+      "surface": "לעבר",
+      "gloss": "ପାର ହେବାକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גאו",
+      "gloss": "ଉଠିଅଛି"
+    },
+    {
+      "surface": "המים",
+      "gloss": "⟨the⟩ ଜଳ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "שחו",
+      "gloss": "ପହଁରିବା ପାଇଁ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ଏକ ନଦୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יעבר",
+      "gloss": "ପାର ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:44:40.801066390Z",
+  "model": "glm-5.3"
+}

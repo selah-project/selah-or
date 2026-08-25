@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 47,
+  "translation": "କାରଣ ସମସ୍ତ ପୃଥିବୀର ରାଜା ⟨ଅଟନ୍ତି⟩ ଏଲୋହିମ୍; ଗାନ କର ବୋଧପୂର୍ଣ୍ଣ ଭାବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀର"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "ଗାନ କର"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ବୋଧପୂର୍ଣ୍ଣ ଭାବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:07:03.160210264Z",
+  "model": "glm-5.3"
+}

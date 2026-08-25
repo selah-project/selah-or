@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏବଂ ⟨the⟩ ଗିଦୁଟିଏ ପ୍ରଜାତି, ଏବଂ ⟨את⟩ ⟨the⟩ ପେଚା ପ୍ରଜାତି, ଏବଂ ⟨the⟩ ଶାଗଣା ତାହାର ପ୍ରକାର ଅନୁସାରେ।",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "ଏବଂ ⟨the⟩ ଗିଦୁଟିଏ ପ୍ରଜାତି"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ପେଚା"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "⟨the⟩ ପେଚା ପ୍ରଜାତି"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "ଏବଂ ⟨the⟩ ଶାଗଣା"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ତାହାର ପ୍ରକାର ଅନୁସାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:49.201511879Z",
+  "model": "glm-5.3"
+}

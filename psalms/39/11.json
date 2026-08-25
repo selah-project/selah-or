@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 39:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ମୋଠାରୁ ତୁମ୍ଭର ପ୍ରହାର ହଟାଅ; ତୁମ୍ଭ ହାତର ଧକ୍କାରୁ ମୁଁ କ୍ଷୟ ପାଉଅଛି।",
+  "tokens": [
+    {
+      "surface": "הסר",
+      "gloss": "ହଟାଅ"
+    },
+    {
+      "surface": "מעלי",
+      "gloss": "ମୋଠାରୁ"
+    },
+    {
+      "surface": "נגעך",
+      "gloss": "ତୁମ୍ଭର ପ୍ରହାର"
+    },
+    {
+      "surface": "מתגרת",
+      "gloss": "...ରୁ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ତୁମ୍ଭ ହାତ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "כליתי",
+      "gloss": "କ୍ଷୟ ପାଉଅଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:51.741290749Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଅଳସରେ ଛାତ ଭାଙ୍ଗିପଡେ, ଆଉ ହାତର ଶିଥିଳତାରେ ଘର ଟୋପିଏ ଟପେ।",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "ଅଳସରେ"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "ଭାଙ୍ଗିପଡେ"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "ଛାତ"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "ଆଉ ଶିଥିଳତାରେ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ହାତର"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "ଟୋପିଏ ଟପେ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:17.723324117Z",
+  "model": "glm-5.3"
+}

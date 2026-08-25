@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ଆଉ ହରଏଲ୍ ଚାରି କରଭ; ଆରିଏଲ୍ରୁ ଉପରକୁ ⟨ଏହାର⟩ ଚାରୋଟି ଶିଙ୍ଗ।",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "ଆଉ ହରଏଲ୍"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "କରଭ"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "ଆରିଏଲ୍ରୁ"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "ଚାରୋଟି ଶିଙ୍ଗ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରୋଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T15:43:04.713360647Z",
+  "model": "glm-5.3"
+}

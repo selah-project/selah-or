@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମୋର ପ୍ରିୟ ଛିଦ୍ରରୁ ତାହାର ହାତ ବାହାର କଲା, ଏବଂ ମୋର ଉଦର ତାହା ପାଇଁ କମ୍ପିତ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ବାହାର କଲା"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ତାହାର ହାତ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "החר",
+      "gloss": "ଛିଦ୍ର"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "ଏବଂ ମୋର ଉଦର"
+    },
+    {
+      "surface": "המו",
+      "gloss": "କମ୍ପିତ ହେଲା"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତାହା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:49:23.155690792Z",
+  "model": "glm-5.3"
+}

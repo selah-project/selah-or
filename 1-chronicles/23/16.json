@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଗେରଶୋମର ପୁତ୍ରମାନେ — ଶେବୁଏଲ୍ ⟨ମୁଖ୍ୟ⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "ଗେରଶୋମର"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "ଶେବୁଏଲ୍"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨ମୁଖ୍ୟ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:49.730206241Z",
+  "model": "glm-5.3"
+}

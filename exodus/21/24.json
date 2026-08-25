@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଖି ବଦଳରେ ଆଖି, ଦାନ୍ତ ବଦଳରେ ଦାନ୍ତ, ହାତ ବଦଳରେ ହାତ, ଗୋଡ଼ ବଦଳରେ ଗୋଡ଼।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ଦାନ୍ତ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ଦାନ୍ତ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ଗୋଡ଼"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ଗୋଡ଼"
+    }
+  ],
+  "timestamp": "2026-08-25T08:15:46.017763213Z",
+  "model": "glm-5.3"
+}

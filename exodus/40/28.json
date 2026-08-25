@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଓ ସେ ମିଳନ-ଗୃହର ଦ୍ୱାର ପାଇଁ ⟨את⟩ ପରଦାଟି ସ୍ଥାପନ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ସ୍ଥାପନ କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପରଦାଟି"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ପରଦାଟି"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ଦ୍ୱାରର"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "ମିଳନ-ଗୃହ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:33:24.764683305Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 140:13",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 140,
+  "translation": "ମୁଁ ଜାଣେ ଯେ ଯାହ୍ୱେ ଦୁଃଖିତର ନ୍ୟାୟ କରିବେ, ଦରିଦ୍ରମାନଙ୍କ ବିଚାର କରିବେ।",
+  "tokens": [
+    {
+      "surface": "ידעת",
+      "gloss": "ମୁଁ ଜାଣେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରିବେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ନ୍ୟାୟ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦୁଃଖିତର"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ବିଚାର"
+    },
+    {
+      "surface": "אבינים",
+      "gloss": "ଦରିଦ୍ରମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:52:14.223364316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 22:29",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ହେ ଭୂମି, ହେ ଭୂମି, ହେ ଭୂମି, ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଶୁଣ।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "ହେ ଭୂମି"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ହେ ଭୂମି"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ହେ ଭୂମି"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:51:40.897234017Z",
+  "model": "glm-5.3"
+}

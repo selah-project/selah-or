@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ତୁମେ ଯଦି ଖାଦ୍ୟପ୍ରିୟ ବ୍ୟକ୍ତି, ନିଜ ଗଳାରେ ଛୁରି ରଖିବ।",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "ଆଉ ରଖିବ"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "ଛୁରି"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ନିଜ ଗଳାରେ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ପ୍ରିୟ ବ୍ୟକ୍ତି"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ଖାଦ୍ୟପ୍ରିୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:56.941019519Z",
+  "model": "glm-5.3"
+}

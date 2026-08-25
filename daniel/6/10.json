@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "daniel 6:10",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ସେଥିପାଇଁ ଏହି ସବୁ କଥାରେ ରାଜା ଦାର୍ଯ୍ୟବେଶ୍ ଲେଖା ଓ ବିଧାନ ଦସ୍ତଖତ କଲେ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସେଥିପାଇଁ ⟨ସବୁ⟩"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "କଥାରେ"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "דריוש",
+      "gloss": "ଦାର୍ଯ୍ୟବେଶ୍"
+    },
+    {
+      "surface": "רשם",
+      "gloss": "ଦସ୍ତଖତ କଲେ"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ଲେଖା"
+    },
+    {
+      "surface": "ואסרא",
+      "gloss": "ଓ ବିଧାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:22:34.408079326Z",
+  "model": "glm-5.3"
+}

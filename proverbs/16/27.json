@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 16:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଏକ ବେଲିୟାଲ୍ ଲୋକ ମନ୍ଦତା ଖୋଳେ, ଓ ତାହାର ଓଠ ଉପରେ ଦାହିବା ନିଆଁ ପରି ଅଛି ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ବେଲିୟାଲ୍"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ଖୋଳେ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦତା"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ... ଉପରେ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ତାହାର ଓଠ"
+    },
+    {
+      "surface": "כאש",
+      "gloss": "ନିଆଁ ପରି"
+    },
+    {
+      "surface": "צרবת",
+      "gloss": "ଦାହିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:50.380371001Z",
+  "model": "glm-5.3"
+}

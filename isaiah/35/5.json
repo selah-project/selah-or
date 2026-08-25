@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 35:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ତେଣୁ ଅନ୍ଧମାନଙ୍କ ଆଖି ଖୋଲାଯିବ, ଏବଂ ବଧିରମାନଙ୍କ କାନ ଖୋଲାଯିବ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "תפקחנה",
+      "gloss": "ଖୋଲାଯିବ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "ଅନ୍ଧମାନଙ୍କ"
+    },
+    {
+      "surface": "ואזני",
+      "gloss": "ଏବଂ କାନ"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ବଧିରମାନଙ୍କ"
+    },
+    {
+      "surface": "תפתחנה",
+      "gloss": "ଖୋଲାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:54:35.730566215Z",
+  "model": "glm-5.3"
+}

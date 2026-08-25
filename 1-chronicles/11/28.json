@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଇରା, ଇକ୍କେଶର ପୁତ୍ର, ତକୋୟୀ; ଅବିଏଜେର୍, ଅନାତୋତୀ।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ଇରା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ଇକ୍କେଶ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "ତକୋୟୀ"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "ଅବିଏଜେର୍"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "ଅନାତୋତୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:53.201437207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ମୋ ପାଇଁ ଉତ୍ତମ ତୋର ମୁଖର ତୋରାତ, ହଜାର ହଜାର ସୁନା ଓ ରୂପା ଠାରୁ ଅଧିକ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "ତୋରାତ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ତୋର ମୁଖର"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "ହଜାର ହଜାର ... ଠାରୁ ଅଧିକ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "ଓ ରୂପା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:46:35.189609614Z",
+  "model": "glm-5.3"
+}

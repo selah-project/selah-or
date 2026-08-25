@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 44:25",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଆଉ ଆମ୍ଭର ପିତା କହିଲେ, ଫେରିଯାଅ, ଆମ୍ଭମାନଙ୍କ ପାଇଁ ଅଳ୍ପ ଖାଦ୍ୟ କିଣ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אבינו",
+      "gloss": "ଆମ୍ଭର ପିତା"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ଫେରିଯାଅ"
+    },
+    {
+      "surface": "שברו",
+      "gloss": "କିଣ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମ୍ଭମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଦ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:54:49.768390568Z",
+  "model": "glm-5.3"
+}

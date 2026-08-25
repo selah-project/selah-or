@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 12:4",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ୟିଶ୍ମାୟା ⟨ସେ⟩ ଗିବିୟୋନର — ବୀର, ତିରିଶିରେ, ଆଉ ତିରିଶିଙ୍କ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "וישמעיה",
+      "gloss": "ଆଉ ୟିଶ୍ମାୟା"
+    },
+    {
+      "surface": "הגבעוני",
+      "gloss": "ଗିବିୟୋନର"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "ତିରିଶିରେ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଆଉ ଉପରେ"
+    },
+    {
+      "surface": "השלשים",
+      "gloss": "ତିରିଶିଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:00:19.348601912Z",
+  "model": "glm-5.3"
+}

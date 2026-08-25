@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଆଉ ଦାନ୍ ସନ୍ତାନମାନଙ୍କ ଶାଖା ପାଇଁ — ନେତା ବୁକ୍କି, ୟୋଗ୍ଲିର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ଆଉ … ଶାଖା ପାଇଁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ସନ୍ତାନମାନଙ୍କ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନେତା"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "ବୁକ୍କି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "ୟୋଗ୍ଲିର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:21.910476648Z",
+  "model": "glm-5.3"
+}

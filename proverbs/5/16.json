@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 5:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ତୋର ଝରଣାଗୁଡ଼ିକ ବାହାରକୁ ବିଛିରି ଯାଉ, ଚାଳିରେ ଜଳଧାରାଗୁଡ଼ିକ।",
+  "tokens": [
+    {
+      "surface": "יפוצו",
+      "gloss": "ବିଛିରି ଯାଉ"
+    },
+    {
+      "surface": "מעינתיך",
+      "gloss": "ତୋର ଝରଣାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "חוצה",
+      "gloss": "ବାହାରକୁ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ଚାଳିରେ"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ଜଳଧାରାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:59.716499280Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ⟨את⟩ ବାସେମତଙ୍କୁ — ଇଶ୍ମାଏଲଙ୍କ ଝିଅ, ନେବାୟୋତଙ୍କ ଭଉଣୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ବାସେମତଙ୍କୁ"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "ବାସେମତଙ୍କୁ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ଝିଅ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ଇଶ୍ମାଏଲଙ୍କ"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ଭଉଣୀ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "ନେବାୟୋତଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:13.195132956Z",
+  "model": "glm-5.3"
+}

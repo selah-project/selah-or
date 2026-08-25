@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏହା ଯୋଗୁଁ ଆମ ହୃଦୟ ରୋଗଗ୍ରସ୍ତ ହେଲା; ଏହି ବିଷୟଗୁଡ଼ିକ ଯୋଗୁଁ ଆମ ଆଖି ଅନ୍ଧକାର ହୋଇଗଲା।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଯୋଗୁଁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ରୋଗଗ୍ରସ୍ତ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ଆମ ହୃଦୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଯୋଗୁଁ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି ବିଷୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "ଅନ୍ଧକାର ହୋଇଗଲା"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ଆମ ଆଖି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:39.548626619Z",
+  "model": "glm-5.3"
+}

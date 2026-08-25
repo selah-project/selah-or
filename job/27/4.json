@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 27:4",
+  "book": "job",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ମୋର ଓଷ୍ଠ ଯଦି ଅନ୍ୟାୟ କହିବେ, ଓ ମୋର ଜିଭ ଯଦି ଛଳନା ଉଚ୍ଚାରଣ କରିବ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "תדברנה",
+      "gloss": "କହିବେ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ମୋର ଓଷ୍ଠ"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "ולשוני",
+      "gloss": "ଓ ମୋର ଜିଭ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ଉଚ୍ଚାରଣ କରିବ"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "ଛଳନା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:36:18.668958350Z",
+  "model": "glm-5.3"
+}

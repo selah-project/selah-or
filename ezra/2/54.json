@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନେତ୍ସିଆଖର ପୁତ୍ରମାନେ, ଖାତିଫାର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "ନେତ୍ସିଆଖର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ଖାତିଫାର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:41:00.059627345Z",
+  "model": "glm-5.3"
+}

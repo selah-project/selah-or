@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "nehemiah 11:10",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଯାଜକମାନଙ୍କ ମଧ୍ୟରୁ: ୟେଦାୟା, ୟୋୟାରିବର ପୁତ୍ର, ୟାଖିନ୍।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନଙ୍କ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ୟେଦାୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יויריב",
+      "gloss": "ୟୋୟାରିବର"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ୟାଖିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:48:35.711795292Z",
+  "model": "glm-5.3"
+}

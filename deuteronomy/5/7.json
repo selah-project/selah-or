@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମୋର ସାମ୍ନାରେ ତୁମ୍ଭ ପାଇଁ ଅନ୍ୟ ଏଲୋହିମ୍ ହେବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୋର ସାମ୍ନା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:40:28.478670882Z",
+  "model": "glm-5.3"
+}

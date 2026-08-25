@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "genesis 24:39",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ମୁଁ ମୋ ମାଲିକଙ୍କୁ କହିଲି, ହୁଏତ ସେହି ସ୍ତ୍ରୀ ମୋ ପଛରେ ଆସିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ଏବଂ କହିଲି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ମୋ ମାଲିକ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ହୁଏତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "ଆସିବ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ସେହି ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ମୋ ପଛରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:34:27.769673112Z",
+  "model": "glm-5.3"
+}

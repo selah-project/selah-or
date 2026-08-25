@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଯଦି ସାପ ମନ୍ତ୍ର ବିନା ଦଂଶେ, ତେବେ ମନ୍ତ୍ରବିଦକୁ କୌଣସି ଲାଭ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ଦଂଶେ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ସାପ"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "ମନ୍ତ୍ର"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ତେବେ ... ନାହିଁ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "କୌଣସି ଲାଭ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ମନ୍ତ୍ରବିଦକୁ"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "ଜିଭର ମାଲିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:01.450516082Z",
+  "model": "glm-5.3"
+}

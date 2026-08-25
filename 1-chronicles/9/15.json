@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ବକବକର, ଚେରେଶ ଓ ଗଲାଲ, ଆଉ ମାତାନିୟା, ମୀଖାଙ୍କ ପୁତ୍ର, ଜିଖ୍ରୀଙ୍କ ପୁତ୍ର, ଆସାଫଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "ଆଉ ବକବକର"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ଚେରେଶ"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "ଓ ଗଲାଲ"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "ଆଉ ମାତାନିୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מיכא",
+      "gloss": "ମୀଖା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "ଜିଖ୍ରୀ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ଆସାଫ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:04.897563349Z",
+  "model": "glm-5.3"
+}

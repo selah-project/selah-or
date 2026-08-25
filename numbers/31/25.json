@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 31:25",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଏବଂ କହିଲେ ଯାହ୍ୱେ ମୋଶେ ପ୍ରତି, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:31:33.561922446Z",
+  "model": "glm-5.3"
+}

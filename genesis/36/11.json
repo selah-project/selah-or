@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ଏଲିଫଜଙ୍କ ପୁତ୍ରମାନେ ଥିଲେ: ତେମାନ୍, ଓମାର୍, ସେଫୋ, ଗାତାମ୍ ଓ କେନଜ୍।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଆଉ ... ଥିଲେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ଏଲିଫଜଙ୍କ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ତେମାନ୍"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "ଓମାର୍"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "ସେଫୋ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ଓ ଗାତାମ୍"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "ଓ କେନଜ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:42:56.478027901Z",
+  "model": "glm-5.3"
+}

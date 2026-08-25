@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଚାଳିଶ ଅମା ଥିଲା ⟨the⟩ ଗୃହ — ଏହା ହେଉଛି ତାହାର ସାମ୍ନାର ହେଖାଲ।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "ଆଉ ଚାଳିଶ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ଅମାରେ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "ହେଖାଲ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:37:43.927162384Z",
+  "model": "glm-5.3"
+}

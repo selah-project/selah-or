@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ବେତ୍-ହା-ଆରାବା, ତ୍ସେମାରାୟିମ୍ ଏବଂ ବେତ୍-ଏଲ୍।।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ଏବଂ ବେତ୍"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ହା-ଆରାବା"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "ଏବଂ ତ୍ସେମାରାୟିମ୍"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ଏବଂ ବେତ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:28.249551245Z",
+  "model": "glm-5.3"
+}

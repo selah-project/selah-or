@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-kings 3:23",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ରାଜା କହିଲେ, ଏହି କହୁଚି, ଏ ⟨is⟩ ମୋର ପୁଅ ଜୀବିତ ଆଉ ତୁମ ପୁଅ ମୃତ; ଆଉ ଏହି କହୁଚି, ନାଁ, ବରଂ ତୁମ ପୁଅ ମୃତ ଆଉ ମୋର ପୁଅ ଜୀବିତ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "କହୁଚି"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋର ପୁଅ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ଜୀବିତ"
+    },
+    {
+      "surface": "ובנך",
+      "gloss": "ଆଉ ତୁମ ପୁଅ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ମୃତ"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "ଆଉ ଏହି"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "କହୁଚି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାଁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "ତୁମ ପୁଅ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ମୃତ"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ ମୋର ପୁଅ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ଜୀବିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:34:57.215917678Z",
+  "model": "glm-5.3"
+}

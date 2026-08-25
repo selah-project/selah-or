@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ସେ କୋଳାହଳିଆ ଓ ବିଦ୍ରୋହୀ; ⟨ତା’⟩ ଘରେ ତା’ ପାଦ ରହନ୍ତି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "କୋଳାହଳିଆ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "ଓ ବିଦ୍ରୋହୀ"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "ତା’ ଘରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ରହନ୍ତି"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "ତା’ ପାଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:45.252272580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଅତାୟ ଷଷ୍ଠ, ଏଲିଏଲ ସପ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "ଅତାୟ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ଷଷ୍ଠ"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "ଏଲିଏଲ"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ସପ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:59:22.295458745Z",
+  "model": "glm-5.3"
+}

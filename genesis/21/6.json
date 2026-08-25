@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 21:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ସାରାହ କହିଲେ, ହସି ମୋତେ ଏଲୋହିମ୍ କରିଅଛନ୍ତି; ଯିଏ ଶୁଣିବ ସମସ୍ତେ ମୋ’ ସହିତ ହସିବ।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ସାରାହ"
+    },
+    {
+      "surface": "צחק",
+      "gloss": "ହସି"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରିଅଛନ୍ତି"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "השמע",
+      "gloss": "ଯିଏ ଶୁଣିବ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ହସିବ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ’ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:29:55.929082623Z",
+  "model": "glm-5.3"
+}

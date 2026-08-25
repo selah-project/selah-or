@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଓ ଉତ୍ତର ଦେଲା ଏଲୀଫାଜ୍ ହତେମାନୀ, ଓ କହିଲା —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଓ ଉତ୍ତର ଦେଲା"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ଏଲୀଫାଜ୍"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "ହତେମାନୀ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:30:37.292774587Z",
+  "model": "glm-5.3"
+}

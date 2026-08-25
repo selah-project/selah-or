@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 1:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ଏଲୋହିମ୍ କହିଲେ, ଜଳର ମଧ୍ୟରେ ବିସ୍ତାର ହେଉ, ଏବଂ ଏହା ଜଳ ଓ ଜଳ ମଧ୍ୟରେ ପାର୍ଥକ୍ୟ କରୁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "רקיע",
+      "gloss": "ବିସ୍ତାର"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳର"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ଏହା ହେଉ"
+    },
+    {
+      "surface": "מבדיל",
+      "gloss": "ପାର୍ଥକ୍ୟ କରୁ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "למים",
+      "gloss": "ଓ ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:15:57.111827010Z",
+  "model": "glm-5.3"
+}

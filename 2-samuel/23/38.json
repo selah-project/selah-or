@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଇରା ⟨ଦ⟩ୟିତ୍ରୀୟ, ଗାରେବ୍ ⟨ଦ⟩ୟିତ୍ରୀୟ।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "ଇରା"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ୟିତ୍ରୀୟ"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "ଗାରେବ୍"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ୟିତ୍ରୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:39.391690945Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 15:6",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "କାରଣ ନିମ୍ରିମ୍‌ର ଜଳ ଉଜାଡ଼ ହେବ; କାରଣ ଘାସ ଶୁଖିଯିବ, ତରୁଣ ଲତା ସରିଯିବ, ସବୁଜ ଆଉ ରହିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "נמרים",
+      "gloss": "ନିମ୍ରିମ୍‌ର"
+    },
+    {
+      "surface": "משמות",
+      "gloss": "ଉଜାଡ଼"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "ଶୁଖିଯିବ"
+    },
+    {
+      "surface": "חציר",
+      "gloss": "ଘାସ"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "ସରିଯିବ"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ତରୁଣ ଲତା"
+    },
+    {
+      "surface": "ירק",
+      "gloss": "ସବୁଜ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ରହିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:35:04.793797352Z",
+  "model": "glm-5.3"
+}

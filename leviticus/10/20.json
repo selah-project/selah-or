@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମୋଶେ ଶୁଣିଲେ, ଏବଂ ଏହା ତାହାଙ୍କ ଦୃଷ୍ଟିରେ ଉତ୍ତମ ଲାଗିଲା।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ଶୁଣିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "ଉତ୍ତମ ଲାଗିଲା"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ତାହାଙ୍କ ଦୃଷ୍ଟିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:42:41.083633449Z",
+  "model": "glm-5.3"
+}

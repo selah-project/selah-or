@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ଛେଳି-ମାଛ ପାପ-ଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ମାକୁଡ଼ା ଛେଳି"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳିମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ-ଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:17.893491603Z",
+  "model": "glm-5.3"
+}

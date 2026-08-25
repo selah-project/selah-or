@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "କିନ୍ତୁ କୋରହଙ୍କ ପୁତ୍ରମାନେ ମଲେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "କିନ୍ତୁ …ଙ୍କ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "କୋରହଙ୍କ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ମଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:26:01.942682454Z",
+  "model": "glm-5.3"
+}

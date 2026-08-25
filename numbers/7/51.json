@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବାଛୁରୀ-ଗରୁଡ଼ ବାଛୁରା, ଗୋଟିଏ ମେଣ୍ଢା, ଗୋଟିଏ ବର୍ଷର ମେଣ୍ଢାଛୁଆ ହୋମ-ଉପହାର ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବାଛୁରା"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗାଈଗଣ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢାଛୁଆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ଏକ ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମ-ଉପହାର ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:17.893369675Z",
+  "model": "glm-5.3"
+}

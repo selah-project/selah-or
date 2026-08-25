@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 94,
+  "translation": "କାରଣ ନ୍ୟାୟ ପାଇଁ ବିଚାର ଫେରିବ, ଆଉ ତା'ପରେ ସମସ୍ତ ସଳଖ ହୃଦୟ ⟨ଅଛନ୍ତି⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପାଇଁ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ନ୍ୟାୟ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରିବ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ବିଚାର"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "ଆଉ ତା'ପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ସଳଖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:35.214405860Z",
+  "model": "glm-5.3"
+}

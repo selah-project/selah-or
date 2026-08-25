@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଛାଗପାଠୁଆମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ, ପାପବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ଛାଗପାଠୁଆ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛାଗମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:06:34.198500566Z",
+  "model": "glm-5.3"
+}

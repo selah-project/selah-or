@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 38:23",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ମୋର ସାହାଯ୍ୟକୁ ଶୀଘ୍ର ଆସ, ହେ ଅଦୋନାଇ, ମୋର ଉଦ୍ଧାର।",
+  "tokens": [
+    {
+      "surface": "חושה",
+      "gloss": "ଶୀଘ୍ର ଆସ"
+    },
+    {
+      "surface": "לעזרתי",
+      "gloss": "ମୋର ସାହାଯ୍ୟକୁ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ହେ ଅଦୋନାଇ"
+    },
+    {
+      "surface": "תשועתי",
+      "gloss": "ମୋର ଉଦ୍ଧାର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:52.070485725Z",
+  "model": "glm-5.3"
+}

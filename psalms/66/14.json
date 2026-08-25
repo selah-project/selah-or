@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 66,
+  "translation": "ଯାହା ମୋର ଓଷ୍ଠ ଉନ୍ମୁକ୍ତ କରିଥିଲା, ଆଉ ମୋର ମୁଖ ମୋର ସଙ୍କଟ ସମୟରେ କହିଥିଲା।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "ଉନ୍ମୁକ୍ତ କରିଥିଲା"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ମୋର ଓଷ୍ଠ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଆଉ କହିଥିଲା"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୋର ମୁଖ"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "ସଙ୍କଟରେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:14:19.923054002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 12:33",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ଅଜର୍ୟା, ଏଜ୍ରା ଓ ମେଶୁଲ୍ଲାମ୍।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "ଆଉ ଅଜର୍ୟା"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "ଏଜ୍ରା"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "ଓ ମେଶୁଲ୍ଲାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:41:09.972675159Z",
+  "model": "glm-5.3"
+}

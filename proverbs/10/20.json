@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 10:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ବାଛୁରି ରୂପା ସଦାଚାରୀର ଜିଭ, ଦୁଷ୍କର୍ମୀମାନଙ୍କ ହୃଦୟ ⟨ମୂଲ୍ୟହୀନ⟩ ପରି।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "ରୂପା"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "ବାଛୁରି"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ଜିଭ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ସଦାଚାରୀର"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍କର୍ମୀମାନଙ୍କ"
+    },
+    {
+      "surface": "כמעט",
+      "gloss": "ମୂଲ୍ୟହୀନ ପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:03.922623181Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହସିବା ବିଷୟରେ ମୁଁ କହିଲି: ⟨ଏହା⟩ ଉନ୍ମାଦନା; ଆଉ ଆନନ୍ଦ ବିଷୟରେ — ଏହା କଣ କରୁଛି?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "ହସିବା ବିଷୟରେ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "ଉନ୍ମାଦନା"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "ଆଉ ଆନନ୍ଦ ବିଷୟରେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରୁଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:40.731136620Z",
+  "model": "glm-5.3"
+}

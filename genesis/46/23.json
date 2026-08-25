@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଆଉ ଦାନଙ୍କ ପୁତ୍ରଗଣ — ହୁଶିମ୍।।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ଦାନଙ୍କ"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ହୁଶିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:53:01.832460254Z",
+  "model": "glm-5.3"
+}

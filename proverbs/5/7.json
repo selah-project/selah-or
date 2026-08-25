@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 5:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଏବେ, ହେ ପୁତ୍ରମାନେ, ମୋତେ ଶୁଣ, ଓ ମୋର ମୁଖର ବଚନଗୁଡ଼ିକଠାରୁ ବିଚଳିତ ହୁଅ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ହେ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "תסורו",
+      "gloss": "ବିଚଳିତ ହୁଅ"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "ବଚନଗୁଡ଼ିକଠାରୁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୋର ମୁଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:58:28.089249257Z",
+  "model": "glm-5.3"
+}

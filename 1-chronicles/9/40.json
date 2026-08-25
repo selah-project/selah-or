@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 9:40",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଏବଂ ୟିହୋନାତନଙ୍କ ପୁତ୍ର ମେରିବ୍-ବାଲ୍, ଏବଂ ମେରି-ବାଲ୍ ⟨את⟩ ମିଖାଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "ଏବଂ ପୁତ୍ର"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "ୟିହୋନାତନଙ୍କ"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "ମେରିବ୍-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "ומרי",
+      "gloss": "ଏବଂ ମେରି-"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମିଖାଙ୍କୁ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମିଖାଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:49.432702394Z",
+  "model": "glm-5.3"
+}

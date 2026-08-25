@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 20:9",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଓ ମୋଶେ ଯାହ୍ୱେଙ୍କ ସାନ୍ନିଧ୍ୟରୁ ⟨את⟩ ଲାଠି ନେଲେ, ଯେପରି ତାଙ୍କୁ ଆଜ୍ଞା ଦେଇଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ଓ ନେଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଲାଠି"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "ଲାଠି"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ସାନ୍ନିଧ୍ୟରୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯେପରି"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ଆଜ୍ଞା ଦେଇଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:21:47.298759204Z",
+  "model": "glm-5.3"
+}

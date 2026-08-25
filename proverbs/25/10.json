@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 25:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ନଚେତ୍ ଶ୍ରୋତା ତାହାକୁ ଲଜ୍ଜିତ କରିବେ, ଆଉ ତାହାର ନିନ୍ଦା ଫେରି ଆସିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ନଚେତ୍"
+    },
+    {
+      "surface": "יחסדך",
+      "gloss": "ଲଜ୍ଜିତ କରିବେ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶ୍ରୋତା"
+    },
+    {
+      "surface": "ודבתך",
+      "gloss": "ଆଉ ... ନିନ୍ଦା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "ଫେରି ଆସିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:07.123119553Z",
+  "model": "glm-5.3"
+}

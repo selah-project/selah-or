@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 9:2",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ହାମାତ୍ ମଧ୍ୟ ତାହା ସହିତ ସୀମାବଦ୍ଧ ହେବ; ସୋର୍ ଓ ସିଦୋନ୍, କାରଣ ⟨ସେ⟩ ଅତି ଜ୍ଞାନୀ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ମଧ୍ୟ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ହାମାତ୍"
+    },
+    {
+      "surface": "תגבל",
+      "gloss": "ସୀମାବଦ୍ଧ ହେବ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ତାହା ସହିତ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ସୋର୍"
+    },
+    {
+      "surface": "וצידון",
+      "gloss": "ଓ ସିଦୋନ୍"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:33:57.845446045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 29:26",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଓ ପଞ୍ଚମ ଦିନରେ ନଅଟି ବଳଦ, ଦୁଇଟି ମେଷ, ଚତୁର୍ଦ୍ଦଶ ବର୍ଷର ମେଷଶାବକ, ନିଷ୍କଳଙ୍କ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଦିନରେ"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ପଞ୍ଚମ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "ନଅଟି"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ମେଷ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇଟି"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ମେଷଶାବକ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର — ବର୍ଷର"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚଉଦ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ନିଷ୍କଳଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:28:10.093558590Z",
+  "model": "glm-5.3"
+}

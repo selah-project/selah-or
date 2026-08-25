@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 34:33",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଓ ମୋଶେ ତାହାଙ୍କ ସହିତ ⟨את⟩ କଥା କହିବା ସମାପ୍ତ କଲେ, ଏବଂ ଆପଣା ମୁହଁ ଉପରେ ଆବରଣ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "ସମାପ୍ତ କଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "କଥା କହିବା"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାଙ୍କ"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "ଦେଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ଆପଣା ମୁହଁ"
+    },
+    {
+      "surface": "מסוה",
+      "gloss": "ଆବରଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:26:50.961719298Z",
+  "model": "glm-5.3"
+}

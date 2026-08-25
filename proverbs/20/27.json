@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ମନୁଷ୍ୟର ପ୍ରାଣଶ୍ୱାସ ଯାହ୍ୱେର ପ୍ରଦୀପ — ଉଦରର ସମସ୍ତ କୋଠରୀ ଖୋଜେ।",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ପ୍ରଦୀପ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ପ୍ରାଣଶ୍ୱାସ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ଖୋଜେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "କୋଠରୀ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ଉଦରର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:05.953553441Z",
+  "model": "glm-5.3"
+}

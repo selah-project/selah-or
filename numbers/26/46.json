@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଶେରର କନ୍ୟାର ନାମ ⟨ଥିଲା⟩ ଶେରାଖ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ଓ ନାମ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଆଶେରର"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "ଶେରାଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:27:17.867525760Z",
+  "model": "glm-5.3"
+}

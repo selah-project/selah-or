@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "nehemiah 7:12",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏଲାମଙ୍କ ପୁତ୍ରମାନେ — ଏକ ହଜାର ଦୁଇ ଶହ ଚଉର୍ଯ୍ୟାନବେ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମଙ୍କ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ଏକ ହଜାର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶହ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଏବଂ ଚାରି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:42:06.610172060Z",
+  "model": "glm-5.3"
+}

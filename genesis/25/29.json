@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ୟାକୋଭ୍ ଏକ ଝୋଳି ରାନ୍ଧିଲେ, ଆଉ ଏସାବ କ୍ଷେତରୁ ଆସିଲା, ଆଉ ⟨ସେ⟩ କ୍ଳାନ୍ତ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "ଆଉ ରନ୍ଧିଲେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "ଏକ ଝୋଳି"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ଆଉ ଆସିଲା"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "କ୍ଳାନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:34:39.902182098Z",
+  "model": "glm-5.3"
+}

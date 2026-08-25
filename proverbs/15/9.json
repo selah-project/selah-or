@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 15:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଦୁଷ୍ଟର ପଥ ଯାହ୍ୱେଙ୍କ ନିକଟରେ ଘୃଣିତ, ଆଉ ନ୍ୟାୟର ପିଛାକରୁଥିବାକୁ ⟨ତାହାଙ୍କ⟩ ପ୍ରେମ।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "ומרדף",
+      "gloss": "ଆଉ ପିଛାକରୁଥିବାକୁ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ନ୍ୟାୟର"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "ପ୍ରେମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:12.721019008Z",
+  "model": "glm-5.3"
+}

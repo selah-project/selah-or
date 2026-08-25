@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ରାଜା ଶେଲୋମୋ ପଠାଇଲେ, ଓ ⟨את⟩ ଖିରାମ୍‌ଙ୍କୁ ତ୍ସୋର୍‌ରୁ ଆଣିଲେ।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ପଠାଇଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋ"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "ଆଣିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଖିରାମ୍"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ଖିରାମ୍"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "ତ୍ସୋର୍‌ରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:40:11.586954937Z",
+  "model": "glm-5.3"
+}

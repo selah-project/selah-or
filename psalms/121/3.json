@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 121:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 121,
+  "translation": "ତାଙ୍କ ପାଖରେ ତୁମ ପାଦ କାଟିବା ନାହିଁ; ତୁମ ରକ୍ଷକ ଝୋପିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେବ ନାହିଁ"
+    },
+    {
+      "surface": "למוט",
+      "gloss": "କାଟିବା"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ତୁମ ପାଦ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ଝୋପିବ"
+    },
+    {
+      "surface": "שמרך",
+      "gloss": "ତୁମ ରକ୍ଷକ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:44.895627870Z",
+  "model": "glm-5.3"
+}

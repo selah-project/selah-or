@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 1:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଜ୍ଞାନ ଓ ଶିକ୍ଷା ଜାଣିବା ପାଇଁ, ବିବେକର ବଚନଗୁଡ଼ିକ ବୁଝିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לדעת",
+      "gloss": "ଜାଣିବା ପାଇଁ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "ଓ ଶିକ୍ଷା"
+    },
+    {
+      "surface": "להבין",
+      "gloss": "ବୁଝିବା ପାଇଁ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ବଚନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:11.494780456Z",
+  "model": "glm-5.3"
+}

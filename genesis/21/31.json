@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ସେଥିପାଇଁ ସେ ସେହି ସ୍ଥାନର ନାମ ବେଏର୍-ଶେଭା ରଖିଲେ, କାରଣ ସେଠାରେ ସେମାନେ ଉଭୟ ଶପଥ କରିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେଥିପାଇଁ ଯେ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "ନାମ ରଖିଲେ"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "ସ୍ଥାନର"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "באר",
+      "gloss": "ବେଏର୍"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେଭା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "ଶପଥ କରିଥିଲେ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ଉଭୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:29:55.504413157Z",
+  "model": "glm-5.3"
+}

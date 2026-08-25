@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "lamentations 5:13",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଯୁବକମାନେ ଯନ୍ତ୍ରପଥାରେ ପିଷିବାକୁ ନିଆଗଲେ, ଓ ବାଳକମାନେ କାଠ ତଳେ ଢଳି ପଡ଼ିଲେ।",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ଯୁବକମାନେ"
+    },
+    {
+      "surface": "טחון",
+      "gloss": "ଯନ୍ତ୍ରପଥାରେ ପିଷିବାକୁ"
+    },
+    {
+      "surface": "נשאו",
+      "gloss": "ନିଆଗଲେ"
+    },
+    {
+      "surface": "ונערים",
+      "gloss": "ଓ ବାଳକମାନେ"
+    },
+    {
+      "surface": "בעץ",
+      "gloss": "କାଠ ତଳେ"
+    },
+    {
+      "surface": "כשלו",
+      "gloss": "ଢଳି ପଡ଼ିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.408055705Z",
+  "model": "glm-5.3"
+}

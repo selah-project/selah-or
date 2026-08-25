@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଅନାଥୋତ୍, ନୋବ୍, ଅନାନ୍ୟା।",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "ଅନାଥୋତ୍"
+    },
+    {
+      "surface": "נב",
+      "gloss": "ନୋବ୍"
+    },
+    {
+      "surface": "ଢנניה",
+      "gloss": "ଅନାନ୍ୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:48:02.218693512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଏବଂ ଯାଜକର ସମସ୍ତ ମିନ୍ଖା ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ଧୂପିତ ହେବ; ଖିଆଯିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଏବଂ ସମସ୍ତ"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ମିନ୍ଖା"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ଯାଜକର"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ସମ୍ପୂର୍ଣ୍ଣ ରୂପେ ଧୂପିତ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖିଆଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:37:49.605124804Z",
+  "model": "glm-5.3"
+}

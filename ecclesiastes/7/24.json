@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯାହା ହୋଇଛି ତାହା ଦୂର ଅଟେ, ଓ ଗଭୀର, ଗଭୀର — କିଏ ତାହାକୁ ଖୋଜି ପାଇପାରିବ?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ଦୂର"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ହୋଇଛି"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "ଓ ଗଭୀର"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ଗଭୀର"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "ତାହାକୁ ଖୋଜି ପାଇପାରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:54.989332956Z",
+  "model": "glm-5.3"
+}

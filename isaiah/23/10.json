@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ପାର ହୋଇଯାଅ ତୋର ଭୂମିରେ, ନଦୀପରି, ତର୍ଶୀଶର କନ୍ୟା; ଆଉ କୌଣସି ମେଖଳା ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "ପାର ହୋଇଯାଅ"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ତୋର ଭୂମିରେ"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "ନଦୀପରି"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟା"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ତର୍ଶୀଶ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "ମେଖଳା"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:40:19.771738721Z",
+  "model": "glm-5.3"
+}

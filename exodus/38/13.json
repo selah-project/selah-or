@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଓ ପୂର୍ବ ଦିଗକୁ, ସୂର୍ଯ୍ୟୋଦୟ ଆଡ଼କୁ, ପଚାଶିଅମା।",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "ଓ ପାଖକୁ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ପୂର୍ବ ଦିଗକୁ"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ସୂର୍ଯ୍ୟୋଦୟ ଆଡ଼କୁ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶି"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ଅମା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:29:54.556515278Z",
+  "model": "glm-5.3"
+}

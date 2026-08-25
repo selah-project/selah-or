@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ହୃଦୟହୀନ ମଣିଷ ହାତରେ ଚାପୁଡ଼ି ଦେଇ ନିଜ ବନ୍ଧୁର ସାମ୍ନାରେ ଜାମିନ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ହୀନ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ଚାପୁଡ଼ି ଦେଇ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ହାତରେ (ତାଳୁ)"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ଜାମିନ ହୁଏ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ଜାମିନତ୍ୱ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ନିଜ ବନ୍ଧୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:07.408769998Z",
+  "model": "glm-5.3"
+}

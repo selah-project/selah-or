@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ସନ୍ଧ୍ୟା ହେଲା, ଆଉ ପ୍ରଭାତ ହେଲା — ପଞ୍ଚମ ଦିନ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ସନ୍ଧ୍ୟା"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ପ୍ରଭାତ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "ପଞ୍ଚମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:46.557404062Z",
+  "model": "glm-5.3"
+}

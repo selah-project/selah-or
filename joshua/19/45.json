@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଏବଂ ୟିହୁଦ୍, ଏବଂ ବନେ-ବାରାକ୍, ଏବଂ ଗତ୍-ରିମ୍ମୋନ୍।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "ଏବଂ ୟିହୁଦ୍"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଏବଂ ବନେ-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ବାରାକ୍"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "ଏବଂ ଗତ୍-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ରିମ୍ମୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:21:58.663304534Z",
+  "model": "glm-5.3"
+}

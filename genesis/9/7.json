@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 9:7",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ତୁମ୍ଭେମାନେ ଫଳଧାରୀ ହୁଅ ଓ ବଢ଼; ପୃଥିବୀରେ ଭରିଯାଅ ଓ ତାହାରେ ବଢ଼।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "ଆଉ ତୁମ୍ଭେମାନେ"
+    },
+    {
+      "surface": "פרו",
+      "gloss": "ଫଳଧାରୀ ହୁଅ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ଓ ବଢ଼"
+    },
+    {
+      "surface": "שרצו",
+      "gloss": "ଭରିଯାଅ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    },
+    {
+      "surface": "ורבו",
+      "gloss": "ଓ ବଢ଼"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ତାହାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:56.779762849Z",
+  "model": "glm-5.3"
+}

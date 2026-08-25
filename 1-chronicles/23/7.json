@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଗେର୍ଶୋନୀୟମାନଙ୍କ ପାଇଁ — ଲାଦାନ୍ ଓ ଶିମି।",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "ଗେର୍ଶୋନୀୟମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ଲାଦାନ୍"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "ଓ ଶିମି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:40.621034165Z",
+  "model": "glm-5.3"
+}

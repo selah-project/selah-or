@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 15:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ନିଜ ମୁଖର ଉତ୍ତରରେ ଲୋକ ପାଇଁ ଆନନ୍ଦ; ଆଉ ଉପଯୁକ୍ତ ସମୟର ଶବ୍ଦ — କେଡ଼ା ଉତ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ଲୋକ ପାଇଁ"
+    },
+    {
+      "surface": "במענה",
+      "gloss": "ଉତ୍ତରରେ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ନିଜ ମୁଖର"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଆଉ ଶବ୍ଦ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ଉପଯୁକ୍ତ ସମୟର"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କେଡ଼ା"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:36.883042239Z",
+  "model": "glm-5.3"
+}

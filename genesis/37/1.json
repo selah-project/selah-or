@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଆଉ ୟାକୋଭ୍ ତାହାଙ୍କ ପିତାଙ୍କ ପ୍ରବାସର ଦେଶରେ, କେନାନ୍ ଦେଶରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "ପ୍ରବାସର"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ତାହାଙ୍କ ପିତାଙ୍କ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କେନାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:45:42.352528924Z",
+  "model": "glm-5.3"
+}

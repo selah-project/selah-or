@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ମୁଶୀଙ୍କ ପୁତ୍ରଗଣ — ମାଖଲୀ, ଏଦେର୍ ଓ ୟିରେମୋତ୍, ତିନିଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "ମୁଶୀଙ୍କ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "ମାଖଲୀ"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "ଓ ଏଦେର୍"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "ଓ ୟିରେମୋତ୍"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନିଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:09:18.124073268Z",
+  "model": "glm-5.3"
+}

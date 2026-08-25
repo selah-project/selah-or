@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 16:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ସେଥିପାଇଁ କୂପର ନାମ କୁହାଗଲା ବେଏର୍-ଲାଖାଇ-ରୋଇ; ଦେଖ, ଏହା କାଦେଶ୍ ଓ ବେରେଦ୍ ମଧ୍ୟରେ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ତାହା ସତେଜେ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "କୁହାଗଲା"
+    },
+    {
+      "surface": "לבאר",
+      "gloss": "କୂପର"
+    },
+    {
+      "surface": "באר",
+      "gloss": "କୂପ"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "ଜୀବନ୍ତଙ୍କ"
+    },
+    {
+      "surface": "ראי",
+      "gloss": "ଯିଏ ମୋତେ ଦେଖନ୍ତି"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "କାଦେଶ୍"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ବେରେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:27:22.848117043Z",
+  "model": "glm-5.3"
+}

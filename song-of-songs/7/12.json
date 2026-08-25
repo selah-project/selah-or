@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆସ ମୋର ପ୍ରିୟ, ଆମ୍ଭେ କ୍ଷେତକୁ ବାହାରିବା, ଗାଆଁଗୁଡ଼ିକରେ ରାତି କାଟିବା ।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "ଆମ୍ଭେ ବାହାରିବା"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତକୁ"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "ରାତି କାଟିବା"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "ଗାଆଁଗୁଡ଼ିକରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:36.644678775Z",
+  "model": "glm-5.3"
+}

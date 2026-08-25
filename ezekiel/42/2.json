@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ଉତ୍ତର ଦ୍ୱାରର ସାମ୍ନାରେ ଶହେ ହାତ ଦୈର୍ଘ୍ୟ ଥିଲା, ଆଉ ଓସାର ପଚାଶି ହାତ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ଦ୍ୱାର"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "ଆଉ ଓସାର"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶି"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:42:42.776890036Z",
+  "model": "glm-5.3"
+}

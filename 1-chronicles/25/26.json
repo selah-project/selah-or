@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 25:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଊଣବିଂଶତମ ମଲ୍ଲୋତିର — ତାହାର ପୁତ୍ରମାନେ ଓ ତାହାର ଭାଇମାନେ — ବାରଟି।",
+  "tokens": [
+    {
+      "surface": "לתשעה",
+      "gloss": "ଊଣବିଂଶ(ଉନିଶ)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ତମ"
+    },
+    {
+      "surface": "למלותי",
+      "gloss": "ମଲ୍ଲୋତିର"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାହାର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଓ ତାହାର ଭାଇମାନେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:07.352067615Z",
+  "model": "glm-5.3"
+}

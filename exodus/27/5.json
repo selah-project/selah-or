@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 27:5",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଓ ତୁମ୍ଭେ ତାହାକୁ ରଖିବ ⟨את⟩ ତଳେ, ଯାଗାର ପାଟିର, ତଳୁ; ଓ ଜାଲିଟି ହେବ ଯାଗାର ଅଧା ପର୍ଯ୍ୟନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "ଓ ତୁମ୍ଭେ ରଖିବ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାକୁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "כרכב",
+      "gloss": "ପାଟି"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ଯାଗାର"
+    },
+    {
+      "surface": "מלמטה",
+      "gloss": "ତଳୁ"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "ଓ ହେବ"
+    },
+    {
+      "surface": "הרשת",
+      "gloss": "ଜାଲି"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ଅଧା"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ଯାଗାର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:19:12.930484712Z",
+  "model": "glm-5.3"
+}

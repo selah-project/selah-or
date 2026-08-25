@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 6:44",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ⟨את⟩ ଆଶାନ ଓ ⟨את⟩ ତାହାର ଚରାଭୂମି, ⟨את⟩ ବେତ୍-ଶେମେଶ ଓ ⟨את⟩ ତାହାର ଚରାଭୂମି।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଆଶାନ"
+    },
+    {
+      "surface": "עשן",
+      "gloss": "ଆଶାନ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଚରାଭୂମି"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରାଭୂମି"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ବେତ୍-ଶେମେଶ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ଶେମେଶ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଚରାଭୂମି"
+    },
+    {
+      "surface": "מגרשיה",
+      "gloss": "ତାହାର ଚରାଭୂମି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:20.535171274Z",
+  "model": "glm-5.3"
+}

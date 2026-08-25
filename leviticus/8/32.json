@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ମାଂସ ଓ ରୁଟିରେ ଯାହା ବଳିଯିବ, ତାହା ତୁମ୍ଭେମାନେ ଅଗ୍ନିରେ ପୋଡ଼ିବ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "ଯାହା ବଳିଯିବ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ମାଂସରେ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "ଓ ରୁଟିରେ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ଅଗ୍ନିରେ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "ପୋଡ଼ିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:40:54.971191743Z",
+  "model": "glm-5.3"
+}

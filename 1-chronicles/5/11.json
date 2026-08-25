@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଗାଦର ପୁତ୍ରମାନେ ସେମାନଙ୍କ ସାମୁରେ ବାଶାନ୍ ଦେଶରେ ସଲ୍‌ଖା ପର୍ଯ୍ୟନ୍ତ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ ... ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦର"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ସେମାନଙ୍କ ସାମୁରେ"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "ବାଶାନ୍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ସଲ୍‌ଖା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:31.007804011Z",
+  "model": "glm-5.3"
+}

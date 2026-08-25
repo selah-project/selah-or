@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଷେରାୟା, ଅଜାରିୟା, ଯିର୍ମିୟା।",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "ଷେରାୟା"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ଅଜାରିୟା"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ଯିର୍ମିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:34.596691124Z",
+  "model": "glm-5.3"
+}

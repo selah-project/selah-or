@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାନ ଦିଅ, ହେ ଆକାଶମଣ୍ଡଳଗଣ, ଆଉ ମୁଁ କହିବି; ଆଉ ଶୁଣ, ହେ ପୃଥିବୀ, ମୋ ପାଟିର ବଚନଗୁଡ଼ିକୁ।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "କାନ ଦିଅ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ହେ ଆକାଶମଣ୍ଡଳଗଣ"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "ଆଉ ମୁଁ କହିବି"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "ଆଉ ଶୁଣ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ହେ ପୃଥିବୀ"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "ବଚନଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "ପି",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T10:05:10.538055636Z",
+  "model": "glm-5.3"
+}

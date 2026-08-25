@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ଯେତେବେଳେ ମୁଁ ପୃଥିବୀ ଉପରେ ମେଘ ଆଣିବି, ଧନୁକମାନ ମେଘରେ ଦେଖାଯିବ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ଓ ହେବ"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "ମୁଁ ଆଣିବା ସମୟରେ"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "ମେଘ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "ଓ ଦେଖାଯିବ"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "ଧନୁକମାନ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ମେଘରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:42.117580694Z",
+  "model": "glm-5.3"
+}

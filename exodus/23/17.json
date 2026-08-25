@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ବର୍ଷରେ ତିନି ଥର ତୁମର ସମସ୍ତ ପୁରୁଷ ଅଦନ୍ ଯାହ୍ୱେଙ୍କ ଦର୍ଶନକୁ ଦେଖା ହେବେ।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ଥର"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ବର୍ଷରେ"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଦେଖା ହେବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "ତୁମର ପୁରୁଷ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ଦର୍ଶନ"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "ଅଦନ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:18:15.198757459Z",
+  "model": "glm-5.3"
+}

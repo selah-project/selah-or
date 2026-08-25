@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଇଣୁ ହେ ରଖୟାମାନେ, ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଶୁଣାଅ ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ଇଣୁ"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "ହେ ରଖୟାମାନେ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣାଅ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:29:49.243353264Z",
+  "model": "glm-5.3"
+}

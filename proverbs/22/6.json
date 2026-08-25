@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ବାଳକକୁ ତାହାର ପଥ ଅନୁସାରେ ପ୍ରଶିକ୍ଷିତ କର; ବୃଦ୍ଧ ହେଲେ ମଧ୍ୟ ସେ ତାହାଠାରୁ ହଟିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "ପ୍ରଶିକ୍ଷିତ କର"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ବାଳକକୁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଅନୁସାରେ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ତାହାର ପଥ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "ବୃଦ୍ଧ ହେବ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ହଟିବ"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "ତାହାଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:58.413477737Z",
+  "model": "glm-5.3"
+}

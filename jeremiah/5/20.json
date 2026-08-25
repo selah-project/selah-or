@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏହା ୟାକୋଭ୍‌ର ଗୃହରେ ଘୋଷଣା କର, ଆଉ ୟିହୂଦାରେ ଏହା ଶୁଣାଅ, କହି:",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "ଘୋଷଣା କର"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଗୃହରେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "ଆଉ ଶୁଣାଅ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "ୟିହୂଦାରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:37:20.290396230Z",
+  "model": "glm-5.3"
+}

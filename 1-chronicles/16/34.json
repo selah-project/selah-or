@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 16:34",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଯାହ୍ୱେଙ୍କୁ ଧନ୍ୟବାଦ ଦିଅନ୍ତୁ, କାରଣ ସେ ଉତ୍ତମ, କାରଣ ସର୍ବଦା ତାହାଙ୍କ ଖେସେଦ୍।",
+  "tokens": [
+    {
+      "surface": "הודו",
+      "gloss": "ଧନ୍ୟବାଦ ଦିଅନ୍ତୁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ତାହାଙ୍କ ଖେସେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:05:07.460477454Z",
+  "model": "glm-5.3"
+}

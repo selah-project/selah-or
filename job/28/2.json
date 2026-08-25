@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଲୁହା ଧୂଳିରୁ ନିଆଯାଏ, ଏବଂ ପଥରରୁ ତମ୍ବା ଗଳାଯାଏ।",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "ଧୂଳିରୁ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନିଆଯାଏ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଏବଂ ପଥର"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ଗଳାଯାଏ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ତମ୍ବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:35:27.180380185Z",
+  "model": "glm-5.3"
+}

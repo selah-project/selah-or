@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 24:33",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଅଳି ନିଦ, ଅଳି ତନ୍ଦ୍ରା, ଅଳି ହାତ ମିଶାଇବା — ଶୋଇବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳି"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ନିଦ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳି"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ତନ୍ଦ୍ରା"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳି"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ମିଶାଇବା"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ଶୋଇବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:11.391461311Z",
+  "model": "glm-5.3"
+}

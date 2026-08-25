@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ezekiel 44:21",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଆଉ ମଦ୍ୟପାନ କରିବେ ନାହିଁ କୌଣସି ଯାଜକ, ଯେତେବେଳେ ସେମାନେ ଭିତର ପ୍ରାଙ୍ଗଣକୁ ଆସିବେ ।",
+  "tokens": [
+    {
+      "surface": "ויין",
+      "gloss": "ଆଉ ମଦ୍ୟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ପାନ କରିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "בבואם",
+      "gloss": "ସେମାନେ ଆସିବା ବେଳେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "⟨the⟩ ପ୍ରାଙ୍ଗଣ"
+    },
+    {
+      "surface": "הפנימית",
+      "gloss": "ଭିତର"
+    }
+  ],
+  "timestamp": "2026-08-25T15:45:39.350915208Z",
+  "model": "glm-5.3"
+}

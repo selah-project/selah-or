@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ୟେଲୋନ୍, ତିମନତାହ୍ ଓ ୟେକରୋନ୍।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "ୟେଲୋନ୍"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "ତିମନତାହ୍"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "ୟେକରୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:49.268024401Z",
+  "model": "glm-5.3"
+}

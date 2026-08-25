@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 33:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ତଥାପି ହଉ, ଇୟୋବ୍, ମୋ କଥା ଶୁଣ, ଦେଖଣା, ଆଉ ମୋର ସବୁ ବାକ୍ୟ କାନ ଦିଅ।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "ତଥାପି ହଉ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଦେଖଣା"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇୟୋବ୍"
+    },
+    {
+      "surface": "מלי",
+      "gloss": "ମୋ କଥା"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ସବୁ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ମୋର ବାକ୍ୟ"
+    },
+    {
+      "surface": "האזינה",
+      "gloss": "କାନ ଦିଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:39:36.798347852Z",
+  "model": "glm-5.3"
+}

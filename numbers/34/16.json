@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 34:16",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହିତ କଥା ହେଲେ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:34:30.528921577Z",
+  "model": "glm-5.3"
+}

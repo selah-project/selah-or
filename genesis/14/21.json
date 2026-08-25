@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 14:21",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ସେଦୋମର ରାଜା ଅବ୍ରାହାମଙ୍କୁ କହିଲେ — ମୋତେ ପ୍ରାଣୀମାନଙ୍କୁ ଦିଅ, ଆଉ ସମ୍ପତ୍ତି ତୁମ ପାଇଁ ନିଅ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ସେଦୋମର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "ଅବ୍ରାହାମ"
+    },
+    {
+      "surface": "תן",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "ପ୍ରାଣୀମାନଙ୍କୁ"
+    },
+    {
+      "surface": "והרכש",
+      "gloss": "ଆଉ ସମ୍ପତ୍ତି"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ନିଅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:22.696784318Z",
+  "model": "glm-5.3"
+}

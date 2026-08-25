@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଲେମେଖ୍‌ର ସମସ୍ତ ଦିନ ସାତ ଓ ସତୁରି ବର୍ଷ ଓ ସାତଶହ ବର୍ଷ ହେଲା, ଓ ସେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "למך",
+      "gloss": "ଲେମେଖ୍‌ର"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ଓ ସତୁରି"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ଓ ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁବରଣ କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:55.838993120Z",
+  "model": "glm-5.3"
+}

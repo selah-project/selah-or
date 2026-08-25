@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 81:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 81,
+  "translation": "ମାସରେ ଶୋଫାର୍ ବଜାଅ, ନିର୍ଧାରିତ ସମୟରେ, ଆମ ପର୍ବ-ଦିନରେ।",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "ବଜାଅ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ମାସରେ"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ଶୋଫାର୍"
+    },
+    {
+      "surface": "בכסה",
+      "gloss": "ନିର୍ଧାରିତ ସମୟରେ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "חגנו",
+      "gloss": "ଆମ ପର୍ବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:27:20.709479368Z",
+  "model": "glm-5.3"
+}

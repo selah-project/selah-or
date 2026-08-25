@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ତୃତୀୟ ଦିନରେ ଜେବୁଲୁନ୍ ପୁତ୍ରମାନଙ୍କ ନେତା ହେଲୋନଙ୍କ ପୁତ୍ର ଏଲିୟାବ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନେତା"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ଜେବୁଲୁନ୍"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ଏଲିୟାବ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ହେଲୋନ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:20.722769126Z",
+  "model": "glm-5.3"
+}

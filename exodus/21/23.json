@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଯଦି କ୍ଷତି ଘଟେ, ତେବେ ତୁମ୍ଭେ ପ୍ରାଣ ବଦଳରେ ପ୍ରାଣ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "କ୍ଷତି"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ଘଟେ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "ତେବେ ତୁମ୍ଭେ ଦେବ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:15:46.017607588Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 23:10",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ଛଅ ବର୍ଷ ତୁମ୍ଭେ ⟨את⟩ ତୁମ୍ଭ ଭୂମି ବୁଣିବ ଏବଂ ⟨את⟩ ତାହାର ଫସଲ କାଟିବ।",
+  "tokens": [
+    {
+      "surface": "ושש",
+      "gloss": "ଆଉ ଛଅ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "תזרע",
+      "gloss": "ବୁଣିବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତୁମ୍ଭ ଭୂମି"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "ତୁମ୍ଭ ଭୂମି"
+    },
+    {
+      "surface": "ואספת",
+      "gloss": "ଏବଂ କାଟିବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାର ଫସଲ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ତାହାର ଫସଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:17:13.527076450Z",
+  "model": "glm-5.3"
+}

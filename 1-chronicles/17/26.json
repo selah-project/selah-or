@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 17:26",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଓ ଏବେ, ହେ ଯାହ୍ୱେ, ଆପଣ ହିଁ ⟨ସେ⟩ ଏଲୋହିମ୍, ଏବଂ ଆପଣ ଆପଣା ଦାସ ବିଷୟରେ ଏହି ମଙ୍ଗଳ କଥା କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଓ ଏବେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ସେ⟩ ହିଁ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "ותדבר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "ଆପଣା ଦାସ"
+    },
+    {
+      "surface": "הטובה",
+      "gloss": "ଏହି ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:16.903935306Z",
+  "model": "glm-5.3"
+}

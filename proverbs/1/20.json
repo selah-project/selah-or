@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ହିକମତ ବାହାରେ ଜୋରରେ ଡାକେ, ଚୋରାସଡ଼କରେ ⟨ସେ⟩ ନିଜ ସ୍ୱର ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ହିକମତ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ଜୋରରେ ଡାକେ"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "ଚୋରାସଡ଼କରେ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "ନିଜ ସ୍ୱର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:56:53.495679358Z",
+  "model": "glm-5.3"
+}

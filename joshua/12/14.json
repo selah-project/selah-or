@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ହର୍ମାହ୍ ର ରାଜା, ଜଣେ; ଅରାଦ୍ ର ରାଜା, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ହର୍ମାହ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "ଅରାଦ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:39.849972176Z",
+  "model": "glm-5.3"
+}

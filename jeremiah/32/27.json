@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଦେଖ, ମୁଁ ଯାହ୍ୱେ, ସମସ୍ତ ମାଂସର ଏଲୋହିମ୍; ମୋ' ପାଖରୁ କୌଣସି ବି କଥା କ'ଣ ଅଦ୍ଭୁତ ହେବ?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ମାଂସର"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "ମୋ' ପାଖରୁ"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "ଅଦ୍ଭୁତ ହେବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି ବି"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କଥା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:20:52.250400519Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 19:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "କହିଲେ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପାଖକୁ ଓ ଅହାରୋନ୍‌ଙ୍କ ପାଖକୁ ଏହା କହିବାକୁ ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପାଖକୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହାରୋନ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏହା କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:23:02.499786190Z",
+  "model": "glm-5.3"
+}

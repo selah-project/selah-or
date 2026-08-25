@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 53,
+  "translation": "ସମସ୍ତେ ପିଛାଇଗଲେ, ଏକତ୍ର ଭ୍ରଷ୍ଟ ହେଲେ; ଭଲ କରୁଥିବା କେହି ନାହିଁ, ଜଣେ ମଧ୍ୟ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "ସମସ୍ତେ"
+    },
+    {
+      "surface": "סג",
+      "gloss": "ପିଛାଇଗଲେ"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ଏକତ୍ର"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "ଭ୍ରଷ୍ଟ ହେଲେ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କରୁଥିବା"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ ମଧ୍ୟ ନୁହେଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:31:06.162281654Z",
+  "model": "glm-5.3"
+}

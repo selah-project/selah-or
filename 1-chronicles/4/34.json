@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ମେଶୋବାବ, ୟାମ୍‌ଲେଖ, ଆଉ ୟୋଶାହ — ଅମାତ୍‌ସିୟାର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "ଆଉ ମେଶୋବାବ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "ୟାମ୍‌ଲେଖ"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "ଆଉ ୟୋଶାହ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ଅମାତ୍‌ସିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:24.190037499Z",
+  "model": "glm-5.3"
+}

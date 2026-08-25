@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 23:34",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ତୁମେ ସମୁଦ୍ର ମଧ୍ୟରେ ଶୋଇଥିବା ପରି ହେବ, ଆଉ ମସ୍ତୁଲ ଉପରେ ଶୋଇଥିବା ପରି।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ଆଉ ତୁମେ ହେବ"
+    },
+    {
+      "surface": "כשכב",
+      "gloss": "ଶୋଇଥିବା ପରି"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "וכשכב",
+      "gloss": "ଆଉ ଶୋଇଥିବା ପରି"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ମସ୍ତୁଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:48.192714926Z",
+  "model": "glm-5.3"
+}

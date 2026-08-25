@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 19:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଅଳସୁଆ ଆଳୁ ନିଜ ହାତ ଥାଳିରେ ଲୁଚାଏ, ମାତ୍ର ନିଜ ମୁଖକୁ ମଧ୍ୟ ତାହା ଫେରାଏ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "ଲୁଚାଏ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ଅଳସୁଆ ଆଳୁ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ନିଜ ହାତ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ଥାଳିରେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମାତ୍ର ମଧ୍ୟ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ନିଜ ମୁଖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישיבנה",
+      "gloss": "ତାହା ଫେରାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:15.135213111Z",
+  "model": "glm-5.3"
+}

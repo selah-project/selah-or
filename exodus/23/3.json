@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଏବଂ ଦରିଦ୍ରଙ୍କ ତାହାର ବିବାଦରେ ପ୍ରାଧାନ୍ୟ ଦେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "ଏବଂ ଦରିଦ୍ର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "ପ୍ରାଧାନ୍ୟ ଦେବ"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ତାହାର ବିବାଦରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:18:14.572928511Z",
+  "model": "glm-5.3"
+}

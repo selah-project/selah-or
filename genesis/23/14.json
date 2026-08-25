@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଓ ଏଫ୍ରୋନ୍ ⟨את⟩ ଅବ୍ରାହାମ୍‌ଙ୍କୁ ଉତ୍ତର ଦେଲେ, ତାଙ୍କୁ କହିବାକୁ,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଓ ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "ଏଫ୍ରୋନ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:30:56.734479278Z",
+  "model": "glm-5.3"
+}

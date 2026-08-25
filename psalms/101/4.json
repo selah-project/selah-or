@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 101,
+  "translation": "ବକ୍ର ହୃଦୟ ମୋଠାରୁ ଦୂରକୁ ଫେରିଯିବ; ମନ୍ଦକୁ ମୁଁ ଜାଣିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ବକ୍ର"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "ଫେରିଯିବ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ମୋଠାରୁ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ମୁଁ ଜାଣିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:37:32.794071087Z",
+  "model": "glm-5.3"
+}

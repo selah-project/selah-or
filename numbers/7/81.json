@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗୋଟିଏ ବଳଦ, ଗୋରୁର ବଛା, ଗୋଟିଏ ମେଣ୍ଢା, ଗୋଟିଏ ମେଣ୍ଢାଛୁଆ, ବର୍ଷର ପୁଅ, ହୋମବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ବଛା (ପୁଅ)"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "איל",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "ମେଣ୍ଢାଛୁଆ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ବର୍ଷର"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "ହୋମବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:24.175808634Z",
+  "model": "glm-5.3"
+}

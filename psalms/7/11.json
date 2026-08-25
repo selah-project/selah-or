@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ମୋର ଢାଲ ⟨ଅଛି⟩ ଏଲୋହିମ୍ ପାଖରେ, ସଳଖ ହୃଦୟର ତ୍ରାଣକର୍ତ୍ତା।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "ମୋର ଢାଲ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "ତ୍ରାଣକର୍ତ୍ତା"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "ସଳଖ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:43:07.974434869Z",
+  "model": "glm-5.3"
+}

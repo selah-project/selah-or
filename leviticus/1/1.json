@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 1:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ ⟨ସେ⟩ ମୋଶେଙ୍କୁ ଡାକିଲେ, ଓ ଯାହ୍ୱେ ମିଳନ-ତମ୍ବୁରୁ ତାଙ୍କ ସହିତ କଥା ହେଲେ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ଓ ଡାକିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କଥା ହେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "מאהל",
+      "gloss": "ତମ୍ବୁରୁ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ମିଳନ-"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:34:20.300344644Z",
+  "model": "glm-5.3"
+}

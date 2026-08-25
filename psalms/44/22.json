@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 44:22",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ଏଲୋହିମ୍ କି ଏହା ଅନୁସନ୍ଧାନ କରିବେ ନାହିଁ? କାରଣ ସେ ହୃଦୟର ଗୁପ୍ତ କଥା ଜାଣନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "କି ନାହିଁ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "יחקר",
+      "gloss": "ଅନୁସନ୍ଧାନ କରିବେ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣନ୍ତି"
+    },
+    {
+      "surface": "תעלמות",
+      "gloss": "ଗୁପ୍ତ କଥା"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:06:42.590265030Z",
+  "model": "glm-5.3"
+}

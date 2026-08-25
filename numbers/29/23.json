@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଓ ଚତୁର୍ଥ ଦିନରେ ଦଶଟି ବଳଦ, ଦୁଇଟି ମେଷ, ଚଉଦଟି ମେଣ୍ଢାଛୁଆ — ଏକବର୍ଷିଆ, ନିର୍ଦ୍ଦୋଷ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଦିନରେ"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ଚତୁର୍ଥ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶଟି"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ମେଷ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇଟି"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ମେଣ୍ଢାଛୁଆ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁଅମାନଙ୍କ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚଉଦ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…ଦଶ"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ନିର୍ଦ୍ଦୋଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:28:14.228230619Z",
+  "model": "glm-5.3"
+}

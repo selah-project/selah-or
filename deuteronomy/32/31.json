@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "deuteronomy 32:31",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ସେମାନଙ୍କ ଶିଳା ଆମର ଶିଳା ପରି ନୁହେଁ — ଆଉ ଆମ ଶତ୍ରୁମାନେ ହିଁ ⟨ଏଥିର⟩ ବିଚାରକ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "כצורנו",
+      "gloss": "ଆମର ଶିଳା ପରି"
+    },
+    {
+      "surface": "צורם",
+      "gloss": "ସେମାନଙ୍କ ଶିଳା"
+    },
+    {
+      "surface": "ואיבינו",
+      "gloss": "ଆଉ ଆମ ଶତ୍ରୁମାନେ"
+    },
+    {
+      "surface": "פלילים",
+      "gloss": "ବିଚାରକ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:04:21.525429320Z",
+  "model": "glm-5.3"
+}

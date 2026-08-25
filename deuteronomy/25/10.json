@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଓ ତାହାର ନାମ ଇସ୍ରାଏଲରେ — ଚଟି-ଖୋଳା ଘର — ଭାବରେ ଡକାଯିବ।",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "ଓ ଡକାଯିବ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତାହାର ନାମ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ଇସ୍ରାଏଲରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "ଚଟି-ଖୋଳା"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "ଚଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:54.755460978Z",
+  "model": "glm-5.3"
+}

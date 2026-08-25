@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ଗେଦୋର୍, ଏବଂ ଅହିୟୋ, ଏବଂ ଜାଖେର୍।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "ଆଉ ଗେଦୋର୍"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "ଏବଂ ଅହିୟୋ"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "ଏବଂ ଜାଖେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:39.133986751Z",
+  "model": "glm-5.3"
+}

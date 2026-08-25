@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ସମସ୍ତ ନେତିନୀମ୍ ଓ ଶେଲୋମୋହର ଦାସମାନଙ୍କ ପୁତ୍ରମାନେ — ତିନି ଶହ ନବୟାନବେ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "ନେତିନୀମ୍"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "ଦାସମାନଙ୍କ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋହର"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ନବୟାନବେ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "ଓ ଦୁଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:41:23.977505722Z",
+  "model": "glm-5.3"
+}

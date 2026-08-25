@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 6:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଶୁଣ, ହେ ୟିସ୍ରାଏଲ୍ — ଯାହ୍ୱେ ଆମ୍ଭ ଏଲୋହିମ୍, ଯାହ୍ୱେ ⟨ଅଟନ୍ତି⟩ ଏକ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ହେ ୟିସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ଆମ୍ଭ ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:41:12.536999299Z",
+  "model": "glm-5.3"
+}

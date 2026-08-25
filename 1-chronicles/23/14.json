@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ମୋଶେ, ଏଲୋହିମଙ୍କ ଲୋକ, ତାଙ୍କ ପୁତ୍ରମାନେ ଲେବୀ ଗୋଷ୍ଠୀ ଉପରେ ନାମିତ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମଙ୍କ"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "ତାଙ୍କ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "ନାମିତ ହେଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "ଗୋଷ୍ଠୀ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "ଲେବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:49.729950880Z",
+  "model": "glm-5.3"
+}

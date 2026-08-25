@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 10:18",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଅନାଥ ଓ ଦଳିତର ବିଚାର କରିବାକୁ — ପୃଥିବୀର ମର୍ତ୍ତ୍ୟ ମନୁଷ୍ୟ ଆଉ ଭୟ ଦେଖାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לשפט",
+      "gloss": "ବିଚାର କରିବାକୁ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ଅନାଥ"
+    },
+    {
+      "surface": "ודך",
+      "gloss": "ଓ ଦଳିତ"
+    },
+    {
+      "surface": "בל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "לערץ",
+      "gloss": "ଭୟ ଦେଖାଇବ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ମର୍ତ୍ତ୍ୟ ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ର"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:46:52.182849368Z",
+  "model": "glm-5.3"
+}

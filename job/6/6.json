@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 6:6",
+  "book": "job",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅରୁଚି ଖାଦ୍ୟ ଲୁଣ ବିନା ଖାଆଯାଏ କି? ଅଣ୍ଡର ଧଳା ଅଂଶରେ କୌଣସି ସ୍ୱାଦ ଅଛି କି?",
+  "tokens": [
+    {
+      "surface": "היאכל",
+      "gloss": "ଖାଆଯାଏ କି"
+    },
+    {
+      "surface": "תפל",
+      "gloss": "ଅରୁଚି ଖାଦ୍ୟ"
+    },
+    {
+      "surface": "מבלי",
+      "gloss": "ବିନା"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "ଲୁଣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "କି"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ସ୍ୱାଦ"
+    },
+    {
+      "surface": "בריר",
+      "gloss": "ଧଳା ଅଂଶ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ଅଣ୍ଡ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:24:13.612560726Z",
+  "model": "glm-5.3"
+}

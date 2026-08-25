@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଉତ୍ତମ ଶୋକ-ଗୃହକୁ ଯିବା ଭୋଜି-ଗୃହକୁ ଯିବାଠାରୁ, କାରଣ ଏହା ⟨ଏହି ଶେଷ⟩ ସମସ୍ତ ମନୁଷ୍ୟର ଶେଷ, ଏବଂ ଜୀବିତ ଏହାକୁ ତାହାର ହୃଦୟରେ ରଖେ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ଯିବା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "ଶୋକ"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "ଠାରୁ ଯିବା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ଭୋଜି"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ଶେଷ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "ଏବଂ ଜୀବିତ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ରଖେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ତାହାର ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:13.839060232Z",
+  "model": "glm-5.3"
+}

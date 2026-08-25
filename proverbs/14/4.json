@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 14:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଯେଉଁଠାରେ ବଳଦ ନାହାନ୍ତି, ତାଠରେ ଗହମର କାଠି ଖାଲି; କିନ୍ତୁ ବଳଦର ବଳରୁ ପ୍ରଚୁର ଫସଲ।",
+  "tokens": [
+    {
+      "surface": "באין",
+      "gloss": "ଯେଉଁଠାରେ ... ନାହାନ୍ତି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "אבוס",
+      "gloss": "ଗହମର କାଠି"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ଖାଲି"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "କିନ୍ତୁ ପ୍ରଚୁର"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ଫସଲ"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "ବଳରୁ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ବଳଦର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:40.697804060Z",
+  "model": "glm-5.3"
+}

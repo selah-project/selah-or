@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ବୋଅଜ୍ ⟨את⟩ ଓବେଦଙ୍କୁ ଜନ୍ମ ଦେଲେ, ଆଉ ଓବେଦ୍ ⟨את⟩ ୟିଶାଇଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "ଆଉ ବୋଅଜ୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଓବେଦଙ୍କୁ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ଓବେଦଙ୍କୁ"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "ଆଉ ଓବେଦ୍"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ୟିଶାଇଙ୍କୁ"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ୟିଶାଇଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:49.907776310Z",
+  "model": "glm-5.3"
+}

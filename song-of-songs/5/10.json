@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମୋର ପ୍ରିୟ ⟨is⟩ ଉଜ୍ଜ୍ୱଳ ଓ ଲାଲ, ଦଶ ହଜାର ମଧ୍ୟରୁ ⟨ଏକ⟩ ଧ୍ୱଜାରୋପିତ ।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "צח",
+      "gloss": "ଉଜ୍ଜ୍ୱଳ"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "ଓ ଲାଲ"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "ଧ୍ୱଜାରୋପିତ (ଅଗ୍ରଣୀ)"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "ଦଶ ହଜାର ମଧ୍ୟରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:47:23.102968699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଗିବ୍‌ଓନ୍, ହାରାମା ଓ ବେଏରୋତ୍।",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "ଗିବ୍‌ଓନ୍"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "ହାରାମା"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "ବେଏରୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:12.955135667Z",
+  "model": "glm-5.3"
+}

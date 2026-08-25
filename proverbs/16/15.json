@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 16:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ରାଜାର ମୁଖର ଆଲୋକରେ ଜୀବନ ⟨ଅଛି⟩, ଆଉ ତାହାର ପ୍ରୀତି ପାର୍ଶ୍ୱବର୍ଷାର ମେଘ ପରି।",
+  "tokens": [
+    {
+      "surface": "באור",
+      "gloss": "ଆଲୋକରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁଖର"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "ורצונו",
+      "gloss": "ଆଉ ତାହାର ପ୍ରୀତି"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "ମେଘ ପରି"
+    },
+    {
+      "surface": "מלקוש",
+      "gloss": "ପାର୍ଶ୍ୱବର୍ଷାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:47.294975550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଡାଳିକଟା ଖଣ୍ଡ ପରି ତୋର କପାଳ, ତୋର ଓଢ଼ଣା ପଛରେ ।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "ଖଣ୍ଡ ପରି"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "ଡାଳିକଟା"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "ତୋର କପାଳ"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "ପଛରେ"
+    },
+    {
+      "surface": "לצמתך",
+      "gloss": "ତୋର ଓଢ଼ଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:49:16.686687729Z",
+  "model": "glm-5.3"
+}

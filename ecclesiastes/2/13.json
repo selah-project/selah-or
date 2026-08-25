@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ଦେଖିଲି ଯେ ମୂର୍ଖତା ଅପେକ୍ଷା ଜ୍ଞାନର ଅଧିକାଂଶ ⟨ଅଛି⟩, ଯେପରି ଅନ୍ଧାର ଅପେକ୍ଷା ଆଲୋକର ଅଧିକାଂଶ।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "ମୁଁ ଦେଖିଲି"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "ଯେ ... ⟨ଅଛି⟩"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ଅଧିକାଂଶ"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ଜ୍ଞାନ ପାଇଁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "ମୂର୍ଖତା"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "ଯେପରି ଅଧିକାଂଶ"
+    },
+    {
+      "surface": "האור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "ଅନ୍ଧାର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:44.203607931Z",
+  "model": "glm-5.3"
+}

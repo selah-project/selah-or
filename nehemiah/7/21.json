@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆତେର୍‌ର ପୁତ୍ରମାନେ — ହିଜକିୟାଙ୍କ — ଅଠାନଭାଇ ନାନଭାଇ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "ଆତେର୍‌ର"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "ହିଜକିୟାଙ୍କ (ଅର୍ଥାତ୍‌)"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ନାନଭାଇ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "ଅଠାନଭାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:34.566743586Z",
+  "model": "glm-5.3"
+}

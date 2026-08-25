@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମିଶ୍‌ମା, ଦୁମା, ମାଶା, ହାଦଦ୍ ଓ ତେମା।",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "ମିଶ୍‌ମା"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ଓ ଦୁମା"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ମାଶା"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ହାଦଦ୍"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "ଓ ତେମା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:01.283721427Z",
+  "model": "glm-5.3"
+}

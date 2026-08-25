@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଧନ୍ୟ ହେଉ ତୁମର ଟୋକେଇ ଓ ତୁମର ମଣ୍ଡା-ପାତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ଧନ୍ୟ ହେଉ"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ତୁମର ଟୋକେଇ"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "ଓ ତୁମର ମଣ୍ଡା-ପାତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:57:10.572432615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ହାରିଫ୍‌ର ପୁତ୍ରମାନେ — ଶହେ ବାରିଆ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "ହାରିଫ୍‌ର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ଦଶ-ଯୁକ୍ତ)"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:34.567115257Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 8:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯାହ୍ୱେ ମୋ ପ୍ରତି ପୁଣି କହିବାକୁ ଯୋଡ଼ିଲେ, ⟨କହିବା ପାଇଁ⟩।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "ଯୋଡ଼ିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିବା"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:27:16.724603386Z",
+  "model": "glm-5.3"
+}

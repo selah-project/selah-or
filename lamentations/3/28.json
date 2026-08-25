@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେ ଏକୁଟିଆ ବସି ମୌନ ରହୁ, କାରଣ ⟨ସେ⟩ ⟨ଏହା⟩ ତା' ଉପରେ ଚାପିଛି।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ବସି"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "ଏକୁଟିଆ"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "ମୌନ ରହୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ଚାପିଛି"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତା' ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:55:05.991838485Z",
+  "model": "glm-5.3"
+}

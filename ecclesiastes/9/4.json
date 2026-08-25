@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "କାରଣ କେହି ଯିଏ ⟨କେହି⟩ ସମସ୍ତ ଜୀବିତମାନଙ୍କ ସହିତ ଯୋଡ଼ି ହୋଇଛି, ତା'ର ଆଶା ଅଛି; କାରଣ ଜୀବିତ କୁକୁର ⟨ଏହା⟩ ମୃତ ସିଂହଠାରୁ ଉତ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କେହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "ଯୋଡ଼ି ହୋଇଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…ସହିତ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ଜୀବିତମାନଙ୍କ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "ଆଶା\/ଭରସା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "କୁକୁର ପାଇଁ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବିତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ମୃତ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:49.996477837Z",
+  "model": "glm-5.3"
+}

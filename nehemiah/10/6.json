@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଖାରିମ୍, ମେରେମୋତ୍, ଓବାଦ୍‌ୟା।",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ଖାରିମ୍"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "ମେରେମୋତ୍"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "ଓବାଦ୍‌ୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:09.716171754Z",
+  "model": "glm-5.3"
+}

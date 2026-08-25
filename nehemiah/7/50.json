@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ରେଆୟାହର ପୁତ୍ରମାନେ, ରେତ୍ସିନର ପୁତ୍ରମାନେ, ନେକୋଦାର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "ରେଆୟାହର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "ରେତ୍ସିନର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "ନେକୋଦାର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:37.240483304Z",
+  "model": "glm-5.3"
+}

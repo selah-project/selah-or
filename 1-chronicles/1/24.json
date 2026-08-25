@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଶେମ୍, ଅର୍ପକ୍ଶାଦ୍, ଶେଲାଖ୍।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "ଶେମ୍"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "ଅର୍ପକ୍ଶାଦ୍"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ଶେଲାଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.273071244Z",
+  "model": "glm-5.3"
+}

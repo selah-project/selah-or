@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଆଉ ୟାକୋଭ୍ ନିଜ ପାଦ ଉଠାଇ ପୂର୍ବଦିଗର ପୁତ୍ରମାନଙ୍କ ଦେଶକୁ ଚାଲିଗଲେ।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "ଉଠାଇ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ନିଜ ପାଦ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଚାଲିଗଲେ"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "ଦେଶକୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "ପୂର୍ବଦିଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:38:30.398094402Z",
+  "model": "glm-5.3"
+}

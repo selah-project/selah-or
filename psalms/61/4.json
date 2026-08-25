@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 61:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 61,
+  "translation": "କାରଣ ଆପଣ ମୋର ଆଶ୍ରୟ ହୋଇଥିଲେ, ଶତ୍ରୁର ସମ୍ମୁଖରେ ବଳର ମୀନାର।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "היית",
+      "gloss": "ଆପଣ ହୋଇଥିଲେ"
+    },
+    {
+      "surface": "מחסה",
+      "gloss": "ଆଶ୍ରୟ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର ପାଇଁ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ମୀନାର"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ବଳର"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ସମ୍ମୁଖରେ"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ଶତ୍ରୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:16:23.335105167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 66,
+  "translation": "ଅନ୍ୟାୟ, ଯଦି ମୁଁ ମୋର ହୃଦୟରେ ଦେଖିଥିବି, ଅଦୋନାଇ ଶୁଣିବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଥିବି"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ମୋର ହୃଦୟରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "ଶୁଣିବେ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:14:53.770885845Z",
+  "model": "glm-5.3"
+}

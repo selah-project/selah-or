@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 15:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଶେଓଲ୍ ଓ ଅବଦ୍ଦୋନ୍ ଯାହ୍ୱେଙ୍କ ସମ୍ମୁଖରେ, ମନୁଷ୍ୟପୁତ୍ରମାନଙ୍କ ହୃଦୟ ତ କେତେ ଅଧିକ!",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "ଶେଓଲ୍"
+    },
+    {
+      "surface": "ואבדון",
+      "gloss": "ଓ ଅବଦ୍ଦୋନ୍"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ସମ୍ମୁଖରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ତ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କେତେ ଅଧିକ"
+    },
+    {
+      "surface": "לבות",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:12.721399042Z",
+  "model": "glm-5.3"
+}

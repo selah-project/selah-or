@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 21:29",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଦୁଷ୍ଟ ମଣିଷ ନିଜ ମୁହଁକୁ କଠୋର କରେ, କିନ୍ତୁ ସଳଖ ବ୍ୟକ୍ତି — ସେ ନିଜ ⟨ପଥକୁ⟩ ସ୍ଥିର କରେ।",
+  "tokens": [
+    {
+      "surface": "העז",
+      "gloss": "କଠୋର କରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "בפניו",
+      "gloss": "ନିଜ ମୁହଁକୁ"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "କିନ୍ତୁ ସଳଖ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "יכין",
+      "gloss": "ସ୍ଥିର କରେ"
+    },
+    {
+      "surface": "דרכיו",
+      "gloss": "ନିଜ ପଥକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:24.352980860Z",
+  "model": "glm-5.3"
+}

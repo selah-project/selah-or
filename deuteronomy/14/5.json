@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ହରିଣବିଶିଷ୍ଟ, ଓ ଗାଜଲ୍, ଓ ୟାଖମୁର୍, ଓ ଆକ୍କୋ, ଓ ଦିଶୋନ୍, ଓ ତେଓ, ଓ ଜାମର୍।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "ହରିଣବିଶିଷ୍ଟ"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "ଓ ଗାଜଲ୍"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "ଓ ୟାଖମୁର୍"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "ଓ ଆକ୍କୋ"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "ଓ ଦିଶୋନ୍"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "ଓ ତେଓ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "ଓ ଜାମର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:59.931054955Z",
+  "model": "glm-5.3"
+}

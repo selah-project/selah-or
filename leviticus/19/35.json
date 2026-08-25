@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ବିଚାରରେ, ମାପରେ, ଓଜନରେ ଓ ତରଳ ମାପରେ ଅନ୍ୟାୟ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "କର"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ବିଚାରରେ"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ମାପରେ"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ଓଜନରେ"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "ଓ ତରଳ ମାପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:52:39.361117822Z",
+  "model": "glm-5.3"
+}

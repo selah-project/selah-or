@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ରାମର — ଯେରାଖମେଲର ଜ୍ୟେଷ୍ଠପୁତ୍ରର — ପୁତ୍ରମାନେ ଥିଲେ: ମାତ୍ସ, ୟାମିନ୍ ଓ ଏକେର୍।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ରାମର"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "ଜ୍ୟେଷ୍ଠପୁତ୍ରର"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "ଯେରାଖମେଲର"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "ମାତ୍ସ"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "ୟାମିନ୍"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "ଓ ଏକେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.663657077Z",
+  "model": "glm-5.3"
+}

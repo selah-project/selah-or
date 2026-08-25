@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମଣିଷ ସହିତ ଅକାରଣରେ ବିବାଦ କର ନାହିଁ, ଯଦି ସେ ତୁମକୁ କୌଣସି ମନ୍ଦ କରି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "ବିବାଦ କର"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "ଅକାରଣରେ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ତୁମ ପ୍ରତି ବ୍ୟବହାର କରି"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:47.666802740Z",
+  "model": "glm-5.3"
+}

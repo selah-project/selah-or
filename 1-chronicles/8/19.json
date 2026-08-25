@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଏବଂ ୟାକିମ୍, ଏବଂ ଜିଖ୍ରି, ଏବଂ ଜାବଦି।",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "ଏବଂ ୟାକିମ୍"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ଏବଂ ଜିଖ୍ରି"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "ଏବଂ ଜାବଦି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:49.601849997Z",
+  "model": "glm-5.3"
+}

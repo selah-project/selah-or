@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 4:12",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ସୀସେରାଙ୍କୁ କୁହାଗଲା ଯେ ଆବିନୋଆମଙ୍କ ପୁତ୍ର ବାରକ ତାବୋର ପର୍ବତକୁ ଉଠିଯାଇଛି।",
+  "tokens": [
+    {
+      "surface": "ויגדו",
+      "gloss": "କୁହାଗଲା"
+    },
+    {
+      "surface": "לסיסרא",
+      "gloss": "ସୀସେରାଙ୍କୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ଉଠିଯାଇଛି"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "ବାରକ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "ଆବିନୋଆମ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "תבור",
+      "gloss": "ତାବୋର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:31:04.218519842Z",
+  "model": "glm-5.3"
+}

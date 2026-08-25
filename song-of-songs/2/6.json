@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତାହାର ବାଆଁ ହାତ ⟨is⟩ ମୋ ମସ୍ତକ ତଳେ, ଆଉ ତାହାର ଡାହାଣ ହାତ ମୋତେ ଆଳିଙ୍ଗନ କରେ।",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ତାହାର ବାଆଁ ହାତ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "לראשי",
+      "gloss": "ମୋ ମସ୍ତକ"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "ଆଉ ତାହାର ଡାହାଣ ହାତ"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "ମୋତେ ଆଳିଙ୍ଗନ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:47:22.931364950Z",
+  "model": "glm-5.3"
+}

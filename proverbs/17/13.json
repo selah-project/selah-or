@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 17:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଭଲ ପାଇଁ ମନ୍ଦ ଫେରାଉଥିବା ବ୍ୟକ୍ତିର — ମନ୍ଦ ତାହାର ଘରୁ ହଟିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "משיב",
+      "gloss": "ଫେରାଉଥିବା"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמיש",
+      "gloss": "ହଟିବ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "ତାହାର ଘରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:22.577229760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 5:5",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ମୋ ସହିତ କଥା ହେଉଥିବା ଦୂତ ବାହାରି ମୋତେ କହିଲେ — ଆହୁରି ତ, ତୋର ଆଖି ଉଠାଅ ଓ ଦେଖ, ଏହା କଣ ଯାହା ବାହାରୁଛି।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ବାହାରି ଗଲେ"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "ଦୂତ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କଥା ହେଉଥିବା"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋ ସହିତ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ଉଠାଅ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଆହୁରି ତ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ତୋର ଆଖି"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "ମഹ",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "היוצאת",
+      "gloss": "ଯାହା ବାହାରୁଛି"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:32:52.810566101Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏବଂ ⟨את⟩ ଓବାଲ୍ ଓ ⟨את⟩ ଆବିମାଏଲ୍ ଓ ⟨את⟩ ଶେବା।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଓବାଲ୍"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ଓବାଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଆବିମାଏଲ୍"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ଆବିମାଏଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଶେବା"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ଶେବା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:50.764185769Z",
+  "model": "glm-5.3"
+}

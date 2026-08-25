@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଆଉ ସେ କହିଲେ, ଅବ୍ରାହାମଙ୍କ ଦାସ ମୁଁ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ ସେ କହିଲେ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମଙ୍କ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:45:48.824287929Z",
+  "model": "glm-5.3"
+}

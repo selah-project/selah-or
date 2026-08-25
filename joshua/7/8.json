@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 7:8",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ହେ ଅଦୋନାଇ, ମୁଁ କ'ଣ କହିବି, ତା'ପରେ ଯେ ୟିସ୍ରାଏଲ୍ ଶତ୍ରୁମାନଙ୍କ ସାମ୍ନାରେ ପିଠି ଘୂରାଇଲା?",
+  "tokens": [
+    {
+      "surface": "בי",
+      "gloss": "ହେ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିବି"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ତା'ପରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "הפך",
+      "gloss": "ଘୂରାଇଲା"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "ପିଠି"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "איביו",
+      "gloss": "ଶତ୍ରୁମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:03.044741453Z",
+  "model": "glm-5.3"
+}

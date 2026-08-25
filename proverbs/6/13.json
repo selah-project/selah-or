@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 6:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଖି ମିଟାଇ ଇଙ୍ଗିତ କରେ, ଗୋଡ଼ରେ କଥା କହେ, ଆଙ୍ଗୁଠିରେ ଶିଖାଏ।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ମିଟାଇ ଇଙ୍ଗିତ କରେ"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "ଆଖିରେ"
+    },
+    {
+      "surface": "מלל",
+      "gloss": "କଥା କହେ"
+    },
+    {
+      "surface": "ברגלו",
+      "gloss": "ଗୋଡ଼ରେ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ଶିଖାଏ"
+    },
+    {
+      "surface": "באצבעתיו",
+      "gloss": "ଆଙ୍ଗୁଠିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:35.402146108Z",
+  "model": "glm-5.3"
+}

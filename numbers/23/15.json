@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 23:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଆଉ ସେ ବାଲାକ୍‌ଙ୍କୁ କହିଲେ, ଏଠାରେ ତୁମର ହୋମବଳି ପାଖରେ ଠିଆ ହୋଇ ରହ, ଓ ମୁଁ ସେଠାରେ ଭେଟିବି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "ବାଲାକ୍"
+    },
+    {
+      "surface": "התיצב",
+      "gloss": "ଠିଆ ହୋଇ ରହ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏଠାରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ପାଖରେ"
+    },
+    {
+      "surface": "עלתך",
+      "gloss": "ତୁମର ହୋମବଳି"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "ଓ ମୁଁ"
+    },
+    {
+      "surface": "אקרה",
+      "gloss": "ଭେଟିବି"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ସେଠାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:41.245329230Z",
+  "model": "glm-5.3"
+}

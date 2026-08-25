@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଦାନ୍, ୟୋସେଫ୍, ବିନ୍ୟାମୀନ୍, ନଫ୍ତାଲୀ, ଗାଦ୍ ଓ ଆଶେର୍।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ଦାନ୍"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ୍"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ଓ ବିନ୍ୟାମୀନ୍"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ନଫ୍ତାଲୀ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦ୍"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "ଓ ଆଶେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:51:20.085993001Z",
+  "model": "glm-5.3"
+}

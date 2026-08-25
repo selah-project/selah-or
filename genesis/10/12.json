@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ⟨את⟩ ରେସେନ୍ — ନିନେବେହ୍ ଓ କଲାହା ମଧ୍ୟରେ; ସେ ହେଉଛି ⟨the⟩ ମହାନଗର।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ରେସେନ୍"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "ରେସେନ୍"
+    },
+    {
+      "surface": "בין",
+      "gloss": "… ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "ନିନେବେହ୍"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "କଲାହା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ମହାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:23:09.001444509Z",
+  "model": "glm-5.3"
+}

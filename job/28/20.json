@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ତେବେ ଜ୍ଞାନ କେଉଁଠୁ ଆସେ, ଆଉ ବୁଦ୍ଧିର ସ୍ଥାନ ଏହି କେଉଁଠା?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "ତେବେ ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "କେଉଁଠୁ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ଆସେ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "ଆଉ କେଉଁଠା"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ସ୍ଥାନ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବୁଦ୍ଧିର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:34:51.797639458Z",
+  "model": "glm-5.3"
+}

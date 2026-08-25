@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 28:10",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ହନନିୟା ନବୀ ⟨את⟩ ମୁଣ୍ଡି ଯିର୍ମିୟା ନବୀଙ୍କ ବେକରୁ ନେଇ ତାହାକୁ ଭାଙ୍ଗି ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "ନେଇ ଦେଲେ"
+    },
+    {
+      "surface": "חנניה",
+      "gloss": "ହନନିୟା"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୁଣ୍ଡି"
+    },
+    {
+      "surface": "המוטה",
+      "gloss": "ମୁଣ୍ଡି"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "צואר",
+      "gloss": "ବେକ"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ଯିର୍ମିୟା"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀଙ୍କ"
+    },
+    {
+      "surface": "וישברהו",
+      "gloss": "ତାହାକୁ ଭାଙ୍ଗି ଦେଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:06:33.432750119Z",
+  "model": "glm-5.3"
+}

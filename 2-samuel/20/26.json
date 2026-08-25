@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ଇରା ହାୟିରୀ ମଧ୍ୟ ଦାଉଦଙ୍କ ନିମନ୍ତେ ଯାଜକ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ... ମଧ୍ୟ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ଇରା"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "ହାୟିରୀ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:26:24.509885662Z",
+  "model": "glm-5.3"
+}

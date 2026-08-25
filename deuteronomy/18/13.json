@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ନିଷ୍କଳଙ୍କ ତୁମ୍ଭେ ହେବ, ଯାହ୍ୱେ ତୁମ୍ଭ ଏଲୋହିମ୍ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ନିଷ୍କଳଙ୍କ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ତୁମ୍ଭେ ହେବ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ତୁମ୍ଭ ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:53:58.579022239Z",
+  "model": "glm-5.3"
+}

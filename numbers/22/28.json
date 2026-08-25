@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 22:28",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ ଯାହ୍ୱେ ଗଧଟିର ପାଟି ଖୋଲିଦେଲେ, ଆଉ ସେ ବିଲାମ୍‌ଙ୍କୁ କହିଲା — ମୁଁ ତୋତେ କ'ଣ କରିଅଛି ଯେ ତୁ ମୋତେ ଏତେ ଥର ପିଟିଲୁ?",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ଖୋଲିଦେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପାଟି"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ପାଟି"
+    },
+    {
+      "surface": "האתון",
+      "gloss": "ଗଧଟିର"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "କହିଲା"
+    },
+    {
+      "surface": "לבלעם",
+      "gloss": "ବିଲାମ୍‌ଙ୍କୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "କରିଅଛି"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋତେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "הכיתני",
+      "gloss": "ପିଟିଲୁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏତେ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନ"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "ଥର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:25:26.699272390Z",
+  "model": "glm-5.3"
+}

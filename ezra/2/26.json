@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezra 2:26",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ରାମା ଓ ଗେବାର ପୁତ୍ରମାନେ — ଛଅଶହ ଏଇଶି।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "ରାମା"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "ଓ ଗେବା"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "ଏକ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:10.856450978Z",
+  "model": "glm-5.3"
+}

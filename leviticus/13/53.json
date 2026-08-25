@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଓ ଯଦି ଯାଜକ ଦେଖନ୍ତୁ, ଓ ଦେଖ, କ୍ଷତ ବ୍ୟାପି ନାହିଁ — ବସ୍ତ୍ରରେ କି ତାନାରେ କି ବାଣାରେ କି ଚର୍ମର କୌଣସି ଉପକରଣରେ,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଓ ଯଦି"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଦେଖନ୍ତୁ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଓ ଦେଖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ବ୍ୟାପିଛି"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "କ୍ଷତ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ବସ୍ତ୍ରରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "ତାନାରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "ବାଣାରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କି"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ଉପକରଣରେ"
+    },
+    {
+      "surface": "עור",
+      "gloss": "ଚର୍ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:19.331002156Z",
+  "model": "glm-5.3"
+}

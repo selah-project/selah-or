@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଏବଂ କେଦେଶ୍, ଏବଂ ଏଦ୍ରେଇ, ଏବଂ ଏନ୍-ହାଜୋର୍।",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "ଏବଂ କେଦେଶ୍"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "ଏବଂ ଏଦ୍ରେଇ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "ଏବଂ ଏନ୍"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ହାଜୋର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:21:20.046017562Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେମାନେ ଗର୍ତ୍ତରେ ମୋର ପ୍ରାଣକୁ କାଟିଦେଲେ, ଓ ମୋ ଉପରେ ପ୍ରସ୍ତର ଫିଙ୍ଗିଲେ।",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "କାଟିଦେଲେ"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ଗର୍ତ୍ତରେ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ମୋର ପ୍ରାଣକୁ"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "ଓ ଫିଙ୍ଗିଲେ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପ୍ରସ୍ତର"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋ ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:30.124261035Z",
+  "model": "glm-5.3"
+}

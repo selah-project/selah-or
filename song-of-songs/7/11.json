@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ମୁଁ ମୋର ପ୍ରିୟଙ୍କ — ଆଉ ତାହାର ଅଭିଳାଷ ମୋ ଉପରେ ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "ମୋର ପ୍ରିୟଙ୍କ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "ଆଉ ମୋ ଉପରେ"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ତାହାର ଅଭିଳାଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:36.644564341Z",
+  "model": "glm-5.3"
+}

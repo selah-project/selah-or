@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 65:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 65,
+  "translation": "ପ୍ରାର୍ଥନା ଶୁଣୁଥିବା ⟨ତୁମ୍ହେ⟩, ତୁମ୍ହ ପାଖକୁ ସମସ୍ତ ମାଂସପିଣ୍ଡ ଆସିବ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣୁଥିବା"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "ପ୍ରାର୍ଥନା"
+    },
+    {
+      "surface": "עדיך",
+      "gloss": "ତୁମ୍ହ ପାଖକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ବשר",
+      "gloss": "ମାଂସପିଣ୍ଡ"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "ଆସିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:14:47.670112832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ସୂର୍ଯ୍ୟ ପୃଥିବୀ ଉପରକୁ ଉଠିଲା ବେଳକୁ, ଲୋଟ୍ ତ୍ସୋଆର୍‌କୁ ପ୍ରବେଶ କଲେ।",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ଉଠିଲା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "ଓ ଲୋଟ୍"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ପ୍ରବେଶ କଲେ"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "ତ୍ସୋଆର୍‌କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:27:17.556647245Z",
+  "model": "glm-5.3"
+}

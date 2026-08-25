@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 1:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆମ ମଧ୍ୟରେ ତୁମର ଗୋରଳ ପକାଅ, ଆମ ସମସ୍ତଙ୍କ ପାଇଁ ଗୋଟିଏ ଥଳି ହେଉ ।",
+  "tokens": [
+    {
+      "surface": "גורלך",
+      "gloss": "ତୁମର ଗୋରଳ"
+    },
+    {
+      "surface": "תפיל",
+      "gloss": "ପକାଅ"
+    },
+    {
+      "surface": "בתוכנו",
+      "gloss": "ଆମ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "כיס",
+      "gloss": "ଥଳି"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "לכלנו",
+      "gloss": "ଆମ ସମସ୍ତଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:10.658752413Z",
+  "model": "glm-5.3"
+}

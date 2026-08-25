@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 127,
+  "translation": "ଦେଖ, ପୁତ୍ରଗଣ ଯାହ୍ୱେଙ୍କ ସମ୍ପତ୍ତି; ଗର୍ଭର ଫଳ ⟨ହିଁ⟩ ପ୍ରତିଦାନ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "ସମ୍ପତ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ପ୍ରତିଦାନ"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "ଗର୍ଭର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:51:06.712456685Z",
+  "model": "glm-5.3"
+}

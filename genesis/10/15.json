@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ କେନାନ୍ ⟨את⟩ ଜିଦୋନ୍ ଆପଣା ଜ୍ୟେଷ୍ଠପୁତ୍ରଙ୍କୁ ଓ ⟨את⟩ ଖେତଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "ଆଉ କେନାନ୍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜିଦୋନ୍"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "ଜିଦୋନ୍"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "ଆପଣା ଜ୍ୟେଷ୍ଠପୁତ୍ର"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଖେତ୍"
+    },
+    {
+      "surface": "חת",
+      "gloss": "ଖେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:53.209275719Z",
+  "model": "glm-5.3"
+}

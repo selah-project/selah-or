@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ⟨את⟩ ବାଲାତ୍, ଓ ⟨את⟩ ତାମାର୍, ମରୁଭୂମିରେ, ⟨ସେହି⟩ ଦେଶରେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ବାଲାତ୍"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "ବାଲାତ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ତାମାର୍"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "ତାମାର୍"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ମରୁଭୂମିରେ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:42:43.241829754Z",
+  "model": "glm-5.3"
+}

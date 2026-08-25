@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ୟିହୋଶୁଆ, ନୂନର ପୁତ୍ର, ଯାହ୍ୱେଙ୍କ ଦାସ, ମୃତ୍ୟୁ ବରଣ କଲେ — ଏକଶହ ଦଶ ବର୍ଷ ବୟସର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ଆଉ ମୃତ୍ୟୁ ବରଣ କଲେ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ୟିହୋଶୁଆ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נון",
+      "gloss": "ନୂନର"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକଶହ"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "ଏବଂ ଦଶ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:25:45.364376221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କାରଣ ବନ୍ଦୀଶାଳାରୁ ସେ ରାଜତ୍ୱ କରିବାକୁ ବାହାରିଲା, କାରଣ ତା'ର ରାଜ୍ୟରେ ମଧ୍ୟ ଜଣେ ଦରିଦ୍ର ଜନ୍ମ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…ରୁ ଘରରୁ"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "ବନ୍ଦୀଶାଳାର"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ବାହାରିଲା"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜତ୍ୱ କରିବାକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "ତା'ର ରାଜ୍ୟରେ"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "ଜନ୍ମ ହେଲା"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ଦରିଦ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:50.357467521Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 30:28",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ସେ କହିଲା: ତୁମ ମଜୁରି ନିର୍ଦ୍ଧାରଣ କର ମୋ ଉପରେ, ଆଉ ମୁଁ ଦେବି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ ସେ କହିଲା"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ନିର୍ଦ୍ଧାରଣ କର"
+    },
+    {
+      "surface": "שכרך",
+      "gloss": "ତୁମ ମଜୁରି"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ ଉପରେ"
+    },
+    {
+      "surface": "ואתנה",
+      "gloss": "ଆଉ ମୁଁ ଦେବି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:38:53.621021059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ତା'ପରେ ୟିରମିଯାହୁଙ୍କ ପ୍ରତି ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଆସିଲା, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ତା'ପରେ ଘଟିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିରମିଯାହୁଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:13:56.582199792Z",
+  "model": "glm-5.3"
+}

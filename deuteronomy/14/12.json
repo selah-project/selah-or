@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ସେମାନଙ୍କ ମଧ୍ୟରୁ ଏହିସବୁ ତୁମ୍ଭେମାନେ ଖାଇନାହିଁ: ଶାଗସେପ, ପେରେସ୍ ଓ ଅଜନିୟା।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "ଆଉ ଏହିସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ତୁମ୍ଭେମାନେ ଖାଇ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "ସେମାନଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "ଶାଗସେପ"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "ଓ ପେରେସ୍"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "ଓ ଅଜନିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:53.881437240Z",
+  "model": "glm-5.3"
+}

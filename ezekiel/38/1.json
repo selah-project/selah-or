@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 38:1",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଏବଂ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପ୍ରତି ଆସିଲା, କହିବା ପାଇଁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:37:22.860038120Z",
+  "model": "glm-5.3"
+}

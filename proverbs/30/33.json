@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 30:33",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "କାରଣ ଦୁଧକୁ ଚାପିଲେ ମଖନ ବାହାରେ, ନାକକୁ ଚାପିଲେ ରକ୍ତ ବାହାରେ, ଆଉ କ୍ରୋଧକୁ ଚାପିଲେ କଳହ ବାହାରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מיץ",
+      "gloss": "ଚାପିଲେ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "ଦୁଧକୁ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "ମଖନ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ଆଉ ଚାପିଲେ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ନାକକୁ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "דם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "ומיץ",
+      "gloss": "ଆଉ ଚାପିଲେ"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "କ୍ରୋଧକୁ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "କଳହ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:50.286739284Z",
+  "model": "glm-5.3"
+}

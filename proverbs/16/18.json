@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 16:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଭଙ୍ଗର ପୂର୍ବରୁ ଆସେ ଗର୍ବ, ଓ ପତନର ପୂର୍ବରୁ ଆସେ ଉଦ୍ଧତ ପ୍ରାଣ।",
+  "tokens": [
+    {
+      "surface": "לפני",
+      "gloss": "ପୂର୍ବରୁ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭଙ୍ଗର"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "ଗର୍ବ"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "ଓ ପୂର୍ବରୁ"
+    },
+    {
+      "surface": "כשלון",
+      "gloss": "ପତନର"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "ଉଦ୍ଧତ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ପ୍ରାଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:38.275060327Z",
+  "model": "glm-5.3"
+}

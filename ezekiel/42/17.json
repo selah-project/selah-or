@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 42:17",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ସେ ଉତ୍ତର ଦିଗ ମାପିଲେ — ପାଞ୍ଚଶହ ନଳ, ମାପ ନଳରେ, ଚାରିଆଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ସେ ମାପିଲେ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ଦିଗ"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ନଳ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ନଳରେ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:42:23.879979922Z",
+  "model": "glm-5.3"
+}

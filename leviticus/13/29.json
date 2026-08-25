@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଓ ଜଣେ ପୁରୁଷ କିମ୍ବା ସ୍ତ୍ରୀ — ଯେତେବେଳେ ତାହାଠାରେ ମୁଣ୍ଡରେ କିମ୍ବା ଦାଢ଼ିରେ ଏକ କ୍ଷତ ହୁଏ,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ଓ ଜଣେ ପୁରୁଷ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାଠାରେ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ଏକ କ୍ଷତ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ମୁଣ୍ଡରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ଦାଢ଼ିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:15.310998732Z",
+  "model": "glm-5.3"
+}

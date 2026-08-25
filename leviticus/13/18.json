@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 13:18",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ମାଂସପେଶୀରେ — ଯେତେବେଳେ ତାହାର ଚର୍ମରେ ଏକ ଫୋଡ଼ା ହୁଏ ଏବଂ ତାହା ଆରୋଗ୍ୟ ହୁଏ,",
+  "tokens": [
+    {
+      "surface": "ובשר",
+      "gloss": "ଆଉ ମାଂସପେଶୀରେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାର"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "ଚର୍ମରେ"
+    },
+    {
+      "surface": "שחין",
+      "gloss": "ଫୋଡ଼ା"
+    },
+    {
+      "surface": "ונרפא",
+      "gloss": "ଆରୋଗ୍ୟ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:31.589421909Z",
+  "model": "glm-5.3"
+}

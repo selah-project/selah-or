@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 9:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "“କେହି ପ୍ରତାରଣଯୋଗ୍ୟ ଅଟେ? ସେ ଏଡ଼ିକି ଆସନ୍ତୁ।” ଆଉ ହୃଦୟହୀନ ଲୋକଙ୍କୁ ⟨ସେ⟩ କହେ —",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କେହି"
+    },
+    {
+      "surface": "פתי",
+      "gloss": "ପ୍ରତାରଣଯୋଗ୍ୟ"
+    },
+    {
+      "surface": "יסר",
+      "gloss": "ସେ ଏଡ଼ିକି ଆସନ୍ତୁ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଏଡ଼ିକି"
+    },
+    {
+      "surface": "וחסר",
+      "gloss": "ଆଉ ହୃଦୟହୀନ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "ואמרה",
+      "gloss": "ଆଉ କହେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:37.337347221Z",
+  "model": "glm-5.3"
+}

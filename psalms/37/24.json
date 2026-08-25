@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଯଦିଓ ପଡ଼େ, ଛିନ୍ନ-ପତିତ ହୁଏ ନାହିଁ; କାରଣ ଯାହ୍ୱେ ⟨ତା'⟩ ହାତକୁ ଧରି ରଖନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ଯଦିଓ"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ପଡ଼େ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ଛିନ୍ନ-ପତିତ ହୁଏ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "ଧରି ରଖନ୍ତି"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ହାତକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:22.064743490Z",
+  "model": "glm-5.3"
+}

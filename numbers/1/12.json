@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଦାନଙ୍କ ପାଇଁ — ଅହିଏଜେର୍, ଅମ୍ମିଶଦ୍ଦାଇଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "ଦାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "ଅହିଏଜେର୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "ଅମ୍ମିଶଦ୍ଦାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:40.171289695Z",
+  "model": "glm-5.3"
+}

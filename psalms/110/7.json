@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 110,
+  "translation": "ପଥ ମଧ୍ୟରେ ଝରଣାରୁ ପିଇବେ; ସେଥିପାଇଁ ମୁଣ୍ଡ ଉଚ୍ଚ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "מִנַּחַל",
+      "gloss": "ଝରଣାରୁ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ପଥ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "יִשְׁתֶּה",
+      "gloss": "ପିଇବେ"
+    },
+    {
+      "surface": "על",
+      "gloss": ""
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେଥିପାଇଁ"
+    },
+    {
+      "surface": "יָרִים",
+      "gloss": "ଉଚ୍ଚ କରିବେ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ମୁଣ୍ଡ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:42:47.426241081Z",
+  "model": "glm-5.3"
+}

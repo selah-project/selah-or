@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଅଭିଶାପିତ ତୁମେ ନଗରରେ, ଓ ଅଭିଶାପିତ ତୁମେ କ୍ଷେତ୍ରରେ।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶାପିତ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ନଗରରେ"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "ଓ ଅଭିଶାପିତ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "କ୍ଷେତ୍ରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:46.832006045Z",
+  "model": "glm-5.3"
+}

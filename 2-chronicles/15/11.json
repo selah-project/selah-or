@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 15:11",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ସେମାନେ ସେହି ଦିନ ଯାହ୍ୱେଙ୍କୁ ସେମାନେ ଆଣିଥିବା ଲୁଣ୍ଠନରୁ ବଳି କଲେ — ସାତଶହ ଗାଈ ଓ ସାତ ହଜାର ମେଣ୍ଢା।",
+  "tokens": [
+    {
+      "surface": "ויזבחו",
+      "gloss": "ବଳି କଲେ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କୁ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "ଲୁଣ୍ଠନ"
+    },
+    {
+      "surface": "הביאו",
+      "gloss": "ସେମାନେ ଆଣିଥିବା"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗାଈ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ଓ ମେଣ୍ଢା"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:24:30.224708299Z",
+  "model": "glm-5.3"
+}

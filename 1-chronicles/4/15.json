@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ କାଲେବ, ୟେଫୁନ୍ନେହର ପୁତ୍ରଙ୍କ ପୁତ୍ରମାନେ — ଇରୁ, ଏଲା ଓ ନାଅମ୍; ଆଉ ଏଲାର ପୁତ୍ରମାନେ — କେନାଜ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "କାଲେବ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ୟେଫୁନ୍ନେହ"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "ଇରୁ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏଲା"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "ଓ ନାଅମ୍"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏଲାର"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "କେନାଜ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:37.973948339Z",
+  "model": "glm-5.3"
+}

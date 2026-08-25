@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଆଉ ⟨ସେ⟩ ଦ୍ୱାରର ବାରାଣ୍ଡା ⟨את⟩ ମାପିଲେ, ଗୃହ ଦିଗକୁ — ନଳ ଏକ।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "ଆଉ ମାପିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବାରାଣ୍ଡା"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "ବାରାଣ୍ଡା"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ଦ୍ୱାରର"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "ଗୃହ ଦିଗକୁ"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "ନଳ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:41:27.316000259Z",
+  "model": "glm-5.3"
+}

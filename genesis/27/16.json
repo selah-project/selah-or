@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 27:16",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ଛେଳିଛୁଆଁର ଚର୍ମଗୁଡ଼ିକ ⟨את⟩ ସେ ତା' ହାତରେ ଓ ତା' କଣ୍ଠର ମସୃଣ ଅଂଶରେ ଲଗାଇଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଚର୍ମଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "ערת",
+      "gloss": "ଚର୍ମ"
+    },
+    {
+      "surface": "גדיי",
+      "gloss": "ଛୁଆଁ"
+    },
+    {
+      "surface": "העזים",
+      "gloss": "ଛେଳି"
+    },
+    {
+      "surface": "הלבישה",
+      "gloss": "ଲଗାଇଦେଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "ତା' ହାତ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ଉପରେ"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "ମସୃଣ ଅଂଶ"
+    },
+    {
+      "surface": "צואריו",
+      "gloss": "ତା' କଣ୍ଠ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:37:08.985660623Z",
+  "model": "glm-5.3"
+}

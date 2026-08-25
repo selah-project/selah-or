@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 23:16",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ତେଣୁ ୟେହୋୟାଦା ନିଜ ଓ ସମସ୍ତ ପ୍ରଜା ଓ ରାଜା ମଧ୍ୟରେ ଏକ ନିୟମ କଲେ ଯେ ସେମାନେ ଯାହ୍ୱେଙ୍କ ପ୍ରଜା ହେବେ।",
+  "tokens": [
+    {
+      "surface": "ויכרת",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "ୟେହୋୟାଦା"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "ନିୟମ"
+    },
+    {
+      "surface": "בינו",
+      "gloss": "ନିଜ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ପ୍ରଜା ହେବାକୁ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:30:34.647042349Z",
+  "model": "glm-5.3"
+}

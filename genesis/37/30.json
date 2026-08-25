@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଆଉ ସେ ନିଜ ଭାଇମାନଙ୍କ ପାଖକୁ ଫେରିଲେ ଓ କହିଲେ, ବାଳକ ନାହାଁନ୍ତି; ଆଉ ମୁଁ — ମୁଁ କେଉଁଠି ଯିବି?",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଫେରିଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ନିଜ ଭାଇମାନଙ୍କ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "ବାଳକ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ନାହାଁନ୍ତି"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ଆଉ ମୁଁ"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "କେଉଁଠି"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଯିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:46:43.376140083Z",
+  "model": "glm-5.3"
+}

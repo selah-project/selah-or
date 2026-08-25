@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଜାକ୍କାଇଙ୍କ ପୁତ୍ରମାନେ — ସାତ ଶହ ଷାଠିଏ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ଜାକ୍କାଇଙ୍କ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଷାଠିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:26:41.622515690Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "କିନ୍ତୁ ଯଦି ଏହି କଥା ସତ୍ୟ ହୁଏ, ଯୁବତୀ ପାଇଁ କୁମାରୀତ୍ୱର ଚିହ୍ନ ମିଳିଲା ନାହିଁ —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "କିନ୍ତୁ ଯଦି"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ସତ୍ୟ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ଏହି କଥା"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "ମିଳିଲା"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "କୁମାରୀତ୍ୱର ଚିହ୍ନ"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "ଯୁବତୀ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:58:13.278870123Z",
+  "model": "glm-5.3"
+}

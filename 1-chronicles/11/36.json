@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ହେଫେର୍ ମେଖେରାଥୀ, ଆହିୟା ପେଲୋନୀ।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ହେଫେର୍"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "ମେଖେରାଥୀ"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "ଆହିୟା"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "ପେଲୋନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:29.805654378Z",
+  "model": "glm-5.3"
+}

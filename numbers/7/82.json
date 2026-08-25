@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଛେଳିମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ ବୋଆ, ପାପ ବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ବୋଆ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳିମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ ବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:24.176045567Z",
+  "model": "glm-5.3"
+}

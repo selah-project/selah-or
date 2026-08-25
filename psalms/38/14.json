@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଆଉ ମୁଁ ⟨ଏକ⟩ ବଧିର ପରି ଶୁଣେ ନାହିଁ, ଓ ⟨ଏକ⟩ ମୂକ ପରି ଯାହାର ମୁଖ ଖୋଲେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "ଆଉ ମୁଁ"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "ବଧିର ପରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "ଶୁଣେ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "ଓ ମୂକ ପରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ଖୋଲେ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ତାହାର ମୁଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:04:38.522784480Z",
+  "model": "glm-5.3"
+}

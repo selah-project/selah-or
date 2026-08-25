@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ତୁମ୍ଭେମାନେ ଏପରି କରିବ ନାହିଁ ଯାହ୍ୱେ ତୁମ୍ଭ ଏଲୋହିମ୍‌ଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "କରିବ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "ତୁମ୍ଭ ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:49:27.815420430Z",
+  "model": "glm-5.3"
+}

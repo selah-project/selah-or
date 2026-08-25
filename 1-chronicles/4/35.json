@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 4:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ୟୋଏଲ, ୟେହୂ — ୟୋଶିବିୟାର ପୁତ୍ର, ଅଟିଥି ସେରାୟାର ପୁତ୍ର, ଅଟିଥି ଅସିଏଲର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ויואל",
+      "gloss": "ଆଉ ୟୋଏଲ"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "ୟେହୂ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יושביה",
+      "gloss": "ୟୋଶିବିୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שריה",
+      "gloss": "ସେରାୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עשיאל",
+      "gloss": "ଅସିଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:24.190190449Z",
+  "model": "glm-5.3"
+}

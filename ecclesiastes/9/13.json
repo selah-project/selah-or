@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ମୁଁ ଏହା ମଧ୍ୟ ଦେଖିଲି — ସୂର୍ଯ୍ୟତଳେ ଜ୍ଞାନ, ଏବଂ ତାହା ମୋ ପାଖରେ ମହାନ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଲି"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟର"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "ଏବଂ ମହାନ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:23.253468049Z",
+  "model": "glm-5.3"
+}

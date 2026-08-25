@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏପରି କହୁଛନ୍ତି ଅଦୋନାଇ ଯାହ୍ୱେ : ଏ ଠିକ୍ ହେବ ନାହିଁ, ଆଉ ଘଟିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "ଠିକ୍ ହେବ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ଘଟିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:25:12.593509798Z",
+  "model": "glm-5.3"
+}

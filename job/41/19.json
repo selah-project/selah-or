@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ସେ ଲୁହାକୁ ତରକୁଳ ଭାବେ ଗଣନ୍ତି, ତମ୍ବାକୁ ପଚା କାଠ ଭଳି।",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "ଗଣନ୍ତି"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "ତରକୁଳ ଭାବେ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହା"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "କାଠ ଭଳି"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "ପଚା"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ତମ୍ବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:58.152367299Z",
+  "model": "glm-5.3"
+}

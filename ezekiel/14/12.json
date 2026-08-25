@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପ୍ରତି ଆସିଲା, କହିବାକୁ ଯେପରି —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T15:02:18.133297532Z",
+  "model": "glm-5.3"
+}

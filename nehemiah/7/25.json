@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଗିବ୍‌ଓନର ପୁତ୍ରମାନେ — ପଚାସିପନ୍ଦ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "ଗିବ୍‌ଓନର"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ନବେ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ପାଞ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:56.682342874Z",
+  "model": "glm-5.3"
+}

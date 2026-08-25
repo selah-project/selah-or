@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 7:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ ଅନେକ ଆହତ ସେ ପକାଇଛି, ଆଉ ସମସ୍ତ ତା'ର ନିହତ ବୀରମାନେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "חללים",
+      "gloss": "ଆହତ"
+    },
+    {
+      "surface": "הפילה",
+      "gloss": "ସେ ପକାଇଛି"
+    },
+    {
+      "surface": "ועצמים",
+      "gloss": "ଆଉ ବୀରମାନେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הרגיה",
+      "gloss": "ତା'ର ନିହତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:08.008280567Z",
+  "model": "glm-5.3"
+}

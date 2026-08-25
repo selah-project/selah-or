@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଶିମିଓନ୍‌ର ଗୋଷ୍ଠୀ ପାଇଁ — ଶାଫାତ୍, ହୋରୀର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ଶିମିଓନ୍‌ର"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ଶାଫାତ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "ହୋରୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:17.551907695Z",
+  "model": "glm-5.3"
+}

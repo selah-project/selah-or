@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ଅଷ୍ଟମ ଦିନରେ ତା'ର ଚର୍ମର ଅଗ୍ରଚର୍ମ ଛେଦନ କରାଯିବ।।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଦିନରେ"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ଅଷ୍ଟମ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "ଛେଦନ କରାଯିବ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ଚର୍ମର"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ତା'ର ଅଗ୍ରଚର୍ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:43:07.913908413Z",
+  "model": "glm-5.3"
+}

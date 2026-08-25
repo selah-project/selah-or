@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଖେଲେତ୍ସ ⟨the⟩ ପାଲଟୀ, ଇରା ଇକ୍କେଶର ପୁତ୍ର ⟨the⟩ ତେକୋଇତ୍।",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "ଖେଲେତ୍ସ"
+    },
+    {
+      "surface": "ହପଲଟି",
+      "gloss": "⟨the⟩ ପାଲଟୀ"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "ଇରା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "ଇକ୍କେଶ"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "⟨the⟩ ତେକୋଇତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:37.351805442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 16:8",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଆଉ ଭୋଜିର ଘରେ ପ୍ରବେଶ କର ନାହିଁ — ସେମାନଙ୍କ ସହ ବସି ⟨את⟩ ଖାଇବା ଓ ପିଇବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "ଓ ଘରେ"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "ଭୋଜିର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ପ୍ରବେଶ କର"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ବସିବାକୁ"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "ଖାଇବା ଓ ପିଇବା"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ଖାଇବା"
+    },
+    {
+      "surface": "ולשתות",
+      "gloss": "ଓ ପିଇବା"
+    }
+  ],
+  "timestamp": "2026-08-25T13:47:39.995018728Z",
+  "model": "glm-5.3"
+}

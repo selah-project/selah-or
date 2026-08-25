@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 21:7",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଓ ଉତ୍ତର ଦେବେ ଓ କହିବେ: ଆମ ହାତ ⟨ଏହି⟩ ରକ୍ତ ⟨את⟩ ଢାଳି ନାହିଁ, ଓ ଆମ ଆଖି ଦେଖି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ଓ ଉତ୍ତର ଦେବେ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ଓ କହିବେ"
+    },
+    {
+      "surface": "ידינו",
+      "gloss": "ଆମ ହାତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "ଢାଳି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ରକ୍ତ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "ରକ୍ତ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ועינינו",
+      "gloss": "ଓ ଆମ ଆଖି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "ଦେଖି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:53:14.834046523Z",
+  "model": "glm-5.3"
+}

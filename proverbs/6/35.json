@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ସେ କୌଣସି ମୁକୁଳା-ମୂଲ୍ୟର ଆଡ଼କୁ ଫଳକ ଉଠାଇବ ନାହିଁ, ଆଉ ସହମତ ହେବ ନାହିଁ, ଯଦିଓ ତୁମେ ଉପହାର ବଢ଼ାଇବ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "ସେ ଉଠାଇବ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ଫଳକ ଆଡ଼କୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "ମୁକୁଳା-ମୂଲ୍ୟ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ସହମତ ହେବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦିଓ"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "ବଢ଼ାଇବ"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "ଉପହାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:46.342029636Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଓ ମନୁଷ୍ୟର ପ୍ରାଣଧାରୀମାନଙ୍କ ମଧ୍ୟରୁ ଷୋହଳ ହଜାର।",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "ଓ ପ୍ରାଣଧାରୀ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟର"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ଷୋହଳ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ଏବଂ ଦଶ)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:31:02.442451461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଗୋମେରର ପୁତ୍ରମାନେ: ଅଶ୍‌କେନାଜ, ଦୀଫତ ଓ ତୋଗର୍ମା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "ଗୋମେରର"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "ଅଶ୍‌କେନାଜ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "ଦୀଫତ"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "ତୋଗର୍ମା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:37.249388955Z",
+  "model": "glm-5.3"
+}

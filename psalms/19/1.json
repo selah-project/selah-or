@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ; ଦାଉଦଙ୍କ ମିଜମୋର୍।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଂଗୀତ-ନିର୍ଦ୍ଦେଶକଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ମିଜମୋର୍"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:28:56.594745577Z",
+  "model": "glm-5.3"
+}

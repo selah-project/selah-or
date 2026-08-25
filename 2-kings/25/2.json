@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-kings 25:2",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଓ ନଗର ଅବରୋଧରେ ପ୍ରବେଶ କଲା, ରାଜା ଜିଦକିୟାହୁଙ୍କ ଏକାଦଶ ବର୍ଷ ପର୍ଯ୍ୟନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "ଓ ପ୍ରବେଶ କଲା"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "ଅବରୋଧରେ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ଏକାଦଶ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "ଶାନା (deprecated)",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "ଜିଦକିୟାହୁଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:24:06.734010776Z",
+  "model": "glm-5.3"
+}

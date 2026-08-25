@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଯାହ୍ୱେଙ୍କ ସ୍ୱର ଅଗ୍ନିର ଶିଖାଗୁଡ଼ିକୁ ଛେଦି ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "ଛେଦି ଦିଏ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ଶିଖାଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନିର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:43.771447729Z",
+  "model": "glm-5.3"
+}

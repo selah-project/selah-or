@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏହା କିଏ, ଯିଏ କହିଲା ଓ ⟨ତାହା⟩ ହେଲା, ଯେତେବେଳେ ଅଦୋନାଇ ଆଜ୍ଞା ଦେଇ ନାହାନ୍ତି?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲା"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଜ୍ଞା ଦେଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:39.269854038Z",
+  "model": "glm-5.3"
+}

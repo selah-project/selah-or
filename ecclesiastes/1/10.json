@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏପରି କୌଣସି ବିଷୟ ଅଛି ଯାହା ବିଷୟରେ କେହି କହିପାରିବ — ଦେଖ, ଏହା ନୂଆ? ଏହା ଆଗରୁ ହିଁ ଯୁଗ ଯୁଗ ଧରି ରହିଥିଲା, ଆମ ପୂର୍ବରୁ ଯାହା ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବିଷୟ"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "କହିପାରିବ"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ନୂଆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା ହିଁ"
+    },
+    {
+      "surface": "כבר",
+      "gloss": "ଆଗରୁ ହିଁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ରହିଥିଲା"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "ଯୁଗ ଯୁଗ ଧରି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "ଆମ ପୂର୍ବରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:29.910027940Z",
+  "model": "glm-5.3"
+}

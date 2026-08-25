@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ସାତ ଦିନ ପରେ ମହାପ୍ରଳୟର ଜଳ ପୃଥିବୀ ଉପରେ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ... ହେଲା"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "ଓ ଜଳ"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "ମହାପ୍ରଳୟର"
+    },
+    {
+      "surface": "היו",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:41.982224026Z",
+  "model": "glm-5.3"
+}

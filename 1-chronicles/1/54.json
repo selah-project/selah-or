@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସରଦାର୍ ମାଗ୍‌ଦିଏଲ୍, ସରଦାର୍ ଇରାମ୍ — ଏହିଗୁଡ଼ିକ ⟨ହିଁ⟩ ଏଦୋମ୍‌ର ସରଦାରଗଣ।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର୍"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "ମାଗ୍‌ଦିଏଲ୍"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର୍"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "ଇରାମ୍"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହିଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ସରଦାରଗଣ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:44.652610276Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ⟨את⟩ ଏବାଲ୍, ଏବଂ ⟨את⟩ ଅବିମାଏଲ୍, ଏବଂ ⟨את⟩ ଶେବା।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଏବାଲ୍"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "ଏବାଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅବିମାଏଲ୍"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "ଅବିମାଏଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଶେବା"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ଶେବା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.272834018Z",
+  "model": "glm-5.3"
+}

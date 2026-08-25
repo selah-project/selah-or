@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଶଲୋମୋଙ୍କ ହିତୋକ୍ତିମାନ — ଦାଉଦଙ୍କ ପୁତ୍ର, ଯିସ୍ରାଏଲଙ୍କ ରାଜା — ।",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "ହିତୋକ୍ତିମାନ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋଙ୍କ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଯିସ୍ରାଏଲଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:11.494528283Z",
+  "model": "glm-5.3"
+}

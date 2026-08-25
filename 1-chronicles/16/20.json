@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 16:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଆଉ ⟨ସେମାନେ⟩ ଏକ ଜାତିରୁ ଅନ୍ୟ ଜାତିକୁ ଏବଂ ଏକ ରାଜ୍ୟରୁ ଅନ୍ୟ ପ୍ରଜାକୁ ଘୂରି ବୁଲିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "ଆଉ ⟨ସେମାନେ⟩ ଘୂରି ବୁଲିଲେ"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "ଏକ ଜାତିରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "ଅନ୍ୟ ଜାତି"
+    },
+    {
+      "surface": "ומממלכה",
+      "gloss": "ଏବଂ ଏକ ରାଜ୍ୟରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:42.448745444Z",
+  "model": "glm-5.3"
+}

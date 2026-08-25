@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 40:6",
+  "book": "job",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଆଉ ଯାହ୍ୱେ ଝଡ଼ି ମଧ୍ୟରୁ ⟨את⟩ ଇୟୋବଙ୍କୁ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ:",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଇୟୋବଙ୍କୁ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇୟୋବଙ୍କୁ"
+    },
+    {
+      "surface": "מנ",
+      "gloss": "ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "ଝଡ଼ି"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:45:03.355900873Z",
+  "model": "glm-5.3"
+}

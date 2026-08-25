@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 29:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ତୁମେ ଦେଖିଛ ଜଣେ ଲୋକ ତାହାର କଥାରେ ଅଧୀର — ତା'ଠାରୁ ମୂର୍ଖ ପାଇଁ ଅଧିକ ଆଶା ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "חזית",
+      "gloss": "ତୁମେ ଦେଖିଛ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "אץ",
+      "gloss": "ଅଧୀର"
+    },
+    {
+      "surface": "בדבריו",
+      "gloss": "ତାହାର କଥାରେ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ଆଶା"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "ମୂର୍ଖ ପାଇଁ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "ତା'ଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:46.285867724Z",
+  "model": "glm-5.3"
+}

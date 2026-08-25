@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 8:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "କାରଣ ମୋର ତାଳୁ ସତ୍ୟ ଉଚ୍ଚାରଣ କରିବ, ଆଉ ମୋର ଓଷ୍ଠ ପାଇଁ ଦୁଷ୍କର୍ମ ଏକ ଘୃଣିତ ବିଷୟ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "ସତ୍ୟ"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ଉଚ୍ଚାରଣ କରିବ"
+    },
+    {
+      "surface": "חכי",
+      "gloss": "ମୋର ତାଳୁ"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "ଆଉ ଘୃଣିତ ବିଷୟ"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ମୋର ଓଷ୍ଠ ପାଇଁ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍କର୍ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:30.068213666Z",
+  "model": "glm-5.3"
+}

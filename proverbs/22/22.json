@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଦରିଦ୍ରକୁ ଲୁଣ୍ଟିଅନାହିଁ, କାରଣ ସେ ଦରିଦ୍ର; ଏବଂ ଦ୍ୱାରରେ ପୀଡ଼ିତକୁ ଚାପି ଦିଅନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ଲୁଣ୍ଟିଅନାହିଁ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦରିଦ୍ରକୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଏବଂ ନାହିଁ"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "ଚାପି ଦିଅନାହିଁ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ପୀଡ଼ିତକୁ"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ଦ୍ୱାରରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:31.761814579Z",
+  "model": "glm-5.3"
+}

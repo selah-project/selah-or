@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 9:6",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଜେରଖର ପୁତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ — ୟେଉଏଲ୍, ଓ ସେମାନଙ୍କ ଭାଇମାନେ — ଛଅ ଶହ ନବୟବେ।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ଆଉ ... ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "ଜେରଖର"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "ୟେଉଏଲ୍"
+    },
+    {
+      "surface": "ואחיהם",
+      "gloss": "ଓ ସେମାନଙ୍କ ଭାଇମାନେ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "ନବୟବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:46.548285509Z",
+  "model": "glm-5.3"
+}

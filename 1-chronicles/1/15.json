@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ⟨את⟩ ହିୱୀୟ, ⟨את⟩ ଅର୍କୀୟ ଓ ⟨את⟩ ସିନୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ହିୱୀୟ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ହିୱୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଅର୍କୀୟ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ଅର୍କୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ସିନୀ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ସିନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:26.468755417Z",
+  "model": "glm-5.3"
+}

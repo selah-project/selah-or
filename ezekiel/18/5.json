@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଆଉ ଜଣେ ମଣିଷ ଯଦି ଧାର୍ମିକ ହୁଏ ଏବଂ ବିଚାର ଓ ଧାର୍ମିକତା କରେ,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ଆଉ ଜଣେ ମଣିଷ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହୁଏ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଏବଂ କରେ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ବିଚାର"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "ଓ ଧାର୍ମିକତା"
+    }
+  ],
+  "timestamp": "2026-08-25T15:06:32.644106433Z",
+  "model": "glm-5.3"
+}

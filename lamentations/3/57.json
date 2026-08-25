@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୁଁ ତୁମକୁ ଡାକିବା ଦିନ ତୁମେ ନିକଟବର୍ତ୍ତୀ ହେଲ; ତୁମେ କହିଲ: ଭୟ କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "ନିକଟବର୍ତ୍ତୀ ହେଲ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "ମୁଁ ତୁମକୁ ଡାକିବି"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "କହିଲ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ଭୟ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:34.733173325Z",
+  "model": "glm-5.3"
+}

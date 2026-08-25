@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଜ୍ଞାର ପାଳକ କୌଣସି ମନ୍ଦ ବିଷୟ ଜାଣିବେ ନାହିଁ, ଆଉ ସମୟ ଓ ନ୍ୟାୟ — ଜ୍ଞାନୀର ହୃଦୟ ଜାଣେ।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ପାଳକ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ଆଜ୍ଞାର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣିବେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବିଷୟ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ସମୟ"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "ଓ ନ୍ୟାୟ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:57.054390506Z",
+  "model": "glm-5.3"
+}

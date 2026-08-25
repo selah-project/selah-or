@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "psalms 109:27",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 109,
+  "translation": "ଆଉ ସେମାନେ ଜାଣନ୍ତୁ ଯେ ଏହା ତୋର ହାତ; ତୁଁ, ହେ ଯାହ୍ୱେ, ଏହା କରିଅଛୁ।",
+  "tokens": [
+    {
+      "surface": "וידעו",
+      "gloss": "ଆଉ ସେମାନେ ଜାଣନ୍ତୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ତୋର ହାତ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עשיתה",
+      "gloss": "ଏହା କରିଅଛୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:43:14.082596167Z",
+  "model": "glm-5.3"
+}

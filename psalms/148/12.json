@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 148,
+  "translation": "ଯୁବକମାନେ ଓ ମଧ୍ୟ କନ୍ୟାମାନେ; ବୃଦ୍ଧମାନେ ସହିତ ବାଳକମାନେ।",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "ଯୁବକମାନେ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଓ ମଧ୍ୟ"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "କନ୍ୟାମାନେ"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ବୃଦ୍ଧମାନେ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "ବାଳକମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:02.352925470Z",
+  "model": "glm-5.3"
+}

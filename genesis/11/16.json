@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 11:16",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବେର ଚାରି ଓ ତିନିଶହ ବର୍ଷ ବଞ୍ଚିଲେ, ଏବଂ ⟨את⟩ ପେଲେଗଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ବଞ୍ଚିଲେ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଏବେର"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ଓ ତିନିଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପେଲେଗଙ୍କୁ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ପେଲେଗ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:23:17.994864659Z",
+  "model": "glm-5.3"
+}

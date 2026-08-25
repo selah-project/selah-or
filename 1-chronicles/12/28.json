@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ଅହରୋନଙ୍କ ⟨ସେ⟩ ଅଧ୍ୟକ୍ଷ ୟେହୋୟାଦା, ଆଉ ତାଙ୍କ ସହିତ ତିନି ହଜାର ସାତ ଶହ।",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "ଆଉ ୟେହୋୟାଦା"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "ଅଧ୍ୟକ୍ଷ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "ଅହରୋନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "ଆଉ ତାଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:25.203569507Z",
+  "model": "glm-5.3"
+}

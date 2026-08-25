@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-kings 3:8",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ପୁଣି ସେ କହିଲେ: କେଉଁ ପଥରେ ଆମେ ଉପରକୁ ଯିବା? ତାଙ୍କ ଉତ୍ତର: ଏଦୋମର ମରୁଭୂମି ପଥ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ପୁଣି ସେ କହିଲେ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "କେଉଁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "נעלה",
+      "gloss": "ଉପରକୁ ଯିବା"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ସେ କହିଲେ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "ମରୁଭୂମି"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମର"
+    }
+  ],
+  "timestamp": "2026-08-25T12:00:10.304880273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବଂ ⟨את⟩ ଅଦୋରାୟିମ୍, ଏବଂ ⟨את⟩ ଲାଖିଶ୍, ଏବଂ ⟨את⟩ ଅଜେକା।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅଦୋରାୟିମ୍"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "ଅଦୋରାୟିମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଲାଖିଶ୍"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ଲାଖିଶ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅଜେକା"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "ଅଜେକା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:20:03.094263804Z",
+  "model": "glm-5.3"
+}

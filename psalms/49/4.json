@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 49:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ମୋର ମୁଖ ଜ୍ଞାନ-କଥା କହିବ, ଆଉ ମୋର ହୃଦୟର ଧ୍ୟାନ ବିବେକ-କଥା ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ମୋର ମୁଖ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "חכמות",
+      "gloss": "ଜ୍ଞାନ-କଥା"
+    },
+    {
+      "surface": "והגות",
+      "gloss": "ଆଉ ଧ୍ୟାନ"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ମୋର ହୃଦୟର"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ବିବେକ-କଥା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:09:00.608184555Z",
+  "model": "glm-5.3"
+}

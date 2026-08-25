@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 9:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ସେ ପଠାଇଲା ତାହାର ଦାସୀମାନଙ୍କୁ; ଡାକୁଛି ⟨ସେ⟩ ନଗରର ଉଚ୍ଚ ଶିଖରଗୁଡ଼ିକ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "שלחה",
+      "gloss": "ପଠାଇଲା"
+    },
+    {
+      "surface": "נערתיה",
+      "gloss": "ତାହାର ଦାସୀମାନଙ୍କୁ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ଡାକୁଛି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "גפי",
+      "gloss": "ଶିଖରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "ନଗରର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:02.326653271Z",
+  "model": "glm-5.3"
+}

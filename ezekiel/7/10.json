@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଦେଖ, ⟨the⟩ ଦିନ, ଦେଖ, ଆସିଯାଇଛି; ଉଠିଯାଇଛି ⟨the⟩ ପ୍ରଭାତ, ମଞ୍ଜି ଫୁଟିଛି ⟨the⟩ ଦଣ୍ଡ, ଫୁଟିଉଠିଛି ⟨the⟩ ଅହଙ୍କାର ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨the⟩ ଦିନ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "באה",
+      "gloss": "ଆସିଯାଇଛି"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "ଉଠିଯାଇଛି"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "⟨the⟩ ପ୍ରଭାତ"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "ମଞ୍ଜି ଫୁଟିଛି"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "⟨the⟩ ଦଣ୍ଡ"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "ଫୁଟିଉଠିଛି"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "⟨the⟩ ଅହଙ୍କାର"
+    }
+  ],
+  "timestamp": "2026-08-25T14:50:57.054488636Z",
+  "model": "glm-5.3"
+}

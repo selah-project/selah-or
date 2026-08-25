@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 25:13",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତାହାର ନେଫେଶ୍ ଶୁଭରେ ରହିବେ, ଆଉ ତାହାର ବଂଶ ଦେଶକୁ ଅଧିକାର କରିବେ।",
+  "tokens": [
+    {
+      "surface": "נפשו",
+      "gloss": "ନେଫେଶ୍"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ଶୁଭରେ"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "ରହିବେ"
+    },
+    {
+      "surface": "וזרעו",
+      "gloss": "ଆଉ ତାହାର ବଂଶ"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "ଅଧିକାର କରିବେ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:29:24.936038019Z",
+  "model": "glm-5.3"
+}

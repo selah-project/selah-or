@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ ଅନେକ ଥର ତୁମ୍ହର ହୃଦୟ ଜାଣିଛି ଯେ ତୁମ୍ହେ ମଧ୍ୟ ⟨את⟩ ଅନ୍ୟମାନଙ୍କୁ ଅଭିଶାପ ଦେଇଛ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ଥର"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣିଛି"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ତୁମ୍ହର ହୃଦୟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଅନ୍ୟମାନଙ୍କୁ"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "ଅଭିଶାପ ଦେଇଛ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ଅନ୍ୟମାନଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:54.989084420Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ସର୍ପ ସ୍ତ୍ରୀଲୋକକୁ କହିଲା, ମୃତ୍ୟୁ ବିଶେଷେ ତୁମ୍ଭେମାନେ ମରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲା"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "ସର୍ପ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ସ୍ତ୍ରୀଲୋକ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "মות",
+      "gloss": "ମୃତ୍ୟୁ ବିଶେଷେ"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "ମରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:35.318356288Z",
+  "model": "glm-5.3"
+}

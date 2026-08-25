@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ତ୍ସରୁୟାହର ପୁତ୍ର ୟୋଆବ୍ ଜାଣିଲା ଯେ ରାଜାର ହୃଦୟ ଅବଶାଲୋମ୍ ପ୍ରତି ଅଛି।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "ଜାଣିଲା"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ୟୋଆବ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "ତ୍ସରୁୟାହର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "ଅବଶାଲୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T11:22:06.056325614Z",
+  "model": "glm-5.3"
+}

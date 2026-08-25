@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତେବେ ମର୍ତ୍ତ୍ୟମାନ — କୀଟ କି ଅଟେ, ମନୁଷ୍ୟପୁତ୍ର — ପୋକ କି ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କି"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ମର୍ତ୍ତ୍ୟମାନ"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "କୀଟ"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "ଆଉ ... ପୁତ୍ର"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "ପୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:34:31.903119301Z",
+  "model": "glm-5.3"
+}

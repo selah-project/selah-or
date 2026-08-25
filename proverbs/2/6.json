@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 2:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ ଯାହ୍ୱେ ଜ୍ଞାନ ଦିଅନ୍ତି; ⟨ମୁହଁରୁ⟩ ତାହାଙ୍କ ମୁହଁରୁ ଜ୍ଞାନ ଓ ବିବେକ ଆସେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଅନ୍ତି"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מפיו",
+      "gloss": "ତାହାଙ୍କ ମୁହଁରୁ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ותבונה",
+      "gloss": "ଓ ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:48.298432701Z",
+  "model": "glm-5.3"
+}

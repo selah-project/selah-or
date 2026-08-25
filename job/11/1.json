@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 11:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଆଉ ସୋଫାର୍ ନାଆମାତୀୟ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଆଉ...ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "ସୋଫାର୍"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "ନାଆମାତୀୟ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:27:16.441258633Z",
+  "model": "glm-5.3"
+}

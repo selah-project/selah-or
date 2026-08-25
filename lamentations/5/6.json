@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ମିସ୍ରାୟିମ୍‌କୁ ଆମ୍ଭେମାନେ ହାତ ଦେଲୁ, ଆଶ୍ଶୂରକୁ, ରୁଟିରେ ତୃପ୍ତ ହେବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "ମିସ୍ରାୟିମ୍‌କୁ"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "ଆମ୍ଭେମାନେ ଦେଲୁ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ଆଶ୍ଶୂରକୁ"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "ତୃପ୍ତ ହେବା ପାଇଁ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ରୁଟିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:31.498823461Z",
+  "model": "glm-5.3"
+}

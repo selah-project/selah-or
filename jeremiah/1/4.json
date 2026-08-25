@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 1:4",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ୟାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପାଖକୁ ଆସିଲା, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଏବଂ ଏହା ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:29:20.187729849Z",
+  "model": "glm-5.3"
+}

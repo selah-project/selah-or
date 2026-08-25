@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 26:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଳସୀ ତାହାର ହାତ ଥାଳିରେ ଲୁଚାଏ; ତାହାକୁ ନିଜ ମୁଖକୁ ଫେରାଇବାକୁ କ୍ଳାନ୍ତ ଲାଗେ।",
+  "tokens": [
+    {
+      "surface": "טמן",
+      "gloss": "ଲୁଚାଏ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ଆଳସୀ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "ତାହାର ହାତ"
+    },
+    {
+      "surface": "בצלחת",
+      "gloss": "ଥାଳିରେ"
+    },
+    {
+      "surface": "נלאה",
+      "gloss": "କ୍ଳାନ୍ତ ଲାଗେ"
+    },
+    {
+      "surface": "להשיבה",
+      "gloss": "ଫେରାଇବାକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିଜ…କୁ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ମୁଖକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.051159415Z",
+  "model": "glm-5.3"
+}

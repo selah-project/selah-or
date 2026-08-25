@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 12:25",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ମଣିଷର ହୃଦୟରେ ଚିନ୍ତା ତାହାକୁ ଦବାଇ ଦିଏ, ଆଉ ଉତ୍ତମ ବାକ୍ୟ ତାହାକୁ ଆନନ୍ଦିତ କରେ।",
+  "tokens": [
+    {
+      "surface": "דאגה",
+      "gloss": "ଚିନ୍ତା"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ହୃଦୟରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "ישחנה",
+      "gloss": "ଦବାଇ ଦିଏ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ଆଉ ବାକ୍ୟ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ישמחנה",
+      "gloss": "ଆନନ୍ଦିତ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:03.821199779Z",
+  "model": "glm-5.3"
+}

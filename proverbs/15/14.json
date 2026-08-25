@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 15:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ବିବେକୀ ହୃଦୟ ଜ୍ଞାନ ଖୋଜେ, କିନ୍ତୁ ମୂର୍ଖମାନଙ୍କର ମୁହଁ ମୂର୍ଖତା ଚରାଏ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "נבון",
+      "gloss": "ବିବେକୀ"
+    },
+    {
+      "surface": "יבקש",
+      "gloss": "ଖୋଜେ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "କିନ୍ତୁ ମୁହଁ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କର"
+    },
+    {
+      "surface": "ירעה",
+      "gloss": "ଚରାଏ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ମୂର୍ଖତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:56.822423239Z",
+  "model": "glm-5.3"
+}

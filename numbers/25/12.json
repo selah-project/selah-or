@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏଣୁ କୁହ — ଦେଖ, ମୁଁ ତାହାଙ୍କୁ ଦେଉଛି ⟨את⟩ ମୋର ନିୟମ — ଶାନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କୁହ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ଦେଖ, ମୁଁ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ଦେଉଛି"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୋର ନିୟମ ଶାନ୍ତି"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "ମୋର ନିୟମ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:26.620085535Z",
+  "model": "glm-5.3"
+}

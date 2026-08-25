@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 12:14",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "କାରଣ ଏଲୋହିମ୍ ପ୍ରତ୍ୟେକ କାର୍ଯ୍ୟକୁ ⟨את⟩ ବିଚାରରେ ଆଣିବେ, ପ୍ରତ୍ୟେକ ଗୁପ୍ତ ବିଷୟ ଉପରେ — ଭଲ ହେଉ କି ମନ୍ଦ ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପ୍ରତ୍ୟେକ କାର୍ଯ୍ୟକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ\/ସବୁ"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ଆଣିବେ"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ବିଚାରରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ\/ସବୁ"
+    },
+    {
+      "surface": "נעלם",
+      "gloss": "ଗୁପ୍ତ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଭଲ ହେଉ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "କି ମନ୍ଦ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:05:06.129390634Z",
+  "model": "glm-5.3"
+}

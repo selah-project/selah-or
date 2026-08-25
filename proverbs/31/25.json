@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଶକ୍ତି ଓ ମହିମା ⟨ଏହାର⟩ ବସ୍ତ୍ର; ଆଉ ସେ ଶେଷ ଦିନକୁ ପ୍ରତି ହସିଅଛି।",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "ଶକ୍ତି"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ଓ ମହିମା"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "⟨ଏହାର⟩ ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "ଆଉ ସେ ହସିଅଛି"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ଦିନକୁ ପ୍ରତି"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ଶେଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:55.904230052Z",
+  "model": "glm-5.3"
+}

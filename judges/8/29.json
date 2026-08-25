@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ୟେରୁବ୍ବାଲ୍, ୟୋଆଶ୍‌ଙ୍କ ପୁତ୍ର, ଯାଇ ନିଜ ଘରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଯାଇ"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "ୟେରୁବ୍ବାଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "ୟୋଆଶ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ନିଜ ଘରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:34:26.407490431Z",
+  "model": "glm-5.3"
+}

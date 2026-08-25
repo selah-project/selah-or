@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 121:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 121,
+  "translation": "ଦେଖ, ଝୋପିବ ନାହିଁ ଓ ନିଦ ଯିବ ନାହିଁ ଯିସ୍ରାଏଲର ରକ୍ଷକ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ינום",
+      "gloss": "ଝୋପିବ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "יישן",
+      "gloss": "ନିଦ ଯିବ"
+    },
+    {
+      "surface": "שומר",
+      "gloss": "ରକ୍ଷକ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଯିସ୍ରାଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:44.895777182Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 140,
+  "translation": "ସଂଗୀତ-ନେତାଙ୍କ ନିମନ୍ତେ, ଦାୱିଦଙ୍କ ଗୀତ।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "ସଂଗୀତ-ନେତାଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାୱିଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:53:05.910423010Z",
+  "model": "glm-5.3"
+}

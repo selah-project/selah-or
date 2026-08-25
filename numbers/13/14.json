@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ନାଫ୍‌ତାଲି ଗୋଷ୍ଠୀରୁ ୱାଫସିଙ୍କ ପୁତ୍ର ନାଖବି।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ନାଫ୍‌ତାଲି"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "ନାଖବି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "ୱାଫସି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:26.615859984Z",
+  "model": "glm-5.3"
+}

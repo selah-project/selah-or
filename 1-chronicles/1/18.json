@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆର୍ପକ୍‌ସଦ୍ ⟨את⟩ ଶେଲାଖ୍‌କୁ ଜନ୍ମ ଦେଲେ, ଆଉ ଶେଲାଖ୍ ⟨את⟩ ଏବେର୍‌କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "ଆର୍ପକ୍‌ସଦ୍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଶେଲାଖ୍‌କୁ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ଶେଲାଖ୍"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "ଶେଲାଖ୍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏବେର୍‌କୁ"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ଏବେର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:51:01.804692108Z",
+  "model": "glm-5.3"
+}

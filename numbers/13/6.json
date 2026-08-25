@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଯିହୂଦାର ଗୋଷ୍ଠୀ ପାଇଁ — କାଲେବ୍, ୟିଫୁନେହର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦାର"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "କାଲେବ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ୟିଫୁନେହର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:17.552106624Z",
+  "model": "glm-5.3"
+}

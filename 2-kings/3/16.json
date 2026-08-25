@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଏବଂ ସେ କହିଲେ, ଏପରି କହୁଛନ୍ତି — ଏହି ଉପତ୍ୟକାରେ ଖାଲ ଖୋଳ, ଖାଲ ଖୋଳ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ଖୋଳ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ଖାଲ"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "ଖାଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:59:22.238089231Z",
+  "model": "glm-5.3"
+}

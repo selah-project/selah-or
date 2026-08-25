@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 25:6",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଆଉ ସେ ଶହେ କିକାର ରୁପାରେ ଇସ୍ରାଏଲ୍‌ରୁ ଶହେ ହଜାର ପରାକ୍ରମୀ ଯୋଦ୍ଧା ଭାଡ଼ାରେ ନେଲେ।",
+  "tokens": [
+    {
+      "surface": "וישכר",
+      "gloss": "ଭାଡ଼ାରେ ନେଲେ"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍‌ରୁ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ପରାକ୍ରମୀ"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "ଯୋଦ୍ଧା (ବଳ)"
+    },
+    {
+      "surface": "במאה",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "କିକାର"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ରୁପା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:34:23.079900024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "କିଛି ଦିନ ଶେଷରେ ନଦୀ ଶୁଖିଗଲା, କାରଣ ଦେଶରେ ବର୍ଷା ନ ଥିଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଘଟିଲା"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "ଶୁଖିଗଲା"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "ନଦୀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ବର୍ଷା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:49:40.267987149Z",
+  "model": "glm-5.3"
+}

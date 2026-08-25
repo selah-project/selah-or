@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆମ୍ଭେ ଆମ୍ଭର ପଥଗୁଡ଼ିକୁ ଖୋଜୁ, ଅନୁସନ୍ଧାନ କରୁ, ଆଉ ଯାହ୍ୱେଙ୍କ ପାଖକୁ ଫେରିଆସୁ।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "ଖୋଜୁ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "ଆମ୍ଭର ପଥଗୁଡ଼ିକୁ"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "ଅନୁସନ୍ଧାନ କରୁ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "ଫେରିଆସୁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:47.748959917Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଦେଖ, ସେମାନେ ମୋ ପ୍ରତି କହୁଛନ୍ତି: ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ କେଉଁଠି? ଆସନ୍ତୁ ନା ଏବେ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ସେମାନେ"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "איה",
+      "gloss": "କେଉଁଠି"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ଆସନ୍ତୁ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ନା ଏବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:53:06.783063671Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ⟨את⟩ ୟେବୁସୀୟ, ⟨את⟩ ଏମୋରୀ ଓ ⟨את⟩ ଗିର୍‌ଗାସୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ୟେବୁସୀୟ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ୟେବୁସୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଏମୋରୀ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ଏମୋରୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଗିର୍‌ଗାସୀ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ଗିର୍‌ଗାସୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:26.468558340Z",
+  "model": "glm-5.3"
+}

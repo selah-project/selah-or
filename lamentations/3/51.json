@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୋ ଆଖି ମୋ ନଫେସ୍‌କୁ କଷ୍ଟ ଦିଏ, ମୋ ନଗରର ସମସ୍ତ କନ୍ୟାମାନଙ୍କ ହେତୁ।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ମୋ ଆଖି"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "କଷ୍ଟ ଦିଏ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "ମୋ ନଫେସ୍‌କୁ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "କନ୍ୟାମାନଙ୍କ"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "ମୋ ନଗରର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:50.453621067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 41:29",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଦେଖ, ସାତ ବର୍ଷ ଆସୁଛି — ସମଗ୍ର ମିଶ୍ର ଦେଶରେ ମହାନ୍ ପ୍ରଚୁରତା।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "באות",
+      "gloss": "ଆସୁଛି"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ପ୍ରଚୁରତା"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମଗ୍ର…ରେ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:48:24.889714835Z",
+  "model": "glm-5.3"
+}

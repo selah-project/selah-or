@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 35:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ଢାଲ ଓ ବଡ଼ ଢାଲ ଧର, ଆଉ ମୋର ସାହାଯ୍ୟ ପାଇଁ ଉଠି ଠିଆ ହୁଅ।",
+  "tokens": [
+    {
+      "surface": "החזק",
+      "gloss": "ଧର"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ଢାଲ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ଓ ବଡ଼ ଢାଲ"
+    },
+    {
+      "surface": "וקומה",
+      "gloss": "ଉଠି ଠିଆ ହୁଅ"
+    },
+    {
+      "surface": "בעזרתי",
+      "gloss": "ମୋର ସାହାଯ୍ୟ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:01:01.221980638Z",
+  "model": "glm-5.3"
+}

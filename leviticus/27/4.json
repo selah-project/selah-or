@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ଯଦି ⟨ସେ⟩ ନାରୀ ହୁଏ, ତେବେ ତୁମ ମୂଲ୍ୟାଙ୍କନ ତିରିଶି ଶେକେଲ୍ ହେଉ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "ନାରୀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ସେ⟩ ହୁଏ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "ତେବେ ହେଉ"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ତୁମ ମୂଲ୍ୟାଙ୍କନ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "ଶେକେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:22.776886492Z",
+  "model": "glm-5.3"
+}

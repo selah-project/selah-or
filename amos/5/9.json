@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "amos 5:9",
+  "book": "amos",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଯିଏ ବଳବାନଙ୍କ ଉପରକୁ ବିନାଶ ଝଲସାଏ, ଆଉ ଦୁର୍ଗ ଉପରକୁ ବିନାଶ ଆସିବ।",
+  "tokens": [
+    {
+      "surface": "המבליג",
+      "gloss": "ଝଲସାଏ"
+    },
+    {
+      "surface": "שד",
+      "gloss": "ବିନାଶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ବଳବାନ"
+    },
+    {
+      "surface": "ושד",
+      "gloss": "ଆଉ ବିନାଶ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "ଆସିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:26:12.928799860Z",
+  "model": "glm-5.3"
+}

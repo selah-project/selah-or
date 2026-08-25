@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ପନ୍ଦରହ ହାତ ଉପରକୁ ଜଳ ବଳିଷ୍ଠ ହେଲେ, ଓ ପର୍ବତମାନ ଆଚ୍ଛାଦିତ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "ଆସାରା",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "ଆମା",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ମିଲମାଲା",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "ଗବାରୁ",
+      "gloss": "ବଳିଷ୍ଠ ହେଲେ"
+    },
+    {
+      "surface": "ହାମାଇମ୍",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "ଭାୟିଖୁସୁ",
+      "gloss": "ଓ ଆଚ୍ଛାଦିତ ହେଲେ"
+    },
+    {
+      "surface": "ହାହାରିମ୍",
+      "gloss": "ପର୍ବତମାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:21:06.428516966Z",
+  "model": "glm-5.3"
+}

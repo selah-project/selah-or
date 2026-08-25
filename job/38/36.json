@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "job 38:36",
+  "book": "job",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଅନ୍ତରରେ ଜ୍ଞାନ କିଏ ରଖିଛି? କିମ୍ବା ବୁଦ୍ଧି କିଏ ଦେଇଛି?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "ରଖିଛି"
+    },
+    {
+      "surface": "בטחות",
+      "gloss": "ଅନ୍ତରରେ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ଦେଇଛି"
+    },
+    {
+      "surface": "לשכוי",
+      "gloss": ""
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ବୁଦ୍ଧି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:44:06.371775933Z",
+  "model": "glm-5.3"
+}

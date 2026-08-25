@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 21:12",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଯେ କୌଣି ଜଣଙ୍କୁ ପ୍ରହାର କରେ ଓ ସେ ମରେ, ସେ ମୃତ୍ୟୁଦଣ୍ଡ ପାଇବେ — ମୃତ୍ୟୁରେ ମରିବ।",
+  "tokens": [
+    {
+      "surface": "מכה",
+      "gloss": "ପ୍ରହାର କରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣଙ୍କୁ"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "ଓ ସେ ମରେ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁରେ"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ମରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:15:50.294654781Z",
+  "model": "glm-5.3"
+}

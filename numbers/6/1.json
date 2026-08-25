@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ, କୁହନ୍ତୁ",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କୁହନ୍ତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:08:08.507417268Z",
+  "model": "glm-5.3"
+}

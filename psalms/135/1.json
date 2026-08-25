@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 135:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 135,
+  "translation": "ଯାହଙ୍କ ସ୍ତୁତି କରାହାହ୍, ଯାହ୍ୱେଙ୍କ ନାମର ସ୍ତୁତି କରାହାହ୍ ⟨א⟩... ",
+  "tokens": [],
+  "timestamp": "2026-08-25T17:50:37.358103179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 15:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "କ୍ରୋଧିତ ଲୋକ ବିବାଦ ଉସକାଏ; ଆଉ କ୍ରୋଧରେ ଧୀର ବ୍ୟକ୍ତି ଝଗଡ଼ା ଶାନ୍ତ କରେ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "କ୍ରୋଧିତ (ଉତ୍ତାପ)"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ଉସକାଏ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ବିବାଦ"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "ଆଉ ଧୀର"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "କ୍ରୋଧରେ (ନାସାର)"
+    },
+    {
+      "surface": "ישקיט",
+      "gloss": "ଶାନ୍ତ କରେ"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "ଝଗଡ଼ା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:24.176195770Z",
+  "model": "glm-5.3"
+}

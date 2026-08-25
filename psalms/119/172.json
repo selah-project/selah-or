@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 172,
+  "ref": "psalms 119:172",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 119,
+  "translation": "ମୋର ଜିଭ ତୁମ ବଚନର ଉତ୍ତର ଦିଏ, କାରଣ ତୁମ ସମସ୍ତ ଆଜ୍ଞା ଧର୍ମ ।",
+  "tokens": [
+    {
+      "surface": "תען",
+      "gloss": "ଉତ୍ତର ଦିଏ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ମୋର ଜିଭ"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "ତୁମ ବଚନ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "ତମ ଆଜ୍ଞା"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ଧର୍ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:27.159724218Z",
+  "model": "glm-5.3"
+}

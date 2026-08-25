@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 16:22",
+  "book": "job",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "କାରଣ ଗଣିତ ବର୍ଷମାନ ଆସିବେ, ଆଉ ପଥ — ଫେରିବି ନାହିଁ, ତାହାରେ ଚାଲିଯିବି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ବର୍ଷମାନ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ଗଣିତ"
+    },
+    {
+      "surface": "יאתיו",
+      "gloss": "ଆସିବେ"
+    },
+    {
+      "surface": "וארח",
+      "gloss": "ଓ ପଥ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אשוב",
+      "gloss": "ଫେରିବି"
+    },
+    {
+      "surface": "אהלך",
+      "gloss": "ଚାଲିବି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:29:14.324867550Z",
+  "model": "glm-5.3"
+}

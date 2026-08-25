@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଯାହ୍ୱେ ରାଜୁତି କରିବନ୍ତି ସାର୍ବକାଳିକ ଓ ଚିରକାଳ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ରାଜୁତି କରିବନ୍ତି"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ସାର୍ବକାଳିକ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ଓ ଚିରକାଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:10:47.063324571Z",
+  "model": "glm-5.3"
+}

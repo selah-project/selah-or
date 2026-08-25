@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଝଡ଼-ବର୍ଷା ଦିନରେ ଅବିରତ ଟପୁଟପି ହୁଏ, ଆଉ ବିବାଦୀ ସ୍ତ୍ରୀ ⟨ଏହା⟩ ସହିତ ସମାନ।",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "ଟପୁଟପି ହୁଏ"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "ଅବିରତ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "ଝଡ଼-ବର୍ଷା"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "ଆଉ ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "ବିବାଦୀ"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "ସମାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:30.709805412Z",
+  "model": "glm-5.3"
+}

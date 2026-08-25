@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଏବଂ ⟨את⟩ ଅତରୋତ-ଶୋଫାନ, ଏବଂ ⟨את⟩ ୟାଅଜେର, ଏବଂ ୟୋଗ୍ବେହା।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅତରୋତ-ଶୋଫାନ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ଅତରୋତ"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "ଶୋଫାନ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ୟାଅଜେର"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "ୟାଅଜେର"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "ଏବଂ ୟୋଗ୍ବେହା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:32:30.233650734Z",
+  "model": "glm-5.3"
+}

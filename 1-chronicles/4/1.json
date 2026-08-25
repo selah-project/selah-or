@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଯିହୂଦାର ପୁତ୍ରମାନେ: ପେରେତ୍ସ୍, ଖେତ୍‌ରୋନ୍, ଓ କାର୍ମୀ, ଓ ଖୁର୍, ଓ ଶୋବାଲ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦାର"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "ପେରେତ୍ସ୍"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "ଖେତ୍‌ରୋନ୍"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ଓ କାର୍ମୀ"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ଓ ଖୁର୍"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "ଓ ଶୋବାଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:53:57.271084367Z",
+  "model": "glm-5.3"
+}

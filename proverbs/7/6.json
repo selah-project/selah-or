@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 7:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ ମୋର ଘରର ଝରକା ପାଖରେ, ମୋର ଯାଲି-ଝରକା ଭିତରକୁ ମୁଁ ଚାହିଁଲି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "בחלון",
+      "gloss": "ଝରକା ପାଖରେ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ମୋର ଘରର"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ଭିତରକୁ"
+    },
+    {
+      "surface": "אשנבי",
+      "gloss": "ମୋର ଯାଲି-ଝରକା"
+    },
+    {
+      "surface": "נשקפתי",
+      "gloss": "ମୁଁ ଚାହିଁଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:21.915813340Z",
+  "model": "glm-5.3"
+}

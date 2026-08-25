@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 19:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଦାୱିଦ୍ ଏହା ଶୁଣିଲେ ଓ ⟨את⟩ ୟୋଆବ୍ ଓ ⟨את⟩ ସମସ୍ତ ବୀରଙ୍କ ସେନାକୁ ପଠାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ଶୁଣିଲେ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାୱିଦ୍"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "ଓ ପଠାଇଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ୟୋଆବ୍"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "ୟୋଆବ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ସମସ୍ତ ବୀରଙ୍କ ସେନାକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ସେନା"
+    },
+    {
+      "surface": "הגבורים",
+      "gloss": "ବୀରଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:07:51.579516943Z",
+  "model": "glm-5.3"
+}

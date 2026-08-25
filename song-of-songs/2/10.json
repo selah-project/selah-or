@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 2:10",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୋର ପ୍ରିୟ ଉତ୍ତର ଦେଇ ମୋତେ କହିଲେ — ଉଠ, ମୋର ପ୍ରିୟା, ମୋର ସୁନ୍ଦରୀ, ଆଉ ଚାଲିଆସ।",
+  "tokens": [
+    {
+      "surface": "ענה",
+      "gloss": "ଉତ୍ତର ଦେଇ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ମୋର ପ୍ରିୟା"
+    },
+    {
+      "surface": "יפתי",
+      "gloss": "ମୋର ସୁନ୍ଦରୀ"
+    },
+    {
+      "surface": "ולכי",
+      "gloss": "ଚାଲିଆସ"
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T18:48:11.693659253Z",
+  "model": "glm-5.3"
+}

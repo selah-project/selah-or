@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 45,
+  "translation": "ଏପରି କହୁଛନ୍ତି ଯାହ୍ୱେ, ଇସ୍ରାଏଲ୍‌ର ଏଲୋହିମ୍, ତୁମ୍ଭ ବିଷୟରେ, ହେ ବାରୂଖ୍ —",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍‌ର"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "ତୁମ୍ଭ ବିଷୟରେ"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ବାରୂଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T14:29:57.812744549Z",
+  "model": "glm-5.3"
+}

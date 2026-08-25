@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଅନାଥ ହେଲୁ ଆମ୍ହେ, ପିତା ନାହାଁନ୍ତି; ଆମ୍ହର ମାତାମାନେ ବିଧବାଙ୍କ ପରି ଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ଅନାଥ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "ହେଲୁ ଆମ୍ହେ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହାଁନ୍ତି"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "ଆମ୍ହର ମାତାମାନେ"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "ବିଧବାଙ୍କ ପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:52.197652805Z",
+  "model": "glm-5.3"
+}

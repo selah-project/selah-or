@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 27:18",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଏଣ୍ଡି ସେ ନିଜ ପିତାଙ୍କ ପାଖକୁ ଆସି କହିଲା, ମୋର ପିତା; ଏଣ୍ଡି ସେ କହିଲେ, ଏଇ ମୁଁ; ତୁମେ କିଏ, ମୋର ପୁଅ?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ନିଜ ପିତାଙ୍କ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲା"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ମୋର ପିତା"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ଏଇ ମୁଁ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ମୋର ପୁଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:46:35.018927456Z",
+  "model": "glm-5.3"
+}

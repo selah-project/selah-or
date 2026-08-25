@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 7:34",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଶେମରର ପୁତ୍ରମାନେ — ଅହୀ, ୱରୋହଗା, ୟିହୁବା ଓ ଅରାମ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ଶେମରର"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ଅହୀ"
+    },
+    {
+      "surface": "ורוהגה",
+      "gloss": "ଓ ୱରୋହଗା"
+    },
+    {
+      "surface": "יחבה",
+      "gloss": "ୟିହୁବା"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "ଓ ଅରାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:33.458986160Z",
+  "model": "glm-5.3"
+}

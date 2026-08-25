@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଆଉ ଯଦି ସେ ଏକ ଦରିଦ୍ର ଲୋକ, ତୁ ତାହାର ବନ୍ଧକ ସହିତ ଶୋଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "ତୁ ଶୋଇବ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "ତାହାର ବନ୍ଧକ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:21.238149784Z",
+  "model": "glm-5.3"
+}

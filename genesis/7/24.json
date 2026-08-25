@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ଜଳ ପୃଥିବୀ ଉପରେ ପ୍ରବଳ ହୋଇ ରହିଲା ଏକଶହ ପଚାଶ ଦିନ।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "ପ୍ରବଳ ହୋଇ ରହିଲା"
+    },
+    {
+      "surface": "המים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "ଏବଂ ଏକଶହ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:11.612594922Z",
+  "model": "glm-5.3"
+}

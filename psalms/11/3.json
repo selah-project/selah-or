@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଯେତେବେଳେ ଭିତ୍ତିଗୁଡ଼ିକ ଭାଙ୍ଗିପଡ଼ନ୍ତି — ଧର୍ମୀ ⟨କ'ଣ⟩ କରିଛି?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "ଭିତ୍ତିଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "ଭାଙ୍ଗିପଡ଼ନ୍ତି"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧର୍ମୀ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "କରିଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:50:25.467511556Z",
+  "model": "glm-5.3"
+}

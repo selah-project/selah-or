@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆମ ହୃଦୟର ଆନନ୍ଦ ବନ୍ଦ ହେଲା, ଆମ ନାଚ ଶୋକରେ ପରିଣତ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "ବନ୍ଦ ହେଲା"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ଆମ ହୃଦୟର"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "ପରିଣତ ହେଲା"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "ଶୋକରେ"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "ଆମ ନାଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.408445948Z",
+  "model": "glm-5.3"
+}

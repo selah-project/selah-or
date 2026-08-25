@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଯିହୂଦା, ବିନ୍ୟାମୀନ୍, ଶେମାୟା ଓ ୟିର୍ମିୟା।",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "ଯିହୂଦା"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ବିନ୍ୟାମୀନ୍"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "ଶେମାୟା"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "ଓ ୟିର୍ମିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:41:09.972896883Z",
+  "model": "glm-5.3"
+}

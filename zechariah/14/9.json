@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ହେବ — ଯାହ୍ୱେ ସମସ୍ତ ⟨ଥିବା⟩ ପୃଥିବୀ ଉପରେ ରାଜା ହେବେ; ସେହି ଦିନରେ ଯାହ୍ୱେ ଏକ ହେବେ, ଆଉ ତାହାଙ୍କ ନାମ ଏକ ହେବ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ଆଉ ହେବ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜା ହେବେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "ଆଉ ତାହାଙ୍କ ନାମ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ ହେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:41:16.710097986Z",
+  "model": "glm-5.3"
+}

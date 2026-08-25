@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ୟାଆଲାର ପୁତ୍ରଗଣ, ଦାର୍କୋନର ପୁତ୍ରଗଣ, ଗିଦ୍ଦେଲର ପୁତ୍ରଗଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "ୟାଆଲାର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ଦାର୍କୋନର"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ଗିଦ୍ଦେଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:41:15.409440311Z",
+  "model": "glm-5.3"
+}

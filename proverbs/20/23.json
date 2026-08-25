@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 20:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଘୃଣିତ ଯାହ୍ୱେଙ୍କ ନିକଟରେ ⟨ଅଟେ⟩ ପଥର ଓ ପଥର, ଆଉ ଛଳନାର ମାପ-ଦଣ୍ଡ ଭଲ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "ଘୃଣିତ ବସ୍ତୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଓ ପଥର"
+    },
+    {
+      "surface": "ומאזני",
+      "gloss": "ଆଉ ମାପ-ଦଣ୍ଡ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ଛଳନାର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:41.607980466Z",
+  "model": "glm-5.3"
+}

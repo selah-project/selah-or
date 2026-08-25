@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 118,
+  "translation": "ଯାହ୍ୱେ ମୋ ପାଇଁ; ମୁଁ ଭୟ କରିବି ନାହିଁ; ମଣିଷ ମୋ ପାଇଁ କ’ଣ କରିବ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "ମୁଁ ଭୟ କରିବି"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ’ଣ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରିବ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ ପାଇଁ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:45:07.830821651Z",
+  "model": "glm-5.3"
+}

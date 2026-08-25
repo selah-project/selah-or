@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଦୁଷ୍ଟ ଲୋକର ଅପରାଧରେ ⟨ଏକ⟩ ଯନ୍ତା ଥାଏ, କିନ୍ତୁ ଧାର୍ମିକ ଗାନ କରେ ଓ ଆନନ୍ଦ କରେ।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "ଅପରାଧରେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "ଯନ୍ତା"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "କିନ୍ତୁ ଧାର୍ମିକ"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "ଗାନ କରେ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "ଆନନ୍ଦ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:46.437243946Z",
+  "model": "glm-5.3"
+}

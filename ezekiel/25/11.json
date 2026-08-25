@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 25:11",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଓ ମୋଆବରେ ମୁଁ ବିଚାରସମୂହ କରିବି, ଓ ସେମାନେ ଜାଣିବେ ଯେ ମୁଁ ଯାହ୍ୱେ।",
+  "tokens": [
+    {
+      "surface": "ובמואב",
+      "gloss": "ଓ ମୋଆବରେ"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "ମୁଁ କରିବି"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "ବିଚାରସମୂହ"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "ଓ ସେମାନେ ଜାଣିବେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "ଆନି",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:16:37.366723914Z",
+  "model": "glm-5.3"
+}

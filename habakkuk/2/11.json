@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ କାନ୍ଥରୁ ପଥର ଚିତ୍କାର କରିବ, ଆଉ କାଠରୁ କଡ଼ି ତାହାର ଉତ୍ତର ଦେବ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "କାନ୍ଥରୁ"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "ଚିତ୍କାର କରିବ"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "ଆଉ କଡ଼ି"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "କାଠରୁ"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "ତାହାର ଉତ୍ତର ଦେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:20:48.945489148Z",
+  "model": "glm-5.3"
+}

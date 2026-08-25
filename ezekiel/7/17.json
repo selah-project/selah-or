@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ସମସ୍ତ ହାତ ଶିଥିଳ ହେବେ, ଏବଂ ସମସ୍ତ ଆଣ୍ଠୁ ଜଳ ପରି ଦୁର୍ବଳ ହୋଇଯିବ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ଶିଥିଳ ହେବେ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଏବଂ ସମସ୍ତ"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "ଆଣ୍ଠୁ"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "ଦୁର୍ବଳ ହୋଇଯିବ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ ପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T14:53:48.028878048Z",
+  "model": "glm-5.3"
+}

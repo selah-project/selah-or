@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 33:10",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ସେମାନେ ଏଲିମଠାରୁ ଯାତ୍ରା କଲେ ଓ ସୁଫ୍ ସାଗର କଡ଼ରେ ଡେରା ପାତିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "ଯାତ୍ରା କଲେ"
+    },
+    {
+      "surface": "מאילם",
+      "gloss": "ଏଲିମଠାରୁ"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "ଡେରା ପାତିଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "କଡ଼ରେ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ସାଗର"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "ସୁଫ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:33:56.279958045Z",
+  "model": "glm-5.3"
+}

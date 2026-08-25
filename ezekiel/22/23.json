@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଓ ହେଲା ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପାଖକୁ ଆସିଲା, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:15:54.536600890Z",
+  "model": "glm-5.3"
+}

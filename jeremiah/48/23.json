@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଏବଂ କିର୍ୟାତାୟିମ୍ ଉପରେ, ଏବଂ ବେତ୍-ଗାମୁଲ୍ ଉପରେ, ଏବଂ ବେତ୍-ମେଓନ୍ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "କିର୍ୟାତାୟିମ୍"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "ଗାମୁଲ୍"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "ମେଓନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:19:24.595406898Z",
+  "model": "glm-5.3"
+}

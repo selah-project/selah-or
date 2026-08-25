@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ସେହି ଦିନ ଯାହ୍ୱେଙ୍କ କ୍ରୋଧ ଜ୍ୱଳିଉଠିଲା, ଆଉ ସେ ଶପଥ କଲେ କହି",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "ଜ୍ୱଳିଉଠିଲା"
+    },
+    {
+      "surface": "אף",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "ଶପଥ କଲେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:32:22.772304312Z",
+  "model": "glm-5.3"
+}

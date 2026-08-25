@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 40:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଓ ୟୋସେଫ ତାଙ୍କୁ କହିଲେ: ଏହା ଏହାର ବ୍ୟାଖ୍ୟା — ତିନି ଡାଳ ତିନି ଦିନ, ସେଗୁଡ଼ିକ ଅଟନ୍ତି ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "ଏହାର ବ୍ୟାଖ୍ୟା"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "השרגים",
+      "gloss": "ଡାଳ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ସେଗୁଡ଼ିକ ଅଟନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:47:32.823367061Z",
+  "model": "glm-5.3"
+}

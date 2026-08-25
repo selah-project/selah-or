@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 15:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ମୂର୍ଖତା ହୃଦୟହୀନ ଲୋକ ପାଇଁ ଆନନ୍ଦ; ଆଉ ବିବେକୀ ଲୋକ ଚାଲିବାକୁ ସିଧା କରେ।",
+  "tokens": [
+    {
+      "surface": "אולת",
+      "gloss": "ମୂର୍ଖତା"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "לחסר",
+      "gloss": "ହୀନ ଲୋକ ପାଇଁ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ଆଉ ଲୋକ"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ବିବେକୀ"
+    },
+    {
+      "surface": "יישר",
+      "gloss": "ସିଧା କରେ"
+    },
+    {
+      "surface": "לכת",
+      "gloss": "ଚାଲିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:36.882539355Z",
+  "model": "glm-5.3"
+}

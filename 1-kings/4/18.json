@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଶିମୟି, ଏଲାଙ୍କ ପୁତ୍ର, ବିନ୍ୟାମିନରେ ⟨ଥିଲେ⟩।",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମୟି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "ଏଲାଙ୍କ"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "ବିନ୍ୟାମିନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:37:15.557723904Z",
+  "model": "glm-5.3"
+}

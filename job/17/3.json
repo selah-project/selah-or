@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 17:3",
+  "book": "job",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଦୟାକରି ମୋ ଜମାନତ ତୁମ ପାଖରେ ରଖ; କିଏ ⟨ଅଛି⟩ ଯିଏ ମୋ ହାତକୁ ଚାପିବ?",
+  "tokens": [
+    {
+      "surface": "שימה",
+      "gloss": "ରଖ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଦୟାକରି"
+    },
+    {
+      "surface": "ערבני",
+      "gloss": "ମୋ ଜମାନତ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ତୁମ ପାଖରେ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ଅଛି⟩"
+    },
+    {
+      "surface": "לידי",
+      "gloss": "ମୋ ହାତକୁ"
+    },
+    {
+      "surface": "יתקע",
+      "gloss": "ଚାପିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:30:34.441025326Z",
+  "model": "glm-5.3"
+}

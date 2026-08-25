@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 13:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ମଣିଷର ପ୍ରାଣର ମୁକୁଟି ତାହାର ଧନ, କିନ୍ତୁ ଦରିଦ୍ର ଭର୍ତ୍ସନା ଶୁଣେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כפר",
+      "gloss": "ମୁକୁଟି"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣର"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷର"
+    },
+    {
+      "surface": "עשרו",
+      "gloss": "ତାହାର ଧନ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "କିନ୍ତୁ ଦରିଦ୍ର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣେ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ଭର୍ତ୍ସନା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:34.906161680Z",
+  "model": "glm-5.3"
+}

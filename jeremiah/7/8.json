@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଦେଖ, ତୁମ୍ଭେମାନେ ମିଥ୍ୟା କଥାଗୁଡ଼ିକ ଉପରେ ଭରସା କରୁଛ — ଯାହା କୌଣସି ଲାଭ ଦେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "ତୁମ୍ଭେମାନେ"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "ଭରସା କରୁଛ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "କଥାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "ମିଥ୍ୟା"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ଯାହା ନାହିଁ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ଲାଭ ଦେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:32:00.288980756Z",
+  "model": "glm-5.3"
+}

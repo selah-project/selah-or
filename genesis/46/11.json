@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଆଉ ଲେବୀର ପୁତ୍ରମାନେ: ଗେରେଶୋନ୍, କେହାତ୍ ଓ ମେରାରୀ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ …ର ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀର"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "ଗେରେଶୋନ୍"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତ୍"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ଓ ମେରାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:53:49.132784996Z",
+  "model": "glm-5.3"
+}

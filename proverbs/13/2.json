@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 13:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ମୁଖର ଫଳରୁ ମନୁଷ୍ୟ ମଙ୍ଗଳ ଖାଏ, ଆଉ ବିଶ୍ୱାସଘାତକମାନଙ୍କ ନେଫେଶ୍ — ହିଂସା।",
+  "tokens": [
+    {
+      "surface": "מפרי",
+      "gloss": "ଫଳରୁ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖର"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଏ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "ונפש",
+      "gloss": "ଆଉ ନେଫେଶ୍"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "ବିଶ୍ୱାସଘାତକମାନଙ୍କ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ହିଂସା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:43.613302111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 43,
+  "translation": "ଓ ଦେଶରେ ଭୂଖମରଣ ଭାରି ହେଲା।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "ଓ ଭୂଖମରଣ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରି ହେଲା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:51:59.854009847Z",
+  "model": "glm-5.3"
+}

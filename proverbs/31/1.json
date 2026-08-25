@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଲେମୁଏଲ୍ ରାଜାଙ୍କ ବଚନଗୁଡ଼ିକ — ⟨ଏକ⟩ ଭାରବହ୍, ଯାହା ତାଙ୍କ ମାତା ତାଙ୍କୁ ଶିଖାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ବଚନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "ଲେମୁଏଲ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ଭାରବହ୍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ଶିଖାଇଲେ"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ତାଙ୍କ ମାତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:48.376204363Z",
+  "model": "glm-5.3"
+}

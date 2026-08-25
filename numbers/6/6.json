@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେଙ୍କ ନିମନ୍ତେ ସେ ଦୀକ୍ଷିତ ରହିବା ସମସ୍ତ ଦିନ, ମୃତ ବ୍ୟକ୍ତି ନିକଟକୁ ସେ ଯିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "ସେ ଦୀକ୍ଷିତ ରହିବା"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ନିମନ୍ତେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣ"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ମୃତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ସେ ଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:06:11.744893659Z",
+  "model": "glm-5.3"
+}

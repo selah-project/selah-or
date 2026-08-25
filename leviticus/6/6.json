@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅଗ୍ନି ନିରନ୍ତର ଯାହାବେଦୀ ଉପରେ ଜଳିବ, ଲିଭିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ନିରନ୍ତର"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "ଜଳିବ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "ଯାହାବେଦୀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "ଲିଭିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:36:41.391998514Z",
+  "model": "glm-5.3"
+}

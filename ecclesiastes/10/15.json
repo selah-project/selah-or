@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମୂର୍ଖମାନଙ୍କର ପରିଶ୍ରମ ସେମାନଙ୍କୁ କ୍ଳାନ୍ତ କରେ, କାରଣ ସେ ଜାଣିନାହାନ୍ତି ନଗରକୁ ଯିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "ପରିଶ୍ରମ"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କର"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "କ୍ଳାନ୍ତ କରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "କାରଣ ସେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣିନାହାନ୍ତି"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ଯିବାକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:19.628798620Z",
+  "model": "glm-5.3"
+}

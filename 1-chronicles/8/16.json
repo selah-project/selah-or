@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ମିଖାଏଲ୍, ୟିଶ୍ପା ଓ ୟୋହା — ବରିଆର ପୁତ୍ରଗଣ।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "ଓ ମିଖାଏଲ୍"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "ଓ ୟିଶ୍ପା"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "ଓ ୟୋହା"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "ବରିଆର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:27.175444741Z",
+  "model": "glm-5.3"
+}

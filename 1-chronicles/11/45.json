@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ୟେଦିଆଏଲ୍ ଶିମରିର ପୁତ୍ର, ଏବଂ ୟୋହା ତା'ର ଭାଇ, ⟨ଥିଟିଜ୍‌ଇତ⟩।",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "ୟେଦିଆଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ଶିମରିର"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "ଏବଂ ୟୋହା"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "ତା'ର ଭାଇ"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "⟨ଥିଟିଜ୍‌ଇତ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:35.347043381Z",
+  "model": "glm-5.3"
+}

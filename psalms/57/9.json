@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 57,
+  "translation": "ଉଠ, ମୋର ମହିମା, ଉଠ, ନେବେଲ୍ ଓ କିନ୍ନୋର୍; ମୁଁ ଶଚରକୁ ଜାଗ୍ରତ କରିବି।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "ମୋର ମହିମା"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "ନେବେଲ୍"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "ଓ କିନ୍ନୋର୍"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "ମୁଁ ଜାଗ୍ରତ କରିବି"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "ଶଚରକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:11:32.184693982Z",
+  "model": "glm-5.3"
+}

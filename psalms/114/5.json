@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 114,
+  "translation": "ତୁମକୁ କ'ଣ ହେଲା, ହେ ⟨the⟩ ସମୁଦ୍ର, ଯେ ତୁମେ ପଳାଇଗଲ? ହେ ୟର୍ଦନ, ଯେ ତୁମେ ପଶ୍ଚାତକୁ ବୁଲିଗଲ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "ପଳାଇଗଲ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ୟର୍ଦନ"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "ବୁଲିଗଲ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ପଶ୍ଚାତକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:41:34.821318550Z",
+  "model": "glm-5.3"
+}

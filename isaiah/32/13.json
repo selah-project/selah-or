@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 32:13",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ମୋ ପ୍ରଜାର ଭୂମି ଉପରେ କଣ୍ଟକ ଓ ଶିମିଳି ଉଠିବ, କାରଣ ଆନନ୍ଦର ସମସ୍ତ ଘର ଉପରେ — ଉଲ୍ଲାସିତ ନଗରୀ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "ଭୂମି"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ମୋ ପ୍ରଜାର"
+    },
+    {
+      "surface": "קוץ",
+      "gloss": "କଣ୍ଟକ"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ଶିମିଳି"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "ଉଠିବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ଆନନ୍ଦର"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ନଗରୀ"
+    },
+    {
+      "surface": "עליזה",
+      "gloss": "ଉଲ୍ଲାସିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:45:16.303482655Z",
+  "model": "glm-5.3"
+}

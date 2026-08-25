@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ନୋଆଖ୍ ତିନିପୁଅ ଜନ୍ମ କଲେ — ⟨את⟩ ଶେମ୍, ⟨את⟩ ହାମ୍ ଓ ⟨את⟩ ୟାଫେତ୍ ।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ କଲେ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୋଆଖ୍"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଶେମ୍"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ଶେମ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ହାମ୍"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ହାମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ୟାଫେତ୍"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "ୟାଫେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:57.965255409Z",
+  "model": "glm-5.3"
+}

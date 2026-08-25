@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "daniel 8:20",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯେଉଁ ମେଣ୍ଢା ତୁମେ ଦେଖିଲ, ଶିଙ୍ଗମାନଙ୍କର ମାଲିକ — ମାଦୈ ଓ ପାରସର ରାଜାମାନେ ⟨are⟩।",
+  "tokens": [
+    {
+      "surface": "האיל",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ତୁମେ ଦେଖିଲ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ମାଲିକ"
+    },
+    {
+      "surface": "הקרנים",
+      "gloss": "ଶିଙ୍ଗମାନଙ୍କର"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "ରାଜାମାନେ"
+    },
+    {
+      "surface": "מדי",
+      "gloss": "ମାଦୈ"
+    },
+    {
+      "surface": "ופרס",
+      "gloss": "ଓ ପାରସ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:21:04.244807249Z",
+  "model": "glm-5.3"
+}

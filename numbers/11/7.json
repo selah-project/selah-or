@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ⟨the⟩ ମାନ୍ — ଏହା ଧଣିଆ ବୀଜ ପରି, ଓ ଏହାର ରୂପ ବେଦୋଲାଖର ରୂପ ପରି।",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "ଓ ⟨the⟩ ମାନ୍"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "ବୀଜ ପରି"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଧଣିଆ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "ଓ ଏହାର ରୂପ"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "ରୂପ ପରି"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "ବେଦୋଲାଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:11:16.662663390Z",
+  "model": "glm-5.3"
+}

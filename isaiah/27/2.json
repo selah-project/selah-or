@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ସେହି ଦିନରେ — ଏକ ପ୍ରିୟ ଦ୍ରାକ୍ଷାବାଟିକା; ତାହା ପ୍ରତି ଗାନ କର।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "ଦ୍ରାକ୍ଷାବାଟିକା"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "ପ୍ରିୟ"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "ଗାନ କର"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ତାହା ପ୍ରତି"
+    }
+  ],
+  "timestamp": "2026-08-25T12:42:22.726519793Z",
+  "model": "glm-5.3"
+}

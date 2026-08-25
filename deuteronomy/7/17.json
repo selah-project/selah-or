@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 7:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯଦି ତୁମେ ତୁମର ହୃଦୟରେ କହ — ଏହି ଜାତିମାନେ ମୋଠାରୁ ବହୁ; ମୁଁ କିପରି ସେମାନଙ୍କୁ ହଟାଇ ପାରିବି?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "ତୁମେ କହ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ତୁମର ହୃଦୟରେ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ବହୁ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ଜାତିମାନେ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "ମୋଠାରୁ"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "କିପରି"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "ମୁଁ ପାରିବି"
+    },
+    {
+      "surface": "להורישם",
+      "gloss": "ସେମାନଙ୍କୁ ହଟାଇବି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:44:08.613818961Z",
+  "model": "glm-5.3"
+}

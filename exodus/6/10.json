@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 6:10",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେ ମୋଶେଙ୍କ ସହ କହିଲେ ⟨ଏହା କହିବା ପାଇଁ⟩।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏହା କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:01:06.521192353Z",
+  "model": "glm-5.3"
+}

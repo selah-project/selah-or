@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯେଉଁ ସବୁର ପଖଂ ଓ କାତି ନାହିଁ, ସେସବୁ ତୁମ୍ଭେମାନେ ଖାଇନାହିଁ; ତାହା ତୁମ୍ଭମାନଙ୍କ ପାଇଁ ଅଶୁଚି।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ଯେଉଁ ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତା'"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ପଖଂ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "ଓ କାତି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ତୁମ୍ଭେମାନେ ଖାଇ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:53.881222821Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ କଡ଼ାଇ ତଳେ କଣ୍ଟାର ଶବ୍ଦ ପରି, ମୂର୍ଖର ହସ ସେହିପରି; ଏହା ମଧ୍ୟ ହବେଲ୍।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "ଶବ୍ଦ ପରି"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "କଣ୍ଟାର"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "କଡ଼ାଇ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେହିପରି"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ହସ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ମୂର୍ଖର"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହବେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:25.696979302Z",
+  "model": "glm-5.3"
+}

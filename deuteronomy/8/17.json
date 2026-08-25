@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ତୁମ୍ଭେ ତୁମ୍ଭ ହୃଦୟରେ କହିବ: ମୋର ଶକ୍ତି ଓ ମୋର ହାତର ବଳ ମୋତେ ⟨את⟩ ଏହି ସମ୍ପଦ ଅର୍ଜନ କରିଦେଲା।",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "ଓ ତୁମ୍ଭେ କହିବ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ତୁମ୍ଭ ହୃଦୟରେ"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "ମୋର ଶକ୍ତି"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "ଓ ବଳ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ମୋର ହାତର"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ଅର୍ଜନ କରିଦେଲା"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ସମ୍ପଦ"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "ସମ୍ପଦ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:45:10.892787112Z",
+  "model": "glm-5.3"
+}

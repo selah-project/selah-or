@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଏକ ସିଂହ — ପଶୁମାନଙ୍କ ମଧ୍ୟରେ ବୀର; ଆଉ ସେ କାହା ମୁହଁରୁ ମନ୍ଦିରେ ନାହାଁନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "ଏକ ସିଂହ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "ପଶୁମାନଙ୍କ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରନ୍ତି"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ମୁହଁରୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:16:50.594115392Z",
+  "model": "glm-5.3"
+}

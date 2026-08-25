@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ ଏହି ଲିଖିତ ଲେଖା ଏହିପରି ଲେଖାଯାଇଛି: ମେନେ, ମେନେ, ଟେକେଲ୍, ଉଫାରସିନ୍।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "ଆଉ ଏହି"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "ଲିଖିତ ଲେଖା"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "ଲେଖାଯାଇଛି"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ମେନେ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "ମେନେ"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "ଟେକେଲ୍"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "ଉଫାରସିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:14:45.695684891Z",
+  "model": "glm-5.3"
+}

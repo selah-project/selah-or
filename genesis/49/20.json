@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 49:20",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ଅଶେରରୁ ତା’ର ରୁଟି ସ୍ନିଗ୍ଧ ହେବ, ଆଉ ସେ ରାଜାଙ୍କ ମାନଭଞ୍ଜ ଦେବ।",
+  "tokens": [
+    {
+      "surface": "מאשר",
+      "gloss": "ଅଶେରରୁ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ସ୍ନିଗ୍ଧ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ତା’ର ରୁଟି"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଆଉ ସେ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେବ"
+    },
+    {
+      "surface": "מעדני",
+      "gloss": "ମାନଭଞ୍ଜ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:57:05.221279606Z",
+  "model": "glm-5.3"
+}

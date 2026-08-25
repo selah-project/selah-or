@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ମୀଖାଙ୍କ ପୁତ୍ରମାନେ: ପୀଥୋନ, ମେଲେଖ, ତାରେଆ ଓ ଆହାଜ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମୀଖାଙ୍କ"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ପୀଥୋନ"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "ମେଲେଖ"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "ତାରେଆ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "ଆହାଜ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:52.632760391Z",
+  "model": "glm-5.3"
+}

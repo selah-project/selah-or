@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ସେନାହାର ପୁତ୍ରମାନେ — ତିନି ହଜାର ନେଇଶହ ତିରିଶି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "ସେନାହା"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନେଇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "ତିରିଶି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:51.717798902Z",
+  "model": "glm-5.3"
+}

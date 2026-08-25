@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଏହା ମନେ ରଖ ଓ ସ୍ଥିର ହୁଅ; ହେ ଅବାଧ୍ୟମାନେ, ଏହାକୁ ହୃଦୟ ଉପରକୁ ଫେରାଅ।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ମନେ ରଖ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "ଓ ସ୍ଥିର ହୁଅ"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "ଫେରାଅ"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "ହେ ଅବାଧ୍ୟମାନେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:07:26.194432683Z",
+  "model": "glm-5.3"
+}

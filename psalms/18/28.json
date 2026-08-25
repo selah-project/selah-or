@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 18:28",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "କାରଣ ଆପଣ ଦୁଃଖିତ ପ୍ରଜାକୁ ଉଦ୍ଧାର କରନ୍ତି, କିନ୍ତୁ ଉଚ୍ଚ ଆଖିକୁ ନତ କରନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ଆପଣ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦୁଃଖିତ"
+    },
+    {
+      "surface": "תושיע",
+      "gloss": "ଉଦ୍ଧାର କରନ୍ତି"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "ଏବଂ ଆଖି"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "תשפיל",
+      "gloss": "ନତ କରନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:54:21.320723261Z",
+  "model": "glm-5.3"
+}

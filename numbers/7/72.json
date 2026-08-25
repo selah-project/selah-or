@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "numbers 7:72",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏକାଦଶତମ ଦିନରେ ଅଶେରର ପୁତ୍ରମାନଙ୍କ ନେତା ପଗିଏଲ, ଓଖରାନଙ୍କ ପୁଅ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ଏକାଦଶ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…ତମ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନେତା"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଅଶେରର"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "ପଗିଏଲ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ଓଖରାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:20.119654865Z",
+  "model": "glm-5.3"
+}

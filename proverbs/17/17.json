@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ସବୁ ସମୟରେ ⟨ଏକ⟩ ବନ୍ଧୁ ପ୍ରେମ କରେ, ଆଉ ଦୁଃଖ ସମୟ ପାଇଁ ଏକ ଭାଇ ଜନ୍ମେ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ସବୁ ... ରେ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ବନ୍ଧୁ"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "ଆଉ ଭାଇ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "ଦୁଃଖ ସମୟ ପାଇଁ"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ଜନ୍ମେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:07.408453258Z",
+  "model": "glm-5.3"
+}

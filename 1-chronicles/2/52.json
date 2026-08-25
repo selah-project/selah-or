@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବଂ ଶୋବଲଙ୍କ — କିର୍ୟତ-ୟଆରିମର ପିତାଙ୍କ — ପୁତ୍ରମାନେ ଥିଲେ: ହାରୋଏ, ଅଧା ମନାହୋତୀୟ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଏବଂ … ଥିଲେ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "ଶୋବଲଙ୍କ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତାଙ୍କ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "କିର୍ୟତ-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "ୟଆରିମର"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "ହାରୋଏ"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "ଅଧା"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "ମନାହୋତୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:42.276505058Z",
+  "model": "glm-5.3"
+}

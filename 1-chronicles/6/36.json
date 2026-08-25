@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ବୁକି ତାହାଙ୍କ ପୁତ୍ର, ଉଜି ତାହାଙ୍କ ପୁତ୍ର, ଜେରଖିୟା ତାହାଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "ବୁକି"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "ଉଜି"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "ଜେରଖିୟା"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:13.190413432Z",
+  "model": "glm-5.3"
+}

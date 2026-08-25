@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 5:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "କାରଣ ସ୍ୱପ୍ନମାନଙ୍କ ଅଧିକତାରେ ହାବୁଡ଼ ଓ ଅନେକ କଥା ⟨ଅଛି⟩; କିନ୍ତୁ ⟨את⟩ ଏଲୋହିମ୍‌ଙ୍କୁ ଭୟ କର।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "ଅଧିକତାରେ"
+    },
+    {
+      "surface": "חלמות",
+      "gloss": "ସ୍ୱପ୍ନ"
+    },
+    {
+      "surface": "והבלים",
+      "gloss": "ଓ ହାବୁଡ଼"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ଓ କଥା"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କିନ୍ତୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ଭୟ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:42.090649574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ତାହାର ଜୀବନର ସମସ୍ତ ଦିନ ସେ ତାହାକୁ ମଙ୍ଗଳ ପ୍ରଦାନ କରେ, ଅମଙ୍ଗଳ ନୁହେଁ।",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "ସେ ତାହାକୁ ପ୍ରଦାନ କରେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "c\/3808",
+      "gloss": "ଓ ନୁହେଁ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ଅମଙ୍ଗଳ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "ତାହାର ଜୀବନର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:39.183751295Z",
+  "model": "glm-5.3"
+}

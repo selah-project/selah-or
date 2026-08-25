@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଅତଳ ଗହ୍ୱର କହେ, 'ମୋ'ଠାରେ ସେ ନାହିଁ', ଏବଂ ସମୁଦ୍ର କହେ, 'ମୋ ସହିତ ନାହିଁ'।",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "ଅତଳ ଗହ୍ୱର"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ମୋ'ଠାରେ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "וים",
+      "gloss": "ଏବଂ ସମୁଦ୍ର"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ମୋ ସହିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:35:25.669014653Z",
+  "model": "glm-5.3"
+}

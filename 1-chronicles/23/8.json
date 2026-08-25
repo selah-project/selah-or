@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଲାଦାନର ପୁତ୍ରମାନେ — ମୁଖ୍ୟ ୟେଖିଏଲ୍, ଆଉ ଜେତାମ୍, ଆଉ ୟୋଏଲ୍ — ତିନି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ଲାଦାନର"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ମୁଖ୍ୟ"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "ୟେଖିଏଲ୍"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "ଆଉ ଜେତାମ୍"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "ଆଉ ୟୋଏଲ୍"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "ତିନି ଜଣ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:40.621144071Z",
+  "model": "glm-5.3"
+}

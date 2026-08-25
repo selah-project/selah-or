@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆମରୟା, ମାଲ୍ଲୁଖ୍, ଖାତ୍ତୁଶ୍।",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "ଆମରୟା"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "ମାଲ୍ଲୁଖ୍"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ଖାତ୍ତୁଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:06.786413467Z",
+  "model": "glm-5.3"
+}

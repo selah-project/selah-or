@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ୟିରମିଯା, ଓ ୟାଖାଜିଏଲ୍, ଓ ୟୋହାନାନ୍, ଓ ୟୋଜାବାଦ୍ ହଗେଦେରାତୀ ।",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "ଓ ୟିରମିଯା"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "ଓ ୟାଖାଜିଏଲ୍"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "ଓ ୟୋହାନାନ୍"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "ଓ ୟୋଜାବାଦ୍"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "ହଗେଦେରାତୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:35.884495148Z",
+  "model": "glm-5.3"
+}

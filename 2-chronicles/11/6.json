@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଏବଂ ⟨את⟩ ବେତ-ଲେଖେମ୍ ଓ ⟨את⟩ ଏତାମ୍ ଓ ⟨את⟩ ତେକୋଆ ନିର୍ମାଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ଏବଂ ନିର୍ମାଣ କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବେତ-ଲେଖେମ୍"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ"
+    },
+    {
+      "surface": "ଲחם",
+      "gloss": "ଲେଖେମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଏତାମ୍"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "ଏତାମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ତେକୋଆ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "ତେକୋଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:19:45.457289020Z",
+  "model": "glm-5.3"
+}

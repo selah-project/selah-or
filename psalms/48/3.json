@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 48:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ସୁନ୍ଦର ଉଚ୍ଚତା, ସାରା ପୃଥିବୀର ଆନନ୍ଦ — ଜିଓନ୍ ପର୍ବତ, ଉତ୍ତରର କୋଣ, ମହାନ ରାଜାଙ୍କ ନଗର।",
+  "tokens": [
+    {
+      "surface": "יפה",
+      "gloss": "ସୁନ୍ଦର"
+    },
+    {
+      "surface": "נוף",
+      "gloss": "ଉଚ୍ଚତା"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ଆନନ୍ଦ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀର"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ଜିଓନ୍"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "କୋଣ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ଉତ୍ତରର"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ମହାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:08:12.668529269Z",
+  "model": "glm-5.3"
+}

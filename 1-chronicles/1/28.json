@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଅବ୍ରାହାମଙ୍କ ପୁତ୍ରଗଣ — ୟିତ୍ସଖାକ୍ ଓ ୟିଶ୍ମାଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମଙ୍କ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ୟିତ୍ସଖାକ୍"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "ଓ ୟିଶ୍ମାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:44.201242404Z",
+  "model": "glm-5.3"
+}

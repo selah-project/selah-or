@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 15:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆଉ ବେରେଖ୍ୟାହୁ ଓ ଏଲକାନା — ସିନ୍ଦୁକ ପାଇଁ ଦ୍ୱାରରକ୍ଷକ।",
+  "tokens": [
+    {
+      "surface": "וברכיה",
+      "gloss": "ଆଉ ବେରେଖ୍ୟାହୁ"
+    },
+    {
+      "surface": "ואלקנה",
+      "gloss": "ଏଲକାନା"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ଦ୍ୱାରରକ୍ଷକ"
+    },
+    {
+      "surface": "לארון",
+      "gloss": "ସିନ୍ଦୁକ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:39.291696650Z",
+  "model": "glm-5.3"
+}

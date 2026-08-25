@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଅଭିଶପ୍ତ ସେ, ଯିଏ ପରଦେଶୀ, ଅନାଥ ଓ ବିଧବାର ନ୍ୟାୟ ବିକୃତ କରେ; ଆଉ ସମସ୍ତ ପ୍ରଜା କହିବେ, ଆମେନ୍।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ବିକୃତ କରେ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ନ୍ୟାୟ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "ପରଦେଶୀ"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "ଅନାଥ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "ଓ ବିଧବାର"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "ଆଉ … କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:59:22.030766959Z",
+  "model": "glm-5.3"
+}

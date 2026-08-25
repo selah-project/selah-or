@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ୟାକୋଭ୍ ⟨he⟩ ପିତାଙ୍କ ଓ ମାତାଙ୍କ କଥା ଶୁଣି ପାଦାନ୍-ଆରାମକୁ ଗଲେ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ଶୁଣି"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପିତାଙ୍କ...କଥା"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "ପିତାଙ୍କ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ...କଥା"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "ମାତାଙ୍କ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲେ"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "ପାଦାନ୍-"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ଆରାମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:59.847822302Z",
+  "model": "glm-5.3"
+}

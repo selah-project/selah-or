@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-kings 18:41",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଓ ଏଲିୟାହୁ ଅଖାବଙ୍କୁ କହିଲେ, ଉଠ, ଖା ଓ ପିଅ, କାରଣ ପ୍ରବଳ ବର୍ଷାର ଶବ୍ଦ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "ଏଲିୟାହୁ"
+    },
+    {
+      "surface": "לאחאב",
+      "gloss": "ଅଖାବଙ୍କୁ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ଉଠ"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "ଖା"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "ଓ ପିଅ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ଶବ୍ଦ"
+    },
+    {
+      "surface": "המון",
+      "gloss": "ପ୍ରବଳ"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ବର୍ଷା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:53:38.085938479Z",
+  "model": "glm-5.3"
+}

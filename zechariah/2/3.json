@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋତେ ଚାରି କାରିଗର ଦେଖାଇଲେ ।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "ଦେଖାଇଲେ ମୋତେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "କାରିଗର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:33:57.319130864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 1:2",
+  "book": "job",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ତାହାଙ୍କଠାରୁ ଜନ୍ମ ନେଲେ ସାତ ପୁତ୍ର ଓ ତିନି କନ୍ୟା।",
+  "tokens": [
+    {
+      "surface": "ויולדו",
+      "gloss": "ଜନ୍ମ ନେଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାହାଙ୍କଠାରୁ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "ଓ ତିନି"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "କନ୍ୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:21:52.363015300Z",
+  "model": "glm-5.3"
+}

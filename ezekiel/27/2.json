@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ତୁମେ, ମନୁଷ୍ୟପୁତ୍ର, ତ୍ସୋର ଉପରେ ଏକ ବିଳାପଗୀତ ଉତ୍ତୋଳନ କର।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ଆଉ ତୁମେ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "שא",
+      "gloss": "ଉତ୍ତୋଳନ କର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ତ୍ସୋର"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "ବିଳାପଗୀତ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:22:35.574741664Z",
+  "model": "glm-5.3"
+}

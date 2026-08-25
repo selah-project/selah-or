@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 5:13",
+  "book": "amos",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏଣୁ ସେହି ସମୟରେ ବିବେକୀ ଲୋକ ମୌନ ରହିବ, କାରଣ ଏ ⟨ହେଉଛି⟩ ମନ୍ଦ ସମୟ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "המשכיל",
+      "gloss": "ବିବେକୀ ଲୋକ"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ସମୟରେ"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "ידם",
+      "gloss": "ମୌନ ରହିବ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨ଏ⟩ ହେଉଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:12:57.840172762Z",
+  "model": "glm-5.3"
+}

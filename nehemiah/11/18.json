@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ପବିତ୍ର ନଗରରେ ଥିବା ସମସ୍ତ ଲେବୀୟମାନେ — ଦୁଇ ଶହ ଚுରାଶୀ ଜଣ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ଲେବୀୟମାନେ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ନଗରରେ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "ଅଶୀ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଆଉ ଚାରି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:48:37.301422853Z",
+  "model": "glm-5.3"
+}

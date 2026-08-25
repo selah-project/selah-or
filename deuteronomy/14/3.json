@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "କୌଣସି ଘୃଣିତ ବସ୍ତୁ ଖାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "ଘୃଣିତ ବସ୍ତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:04.802245676Z",
+  "model": "glm-5.3"
+}

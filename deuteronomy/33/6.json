@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ରିଉବେନ୍ ବଞ୍ଚନ୍ତୁ, ଓ ମରନ୍ତୁ ନାହିଁ, ଆଉ ତାହାର ଲୋକେ ଗଣିତ ହୁଅନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ବଞ୍ଚନ୍ତୁ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ରିଉବେନ୍"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ମରନ୍ତୁ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ...ହୁଅନ୍ତୁ"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "ତାହାର ଲୋକେ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ଗଣିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:05:42.386718902Z",
+  "model": "glm-5.3"
+}

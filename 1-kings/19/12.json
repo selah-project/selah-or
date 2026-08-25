@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "କମ୍ପନ ପରେ ଅଗ୍ନି — ଅଗ୍ନିରେ ଯାହ୍ୱେ ନାହାନ୍ତି; ଅଗ୍ନି ପରେ ଏକ ମନ୍ଦ, ସୂକ୍ଷ୍ମ ସ୍ୱର।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "କମ୍ପନ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହାନ୍ତି"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ଅଗ୍ନିରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "האש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "ସୂକ୍ଷ୍ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:54:37.233300905Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ପାଞ୍ଚଟି ପରଦା ପରସ୍ପର ସହ ଯୁକ୍ତ ହେବ, ଆଉ ପାଞ୍ଚଟି ପରଦା ପରସ୍ପର ସହ ଯୁକ୍ତ ହେବ।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚଟି"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ପରଦା"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ଯୁକ୍ତ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ପରସ୍ପର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ପରସ୍ପର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଆଉ ପାଞ୍ଚଟି"
+    },
+    {
+      "surface": "יריעת",
+      "gloss": "ପରଦା"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ଯୁକ୍ତ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ପରସ୍ପର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "ପରସ୍ପର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:21:08.496198013Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-samuel 23:30",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ବେନାୟାହୁ ପିରଆତୋନୀ; ହିଦ୍ଦାଇ, ଗାଅଶର ନଦୀଧାରାରୁ।",
+  "tokens": [
+    {
+      "surface": "בניהו",
+      "gloss": "ବେନାୟାହୁ"
+    },
+    {
+      "surface": "פרעתני",
+      "gloss": "ପିରଆତୋନୀ"
+    },
+    {
+      "surface": "הדי",
+      "gloss": "ହିଦ୍ଦାଇ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "ନଦୀଧାରାରୁ"
+    },
+    {
+      "surface": "געש",
+      "gloss": "ଗାଅଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:31:11.627994898Z",
+  "model": "glm-5.3"
+}

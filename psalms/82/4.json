@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 82:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 82,
+  "translation": "ଦୁର୍ବଳ ଓ ଦରିଦ୍ରକୁ ଖସେଇ ଦିଅ; ଦୁଷ୍ଟମାନଙ୍କ ହାତରୁ ଉଦ୍ଧାର କର।",
+  "tokens": [
+    {
+      "surface": "פלטו",
+      "gloss": "ଖସେଇ ଦିଅ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦୁର୍ବଳ"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "ଓ ଦରିଦ୍ରକୁ"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "ହାତରୁ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍ଟମାନଙ୍କ"
+    },
+    {
+      "surface": "הצילו",
+      "gloss": "ଉଦ୍ଧାର କର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:27:29.162481754Z",
+  "model": "glm-5.3"
+}

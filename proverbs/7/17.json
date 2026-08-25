@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ମୁଁ ମୋର ଶଯ୍ୟା ଛିଞ୍ଚିଛି ମୁର୍, ଅଗୁରୁ ଓ ଦାରୁଚିନିରେ।",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ମୁଁ ଛିଞ୍ଚିଛି"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ମୋର ଶଯ୍ୟା"
+    },
+    {
+      "surface": "מר",
+      "gloss": "ମୁର୍"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "ଅଗୁରୁ"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "ଓ ଦାରୁଚିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:19.772086782Z",
+  "model": "glm-5.3"
+}

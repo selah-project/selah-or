@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କଣ୍ଟା ଓ ଦନ୍ତାଳ ଗଛ ସେ ତୁମ ପାଇଁ ଉଗାଇବ, ଆଉ ତୁମେ ପଡ଼ିଆର ⟨את⟩ ଘାସ ଖାଇବ।",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "କଣ୍ଟା"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "ଓ ଦନ୍ତାଳ ଗଛ"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "ଉଗାଇବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଘାସ"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "ଘାସ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ପଡ଼ିଆର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:18:46.185651599Z",
+  "model": "glm-5.3"
+}

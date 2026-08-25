@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 2:12",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏଣୁ ମୁଁ ଜଣେ ଜ୍ଞାନୀ ଲୋକ, ଉପଲବ୍ଧି ଜାଣିବା, ହୁରାମ୍ ମୋର ପିତୃସମଙ୍କୁ ପଠାଇଛି।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "ଏଣୁ"
+    },
+    {
+      "surface": "שלחתי",
+      "gloss": "ମୁଁ ପଠାଇଛି"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣିବା"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "ଉପଲବ୍ଧି"
+    },
+    {
+      "surface": "לחורם",
+      "gloss": "ହୁରାମଙ୍କୁ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ମୋର ପିତୃସମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:17:52.566354235Z",
+  "model": "glm-5.3"
+}

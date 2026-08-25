@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଗୀତଗୁଡ଼ିକର ଗୀତ, ଯାହା ଶଲୋମୋହଙ୍କ।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "ଗୀତଗୁଡ଼ିକର ଗୀତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ଶଲୋମୋହଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:48.177725680Z",
+  "model": "glm-5.3"
+}

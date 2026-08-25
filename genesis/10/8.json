@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ କୁଶ୍ ⟨את⟩ ନିମରୋଦଙ୍କୁ ଜନ୍ମ ଦେଲେ; ସେ ପୃଥିବୀରେ ସାହସୀ ହେବାକୁ ଆରମ୍ଭ କଲା।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "ଆଉ କୁଶ୍"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନିମରୋଦଙ୍କୁ"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "ନିମରୋଦ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ଆରମ୍ଭ କଲା"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "ହେବାକୁ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ସାହସୀ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:34.455117347Z",
+  "model": "glm-5.3"
+}

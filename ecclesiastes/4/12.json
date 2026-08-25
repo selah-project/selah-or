@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 4:12",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯଦି ଜୟ କରେ ⟨ଏକ⟩, ଦୁହେଁ ଠିଆ ହେବେ ତା' ସାମ୍ନାରେ; ଆଉ ତିନି-ଗୁଣିତ ସୂତ୍ର ଶୀଘ୍ର ଭାଙ୍ଗିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "יתקפו",
+      "gloss": "ଜୟ କରେ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ଦୁହେଁ"
+    },
+    {
+      "surface": "יעמדו",
+      "gloss": "ଠିଆ ହେବେ"
+    },
+    {
+      "surface": "נגדו",
+      "gloss": "ତା' ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "והחוט",
+      "gloss": "ଆଉ ସୂତ୍ର"
+    },
+    {
+      "surface": "המשלש",
+      "gloss": "ତିନି-ଗୁଣିତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "במהרה",
+      "gloss": "ଶୀଘ୍ର"
+    },
+    {
+      "surface": "ינתק",
+      "gloss": "ଭାଙ୍ଗିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:57.135306573Z",
+  "model": "glm-5.3"
+}

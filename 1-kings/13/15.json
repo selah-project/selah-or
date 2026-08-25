@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-kings 13:15",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଓ ସେ ତାହାଙ୍କୁ କହିଲେ, ମୋ ⟨ସହିତ⟩ ⟨⟨את⟩⟩ ଘରକୁ ଆସ, ଓ ରୁଟି ଖାଅ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାହାଙ୍କୁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ ମୋ ସହିତ"
+    },
+    {
+      "surface": "הביתה",
+      "gloss": "ଘରକୁ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ଓ ଖାଅ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ରୁଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T11:45:39.942545811Z",
+  "model": "glm-5.3"
+}

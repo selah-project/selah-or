@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 1:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ ମଧ୍ୟ ତୁମ୍ଭର ବିପଦରେ ହସିବି, ତୁମ୍ଭର ଭୟ ଆସିବା ସମୟରେ ବିଦ୍ରୂପ କରିବି।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "באידכם",
+      "gloss": "ତୁମ୍ଭର ବିପଦରେ"
+    },
+    {
+      "surface": "אשחק",
+      "gloss": "ହସିବି"
+    },
+    {
+      "surface": "אלעג",
+      "gloss": "ବିଦ୍ରୂପ କରିବି"
+    },
+    {
+      "surface": "בבא",
+      "gloss": "ଆସିବା ସମୟରେ"
+    },
+    {
+      "surface": "פחדכם",
+      "gloss": "ତୁମ୍ଭର ଭୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:58:07.108704834Z",
+  "model": "glm-5.3"
+}

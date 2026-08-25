@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 108,
+  "translation": "ଗୀତ, ଦାଉଦଙ୍କ ମିଜମୋର।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "ମିଜମୋର"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:41:32.548236406Z",
+  "model": "glm-5.3"
+}

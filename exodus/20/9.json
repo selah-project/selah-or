@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଛଅ ଦିନ ତୁମେ ପରିଶ୍ରମ କରିବ ଓ ତୁମର ସମସ୍ତ କାର୍ଯ୍ୟ କରିବ।",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "ପରିଶ୍ରମ କରିବ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "ଓ କରିବ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "ତୁମର କାର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:14:36.288252158Z",
+  "model": "glm-5.3"
+}

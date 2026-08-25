@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଆଉ ଲେବୀୟମାନେ ଉତ୍ତର ଦେବେ ଓ ଇସ୍ରାଏଲ୍‌ର ପ୍ରତ୍ୟେକ ମଣିଷ ପ୍ରତି ଉଚ୍ଚ ସ୍ୱରରେ କହିବେ।",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "ଆଉ ... ଉତ୍ତର ଦେବେ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "ଲେବୀୟମାନେ"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "ଓ କହିବେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍‌ର"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱରରେ"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ଉଚ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:57:33.709919728Z",
+  "model": "glm-5.3"
+}

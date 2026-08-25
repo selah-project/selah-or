@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ତୁମ୍ଭେ ଉଲ୍ ଓ ତିନା ଏକାଠି ବୁଣା ଶାଟନେଜ୍ ବସ୍ତ୍ର ପିନ୍ଧ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "ପିନ୍ଧ"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ଶାଟନେଜ୍ ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ଉଲ୍"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "ଓ ତିନା"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "ଏକାଠି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:52:36.268265275Z",
+  "model": "glm-5.3"
+}

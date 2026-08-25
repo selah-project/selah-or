@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 36:9",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଗୋଟିଏ ପରଦାର ଦୈର୍ଘ୍ୟ ଅଠାଶିଗୋଟି ହାତ, ଆଉ ଗୋଟିଏ ପରଦାର ଓସାର ଚାରି ହାତ; ସବୁ ପରଦା ପାଇଁ ଏକ ମାପ।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ପରଦାର"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ଅଠାଶି"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ଓ ବିଶି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "ଆଉ ଓସାର"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "היריעה",
+      "gloss": "ପରଦାର"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ପରଦା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:31:25.165634343Z",
+  "model": "glm-5.3"
+}

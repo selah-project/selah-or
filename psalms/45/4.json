@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 45,
+  "translation": "ହେ ବୀର, ତୁମର ଉଜ୍ଜ୍ୱଳତା ଓ ତୁମର ମହିମା ସହିତ ତୁମର ଉରୁରେ ତଳପଟା ବାନ୍ଧ।",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "ବାନ୍ଧ"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "ତୁମର ତଳପଟା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "ଉରୁ"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ହେ ବୀର"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "ତୁମର ଉଜ୍ଜ୍ୱଳତା"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "ଓ ତୁମର ମହିମା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:30:38.036930795Z",
+  "model": "glm-5.3"
+}

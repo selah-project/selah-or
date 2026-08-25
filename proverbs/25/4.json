@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ରୁପାରୁ ପଡ଼ା ହଟାଅ, ଆଉ ଶୁଦ୍ଧକାରୀ ପାଇଁ ଏକ ପାତ୍ର ବାହାରିବ।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "ହଟାଅ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "ପଡ଼ା"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ରୁପାରୁ"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "ଆଉ ... ବାହାରିବ"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "ଶୁଦ୍ଧକାରୀ ପାଇଁ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ଏକ ପାତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:10.477534002Z",
+  "model": "glm-5.3"
+}

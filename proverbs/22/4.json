@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 22:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ବିନମ୍ରତାର ଫଳ, ଯାହ୍ୱେଙ୍କ ଭୟ — ଧନ, ମାନ ଓ ଜୀବନ।",
+  "tokens": [
+    {
+      "surface": "עקב",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "ענוה",
+      "gloss": "ବିନମ୍ରତାର"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "ଓ ମାନ"
+    },
+    {
+      "surface": "וחיים",
+      "gloss": "ଓ ଜୀବନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:43.202430279Z",
+  "model": "glm-5.3"
+}

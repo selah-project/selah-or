@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଓ ⟨ସେମାନେ⟩ ଦ୍ୱିତୀୟ ଦିନରେ ⟨את⟩ ନଗରକୁ ଥରେ ପରିକ୍ରମା କଲେ ଓ ଶିବିରକୁ ଫେରିଲେ; ଏପରି ସେମାନେ ଛଅ ଦିନ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "ଓ ପରିକ୍ରମା କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନଗରକୁ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "ଥରେ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "ଓ ଫେରିଲେ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ଶିବିର"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:10:18.508910494Z",
+  "model": "glm-5.3"
+}

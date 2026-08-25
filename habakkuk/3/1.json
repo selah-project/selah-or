@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 3:1",
+  "book": "habakkuk",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ହବକ୍କୂକ୍ ନବୀଙ୍କ ପ୍ରାର୍ଥନା, ଶିଗ୍ୟୋନୋତ୍ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "תפלה",
+      "gloss": "ପ୍ରାର୍ଥନା"
+    },
+    {
+      "surface": "לחבקוק",
+      "gloss": "ହବକ୍କୂକ୍ ପାଇଁ"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שגינות",
+      "gloss": "ଶିଗ୍ୟୋନୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T16:28:15.822602998Z",
+  "model": "glm-5.3"
+}

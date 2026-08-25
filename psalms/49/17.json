@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ଭୟ କର ନାହିଁ ଯେତେବେଳେ ⟨ଜଣେ⟩ ମଣିଷ ଧନବାନ ହୁଏ, ଯେତେବେଳେ ତାହାର ଘରର ମହିମା ବଢ଼େ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "ଭୟ କର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "ଧନବାନ ହୁଏ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେତେବେଳେ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "ବଢ଼େ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "ମହିମା"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "ତାହାର ଘରର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:30:54.827639947Z",
+  "model": "glm-5.3"
+}

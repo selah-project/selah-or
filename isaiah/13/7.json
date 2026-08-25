@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ତାହା ଉପରେ ସମସ୍ତ ହାତ ଶିଥିଳ ହେବ, ଏବଂ ମର୍ତ୍ତ୍ୟମାନଙ୍କ ସମସ୍ତ ହୃଦୟ ତରଳି ଯିବ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "ଶିଥିଳ ହେବ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଏବଂ ସମସ୍ତ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ମର୍ତ୍ତ୍ୟମାନଙ୍କ"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "ତରଳି ଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:29:07.977507716Z",
+  "model": "glm-5.3"
+}

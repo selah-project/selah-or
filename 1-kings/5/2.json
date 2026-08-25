@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଓ ଶେଲୋମୋଙ୍କ ଖାଦ୍ୟ ଗୋଟିଏ ଦିନ ପାଇଁ ଥିଲା ତିରିଶି କୋର୍ ମଇଦା ଓ ଷାଠିଏ କୋର୍ ଆଟା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଥିଲା"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଖାଦ୍ୟ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋଙ୍କ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ଦିନ ପାଇଁ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "כר",
+      "gloss": "କୋର୍"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "ମଇଦା"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠିଏ"
+    },
+    {
+      "surface": "כר",
+      "gloss": "କୋର୍"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "ଆଟା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:40:33.221695843Z",
+  "model": "glm-5.3"
+}

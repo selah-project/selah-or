@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 51,
+  "translation": "ବାବିଲ୍‌ରୁ କାନ୍ଦିବାର ଧ୍ୱନି, ଆଉ କାସ୍ଦୀୟମାନଙ୍କ ଦେଶରୁ ମହା ଭଙ୍ଗ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ଧ୍ୱନି"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "କାନ୍ଦିବାର"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "ବାବିଲ୍‌ରୁ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ଆଉ ଭଙ୍ଗ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହା"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "ଦେଶରୁ"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "କାସ୍ଦୀୟମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:45:47.711509334Z",
+  "model": "glm-5.3"
+}

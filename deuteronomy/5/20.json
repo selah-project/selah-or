@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଏବଂ ତୁମ୍ଭେ ତୁମ୍ଭ ପଡ଼ୋଶୀ ବିରୁଦ୍ଧରେ ମିଥ୍ୟା ସାକ୍ଷୀ ଦେବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ ନାହିଁ"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ଉତ୍ତର ଦେବ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ତୁମ୍ଭ ପଡ଼ୋଶୀ ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ମିଥ୍ୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:39:31.090490063Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ମଧ୍ୟ ନିଜ କାର୍ଯ୍ୟରେ ଶିଥିଳ ହେଉଥିବା ବ୍ୟକ୍ତି — ସେ ନାଶକାରୀର ଭାଇ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "ଶିଥିଳ ହେଉଥିବା"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "ନିଜ କାର୍ଯ୍ୟରେ"
+    },
+    {
+      "surface": "אח",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ନାଶକାରୀ ଲୋକର"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ନାଶକାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.042074999Z",
+  "model": "glm-5.3"
+}

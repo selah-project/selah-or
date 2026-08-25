@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 8:3",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ବେଲାଙ୍କୁ ପୁତ୍ରମାନେ ହେଲେ — ଅଦ୍ଦାର୍, ଗେରା ଓ ଅବୀହୂଦ୍।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଆଉ ହେଲେ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "לבלע",
+      "gloss": "ବେଲାଙ୍କୁ"
+    },
+    {
+      "surface": "אדר",
+      "gloss": "ଅଦ୍ଦାର୍"
+    },
+    {
+      "surface": "וגרא",
+      "gloss": "ଗେରା"
+    },
+    {
+      "surface": "ואביהוד",
+      "gloss": "ଅବୀହୂଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:58.296004781Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 7:13",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଖମୀରଯୁକ୍ତ ରୁଟିର ବଡ଼ା ସହ ସେ ତାହାର କର୍ବନ୍ ଉପସ୍ଥାପନ କରିବ, ତାହାର ଶେଲାମିମ୍‌ର ତୋଦା-ଜବଚ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "חלת",
+      "gloss": "ବଡ଼ା"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ରୁଟିର"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "ଖମୀରଯୁକ୍ତ"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ଉପସ୍ଥାପନ କରିବ"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "ତାହାର କର୍ବନ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "ଜବଚ"
+    },
+    {
+      "surface": "תודת",
+      "gloss": "ତୋଦା"
+    },
+    {
+      "surface": "שלמיו",
+      "gloss": "ଶେଲାମିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T08:37:32.395494211Z",
+  "model": "glm-5.3"
+}

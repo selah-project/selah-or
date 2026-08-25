@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ବୃଦ୍ଧମାନେ ଦ୍ୱାରରୁ ବିରତ ହେଲେ, ଯୁବକମାନେ ⟨ମଧ୍ୟ⟩ ନିଜର ସଙ୍ଗୀତରୁ।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "ବୃଦ୍ଧମାନେ"
+    },
+    {
+      "surface": "משער",
+      "gloss": "ଦ୍ୱାରରୁ"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "ବିରତ ହେଲେ"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ଯୁବକମାନେ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "ନିଜର ସଙ୍ଗୀତରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.408282648Z",
+  "model": "glm-5.3"
+}

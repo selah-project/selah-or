@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଜ଼ବୁଲୁନ୍‌ର ପାଇଁ — ଏଲିଆବ୍, ହେଲୋନ୍‌ର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ଜ଼ବୁଲୁନ୍‌ର ପାଇଁ"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "ଏଲିଆବ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "ହେଲୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:40.170845265Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 16:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ମହୁର ଚକଟି ସ୍ୱାଦିଷ୍ଟ କଥାମାନଙ୍କ ପରି — ପ୍ରାଣକୁ ମିଠା ଆଉ ଅସ୍ଥିକୁ ଆରୋଗ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "צוף",
+      "gloss": "ଚକଟି"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ମହୁର"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "କଥାମାନଙ୍କ"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "ସ୍ୱାଦିଷ୍ଟ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ମିଠା"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ପ୍ରାଣକୁ"
+    },
+    {
+      "surface": "ומרפא",
+      "gloss": "ଆଉ ଆରୋଗ୍ୟ"
+    },
+    {
+      "surface": "לעצם",
+      "gloss": "ଅସ୍ଥିକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.336348758Z",
+  "model": "glm-5.3"
+}

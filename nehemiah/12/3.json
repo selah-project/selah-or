@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଶେଖାନୟା, ରେଖୁମ୍, ମେରେମୋତ୍।",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ଶେଖାନୟା"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "ରେଖୁମ୍"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "ମେରେମୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:47:06.786507572Z",
+  "model": "glm-5.3"
+}

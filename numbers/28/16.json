@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ପ୍ରଥମ ମାସରେ, ମାସର ଚତୁର୍ଦଶ ଦିନରେ, ପେସଖ୍ — ଯାହ୍ୱେଙ୍କ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "ଓ ମାସରେ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସର"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "ପେସଖ୍"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:28:43.623944218Z",
+  "model": "glm-5.3"
+}

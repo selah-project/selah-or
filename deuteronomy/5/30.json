@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଯାଅ, ସେମାନଙ୍କୁ କୁହ — ତୁମ୍ଭେମାନେ ନିଜ ନିଜର ତମ୍ବୁକୁ ଫେରିଯାଅ।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ଯାଅ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କୁହ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କୁ"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "ଫେରିଯାଅ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ନିଜ ନିଜର"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ତମ୍ବୁକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:40:21.242817020Z",
+  "model": "glm-5.3"
+}

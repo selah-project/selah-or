@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ୟିପତାହ୍, ଅଶ୍ନା ଓ ନେତ୍ସିବ୍।",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "ୟିପତାହ୍"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "ଅଶ୍ନା"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "ନେତ୍ସିବ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:55.450655245Z",
+  "model": "glm-5.3"
+}

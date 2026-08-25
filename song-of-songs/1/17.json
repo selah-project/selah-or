@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆମାର ଘରର କଡ଼କାଠ ଦେବଦାରୁ, ଆଉ ଆମାର ପାନ୍ତିକାଠ ସାଇପ୍ରେସ୍ ଗଛର।",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "କଡ଼କାଠ"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "ଆମାର ଘରର"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ଦେବଦାରୁ"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "ଆମାର ପାନ୍ତିକାଠ"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "ସାଇପ୍ରେସ୍ ଗଛର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:46:06.017911349Z",
+  "model": "glm-5.3"
+}

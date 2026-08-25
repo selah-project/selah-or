@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ବଡ଼ ପଥରର ତିନି ସ୍ତର, ଆଉ ନୂଆ କାଠର ଗୋଟିଏ ସ୍ତର; ଆଉ ଖର୍ଚ୍ଚ ରାଜାଙ୍କ ଗୃହରୁ ଦିଆଯିବ।",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "ସ୍ତର"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "ଏବଂ ସ୍ତର"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "אע",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "ନୂଆ"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "ଏବଂ ଖର୍ଚ୍ଚ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଗୃହ"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "ଦିଆଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:35:03.801437024Z",
+  "model": "glm-5.3"
+}

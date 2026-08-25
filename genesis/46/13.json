@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 46:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ଆଉ ଇସ୍ସାସ୍କାରଙ୍କ ପୁତ୍ରମାନେ — ତୋଲା, ପୁଭା, ୟୋବ୍ ଓ ଶିମରୋନ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ଇସ୍ସାସ୍କାର"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "ତୋଲା"
+    },
+    {
+      "surface": "ופוה",
+      "gloss": "ପୁଭା"
+    },
+    {
+      "surface": "ויוב",
+      "gloss": "ୟୋବ୍"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "ଶିମରୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T20:48:36.617045439Z",
+  "model": "glm-5.3"
+}

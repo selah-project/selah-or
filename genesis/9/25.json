@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 9:25",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "କହିଲେ — ଅଭିଶପ୍ତ କେନାନ୍, ତାହାର ଭାଇମାନଙ୍କର ଦାସମାନଙ୍କ ଦାସ ସେ ହେବ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "ארור",
+      "gloss": "ଅଭିଶପ୍ତ"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "କେନାନ୍"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ଦାସମାନଙ୍କର"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לאחיו",
+      "gloss": "ତାହାର ଭାଇମାନଙ୍କର"
+    }
+  ],
+  "timestamp": "2026-08-25T07:19:29.312166865Z",
+  "model": "glm-5.3"
+}

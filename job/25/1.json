@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ବିଲଦାଦ ⟨ଦ⟩ ଶୂହୀୟ ଉତ୍ତର ଦେଲା ଓ କହିଲା।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଉତ୍ତର ଦେଲା"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "ବିଲଦାଦ"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "ଶୂହୀୟ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:36:28.493625779Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "habakkuk 1:14",
+  "book": "habakkuk",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ମଣିଷକୁ ସମୁଦ୍ରର ମାଛପରି, ତା'ଉପରେ କୌଣସି ଶାସକ ନଥିବା ସରୀସୃପପରି କରୁଛ।",
+  "tokens": [
+    {
+      "surface": "ותעשה",
+      "gloss": "ଆଉ କରୁଛ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷକୁ"
+    },
+    {
+      "surface": "כדגי",
+      "gloss": "ମାଛପରି"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ରର"
+    },
+    {
+      "surface": "כרמש",
+      "gloss": "ସରୀସୃପପରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "משל",
+      "gloss": "ଶାସକ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତା'ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:25:05.600734819Z",
+  "model": "glm-5.3"
+}

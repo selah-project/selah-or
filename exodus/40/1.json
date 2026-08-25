@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 40:1",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଏବଂ ଯାହ୍ୱେ ମୋଶେଙ୍କ ପ୍ରତି କହିଲେ, ଏପରି କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଏପରି କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:35:36.887533388Z",
+  "model": "glm-5.3"
+}

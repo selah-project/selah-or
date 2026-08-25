@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ମୂର୍ଖ — ସେହି ଦିନ ହିଁ ତା' କ୍ରୋଧ ଜଣାପଡ଼େ, ଆଉ ଚତୁର ଅପମାନ ଢାଙ୍କି ରଖେ।",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ ହିଁ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜଣାପଡ଼େ"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "ତା' କ୍ରୋଧ"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "ଆଉ … ଢାଙ୍କି ରଖେ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ଅପମାନ"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "ଚତୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:21.227263571Z",
+  "model": "glm-5.3"
+}

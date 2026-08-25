@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେଙ୍କୁ କହିଲେ, କହିବାକୁ ଏହା କହି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ (ପ୍ରତି)"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏହା କହି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:53.693812656Z",
+  "model": "glm-5.3"
+}

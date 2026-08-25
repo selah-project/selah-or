@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଏବଂ ଗୋରୁ — ଦୁଇ ଓ ସତରି ହଜାର।",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "ଏବଂ ଗୋରୁ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ଓ ସତରି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:55:09.593890292Z",
+  "model": "glm-5.3"
+}

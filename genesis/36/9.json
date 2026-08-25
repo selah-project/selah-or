@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଆଉ ଏଇସବୁ ଏସାବଙ୍କ ବଂଶାବଳୀ — ଏଦୋମର ପିତା — ସେଇର୍ ପର୍ବତରେ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ଆଉ ଏଇସବୁ"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ବଂଶାବଳୀ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମର"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ପର୍ବତରେ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ସେଇର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:42:56.477517343Z",
+  "model": "glm-5.3"
+}

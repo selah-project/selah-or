@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଉ ଦାବିଦ୍ ଗୁପ୍ତଚର ପଠାଇଲେ ଓ ଜାଣିଲେ ଯେ ଶାଉଲ୍ ସତରେ ଆସିଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "ଆଉ ପଠାଇଲେ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାବିଦ୍"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "ଗୁପ୍ତଚର"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ଆଉ ଜାଣିଲେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଛନ୍ତି"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "ସତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:09:04.960087916Z",
+  "model": "glm-5.3"
+}

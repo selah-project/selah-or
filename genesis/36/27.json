@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 36,
+  "translation": "ଏଇସବୁ ଏଜେରଙ୍କ ପୁତ୍ରଗଣ: ବିଲହାନ୍ ଏବଂ ଜାଭାନ୍ ଏବଂ ଅକାନ୍।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "ଏଇସବୁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "ଏଜେରଙ୍କ"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "ବିଲହାନ୍"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "ଏବଂ ଜାଭାନ୍"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "ଏବଂ ଅକାନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:42:45.275972982Z",
+  "model": "glm-5.3"
+}

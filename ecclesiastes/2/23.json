@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ ତାହାର ସମସ୍ତ ଦିନ ଯନ୍ତ୍ରଣା, ଆଉ ତାହାର ବ୍ୟାପାର କ୍ରୋଧ; ରାତ୍ରିରେ ମଧ୍ୟ ତାହାର ହୃଦୟ ଶୋଇଲା ନାହିଁ — ଏହା ମଧ୍ୟ ହେବେଲ୍ ⟨ଅଟେ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "ତାହାର ଦିନ"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "ଯନ୍ତ୍ରଣା"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "ଆଉ କ୍ରୋଧ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "ତାହାର ବ୍ୟାପାର"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତ୍ରିରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ଶୋଇଲା"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ତାହାର ହୃଦୟ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ଅଟେ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:21.883195896Z",
+  "model": "glm-5.3"
+}

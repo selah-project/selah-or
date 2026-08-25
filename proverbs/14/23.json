@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 14:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ସମସ୍ତ ଶ୍ରମରେ ଲାଭ ଥିହ୍ୱରିବ; କିନ୍ତୁ ଓଷ୍ଠର ବଚନ କେବଳ ଅଭାବକୁ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ...ରେ"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "ଶ୍ରମ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ଥିହ୍ୱରିବ"
+    },
+    {
+      "surface": "מותר",
+      "gloss": "ଲାଭ"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "କିନ୍ତୁ...ବଚନ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠର"
+    },
+    {
+      "surface": "אך",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "למחסור",
+      "gloss": "ଅଭାବକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:01.252651121Z",
+  "model": "glm-5.3"
+}

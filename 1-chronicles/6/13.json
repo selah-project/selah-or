@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଶମୁଏଲଙ୍କ ପୁତ୍ରମାନେ — ⟨ପ୍ରଥମଜାତ⟩ ବଶ୍ନୀ ଓ ଅବିୟା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ …ଙ୍କ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ଶମୁଏଲ"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "ପ୍ରଥମଜାତ"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "ବଶ୍ନୀ"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "ଓ ଅବିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:01.968058763Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 76:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 76,
+  "translation": "ସେଠାରେ ⟨ସେ⟩ ଧନୁର ଜ୍ୱଳନ୍ତ ତୀରଗୁଡ଼ିକ, ଢାଲ, ତଳୱାର ଓ ଯୁଦ୍ଧ ଭାଙ୍ଗିଦେଲେ। ସେଲା।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗିଦେଲେ"
+    },
+    {
+      "surface": "רשפי",
+      "gloss": "ଜ୍ୱଳନ୍ତ ତୀର"
+    },
+    {
+      "surface": "קשת",
+      "gloss": "ଧନୁର"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ଢାଲ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "ଓ ତଳୱାର"
+    },
+    {
+      "surface": "ומלחמה",
+      "gloss": "ଓ ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "ସେଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:21:53.197026039Z",
+  "model": "glm-5.3"
+}

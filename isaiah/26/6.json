@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ତାହାକୁ ଚାପିବ ପାଦ — ଦରିଦ୍ରଙ୍କ ପାଦ, ଦୁର୍ବଳଙ୍କ ପାଦଚିହ୍ନ।",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "ତାହାକୁ ଚାପିବ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ପାଦ"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "ପାଦ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦରିଦ୍ରଙ୍କ"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ପାଦଚିହ୍ନ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "ଦୁର୍ବଳଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:39:07.865010834Z",
+  "model": "glm-5.3"
+}

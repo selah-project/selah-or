@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-samuel 25:38",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଦଶ ଦିନ ଅପେକ୍ଷା ହେଲା, ଆଉ ଯାହ୍ୱେ ନାବାଲ୍‌କୁ ⟨את⟩ ଆଘାତ କଲେ, ଏବଂ ସେ ମଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כעשרת",
+      "gloss": "ଦଶ ଅପେକ୍ଷା"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ויגף",
+      "gloss": "ଆଘାତ କଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ନାବାଲ୍"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "ନାବାଲ୍"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ମଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:09:28.903626061Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 63:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 63,
+  "translation": "ଖଣ୍ଡାର ହାତରେ ସେମାନଙ୍କୁ ଢଳାଯିବ — ସେମାନେ ଶିଅାଳମାନଙ୍କ ଅଂଶ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "יגירהו",
+      "gloss": "ଢଳାଯିବ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ଖଣ୍ଡା"
+    },
+    {
+      "surface": "מנת",
+      "gloss": "ଅଂଶ"
+    },
+    {
+      "surface": "שעלים",
+      "gloss": "ଶିଅାଳମାନଙ୍କ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ହେବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:15:12.938785401Z",
+  "model": "glm-5.3"
+}

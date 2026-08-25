@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତେବେ ତୁମେ ଏଲୋହିମ୍ ଓ ମନୁଷ୍ୟର ଦୃଷ୍ଟିରେ ଅନୁଗ୍ରହ ଓ ଉତ୍ତମ ବିବେକ ପାଇବ।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "ତେବେ ତୁମେ ପାଇବ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ଅନୁଗ୍ରହ"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "ଓ ବିବେକ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଦୃଷ୍ଟିରେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "ଓ ମନୁଷ୍ୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:14.812192842Z",
+  "model": "glm-5.3"
+}

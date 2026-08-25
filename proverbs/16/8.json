@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ନ୍ୟାୟ ସହିତ ଅଳ୍ପ ⟨ଥିବା⟩ ଅନେକ ଫସଲ ଅନ୍ୟାୟ ସହିତ ଥିବାଠାରୁ ଉତ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "ନ୍ୟାୟ ସହିତ"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "ଅନେକ"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "ଫସଲ"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "ନା ଥିବା"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ଅନ୍ୟାୟ \/ ନ୍ୟାୟବିଚାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:45.173304799Z",
+  "model": "glm-5.3"
+}

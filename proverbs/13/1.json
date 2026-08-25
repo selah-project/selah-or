@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 13:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଜ୍ଞାନୀ ପୁତ୍ର ପିତାଙ୍କ ଶିକ୍ଷା ⟨ଗ୍ରହଣ କରେ⟩, କିନ୍ତୁ ଉପହାସକ ତିରସ୍କାର ଶୁଣେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "אב",
+      "gloss": "ପିତାଙ୍କ"
+    },
+    {
+      "surface": "ולץ",
+      "gloss": "କିନ୍ତୁ ଉପହାସକ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣେ"
+    },
+    {
+      "surface": "גערה",
+      "gloss": "ତିରସ୍କାର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:43.613084545Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 8:25",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଯାହା ପଡ଼ିଲେ ସେହି ଦିନ, ପୁରୁଷଠାରୁ ସ୍ତ୍ରୀ ପର୍ଯ୍ୟନ୍ତ, ଦ୍ୱାଦଶ ହଜାର — ହାଇ ନଗରର ସମସ୍ତ ଲୋକ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ଯାହା ଘଟିଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הנפלים",
+      "gloss": "ପଡ଼ିଲେ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ସେହି ଦିନ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "ପୁରୁଷଠାରୁ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ହାଇ ନଗରର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:11:53.919897699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 17:8",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ମୋଶେ ଓ ଅହରୋନ ସାକ୍ଷାତ-ତମ୍ବୁର ସମ୍ମୁଖକୁ ଆସିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "ଆସିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ଓ ଅହରୋନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ସମ୍ମୁଖ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ତମ୍ବୁ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ସାକ୍ଷାତ-"
+    }
+  ],
+  "timestamp": "2026-08-25T09:18:25.904577664Z",
+  "model": "glm-5.3"
+}

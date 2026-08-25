@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 4:1",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଓ ଶେଲୋମୋ ରାଜା ସମସ୍ତ ଇସ୍ରାଏଲ୍ ଉପରେ ରାଜା ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା ହେଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T11:35:27.425245186Z",
+  "model": "glm-5.3"
+}

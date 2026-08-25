@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ୟୋସେଫର ଘର ମଧ୍ୟ ବେତ-ଏଲ୍ ଆଡ଼କୁ ଉଠିଗଲେ, ଆଉ ଯାହ୍ୱେ ସେମାନଙ୍କ ସହିତ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "ଉଠିଗଲେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫର"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "ସେମାନେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ-ଏଲ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "ଆଉ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "ସେମାନଙ୍କ ସହିତ ଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:00:34.478535077Z",
+  "model": "glm-5.3"
+}

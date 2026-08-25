@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଚାରି ପାଖୁଡ଼ାରେ ଚାଲୁଥିବା ପ୍ରତ୍ୟେକ ଉଡ଼ୁଥିବା କୀଟ-ପ୍ରାଣୀ — ⟨ଏହା⟩ ତୁମ୍ଭ ପାଇଁ ଘୃଣିତ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "କୀଟ-ପ୍ରାଣୀ"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ଉଡ଼ୁଥିବା"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "ଚାଲୁଥିବା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ଏହା⟩ ଅଟେ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:23.342846824Z",
+  "model": "glm-5.3"
+}

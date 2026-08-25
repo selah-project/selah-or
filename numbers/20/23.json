@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ଯାହ୍ୱେ ହୋର୍ ପର୍ବତରେ, ଏଦୋମ୍ ଦେଶର ସୀମା ଉପରେ, ମୋଶେ ଓ ଅହରୋନଙ୍କୁ କହିଲେ, କହିବାକୁ ଏହିପରି —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନଙ୍କୁ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ପର୍ବତରେ"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ହୋର୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶର"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏହିପରି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:20:41.353542337Z",
+  "model": "glm-5.3"
+}

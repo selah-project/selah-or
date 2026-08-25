@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 10:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ହୃଦୟରେ ଜ୍ଞାନୀ ଆଜ୍ଞା ଗ୍ରହଣ କରେ, କିନ୍ତୁ ଓଷ୍ଠରେ ମୂର୍ଖ ଭ୍ରଷ୍ଟ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟରେ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ଗ୍ରହଣ କରେ"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ଆଜ୍ଞା"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "କିନ୍ତୁ … ମୂର୍ଖ"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠରେ"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ଭ୍ରଷ୍ଟ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:02:50.890255890Z",
+  "model": "glm-5.3"
+}

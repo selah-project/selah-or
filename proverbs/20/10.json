@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 20:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ବଡ଼ଶିଳା ଓ ବଡ଼ଶିଳା, ଏଇଫା ଓ ଏଇଫା — ଉଭୟଙ୍କି ଯାହ୍ୱେଙ୍କ ପାଖରେ ଘୃଣିତ।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ବଡ଼ଶିଳା"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଓ ବଡ଼ଶିଳା"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "ଏଇଫା"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "ଓ ଏଇଫା"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "ଉଭୟଙ୍କି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:28.163212795Z",
+  "model": "glm-5.3"
+}

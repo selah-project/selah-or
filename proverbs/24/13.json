@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ହେ ମୋର ପୁତ୍ର, ମହୁ ଖାଅ, କାରଣ ତାହା ଉତ୍ତମ; ଏବଂ ମହୁଛତ୍ରର ଅମୃତ ତାହା ତୋର ତାଳୁରେ ମିଠା।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "ଖାଅ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ହେ ମୋର ପୁତ୍ର"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ମହୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "ଏବଂ ମହୁଛତ୍ରର ଅମୃତ"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "ମିଠା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "ତୋର ତାଳୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:32.068606541Z",
+  "model": "glm-5.3"
+}

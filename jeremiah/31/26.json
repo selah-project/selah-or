@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଏଥି ଉପରେ ମୁଁ ଜାଗ୍ରତ ହେଲି ଓ ଦେଖିଲି, ଆଉ ମୋର ନିଦ ⟨ମୋ ପାଇଁ⟩ ମଧୁର ହେଲା।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏଥି"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "ଜାଗ୍ରତ ହେଲି"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "ଓ ଦେଖିଲି"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "ଆଉ ମୋର ନିଦ"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "ମଧୁର ହେଲା"
+    },
+    {
+      "surface": "לי",
+      "gloss": "⟨ମୋ ପାଇଁ⟩"
+    }
+  ],
+  "timestamp": "2026-08-25T14:06:36.615375341Z",
+  "model": "glm-5.3"
+}

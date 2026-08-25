@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 5:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "କେନାନ୍‌ଙ୍କ ସମସ୍ତ ଦିନମାନ ଦଶ ବର୍ଷ ଓ ନଏଶହେ ବର୍ଷ ହେଲା, ଓ ସେ ମୃତ୍ୟୁବରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନମାନ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "କେନାନ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "ଓ ନଏ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ଓ ସେ ମୃତ୍ୟୁବରଣ କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:33.288502465Z",
+  "model": "glm-5.3"
+}

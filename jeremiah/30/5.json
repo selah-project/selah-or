@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 30:5",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "କାରଣ ଏପରି କହିଲେ ଯାହ୍ୱେ: କମ୍ପନର ସ୍ୱର ଆମ୍ଭେମାନେ ଶୁଣିଲୁଁ — ଭୟ, ଏବଂ ଶାନ୍ତି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "קול",
+      "gloss": "ସ୍ୱର"
+    },
+    {
+      "surface": "חרדה",
+      "gloss": "କମ୍ପନର"
+    },
+    {
+      "surface": "שמענו",
+      "gloss": "ଆମ୍ଭେମାନେ ଶୁଣିଲୁଁ"
+    },
+    {
+      "surface": "פחד",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ଏବଂ ନାହିଁ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T21:21:01.085524122Z",
+  "model": "glm-5.3"
+}

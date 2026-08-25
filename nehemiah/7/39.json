@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "nehemiah 7:39",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଯାଜକମାନେ: ୟେଦାୟାହାର ପୁତ୍ରମାନେ, ୟେଶୁଆଙ୍କ ଗୃହର — ନେଇଶହ ତେସ୍ତରି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ୟେଦାୟାହା"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "ଗୃହର"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "ୟେଶୁଆ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "ନେଇ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ତେସ୍ତରି"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ତିନି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:51.717952825Z",
+  "model": "glm-5.3"
+}

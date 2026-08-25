@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଦୁଷ୍ଟ ⟨ଋଣ ନେଏ⟩ ଓ ପରିଶୋଧ କରେ ନାହିଁ; ଆଉ ଧାର୍ମିକ ଅନୁଗ୍ରହ କରେ ଓ ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "ଋଣ ନେଏ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ପରିଶୋଧ କରେ"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "ଆଉ ଧାର୍ମିକ"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "ଅନୁଗ୍ରହ କରେ"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "ଓ ଦିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:22.064219976Z",
+  "model": "glm-5.3"
+}

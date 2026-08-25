@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଦଶ ହାତ ହେଉଛି ତକ୍ତାର ଦୈର୍ଘ୍ୟ, ଆଉ ଗୋଟିଏ ହାତ ଓ ଅଧା ହାତ ଗୋଟିଏ ତକ୍ତାର ଓସାର।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ଦୈର୍ଘ୍ୟ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ତକ୍ତାର"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "ଓ ଗୋଟିଏ ହାତ"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "ଓ ଅଧା"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ଓସାର"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ତକ୍ତାର"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:21:07.424895703Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jonah 4:4",
+  "book": "jonah",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ କହିଲେ: ତୁମ୍ଭ ପାଇଁ ଏପରି ଜ୍ୱଳିବା ଉତ୍ତମ କି?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ההיטב",
+      "gloss": "ଉତ୍ତମ କି"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "ଜ୍ୱଳିବା"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:17:18.272736497Z",
+  "model": "glm-5.3"
+}

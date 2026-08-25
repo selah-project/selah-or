@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଛେଳି ଓ ଗୋରୁ — ସବୁ, ଆଉ ମଧ୍ୟ ପଡ଼ିଆ ପଶୁମାନେ।",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ଛେଳି"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "ଓ ଗୋରୁ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "ଆଉ ମଧ୍ୟ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ପଶୁମାନେ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ପଡ଼ିଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:47:35.066133987Z",
+  "model": "glm-5.3"
+}

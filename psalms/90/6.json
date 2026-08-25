@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 90:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 90,
+  "translation": "ପ୍ରଭାତରେ ତାହା ଫୁଟେ ଓ ବଦଳାଏ; ସନ୍ଧ୍ୟାରେ ତାହା କଟିଯାଏ ଓ ଶୁଖିଯାଏ।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "ପ୍ରଭାତରେ"
+    },
+    {
+      "surface": "יציץ",
+      "gloss": "ଫୁଟେ"
+    },
+    {
+      "surface": "וחלף",
+      "gloss": "ଓ ବଦଳାଏ"
+    },
+    {
+      "surface": "לערב",
+      "gloss": "ସନ୍ଧ୍ୟାରେ"
+    },
+    {
+      "surface": "ימולל",
+      "gloss": "କଟିଯାଏ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ଓ ଶୁଖିଯାଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:32:46.713719945Z",
+  "model": "glm-5.3"
+}

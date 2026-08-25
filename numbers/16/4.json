@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଏବଂ ମୋଶେ ଶୁଣିଲେ, ଏବଂ ନିଜ ମୁହଁ ଉପରେ ପଡ଼ିଗଲେ।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "ଏବଂ ଶୁଣିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ଏବଂ ପଡ଼ିଗଲେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "ନିଜ ମୁହଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:17:51.234456343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେଗୁଡ଼ିକ ପ୍ରତ୍ୟେକ ପ୍ରଭାତରେ ନୂଆ — ବହୁ ଅଟେ ତୁମ୍ଭର ବିଶ୍ୱସ୍ତତା।",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "ନୂଆ"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ପ୍ରତ୍ୟେକ ପ୍ରଭାତରେ"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ବହୁ"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ତୁମ୍ଭର ବିଶ୍ୱସ୍ତତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:23.583190386Z",
+  "model": "glm-5.3"
+}

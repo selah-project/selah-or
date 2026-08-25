@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଓଜନିଙ୍କ — ଓଜନୀୟ ବଂଶ; ଏରିଙ୍କ — ଏରୀୟ ବଂଶ।",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ଓଜନିଙ୍କ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ଓଜନୀୟ"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ଏରିଙ୍କ"
+    },
+    {
+      "surface": "मשפחת",
+      "gloss": "ବଂଶ"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "ଏରୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:24:44.141207236Z",
+  "model": "glm-5.3"
+}

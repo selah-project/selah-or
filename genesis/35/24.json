@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 35,
+  "translation": "ରାହେଲଙ୍କ ପୁତ୍ରମାନେ — ୟୋସେଫ୍ ଓ ବିନ୍ୟାମୀନ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ରାହେଲଙ୍କ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ୍"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "ଓ ବିନ୍ୟାମୀନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:43:35.758397886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 42:16",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ମାପ କାଠ ନେଇ ସେ ପୂର୍ବ ଦିଗ ମାପିଲେ — ମାପ କାଠରେ ପାଞ୍ଚଶହ କାଠ, ମାପ କାଠ ନେଇ ଚାରିଆଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "מדד",
+      "gloss": "ମାପିଲେ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ଦିଗ"
+    },
+    {
+      "surface": "הקדים",
+      "gloss": "ପୂର୍ବ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ମାପ କାଠ ନେଇ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚଶହ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "(ହାତ)"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "କାଠ"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ମାପ କାଠ ନେଇ"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "ମାପ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ଚାରିଆଡ଼େ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:41:58.811363224Z",
+  "model": "glm-5.3"
+}

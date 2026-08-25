@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଓଷ୍ଠ ଚୁମ୍ବନ କରାଯାଏ — ଯିଏ ସଳଖ କଥାମାନ ଉତ୍ତର ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "ଚୁମ୍ବନ କରାଯାଏ"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ଯିଏ ଉତ୍ତର ଦିଏ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "କଥାମାନ"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "ସଳଖ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:28.846607509Z",
+  "model": "glm-5.3"
+}

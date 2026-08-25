@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 7:20",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏକ ହାତ-ଚାମଚ ଦଶ ଶେକେଲ୍ ସୁନାର, ଧୂପ ଭର୍ତ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ହାତ-ଚାମଚ"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନାର"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "ଭର୍ତ୍ତି"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "ଧୂପ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:06:15.668341759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ମୋଶେ ସଭାକୁ କହିଲେ: ଏହା ସେହି କଥା ଯାହା ଯାହ୍ୱେ କରିବାକୁ ଆଜ୍ଞା ଦେଇଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...କୁ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଜ୍ଞା ଦେଇଛନ୍ତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "କରିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:31.812466240Z",
+  "model": "glm-5.3"
+}

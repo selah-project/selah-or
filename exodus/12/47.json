@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଇସ୍ରାଏଲର ସମଗ୍ର ସମାଜ ତାହା ⟨את⟩ ପାଳନ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "ସମାଜ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲର"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "ପାଳନ କରିବେ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:09:06.101491093Z",
+  "model": "glm-5.3"
+}

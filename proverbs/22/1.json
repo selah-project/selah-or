@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 22:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଏକ ନାମ ⟨ମନୋନୀତ⟩ ଅଧିକ ଧନଠାରୁ, ରୂପା ଓ ସୁନାଠାରୁ ଅନୁଗ୍ରହ ଉତ୍ତମ।",
+  "tokens": [
+    {
+      "surface": "נבחר",
+      "gloss": "ମନୋନୀତ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "מעשר",
+      "gloss": "ଅଧିକ ଧନଠାରୁ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "ରୂପାଠାରୁ"
+    },
+    {
+      "surface": "ומזהב",
+      "gloss": "ଓ ସୁନାଠାରୁ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ଅନୁଗ୍ରହ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:43.201970158Z",
+  "model": "glm-5.3"
+}

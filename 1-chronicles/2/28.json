@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓନାମର ପୁତ୍ରମାନେ ଥିଲେ: ଶାମ୍ମାଇ ଓ ୟାଦା; ଓ ଶାମ୍ମାଇର ପୁତ୍ରମାନେ: ନାଦାବ୍ ଓ ଅବୀଶୂର୍।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "ଥିଲେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ଓନାମର"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ଶାମ୍ମାଇ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "ଓ ୟାଦା"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ଶାମ୍ମାଇର"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "ନାଦାବ୍"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "ଓ ଅବୀଶୂର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.663781512Z",
+  "model": "glm-5.3"
+}

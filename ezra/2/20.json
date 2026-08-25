@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଗିବାରର ପୁତ୍ରମାନେ — ନବେ ପାଞ୍ଚ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ଗିବାରର"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "ନବେ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ପାଞ୍ଚ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:11.082993810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 6:34",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ଈର୍ଷା ଗୋଟିଏ ପୁରୁଷର କ୍ରୋଧ, ଆଉ ପ୍ରତିଶୋଧ ଦିନରେ ସେ କ୍ଷମା କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "קנאה",
+      "gloss": "ଈର୍ଷା"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ପୁରୁଷର"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ... ନାହିଁ"
+    },
+    {
+      "surface": "יחמול",
+      "gloss": "କ୍ଷମା କରିବ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "נקם",
+      "gloss": "ପ୍ରତିଶୋଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:46.341859232Z",
+  "model": "glm-5.3"
+}

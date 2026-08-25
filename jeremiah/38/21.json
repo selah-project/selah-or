@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଓ ଯଦି ତୁମ୍ଭେ ବାହାରିବାକୁ ଅମଙ୍ଗ କରୁଛ, ଏହା ସେ କଥା ଯାହା ମୋତେ ଦେଖାଇଲେ ଯାହ୍ୱେ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଓ ଯଦି"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "ଅମଙ୍ଗ କରୁଛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "ବାହାରିବାକୁ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ସେ କଥା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ମୋତେ ଦେଖାଇଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:23:59.619238683Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "haggai 2:8",
+  "book": "haggai",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୋର ⟨ଅଟେ⟩ ରୂପା ଓ ମୋର ⟨ଅଟେ⟩ ସୁନା — ଘୋଷଣା ଯାହ୍ୱେ ସେନାବାହିନୀର ।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "ରୂପା"
+    },
+    {
+      "surface": "ולי",
+      "gloss": "ଓ ମୋର"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ଘୋଷଣା"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ସେନାବାହିନୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:27:01.059997335Z",
+  "model": "glm-5.3"
+}

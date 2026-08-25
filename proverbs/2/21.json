@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 2:21",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "କାରଣ ସଳଖ ଲୋକେ ⟨ଏହି⟩ ଦେଶରେ ବାସ କରିବେ, ଆଉ ନିଷ୍କଳଙ୍କ ଲୋକେ ସେଥିରେ ରହିବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ସଳଖ ଲୋକେ"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ବାସ କରିବେ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "ותמימים",
+      "gloss": "ଆଉ ନିଷ୍କଳଙ୍କ ଲୋକେ"
+    },
+    {
+      "surface": "יותרו",
+      "gloss": "ରହିବେ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ସେଥିରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:36.757302489Z",
+  "model": "glm-5.3"
+}

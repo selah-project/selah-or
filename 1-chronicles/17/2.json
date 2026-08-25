@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ନାଥାନ୍ ଦାଉଦଙ୍କ ନିକଟକୁ କହିଲେ: ତୁମ ହୃଦୟରେ ଥିବା ସମସ୍ତ କର, କାରଣ ଏଲୋହିମ୍ ତୁମ ସହିତ ଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ନାଥାନ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନିକଟକୁ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ତୁମ ହୃଦୟରେ ଥିବା"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ତୁମ ସହିତ ଅଛନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:06:37.884187680Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଜଣେ ମନୁଷ୍ୟର ନ୍ୟାୟବିଚାରକୁ ବିକୃତ କରିବା ପାଇଁ, ଏଲିଓନ୍‌ଙ୍କ ମୁଖ ସାମ୍ନାରେ।",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "ବିକୃତ କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ନ୍ୟାୟବିଚାର"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ଜଣେ ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "ଏଲିଓନ୍‌ଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:31.482216263Z",
+  "model": "glm-5.3"
+}

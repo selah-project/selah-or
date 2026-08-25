@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେ ଧୂଳିରେ ⟨ତା'ର⟩ ମୁଖ ଦିଏ, ହୁଏତ ଆଶା ଅଛି।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ଧୂଳିରେ"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ତା'ର ମୁଖ"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ହୁଏତ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ଆଶା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:54.702703253Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ନାତାନ ରାଜାଙ୍କୁ କହିଲେ: ତୁମ ହୃଦୟରେ ଯାହା ସବୁ ଅଛି, ଯାଅ କର — କାରଣ ଯାହ୍ୱେ ତୁମ ସହିତ ଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ନାତାନ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ଯାହା ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "ତୁମ ହୃଦୟରେ ଅଛି"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ଯାଅ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "ତୁମ ସହିତ ଅଛନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T11:16:59.944090630Z",
+  "model": "glm-5.3"
+}

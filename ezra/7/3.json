@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆମରୟାଙ୍କ ପୁତ୍ର, ଆଜରୟାଙ୍କ ପୁତ୍ର, ମେରାୟୋତଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "ଆମରୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ଆଜରୟା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "ମେରାୟୋତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:33:07.358389491Z",
+  "model": "glm-5.3"
+}

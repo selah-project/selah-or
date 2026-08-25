@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆମ୍ଭେ ଆମ୍ଭର ହୃଦୟକୁ ହାତପାଖରେ ଉଠାଉ, ଆକାଶମଣ୍ଡଳରେ ଥିବା ଏଲ୍‌ ଆଡ଼କୁ।",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ଉଠାଉ"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ଆମ୍ଭର ହୃଦୟକୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ହାତପାଖରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ଆକାଶମଣ୍ଡଳରେ ଥିବା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:31.550169351Z",
+  "model": "glm-5.3"
+}

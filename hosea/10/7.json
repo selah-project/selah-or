@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "hosea 10:7",
+  "book": "hosea",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ନଷ୍ଟ ହେଲା ଶୋମ୍ରୋନ, ତାହାର ରାଜା ସହିତ — ଜଳ ପୃଷ୍ଠ ଉପରେ ଫେଣ ପରି।",
+  "tokens": [
+    {
+      "surface": "נדמה",
+      "gloss": "ନଷ୍ଟ ହେଲା"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ଶୋମ୍ରୋନ"
+    },
+    {
+      "surface": "מלכה",
+      "gloss": "ତାହାର ରାଜା"
+    },
+    {
+      "surface": "כקצף",
+      "gloss": "ଫେଣ ପରି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ପନୀ",
+      "gloss": "ପୃଷ୍ଠ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:59:13.353998322Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆତଙ୍କ ଓ ଫାନ୍ଦ ଆମ ପାଇଁ ହୋଇଛି — ଉନ୍ମୂଳନ ଓ ଭଙ୍ଗା।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ଆତଙ୍କ"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "ଓ ଫାନ୍ଦ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଛି"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ଆମ ପାଇଁ"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ଉନ୍ମୂଳନ"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "ଓ ଭଙ୍ଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:20.565544744Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେ ପାଖକୁ ଓ ଅହାରୋନ୍ ପାଖକୁ କହିଲେ, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପାଖକୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହାରୋନ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:04:32.262058876Z",
+  "model": "glm-5.3"
+}

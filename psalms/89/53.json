@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 89,
+  "translation": "ଯାହ୍ୱେ ଯାବତୀୟ ଧନ୍ୟ ଅଟନ୍ତି । ଆମେନ୍, ଏବଂ ଆମେନ୍ ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "ଧନ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ଯାବତୀୟ"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "ଆମେନ୍"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "ଏବଂ ଆମେନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:31:57.855879880Z",
+  "model": "glm-5.3"
+}

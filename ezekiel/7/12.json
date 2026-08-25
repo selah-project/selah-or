@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 7:12",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆସିଛି ⟨the⟩ ସମୟ, ପହଞ୍ଚିଯାଇଛି ⟨the⟩ ଦିନ; କ୍ରେତା ଆନନ୍ଦ କରୁ ନାହିନ୍ତି, ଓ ବିକ୍ରେତା ଶୋକ କରୁ ନାହିନ୍ତି; କାରଣ କ୍ରୋଧ ସମସ୍ତ ଭିଡ଼ ଉପରେ ।",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଛି"
+    },
+    {
+      "surface": "העת",
+      "gloss": "⟨the⟩ ସମୟ"
+    },
+    {
+      "surface": "הגיע",
+      "gloss": "ପହଞ୍ଚିଯାଇଛି"
+    },
+    {
+      "surface": "היום",
+      "gloss": "⟨the⟩ ଦିନ"
+    },
+    {
+      "surface": "הקונה",
+      "gloss": "କ୍ରେତା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିନ୍ତି"
+    },
+    {
+      "surface": "ישמח",
+      "gloss": "ଆନନ୍ଦ କରୁ"
+    },
+    {
+      "surface": "והמוכר",
+      "gloss": "ଓ ବିକ୍ରେତା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିନ୍ତି"
+    },
+    {
+      "surface": "יתאבל",
+      "gloss": "ଶୋକ କରୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "חרון",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "המונה",
+      "gloss": "ଭିଡ଼"
+    }
+  ],
+  "timestamp": "2026-08-25T14:50:57.054835545Z",
+  "model": "glm-5.3"
+}

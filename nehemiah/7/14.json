@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଜାକ୍କାଇର ପୁତ୍ରମାନେ — ସାତଶହେ ଷାଠିଏ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ଜାକ୍କାଇ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହେ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଷାଠିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:31.164619538Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଏବଂ ସମସ୍ତ ଉଚ୍ଚ ପର୍ବତ ଉପରେ, ଏବଂ ସମସ୍ତ ଉତ୍କୃଷ୍ଟ ପାହାଡ଼ ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଏବଂ ... ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "ପାହାଡ଼"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "ଉତ୍କୃଷ୍ଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:20:52.694853681Z",
+  "model": "glm-5.3"
+}

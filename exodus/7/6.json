@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 7:6",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ମୋଶେ ଓ ଅହରୋନ ଯାହ୍ୱେ ଆଜ୍ଞା କରିଥିଲେ ⟨את⟩ ସେହିପରି କଲେ, ତାହାହିଁ ସେମାନେ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ଓ କଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ଓ ଅହରୋନ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯେପରି"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଜ୍ଞା କରିଥିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "ସେମାନଙ୍କୁ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେହିପରି"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "କଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:01:13.565032642Z",
+  "model": "glm-5.3"
+}

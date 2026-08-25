@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 28:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ନିରପରାଧତାରେ ଚାଲୁଥିବା ଦରିଦ୍ର ଭଲ, ବାଟ ବଙ୍କା କରୁଥିବା ଓ ଧନୀ ବ୍ୟକ୍ତିଠାରୁ ଅଧିକ ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ଚାଲୁଥିବା"
+    },
+    {
+      "surface": "בתמו",
+      "gloss": "ନିରପରାଧତାରେ"
+    },
+    {
+      "surface": "מעקש",
+      "gloss": "ବଙ୍କା କରୁଥିବା"
+    },
+    {
+      "surface": "דרכים",
+      "gloss": "ବାଟ"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ଓ ⟨ସେ⟩"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:17:24.246498640Z",
+  "model": "glm-5.3"
+}

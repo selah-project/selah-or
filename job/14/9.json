@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 14:9",
+  "book": "job",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଜଳର ସୁଗନ୍ଧରୁ ଏହା ମୁକୁଳିବ, ଆଉ ଗଛ ପରି ଫସଲ ଫଳିବ।",
+  "tokens": [
+    {
+      "surface": "מריח",
+      "gloss": "ସୁଗନ୍ଧରୁ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳର"
+    },
+    {
+      "surface": "יפרח",
+      "gloss": "ମୁକୁଳିବ"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "ଆଉ ଫଳାଇବ"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "ଫସଲ"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ପରି"
+    },
+    {
+      "surface": "נטע",
+      "gloss": "ଗଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:28:05.797672809Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋ ପ୍ରତି କହିଲେ, ଆଉ ତୁମ ପାଇଁ ନିଅ ଜଣେ ନିର୍ବୋଧ ପାଳକର ଉପକରଣ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "קח",
+      "gloss": "ନିଅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ଉପକରଣ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ପାଳକର"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "ନିର୍ବୋଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:40:45.318340595Z",
+  "model": "glm-5.3"
+}

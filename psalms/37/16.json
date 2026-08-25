@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 37:16",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "ଧାର୍ମିକର ଅଳ୍ପ, ଅନେକ ଦୁଷ୍ଟମାନଙ୍କ ପ୍ରଚୁର ସମ୍ପଦ ଠାରୁ ଭଲ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "מהמון",
+      "gloss": "ସମ୍ପଦ ଠାରୁ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍ଟମାନଙ୍କ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ଅନେକ ... ପ୍ରଚୁର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:01:44.909048562Z",
+  "model": "glm-5.3"
+}

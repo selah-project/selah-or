@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "⟨את⟩ ⟨the⟩ ଛୋଟ ପେଚା, ଏବଂ ⟨את⟩ ⟨the⟩ ବଡ଼ ପେଚା, ଏବଂ ⟨the⟩ ଧଳା ପେଚା।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ଛୋଟ ପେଚା"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "⟨the⟩ ଛୋଟ ପେଚା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ ବଡ଼ ପେଚା"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "⟨the⟩ ବଡ଼ ପେଚା"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "ଏବଂ ⟨the⟩ ଧଳା ପେଚା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:49.202102454Z",
+  "model": "glm-5.3"
+}

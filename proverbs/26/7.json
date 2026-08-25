@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଝୁଲିଅଛନ୍ତି ଗୋଡ଼ଦୁଇଟି ଖଗୁଡ଼ିଆର — ଆଉ ⟨is⟩ ଉପମା ପାଟିରେ ମୂର୍ଖମାନଙ୍କ।",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "ଝୁଲିଅଛନ୍ତି"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "ଗୋଡ଼ଦୁଇଟି"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "ଖଗୁଡ଼ିଆର"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ଆଉ ଉପମା"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ପାଟିରେ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:35:56.882971897Z",
+  "model": "glm-5.3"
+}

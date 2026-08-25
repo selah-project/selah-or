@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଅବ୍ରାମ୍ — ସେ ⟨ହିଁ⟩ ଅବ୍ରାହାମ୍।",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "ଅବ୍ରାମ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ ⟨ହିଁ⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:44.201135845Z",
+  "model": "glm-5.3"
+}

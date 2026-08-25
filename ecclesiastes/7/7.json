@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 7:7",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "କାରଣ ଅତ୍ୟାଚାର ଜ୍ଞାନୀକୁ ପାଗଳ କରେ, ଆଉ ଉପହାର ⟨את⟩ ହୃଦୟକୁ ନଷ୍ଟ କରେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "העשק",
+      "gloss": "ଅତ୍ୟାଚାର"
+    },
+    {
+      "surface": "יהולל",
+      "gloss": "ପାଗଳ କରେ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀକୁ"
+    },
+    {
+      "surface": "ויאבד",
+      "gloss": "ନଷ୍ଟ କରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ହୃଦୟକୁ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    },
+    {
+      "surface": "מתנה",
+      "gloss": "ଉପହାର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:25.697100038Z",
+  "model": "glm-5.3"
+}

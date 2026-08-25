@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ୟାଅରେଶୟାହ୍, ଓ ଏଲୟାହ୍, ଓ ୟିକ୍‌ରୀ — ୟେରୋହାମ୍‌ର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "ଓ ୟାଅରେଶୟାହ୍"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "ଓ ଏଲୟାହ୍"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "ଓ ୟିକ୍‌ରୀ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "ୟେରୋହାମ୍‌ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:12.364217054Z",
+  "model": "glm-5.3"
+}

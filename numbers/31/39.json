@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଓ ଗଧ ତିରିଶି ହଜାର ପାଞ୍ଚଶହ୍ ହେଲେ, ଆଉ ସେମାନଙ୍କ କର ଯାହ୍ୱେଙ୍କ ପାଇଁ ଏକଷଟିଟି ।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "ଓ ଗଧ"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତିରିଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ୍"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "ଓ ସେମାନଙ୍କ କର"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "ଓ ଷାଠି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:30:30.646863613Z",
+  "model": "glm-5.3"
+}

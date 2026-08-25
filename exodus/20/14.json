@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ତୁମ୍ଭେ ବ୍ୟଭିଚାର କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ତୁମ୍ଭେ ବ୍ୟଭିଚାର କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:31.411144703Z",
+  "model": "glm-5.3"
+}

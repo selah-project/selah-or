@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 28:18",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ପ୍ରଥମ ଦିନରେ ପବିତ୍ର ସଭା — କୌଣସି ପରିଶ୍ରମର କାର୍ଯ୍ୟ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ପରିଶ୍ରମର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:29:43.387129793Z",
+  "model": "glm-5.3"
+}

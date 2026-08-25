@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଆହା, ବାବିଲର କନ୍ୟା ସହିତ ବାସ କରୁଥିବା ସିୟୋନେ, ପଳାଇଯାଅ।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ଆହା"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ସିୟୋନ"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "ପଳାଇଯାଅ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "ବାସ କରୁଥିବା"
+    },
+    {
+      "surface": "בת",
+      "gloss": "କନ୍ୟା"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ବାବିଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T16:32:36.990605095Z",
+  "model": "glm-5.3"
+}

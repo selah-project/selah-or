@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 3:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଖୋଜିବା ପାଇଁ ସମୟ, ଆଉ ହରାଇବା ପାଇଁ ସମୟ; ରକ୍ଷା କରିବା ପାଇଁ ସମୟ, ଆଉ ଫିଙ୍ଗି ଦେବା ପାଇଁ ସମୟ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "ଖୋଜିବା ପାଇଁ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "לאבד",
+      "gloss": "ହରାଇବା ପାଇଁ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "לשמור",
+      "gloss": "ରକ୍ଷା କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "ଫିଙ୍ଗି ଦେବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:56.591772786Z",
+  "model": "glm-5.3"
+}

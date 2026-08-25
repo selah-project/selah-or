@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଓ ଅଦାୟା, ଓ ବେରାୟା, ଓ ଶିମ୍ରାତ୍ — ଶିମିଙ୍କ ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "ଓ ଅଦାୟା"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "ଓ ବେରାୟା"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "ଓ ଶିମ୍ରାତ୍"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶିମି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:45.630006825Z",
+  "model": "glm-5.3"
+}

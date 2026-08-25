@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଜ୍ଞାନୀ ବୀର ବଳରେ ⟨ଥାଏ⟩, ଆଉ ଜ୍ଞାନବାନ୍ ମଣିଷ ଶକ୍ତିକୁ ଦୃଢ଼ କରେ।",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ବୀର"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "ବଳରେ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ଆଉ ମଣିଷ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନବାନ୍"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "ଦୃଢ଼ କରେ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "ଶକ୍ତିକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:29.195325321Z",
+  "model": "glm-5.3"
+}

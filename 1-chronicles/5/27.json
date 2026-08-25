@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଲେବୀୟଙ୍କ ପୁତ୍ରଗଣ — ଗେରେଶୋନ୍, କେହାତ ଓ ମେରାରୀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେବୀୟଙ୍କ"
+    },
+    {
+      "surface": "଒רשון",
+      "gloss": "ଗେରେଶୋନ୍"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତ"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "ଓ ମେରାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:00.793847700Z",
+  "model": "glm-5.3"
+}

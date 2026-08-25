@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 3:14",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୁଁ ମୋର ସମସ୍ତ ପ୍ରଜାଙ୍କ ପାଇଁ ହସିବାର ବିଷୟ ହେଲି, ସାରା ଦିନ ସେମାନଙ୍କ ଗୀତ।",
+  "tokens": [
+    {
+      "surface": "הייתי",
+      "gloss": "ହେଲି"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "ହସିବାର ବିଷୟ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ପାଇଁ ସମସ୍ତ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ମୋର ପ୍ରଜାଙ୍କ"
+    },
+    {
+      "surface": "נגינתם",
+      "gloss": "ସେମାନଙ୍କ ଗୀତ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଦିନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:23.880987822Z",
+  "model": "glm-5.3"
+}

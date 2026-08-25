@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 15:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "କେନୀୟଙ୍କୁ ⟨את⟩, କେନିଜ୍ଜୀୟଙ୍କୁ ⟨את⟩ ଓ କଦ୍ମୋନୀୟଙ୍କୁ ⟨את⟩",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "କେନୀୟ"
+    },
+    {
+      "surface": "הקיני",
+      "gloss": "କେନୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "କେନିଜ୍ଜୀୟ"
+    },
+    {
+      "surface": "הקנזי",
+      "gloss": "କେନିଜ୍ଜୀୟ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "କଦ୍ମୋନୀୟ"
+    },
+    {
+      "surface": "הקדמני",
+      "gloss": "କଦ୍ମୋନୀୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:25:43.977368631Z",
+  "model": "glm-5.3"
+}

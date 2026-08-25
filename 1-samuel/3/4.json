@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ଯାହ୍ୱେ ଶମୂଏଲ୍‌ଙ୍କୁ ଡାକିଲେ, ଓ ⟨ସେ⟩ କହିଲା — ଦେଖ, ମୁଁ ⟨ଏଠାରେ⟩ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "ଓ ଡାକିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "ଶମୂଏଲ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲା"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ଦେଖ, ମୁଁ ଅଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T10:48:18.484411685Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 42,
+  "translation": "ଆଉ ଦଶ ଦିନର ଶେଷରେ, ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ୟିର୍ମିୟାହୁଙ୍କ ପାଖକୁ ଆସିଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିର୍ମିୟାହୁଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:29:19.128352413Z",
+  "model": "glm-5.3"
+}

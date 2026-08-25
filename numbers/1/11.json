@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ବିନ୍ୟାମିନଙ୍କ ପାଇଁ — ଅବିଦାନ୍, ଗିଦୋନୀଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "ବିନ୍ୟାମିନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "ଅବିଦାନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "ଗିଦୋନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:01:40.171167966Z",
+  "model": "glm-5.3"
+}

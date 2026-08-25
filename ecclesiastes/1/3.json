@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 1:3",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମନୁଷ୍ୟ ପାଇଁ କଣ ଲାଭ, ତାହାର ସମସ୍ତ ପରିଶ୍ରମରେ ଯାହା ସେ ସୂର୍ଯ୍ୟ ତଳେ ପରିଶ୍ରମ କରେ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ଲାଭ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମନୁଷ୍ୟ ପାଇଁ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ ...ରେ"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "ତାହାର ପରିଶ୍ରମ"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "ଯାହା ସେ ... ପରିଶ୍ରମ କରେ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:52.701902214Z",
+  "model": "glm-5.3"
+}

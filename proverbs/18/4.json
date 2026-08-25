@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଗଭୀର ଜଳ ମନୁଷ୍ୟ ମୁଖର ବାକ୍ୟ; ଜ୍ଞାନର ଉତ୍ସ ଏକ ପ୍ରବାହିତ ଧାରା।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "ଗଭୀର"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖର"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ପ୍ରବାହିତ ଧାରା"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "ପ୍ରବାହିତ"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "ଉତ୍ସ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:56.870553995Z",
+  "model": "glm-5.3"
+}

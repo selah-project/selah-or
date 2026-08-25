@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ⟨the⟩ ମନୁଷ୍ୟ କହିଲେ — ⟨the⟩ ନାରୀ, ଯାହାକୁ ତୁମେ ମୋ ସହିତ ଦେଇଥିଲ, ସେ ⟨the⟩ ଗଛରୁ ମୋତେ ଦେଲା, ଆଉ ମୁଁ ଖାଇଲି।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "⟨the⟩ ମନୁଷ୍ୟ"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "⟨the⟩ ନାରୀ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାକୁ"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "ତୁମେ ଦେଇଥିଲ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "ମୋ ସହିତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ଦେଲା"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ରୁ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "⟨the⟩ ଗଛ"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "ଆଉ ମୁଁ ଖାଇଲି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:09.239203562Z",
+  "model": "glm-5.3"
+}

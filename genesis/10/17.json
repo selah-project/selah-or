@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ⟨ହା⟩ହିବ୍ୱୀ, ଆଉ ⟨ହା⟩ଅର୍କୀ, ଆଉ ⟨ହା⟩ସିନୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ହିବ୍ୱୀ"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "ହିବ୍ୱୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଅର୍କୀ"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "ଅର୍କୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ସିନୀ"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "ସିନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:44:33.240532408Z",
+  "model": "glm-5.3"
+}

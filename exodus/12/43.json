@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "exodus 12:43",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେ ଓ ଅହରୋନଙ୍କୁ କହିଲେ: ଏହା ପେସାଖର ବିଧି — ପରଦେଶୀର କୌଣସି ପୁତ୍ର ତାହା ଖାଇବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואהרן",
+      "gloss": "ଓ ଅହରୋନ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "חקת",
+      "gloss": "ବିଧି"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ପେସାଖର"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ପରଦେଶୀ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:08:32.554363531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 56,
+  "translation": "ସବୁ କ୍ଷେତ୍ରର ଜୀବମାନେ, ଖାଇବାକୁ ଆସ, ସବୁ ଜଙ୍ଗଲର ଜୀବମାନେ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "କ୍ଷେତ୍ରର ଜୀବମାନେ"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "କ୍ଷେତ୍ର"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "ଖାଇବାକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ଜୀବମାନେ"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "ଜଙ୍ଗଲରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:12:55.302406566Z",
+  "model": "glm-5.3"
+}

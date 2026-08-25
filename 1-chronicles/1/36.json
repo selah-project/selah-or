@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏଲିଫାଜଙ୍କ ପୁତ୍ରମାନେ — ତେମାନ୍, ଓମାର୍, ତ୍ସେଫି, ଗାତାମ୍, କେନାଜ୍, ତିମନା ଓ ଅମାଲେକ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ଏଲିଫାଜଙ୍କ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "ତେମାନ୍"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "ଓମାର୍"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "ତ୍ସେଫି"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "ଗାତାମ୍"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "କେନାଜ୍"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "ତିମନା"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "ଓ ଅମାଲେକ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:57.631830277Z",
+  "model": "glm-5.3"
+}

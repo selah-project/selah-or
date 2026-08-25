@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 34:27",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଆଉ ଆଶେର୍ ପୁତ୍ରମାନଙ୍କ ଗୋଷ୍ଠୀ ପାଇଁ ନେତା — ଶେଲୋମୀର ପୁତ୍ର ଅଖିହୁଦ୍।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "ଆଉ … ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଆଶେର୍"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନେତା"
+    },
+    {
+      "surface": "אחיהוד",
+      "gloss": "ଅଖିହୁଦ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ଶେଲୋମୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:33:56.442697237Z",
+  "model": "glm-5.3"
+}

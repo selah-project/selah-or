@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଓ ଏହି ମାସର ପନ୍ଦରହ ଦିନରେ ପର୍ବ — ସାତ ଦିନ ଧରି ଖମୀରବିହୀନ ରୁଟି ଖିଆଯିବ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "ଓ ପନ୍ଦରହ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସର"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "חג",
+      "gloss": "ପର୍ବ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ ଧରି"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "ଖମୀରବିହୀନ ରୁଟି"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖିଆଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:29:43.386879335Z",
+  "model": "glm-5.3"
+}

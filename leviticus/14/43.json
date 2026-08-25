@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯଦି କ୍ଷତ ଫେରିଆସେ ଏବଂ ଘରରେ ଫୁଟେ, ⟨את⟩ ପଥରଗୁଡ଼ିକ ବାହାର କରିବା ପରେ ଏବଂ ⟨את⟩ ଘର ଖୋସିବା ପରେ ଏବଂ ଲେପନ ପରେ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "ଫେରିଆସେ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "କ୍ଷତ"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "ଫୁଟେ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଘରରେ"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "ବାହାର କରିବା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପଥରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ପଥରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ଏବଂ ପରେ"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "ଖୋସିବା"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଘର"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "ଘର"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "ଏବଂ ପରେ"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "ଲେପନ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:25.692527317Z",
+  "model": "glm-5.3"
+}

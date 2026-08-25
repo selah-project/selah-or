@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 132:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 132,
+  "translation": "ମୁଁ ମୋର ଘରର ତମ୍ବୁରେ ପ୍ରବେଶ କରିବି ନାହିଁ, ମୋର ଶୟ୍ୟା-ବିଛଣା ଉପରକୁ ଉଠିବି ନାହିଁ —",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "אבא",
+      "gloss": "ପ୍ରବେଶ କରିବି"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ତମ୍ବୁରେ"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "ମୋର ଘରର"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "ଉଠିବି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରକୁ"
+    },
+    {
+      "surface": "ערש",
+      "gloss": "ଶୟ୍ୟା"
+    },
+    {
+      "surface": "יצועי",
+      "gloss": "ମୋର ବିଛଣା"
+    }
+  ],
+  "timestamp": "2026-08-25T17:50:27.470334177Z",
+  "model": "glm-5.3"
+}

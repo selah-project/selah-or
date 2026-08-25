@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 28:11",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "କାରଣ ଉପହାସ କରୁଥିବା ଓଠ ଓ ଅନ୍ୟ ଭାଷା ସହିତ ସେ ଏହି ପ୍ରଜା ସହିତ କହିବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "בלעגי",
+      "gloss": "ଉପହାସ କରୁଥିବା"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ଓଠ"
+    },
+    {
+      "surface": "ובלשון",
+      "gloss": "ଓ ଅନ୍ୟ ଭାଷା ସହିତ"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "ସେ କହିବେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ଏହି ପ୍ରଜା"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T12:42:11.131984308Z",
+  "model": "glm-5.3"
+}

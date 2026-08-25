@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବ୍ୟାକୁଳତା ହସଠାରୁ ଉତ୍ତମ, କାରଣ ମୁହଁର ଦୁଃଖରେ ହୃଦୟ ଉତ୍ତମ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ବ୍ୟାକୁଳତା"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "ହସଠାରୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ଦୁଃଖରେ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ମୁହଁର"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ଉତ୍ତମ ହୁଏ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:13.839224062Z",
+  "model": "glm-5.3"
+}

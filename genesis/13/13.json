@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ସେଦୋମର ଲୋକମାନେ ମନ୍ଦ ଥିଲେ ଓ ଯାହ୍ୱେଙ୍କ ସାମ୍ନାରେ ଅତି ପାପୀ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "ଆଉ ଲୋକମାନେ"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "ସେଦୋମର"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "ମନ୍ଦ"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "ଓ ପାପୀ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:00.614465928Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ହା-ଆଭିମ୍, ହା-ପାରା ଏବଂ ଓଫ୍ରା।।",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "ଏବଂ ହା-ଆଭିମ୍"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "ଏବଂ ହା-ପାରା"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "ଏବଂ ଓଫ୍ରା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:28.249703263Z",
+  "model": "glm-5.3"
+}

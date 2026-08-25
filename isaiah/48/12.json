@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ମୋତେ ଶୁଣ, ହେ ୟାକୋଭ୍, ଓ ଇସ୍ରାଏଲ୍, ମୋର ଡକାଯାଉଥିବା ⟨ଜନ⟩; ମୁଁ ସେ; ମୁଁ ପ୍ରଥମ, ମୁଁ ହିଁ ଶେଷ।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ହେ ୟାକୋଭ୍"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "ଓ ଇସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "ମୋର ଡକାଯାଉଥିବା"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ହିଁ ମଧ୍ୟ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "ଶେଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:05:18.334736048Z",
+  "model": "glm-5.3"
+}

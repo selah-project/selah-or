@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଉଲ୍ଲାଙ୍କ ପୁତ୍ରମାନେ — ଆରାଖ୍, ହାନ୍ନିଏଲ୍ ଓ ରିତ୍‌ସିୟା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "ଉଲ୍ଲା"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "ଆରାଖ୍"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "ହାନ୍ନିଏଲ୍"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "ରିତ୍‌ସିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:10.569290503Z",
+  "model": "glm-5.3"
+}

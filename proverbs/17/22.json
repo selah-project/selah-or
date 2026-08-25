@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 17:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଆନନ୍ଦିତ ହୃଦୟ ଉପଚାର କରେ, କିନ୍ତୁ ପିଡ଼ିତ ରୁଆଖ୍ ଅସ୍ଥି ଶୁଷ୍କ କରିଦିଏ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ଆନନ୍ଦିତ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ଉତ୍ତମ କରେ"
+    },
+    {
+      "surface": "גהה",
+      "gloss": "ଉପଚାର"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "କିନ୍ତୁ ରୁଆଖ୍"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ପିଡ଼ିତ"
+    },
+    {
+      "surface": "תיבש",
+      "gloss": "ଶୁଷ୍କ କରେ"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "ଅସ୍ଥି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:51.694716963Z",
+  "model": "glm-5.3"
+}

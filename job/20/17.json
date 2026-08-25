@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ନଦୀମାନଙ୍କ ଧାରାରେ, ମହୁ ଓ ଘିଅର ନାଳମାନ — ସେ ଦେଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ସେ ଦେଖିବ"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "ଧାରାରେ"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "ନଦୀମାନଙ୍କ"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "ନାଳମାନ"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "ମହୁ"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "ଓ ଘିଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:33:08.499940368Z",
+  "model": "glm-5.3"
+}

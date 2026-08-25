@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ମଦ୍ୟରୁ ⟨ଲାଲ⟩ ଆଖି, ଏବଂ କ୍ଷୀରରୁ ଦାନ୍ତ ଧଳା।",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "ଲାଲ-ଉଜ୍ଜ୍ୱଳ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "ମଦ୍ୟରୁ"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "ଏବଂ ଧଳା"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦାନ୍ତ"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "କ୍ଷୀରରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:57:38.639886705Z",
+  "model": "glm-5.3"
+}

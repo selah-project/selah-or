@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ⟨ଯଦି⟩ ବସ୍ତ୍ରରେ ଚର୍ମରୋଗର କ୍ଷତ ହେବ — ଉଲ୍‌ର ବସ୍ତ୍ରରେ କିମ୍ବା ତଣ୍ଟିବସ୍ତ୍ରରେ,",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "ଆଉ ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ଯଦି⟩"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାରେ"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "କ୍ଷତ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "ଚର୍ମରୋଗ"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ବସ୍ତ୍ରରେ"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ଉଲ୍"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "ବସ୍ତ୍ରରେ"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "ତଣ୍ଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:06.345695277Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମାଗବିଶର ପୁତ୍ରମାନେ, ଏକ ଶହ ଛପଞ୍ଜାଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "ମାଗବିଶର"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ଏକ ଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "ଛଅ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:29.015673336Z",
+  "model": "glm-5.3"
+}

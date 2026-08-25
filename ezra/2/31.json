@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଅନ୍ୟ ଏଲାମର ପୁତ୍ରମାନେ, ଏକ ହଜାର ଦୁଇ ଶହ ଚଉର୍ପନ୍ଚାଶ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "ଏଲାମର"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଅନ୍ୟ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ଏକ ହଜାର"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "ଦୁଇ ଶହ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ପଚାଶ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଚାରି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:27:29.015777820Z",
+  "model": "glm-5.3"
+}

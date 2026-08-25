@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଆଉ ତୁମେ ତୁମ ଆଖିର ୟାହା ଦୃଶ୍ୟ ଦେଖିବ, ତାହାରୁ ଉନ୍ମାଦ ହୋଇଯିବ।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "ଆଉ ତୁମେ ହୋଇଯିବ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "ଉନ୍ମାଦ"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "ୟାହା ଦୃଶ୍ୟରୁ"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ତୁମ ଆଖିର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ୟାହା"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ଦେଖିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:58.384366957Z",
+  "model": "glm-5.3"
+}

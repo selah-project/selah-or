@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ୟିସ୍ରାଏଲ୍ ଏମୋରୀମାନଙ୍କ ଦେଶରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "ଆଉ ... ବାସ କଲେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ଏମୋରୀମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:22:05.459170311Z",
+  "model": "glm-5.3"
+}

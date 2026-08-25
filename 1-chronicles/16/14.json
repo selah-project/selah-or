@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 16:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ତିନି ଯାହ୍ୱେ ଆମର ଏଲୋହିମ୍; ସମସ୍ତ ପୃଥିବୀରେ ତାହାଙ୍କର ନ୍ୟାୟବିଚାର।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "ଆମର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ ... ରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "משפטיו",
+      "gloss": "ତାହାଙ୍କର ନ୍ୟାୟବିଚାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:47.407078103Z",
+  "model": "glm-5.3"
+}

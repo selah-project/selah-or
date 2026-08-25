@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "କାରଣ ଏହା ୟୋବେଲ୍ — ତୁମ୍ଭମାନଙ୍କ ପାଇଁ ପବିତ୍ର ହେବ; କ୍ଷେତରୁ ତୁମ୍ଭେମାନେ ⟨את⟩ ଏହାର ଫସଲ ଖାଇବ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "ୟୋବେଲ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "କ୍ଷେତ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ଖାଇବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହାର ଫସଲ"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "ଏହାର ଫସଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:59:03.909551383Z",
+  "model": "glm-5.3"
+}

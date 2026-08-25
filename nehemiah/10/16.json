@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ବୁନ୍ନି, ଅଜ୍‌ଗଦ୍, ବେବାଇ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ବୁନ୍ନି"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "ଅଜ୍‌ଗଦ୍"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "ବେବାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:45.210857262Z",
+  "model": "glm-5.3"
+}

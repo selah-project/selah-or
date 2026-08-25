@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 19:5",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ସାଗରରୁ ଜଳ ଶୁଷ୍କ ହେବ, ଆଉ ନଦୀ ଉଜାଣ ହେବ ଓ ଶୁଖିଯିବ।",
+  "tokens": [
+    {
+      "surface": "ונשתו",
+      "gloss": "ଶୁଷ୍କ ହେବ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "מהים",
+      "gloss": "ସାଗରରୁ"
+    },
+    {
+      "surface": "ונהר",
+      "gloss": "ଆଉ ନଦୀ"
+    },
+    {
+      "surface": "יחרב",
+      "gloss": "ଉଜାଣ ହେବ"
+    },
+    {
+      "surface": "ויבש",
+      "gloss": "ଓ ଶୁଖିଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:34:26.737357377Z",
+  "model": "glm-5.3"
+}

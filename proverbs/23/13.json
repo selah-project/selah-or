@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 23:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଶିଶୁଠାରୁ ଶିକ୍ଷା ହଟାଇ ନାହିଁ; କାରଣ ତୁମ୍ଭେ ତାହାକୁ ଲାଠିରେ ମାରିଲେ, ସେ ମରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ହଟାଇ ନାହିଁ"
+    },
+    {
+      "surface": "מנער",
+      "gloss": "ଶିଶୁଠାରୁ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "תכנו",
+      "gloss": "ତାହାକୁ ମାରିଲେ"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "ଲାଠିରେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "ମରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:08.851806687Z",
+  "model": "glm-5.3"
+}

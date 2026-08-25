@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଏହି ⟨ହେଁ⟩ ସେହି ପଶୁ ଯାହା ତୁମ୍ଭେମାନେ ଖାଇପାରିବ: ଗୋରୁ, ମେଣ୍ଢା ଛୁଆ ଏବଂ ଛେଳି ଛୁଆ।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "ଖାଇପାରିବ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ଛୁଆ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "ଏବଂ ଛୁଆ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛେଳି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:04.802378586Z",
+  "model": "glm-5.3"
+}

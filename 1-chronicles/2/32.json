@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ଶାମ୍ମାୟିର ଭାଇ ୟାଦାର ପୁତ୍ରମାନେ ୟେଥେର ଓ ୟୋନାତାନ୍; ଓ ୟେଥେର ପୁତ୍ରହୀନ ଅବସ୍ଥାରେ ମରିଗଲା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ୟାଦାର"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ଶାମ୍ମାୟିର"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ୟେଥେର"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "ଓ ୟୋନାତାନ୍"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "ଓ ମରିଗଲା"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ୟେଥେର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ରମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:52.648102198Z",
+  "model": "glm-5.3"
+}

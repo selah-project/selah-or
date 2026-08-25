@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 32:40",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ମୋଶେ ମନଶ୍ଶେହର ପୁତ୍ର ମାଖିରଙ୍କୁ ⟨את⟩ ଗିଲ୍‌ଆଦ ଦେଲେ, ଓ ସେ ସେଠାରେ ବାସ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ଦେଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗିଲ୍‌ଆଦ"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "ଗିଲ୍‌ଆଦ"
+    },
+    {
+      "surface": "למכיר",
+      "gloss": "ମାଖିରଙ୍କୁ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ମନଶ୍ଶେହର"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "ବାସ କଲେ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ସେଠାରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:32:29.946022019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଅବଶେଷ ଲୋତାନଙ୍କ ପୁତ୍ରଗଣ — ହୋରୀ ଓ ହୋମାମ୍; ଆଉ ଲୋତାନଙ୍କ ଭଉଣୀ ⟨ଥିଲେ⟩ ତିମ୍ନା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଅବଶେଷ … ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ଲୋତାନଙ୍କ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ହୋରୀ"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "ଓ ହୋମାମ୍"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "ଭଉଣୀ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "ଲୋତାନଙ୍କ"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ତିମ୍ନା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:25.972996426Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-chronicles 29:33",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଏବଂ ପବିତ୍ରୀକୃତ ଜିନିଷଗୁଡ଼ିକ — ଗୋରୁ ଛଅଶହ ଓ ଭେଡ଼ାଛେଳି ତିନି ହଜାର।",
+  "tokens": [
+    {
+      "surface": "והקדשים",
+      "gloss": "ଏବଂ ପବିତ୍ରୀକୃତ ଜିନିଷଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ଗୋରୁ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "וצאן",
+      "gloss": "ଓ ଭେଡ଼ାଛେଳି"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:37:39.466712844Z",
+  "model": "glm-5.3"
+}

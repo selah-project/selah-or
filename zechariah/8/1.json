@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଯାହ୍ୱେ-ସେବାବାହିନୀଙ୍କ ବାକ୍ୟ ହେଲା, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "ସେବାବାହିନୀଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:36:01.067998968Z",
+  "model": "glm-5.3"
+}

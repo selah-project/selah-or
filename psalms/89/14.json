@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 89:14",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 89,
+  "translation": "ତୁମର ବାହୁ ⟨ଅଛି⟩ ପରାକ୍ରମ ସହିତ; ଶକ୍ତ ତୁମର ହାତ, ଉଚ୍ଚ ତୁମର ଦକ୍ଷିଣ ହାତ।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "ତୁମର"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "ବାହୁ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "ପରାକ୍ରମ"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "ଶକ୍ତ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ତୁମର ହାତ"
+    },
+    {
+      "surface": "תרום",
+      "gloss": "ଉଚ୍ଚ"
+    },
+    {
+      "surface": "ימינך",
+      "gloss": "ତୁମର ଦକ୍ଷିଣ ହାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:29:26.070276256Z",
+  "model": "glm-5.3"
+}

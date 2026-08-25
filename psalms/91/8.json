@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 91:8",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 91,
+  "translation": "କେବଳ ତୁମ ଆଖିରେ ଦେଖିବ, ଆଉ ଦୁଷ୍ଟମାନଙ୍କର ପ୍ରତିଫଳ ଦେଖିବ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ତୁମ ଆଖିରେ"
+    },
+    {
+      "surface": "תביט",
+      "gloss": "ଦେଖିବ"
+    },
+    {
+      "surface": "ושלמת",
+      "gloss": "ଆଉ ପ୍ରତିଫଳ"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ଦୁଷ୍ଟମାନଙ୍କର"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "ଦେଖିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:25.190441185Z",
+  "model": "glm-5.3"
+}

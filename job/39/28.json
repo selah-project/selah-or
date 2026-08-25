@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 39:28",
+  "book": "job",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ପଥର ଉପରେ ବସବାସ କରେ, ଚଟାଣର ଶିଖର ଓ ଦୁର୍ଗରେ ରହେ ।",
+  "tokens": [
+    {
+      "surface": "סלע",
+      "gloss": "ପଥର ଉପରେ"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "ବସବାସ କରେ"
+    },
+    {
+      "surface": "ויתלנן",
+      "gloss": "ରହେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ଚଟାଣର ଶିଖର"
+    },
+    {
+      "surface": "סלע",
+      "gloss": "ପଥର"
+    },
+    {
+      "surface": "ומצודה",
+      "gloss": "ଓ ଦୁର୍ଗରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:43:51.155459783Z",
+  "model": "glm-5.3"
+}

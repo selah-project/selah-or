@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଯାହ୍ୱେଙ୍କ ଦାସ ମୋଶେ ସେଠାରେ, ମୋଆବ୍ ଦେଶରେ, ଯାହ୍ୱେଙ୍କ ମୁଖ ଅନୁସାରେ ମୃତ୍ୟୁଭୋଗ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁଭୋଗ କଲେ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ସେଠାରେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବ୍"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଅନୁସାରେ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:05:41.645541552Z",
+  "model": "glm-5.3"
+}

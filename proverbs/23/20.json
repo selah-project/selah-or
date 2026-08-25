@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 23:20",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ମଦ୍ୟପାନକାରୀମାନଙ୍କ ମଧ୍ୟରେ ନ ଥାଅ, ମାଂସ-ଭୋଜୀମାନଙ୍କ ମଧ୍ୟରେ ନ ଥାଅ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ଥାଅ"
+    },
+    {
+      "surface": "בסבאי",
+      "gloss": "ମଦ୍ୟପାନକାରୀମାନଙ୍କ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "יין",
+      "gloss": "ମଦ୍ୟ"
+    },
+    {
+      "surface": "בזללי",
+      "gloss": "ମାଂସ-ଭୋଜୀମାନଙ୍କ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-25T18:14:49.616166160Z",
+  "model": "glm-5.3"
+}

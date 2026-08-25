@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଶେରଙ୍କ ପୁତ୍ରମାନେ — ୟିମନା, ୟିଶ୍ୱା, ୟିଶ୍ୱୀ, ବେରିଆ ଓ ସେରାଖ୍ ସେମାନଙ୍କ ଭଉଣୀ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଆଶେରଙ୍କ"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "ୟିମନା"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "ୟିଶ୍ୱା"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "ୟିଶ୍ୱୀ"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "ବେରିଆ"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "ସେରାଖ୍"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "ସେମାନଙ୍କ ଭଉଣୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:01.645045752Z",
+  "model": "glm-5.3"
+}

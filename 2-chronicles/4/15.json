@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "⟨את⟩ ସମୁଦ୍ର ଗୋଟିଏ, ଏବଂ ⟨את⟩ ବଳଦଗୁଡ଼ିକ — ତାହା ତଳେ ବାରଟି।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ବଳଦଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "ବଳଦଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବାର"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-ଟି)"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ତାହା ତଳେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:17:09.934123805Z",
+  "model": "glm-5.3"
+}

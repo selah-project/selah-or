@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ସେ ମୋ' ବିରୁଦ୍ଧରେ ନିର୍ମାଣ କଲେ ଏବଂ ମୋତେ ବିଷ ଓ କ୍ଳାନ୍ତିରେ ଘେରି ରଖିଲେ।",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "ନିର୍ମାଣ କଲେ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ' ବିରୁଦ୍ଧରେ"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "ଘେରି ରଖିଲେ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ବିଷ"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "କ୍ଳାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:44.889411904Z",
+  "model": "glm-5.3"
+}

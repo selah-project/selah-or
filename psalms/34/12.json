@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଆସ, ହେ ପୁତ୍ରଗଣ, ମୋତେ ଶୁଣ; ଯାହ୍ୱେଙ୍କ ଭୟ ମୁଁ ତୁମମାନଙ୍କୁ ଶିଖାଇବି।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ହେ ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "ତୁମମାନଙ୍କୁ ଶିଖାଇବି"
+    }
+  ],
+  "timestamp": "2026-08-25T16:58:39.846087820Z",
+  "model": "glm-5.3"
+}

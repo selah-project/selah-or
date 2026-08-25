@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ଏଲୋହିମ୍ କହିଲେ, ଆଲୋକ ହେଉ, ଆଉ ଆଲୋକ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେଲା"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:15:57.510885335Z",
+  "model": "glm-5.3"
+}

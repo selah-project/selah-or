@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 10:16",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଧାର୍ମିକର କର୍ମ ଜୀବନ ପାଇଁ, ଦୁଷ୍ଟର ଆୟ ପାପ ପାଇଁ ।",
+  "tokens": [
+    {
+      "surface": "פעלת",
+      "gloss": "କର୍ମ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକର"
+    },
+    {
+      "surface": "לחיים",
+      "gloss": "ଜୀବନ ପାଇଁ"
+    },
+    {
+      "surface": "תבואת",
+      "gloss": "ଆୟ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟର"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:22.660041711Z",
+  "model": "glm-5.3"
+}

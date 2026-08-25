@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଯୋବେଲ୍‌ର ଏହି ବର୍ଷରେ ତୁମ୍ଭେମାନେ ଫେରିବ, ପ୍ରତ୍ୟେକ ଲୋକ ତାହାର ଅଧିକାର ପାଖକୁ।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ବର୍ଷରେ"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "ଯୋବେଲ୍‌ର"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ଫେରିବ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ପ୍ରତ୍ୟେକ ଲୋକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ତାହାର ଅଧିକାର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:57:47.088617881Z",
+  "model": "glm-5.3"
+}

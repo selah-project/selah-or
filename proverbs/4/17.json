@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କାରଣ ସେମାନେ ଅଧର୍ମର ଅନ୍ନ ଖାଆନ୍ତି ଓ ହିଂସାର ମଦିରା ପିଆନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "ଖାଆନ୍ତି"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ଅନ୍ନ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଅଧର୍ମର"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ଓ ମଦିରା"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "ହିଂସାର"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "ପିଆନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:25.146343708Z",
+  "model": "glm-5.3"
+}

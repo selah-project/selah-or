@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 18:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଯିଏ ଜଣେ ସ୍ତ୍ରୀକୁ ପାଏ, ଭଲ ପାଏ; ଆଉ ସେ ଯାହ୍ୱେଙ୍କ ଠାରୁ ଅନୁଗ୍ରହ ଲାଭ କରେ।",
+  "tokens": [
+    {
+      "surface": "מצא",
+      "gloss": "ପାଏ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ଜଣେ ସ୍ତ୍ରୀକୁ"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ପାଏ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "ଲାଭ କରେ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ଅନୁଗ୍ରହ"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:04.718895466Z",
+  "model": "glm-5.3"
+}

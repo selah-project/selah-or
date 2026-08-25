@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 1:2",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଶୂନ୍ୟତାର ଶୂନ୍ୟତାଗୁଡ଼ିକ, କୋହେଲେତ୍ କହିଲେ; ଶୂନ୍ୟତାର ଶୂନ୍ୟତାଗୁଡ଼ିକ, ସମସ୍ତ ⟨ଅଟେ⟩ ଶୂନ୍ୟତା।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "ଶୂନ୍ୟତା"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ଶୂନ୍ୟତାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "କୋହେଲେତ୍"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ଶୂନ୍ୟତା"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "ଶୂନ୍ୟତାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ଶୂନ୍ୟତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:52.701730959Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏବଂ ⟨את⟩ ହାଦୋରାମ୍ ଓ ⟨את⟩ ଉଜାଲ୍ ଓ ⟨את⟩ ଦିକ୍‌ଲାହ୍।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ହାଦୋରାମ୍"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ହାଦୋରାମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଉଜାଲ୍"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ଉଜାଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଦିକ୍‌ଲାହ୍"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ଦିକ୍‌ଲାହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:50.764077798Z",
+  "model": "glm-5.3"
+}

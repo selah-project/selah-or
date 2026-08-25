@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତେବେ ତୁମ୍ଭେ ଯାହ୍ୱେଙ୍କ ଭୟକୁ ବୁଝିବ, ଆଉ ଏଲୋହିମ୍‌ଙ୍କ ଜ୍ଞାନ ପାଇବ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "ତେବେ"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "ବୁଝିବ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "ଭୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଆଉ ଜ୍ଞାନ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "ପାଇବ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:48.298239273Z",
+  "model": "glm-5.3"
+}

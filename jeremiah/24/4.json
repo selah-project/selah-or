@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 24:4",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ପାଖରେ ଆସିଲା, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:02:23.291518764Z",
+  "model": "glm-5.3"
+}

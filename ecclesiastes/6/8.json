@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ଜ୍ଞାନୀଙ୍କ ପାଇଁ ମୂର୍ଖଠାରୁ କଣ ଅଧିକ? ଜୀବିତମାନଙ୍କ ସାମ୍ନାରେ ଚାଲିବାକୁ ଜାଣୁଥିବା ଦରିଦ୍ର ପାଇଁ କଣ ⟨ଲାଭ⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ଅଧିକ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ଜ୍ଞାନୀଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ଠାରୁ"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "ମୂର୍ଖ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ଦରିଦ୍ର ପାଇଁ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣୁଥିବା"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "ଚାଲିବାକୁ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ଜୀବିତମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:39:21.250972035Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ସମଗ୍ର ସଭା ଆଉ ସାତ ଦିନ ପାଳନ କରିବାକୁ ପରାମର୍ଶ କଲେ, ଆଉ ସେମାନେ ସାତ ଦିନ ଆନନ୍ଦରେ ପାଳନ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "ପରାମର୍ଶ କଲେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ପାଳନ କରିବାକୁ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "ପାଳନ କଲେ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ଆନନ୍ଦରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:39:51.128417718Z",
+  "model": "glm-5.3"
+}

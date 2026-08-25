@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 25:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଯାହ୍ୱେ ସିନାଇ ପର୍ବତରେ ମୋଶେଙ୍କୁ କହିଲେ, କହିବାକୁ ଏପରି —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ପର୍ବତରେ"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "ସିନାଇ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:58:29.562683454Z",
+  "model": "glm-5.3"
+}

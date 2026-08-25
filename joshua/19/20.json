@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ହାରବ୍ବିତ୍, କିଶ୍ୟୋନ୍ ଓ ଆବେସ୍।",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "ହାରବ୍ବିତ୍"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "କିଶ୍ୟୋନ୍"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "ଓ ଆବେସ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:21:10.097048515Z",
+  "model": "glm-5.3"
+}

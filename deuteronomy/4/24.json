@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "କାରଣ ତୁମ ଏଲୋହିମ୍ ଯାହ୍ୱେ ⟨ହେଉଛନ୍ତି⟩ ଭକ୍ଷଣକାରୀ ଅଗ୍ନି, ଏକ ଈର୍ଷାନ୍ୱିତ ଏଲ୍।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "ତୁମ ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ଅଗ୍ନି"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ଭକ୍ଷଣକାରୀ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ହେଉଛନ୍ତି⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ଈର୍ଷାନ୍ୱିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:41:30.495315850Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "2-chronicles 9:30",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଶେଲୋମୋ ସମସ୍ତ ଇସ୍ରାଏଲ୍ ଉପରେ ୟେରୁଶାଲାଇମ୍‌ରେ ଚାଳିଶ ବର୍ଷ ରାଜତ୍ୱ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וימלך",
+      "gloss": "ରାଜତ୍ୱ କଲେ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋ"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ୟେରୁଶାଲାଇମ୍‌ରେ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:20:03.824356174Z",
+  "model": "glm-5.3"
+}

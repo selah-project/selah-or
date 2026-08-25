@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 1:51",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ହଦଦ୍ ମୃତ୍ୟୁ ବରଣ କଲା; ଏବଂ ଏଦୋମର ସରଦାରମାନେ ହେଲେ: ସରଦାର ତିମ୍‌ନା, ସରଦାର ଅଲ୍ୱା, ସରଦାର ୟିତେତ୍।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ମୃତ୍ୟୁ ବରଣ କଲା"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "ହଦଦ୍"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "ସରଦାରମାନେ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମର"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ତିମ୍‌ନା"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ଅଲ୍ୱା"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ସରଦାର"
+    },
+    {
+      "surface": "יתת",
+      "gloss": "ୟିତେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:04.053316Z",
+  "model": "glm-5.3"
+}

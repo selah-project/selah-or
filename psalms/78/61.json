@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "psalms 78:61",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 78,
+  "translation": "ଓ ସେ ବନ୍ଦୀକୁ ଦେଲେ ଆପଣା ଶକ୍ତି, ଓ ଆପଣା ମହିମାକୁ ଶତ୍ରୁର ହାତରେ।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "ଓ ସେ ଦେଲେ"
+    },
+    {
+      "surface": "לשבי",
+      "gloss": "ବନ୍ଦୀକୁ"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "ଆପଣା ଶକ୍ତି"
+    },
+    {
+      "surface": "ותפארתו",
+      "gloss": "ଓ ଆପଣା ମହିମା"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "ଶତ୍ରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:25:16.260596259Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଡାହାଣକୁ କିମ୍ବା ବାମକୁ ଝୁକିଯାଅ ନାହିଁ; ମନ୍ଦରୁ ତୁମ୍ଭ ପାଦ ହଟାଅ ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תט",
+      "gloss": "ଝୁକିଯାଅ"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ଡାହାଣକୁ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "କିମ୍ବା ବାମକୁ"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "ହଟାଅ"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "ତୁମ୍ଭ ପାଦ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ମନ୍ଦରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:57:48.422897239Z",
+  "model": "glm-5.3"
+}

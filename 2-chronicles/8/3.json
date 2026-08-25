@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ଶଲୋମୋ ହମାତ୍-ସୋବାକୁ ଗଲା ଏବଂ ତାହା ଉପରେ ପ୍ରବଳ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "ଗଲା"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ହମାତ୍"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "ସୋବା"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "ପ୍ରବଳ ହେଲା"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "ତାହା ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:20:01.618971274Z",
+  "model": "glm-5.3"
+}

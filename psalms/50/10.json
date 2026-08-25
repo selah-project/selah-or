@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 50,
+  "translation": "କାରଣ ବନର ସମସ୍ତ ପଶୁ ମୋର, ଆଉ ହଜାର ପାହାଡ଼ରେ ⟨ରୁହିଥିବା⟩ ଗୋମହିଷ ମୋର।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ବନର"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "ଗୋମହିଷ"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "ପାହାଡ଼ରେ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:07:22.267502118Z",
+  "model": "glm-5.3"
+}

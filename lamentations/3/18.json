@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 3:18",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ମୁଁ କହିଲି, ନଷ୍ଟ ହେଲା ମୋର ନିରନ୍ତରତା ଓ ମୋର ଆଶା ଯାହ୍ୱେଙ୍କଠାରୁ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ଓ ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "ନଷ୍ଟ ହେଲା"
+    },
+    {
+      "surface": "נצחי",
+      "gloss": "ମୋର ନିରନ୍ତରତା"
+    },
+    {
+      "surface": "ותוחלתי",
+      "gloss": "ଓ ମୋର ଆଶା"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:53.960272685Z",
+  "model": "glm-5.3"
+}

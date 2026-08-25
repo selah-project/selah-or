@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 39:10",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ମୁଁ ମୂକ ହେଲି, ମୁଁ ମୋର ମୁଖ ଖୋଲିଲି ନାହିଁ, କାରଣ ତୁମ୍ଭେ ⟨ଏହା⟩ କରିଅଛ।",
+  "tokens": [
+    {
+      "surface": "נאלמתי",
+      "gloss": "ମୁଁ ମୂକ ହେଲି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אפתח",
+      "gloss": "ମୁଁ ଖୋଲିଲି"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୋର ମୁଖ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "କରିଅଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:03:51.741141738Z",
+  "model": "glm-5.3"
+}

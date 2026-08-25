@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 11:4",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "କ୍ରୋଧର ଦିନରେ ଧନ ଉପକାର କରେ ନାହିଁ, କିନ୍ତୁ ଧାର୍ମିକତା ମୃତ୍ୟୁରୁ ଉଦ୍ଧାର କରେ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יועיל",
+      "gloss": "ଉପକାର କରେ"
+    },
+    {
+      "surface": "הון",
+      "gloss": "ଧନ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "କ୍ରୋଧର"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "କିନ୍ତୁ ଧାର୍ମିକତା"
+    },
+    {
+      "surface": "תציל",
+      "gloss": "ଉଦ୍ଧାର କରେ"
+    },
+    {
+      "surface": "ממות",
+      "gloss": "ମୃତ୍ୟୁରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:23.771822959Z",
+  "model": "glm-5.3"
+}

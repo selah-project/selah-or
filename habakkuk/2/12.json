@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହାୟ, ରକ୍ତରେ ନଗର ନିର୍ମାଣ କରୁଥିବା, ଆଉ ଅନ୍ୟାୟରେ ପୁର ସ୍ଥାପନ କରୁଥିବା!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "ହାୟ"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "ନିର୍ମାଣ କରୁଥିବା"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "ରକ୍ତରେ"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "ଆଉ ... ସ୍ଥାପନ କରୁଥିବା"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "ପୁର"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "ଅନ୍ୟାୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:20:48.945664737Z",
+  "model": "glm-5.3"
+}

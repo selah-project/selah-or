@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 15:22",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "କୀନା, ଦିମୋନା ଓ ଅଦାଦା।",
+  "tokens": [
+    {
+      "surface": "וקינה",
+      "gloss": "କୀନା"
+    },
+    {
+      "surface": "ודימונה",
+      "gloss": "ଦିମୋନା"
+    },
+    {
+      "surface": "ועדעדה",
+      "gloss": "ଅଦାଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:56.862308934Z",
+  "model": "glm-5.3"
+}

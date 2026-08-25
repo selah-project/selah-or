@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଭୋଳା ପ୍ରତ୍ୟେକ କଥା ବିଶ୍ୱାସ କରେ, କିନ୍ତୁ ଚତୁର ⟨ଲୋକ⟩ ତାହାର କଦମ ବୁଝେ।",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "ଭୋଳା"
+    },
+    {
+      "surface": "יאמין",
+      "gloss": "ବିଶ୍ୱାସ କରେ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "କିନ୍ତୁ ଚତୁର"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "ବୁଝେ"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "ତାହାର କଦମ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:58.849107335Z",
+  "model": "glm-5.3"
+}

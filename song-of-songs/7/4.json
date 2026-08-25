@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 7:4",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ତୁମ୍ଭ ଦୁଇ ସ୍ତନ ଦୁଇ ହରିଣ-ଛୁଆ ପରି, ଏକା ହରିଣୀର ଯମଜ।",
+  "tokens": [
+    {
+      "surface": "שני",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "שדיך",
+      "gloss": "ସ୍ତନ"
+    },
+    {
+      "surface": "כשני",
+      "gloss": "ଦୁଇ ... ପରି"
+    },
+    {
+      "surface": "עפרים",
+      "gloss": "ହରିଣ-ଛୁଆ"
+    },
+    {
+      "surface": "תאמי",
+      "gloss": "ଯମଜ"
+    },
+    {
+      "surface": "צביה",
+      "gloss": "ହରିଣୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:52.407302617Z",
+  "model": "glm-5.3"
+}

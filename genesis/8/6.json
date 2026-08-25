@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 8:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଚାଳିଶି ଦିନର ଶେଷରେ ନୋଆଖ୍ ⟨את⟩ ତେବାର ଝରକା ଖୋଲିଲେ ଯାହା ସେ ତିଆରି କରିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ହେଲା"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "ଶେଷରେ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶି"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "ויפתח",
+      "gloss": "ଖୋଲିଲେ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "ନୋଆଖ୍"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତେବାର ଝରକା"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "ଝରକା"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ତେବାର"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ତିଆରି କରିଥିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:40.898737781Z",
+  "model": "glm-5.3"
+}

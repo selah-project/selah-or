@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କିନ୍ତୁ ସମସ୍ତ ପଶୁ ଓ ନଗରଗୁଡ଼ିକର ଲୁଣ୍ଟ ଆମ୍ଭେମାନେ ନିଜ ପାଇଁ ଲୁଣ୍ଟିଲୁ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "କିନ୍ତୁ ସମସ୍ତ"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "ଓ ଲୁଣ୍ଟ"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "ନଗରଗୁଡ଼ିକର"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "ଲୁଣ୍ଟିଲୁ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "ନିଜ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:37:37.629110108Z",
+  "model": "glm-5.3"
+}

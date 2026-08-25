@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "କିମ୍ବା ଜଣେ ମଣିଷ ଯାହାର ଭିତରେ ଗୋଡ଼ରେ ଭାଙ୍ଗା ଥିବ, କିମ୍ବା ହାତରେ ଭାଙ୍ଗା ଥିବ —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ମଣିଷ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ଥିବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ଭିତରେ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗା"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "ଗୋଡ଼ରେ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗା"
+    },
+    {
+      "surface": "יד",
+      "gloss": "ହାତରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:53:11.199993112Z",
+  "model": "glm-5.3"
+}

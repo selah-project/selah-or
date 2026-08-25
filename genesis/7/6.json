@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ନୂହା ଛଅ ଶହ ବର୍ଷର ପୁତ୍ର, ଓ ମବୁଲ୍ ପୃଥିବୀ ଉପରେ ଜଳ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "ଓ ନୂହା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "ଓ ମବୁଲ୍"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:00.255957875Z",
+  "model": "glm-5.3"
+}

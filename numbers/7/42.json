@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "numbers 7:42",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଷଷ୍ଠ ଦିନରେ ଗାଦର ପୁଅମାନଙ୍କ ନାସି — ଦେଉଏଲଙ୍କ ପୁଅ ଏଲ୍ୟାସାଫ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…ଦିନରେ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ଷଷ୍ଠ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନାସି"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…ପୁଅମାନଙ୍କ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦର"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "ଏଲ୍ୟାସାଫ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "ଦେଉଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:07:05.183411893Z",
+  "model": "glm-5.3"
+}

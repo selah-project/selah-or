@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମଗପିଆଶ୍, ମେଶୁଲ୍ଲାମ୍, ଖେଜିର୍।",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "ମଗପିଆଶ୍"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "ମେଶୁଲ୍ଲାମ୍"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ଖେଜିର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:45:59.074022164Z",
+  "model": "glm-5.3"
+}

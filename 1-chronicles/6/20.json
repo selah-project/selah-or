@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ପୁତ୍ର ତ୍ସୁଫ୍, ପୁତ୍ର ଏଲ୍‌କାନା, ପୁତ୍ର ମାହତ୍, ପୁତ୍ର ଅମାସାଇ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "ତ୍ସୁଫ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ଏଲ୍‌କାନା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "ମାହତ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ଅମାସାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:48.701142746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 22:27",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଯଦି ତୁମ ପାଖରେ ଦେବା ପାଇଁ କିଛି ନାହିଁ, ତେବେ କାହିଁକି ⟨ସେ⟩ ତୁମ ଶଯ୍ୟା ତୁମ ତଳୁଁ ନେବ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଖରେ"
+    },
+    {
+      "surface": "לשלם",
+      "gloss": "ଦେବା ପାଇଁ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେବ"
+    },
+    {
+      "surface": "משכבך",
+      "gloss": "ତୁମ ଶଯ୍ୟା"
+    },
+    {
+      "surface": "מתחתיך",
+      "gloss": "ତୁମ ତଳୁଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:09.015236196Z",
+  "model": "glm-5.3"
+}

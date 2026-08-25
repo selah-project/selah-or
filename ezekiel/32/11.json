@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "କାରଣ ଏହିପରି କହୁଛନ୍ତି ଅଦୋନାଇ ଯାହ୍ୱେ — ବାବିଲର ରାଜାର ତରବାରି ତୋ ଉପରକୁ ଆସିବ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏହିପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହୁଛନ୍ତି"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "ତରବାରି"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "ବାବିଲ"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "ତୋ ଉପରକୁ ଆସିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:27:06.526330093Z",
+  "model": "glm-5.3"
+}

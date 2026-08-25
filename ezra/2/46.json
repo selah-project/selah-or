@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "ezra 2:46",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ହାଗାବର ପୁତ୍ରମାନେ, ଶାମଲାଇର ପୁତ୍ରମାନେ, ହାନାନର ପୁତ୍ରମାନେ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חגב",
+      "gloss": "ହାଗାବ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "שמלי",
+      "gloss": "ଶାମଲାଇ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ହାନାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:30:58.900714988Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଆଉ ପ୍ରତ୍ୟେକ ଖୋଲା ପାତ୍ର, ଯାହାର ଉପରେ ସୂତ୍ରରେ ବନ୍ଧା ଢାଙ୍କୁଣୀ ⟨ନାହିଁ⟩ — ତାହା ଅଶୁଚି।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଆଉ ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ପାତ୍ର"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "ଖୋଲା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "ଢାଙ୍କୁଣୀ"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "ସୂତ୍ରରେ ବନ୍ଧା"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:22:42.909161995Z",
+  "model": "glm-5.3"
+}

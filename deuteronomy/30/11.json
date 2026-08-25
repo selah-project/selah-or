@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "କାରଣ ମୁଁ ଆଜି ତୁମ୍ଭକୁ ଯେଉଁ ଆଜ୍ଞା ଦେଉଛି, ତାହା ତୁମ୍ଭ ପାଇଁ ଅତି ଅଦ୍ଭୁତ ନୁହେଁ, ନା ତାହା ଦୂରରେ ଅଛି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "⟨the⟩ ଆଜ୍ଞା"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "ତୁମ୍ଭକୁ ଆଜ୍ଞା ଦେଉଛି"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "ଅତି ଅଦ୍ଭୁତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "ତୁମ୍ଭ ପାଇଁ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ନା"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "ଦୂରରେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T10:01:18.135088773Z",
+  "model": "glm-5.3"
+}

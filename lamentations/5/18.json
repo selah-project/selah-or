@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଶିଓନ୍ ପର୍ବତ ଯୋଗୁଁ — ଯାହା ଜନଶୂନ୍ୟ ହୋଇଗଲା — ତା' ଉପରେ ଶିବାମାନେ ବିଚରଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ଯୋଗୁଁ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ଶିଓନ୍"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "ଜନଶୂନ୍ୟ ହୋଇଗଲା"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "ଶିବାମାନେ"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "ବିଚରଣ କଲେ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତା' ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:39.548859364Z",
+  "model": "glm-5.3"
+}

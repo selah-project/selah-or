@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ୟାଖତର ପୁତ୍ର, ଗେରେଶୋମର ପୁତ୍ର, ଲେୱିର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ୟାଖତ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "ଗେରେଶୋମ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେୱି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:27.376080835Z",
+  "model": "glm-5.3"
+}

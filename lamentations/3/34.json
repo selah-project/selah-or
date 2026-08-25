@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଚାପି ଦେବା ପାଇଁ — ତାହାଙ୍କ ପାଦତଳେ ପୃଥିବୀର ସମସ୍ତ ବନ୍ଦୀମାନଙ୍କୁ।",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "ଚାପି ଦେବା ପାଇଁ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "ତାହାଙ୍କ ପାଦ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "ବନ୍ଦୀମାନେ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ପୃଥିବୀର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:31.482068684Z",
+  "model": "glm-5.3"
+}

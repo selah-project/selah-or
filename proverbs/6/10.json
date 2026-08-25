@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଅଳ୍ପ ନିଦ, ଅଳ୍ପ ଟିପଟାପ ନିଦ, ଅଳ୍ପ ହାତ ମିଠା ଧରି ଶୋଇବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ନିଦ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ଟିପଟାପ ନିଦ"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "ଅଳ୍ପ"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "ମିଠା ଧରିବା"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "ଶୋଇବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:01:40.115945834Z",
+  "model": "glm-5.3"
+}

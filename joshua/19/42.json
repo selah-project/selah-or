@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 19:42",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 19,
+  "translation": "ଶଆଲାବ୍ବିନ୍, ଆୟାଲୋନ୍ ଓ ୟିତଲାହ୍।",
+  "tokens": [
+    {
+      "surface": "ושעלבין",
+      "gloss": "ଶଆଲାବ୍ବିନ୍"
+    },
+    {
+      "surface": "ואילון",
+      "gloss": "ଆୟାଲୋନ୍"
+    },
+    {
+      "surface": "ויתלה",
+      "gloss": "ୟିତଲାହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:20:49.267907923Z",
+  "model": "glm-5.3"
+}

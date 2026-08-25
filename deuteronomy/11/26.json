@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଦେଖ, ମୁଁ ଆଜି ତୁମ୍ଭମାନଙ୍କ ସମ୍ମୁଖରେ ଆଶୀର୍ବାଦ ଓ ଅଭିଶାପ ରଖୁଅଛି।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ରଖୁଅଛି"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ସମ୍ମୁଖରେ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "ଆଶୀର୍ବାଦ"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "ଓ ଅଭିଶାପ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:45:17.674491878Z",
+  "model": "glm-5.3"
+}

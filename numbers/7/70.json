@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଛାଗିମାନଙ୍କ ମଧ୍ୟରୁ ଗୋଟିଏ ବିଳାଇ ଛାଗି ପାପବଳି ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "ବିଳାଇ ଛାଗି"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ଛାଗିମାନଙ୍କ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "ପାପବଳି ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:09:20.119206587Z",
+  "model": "glm-5.3"
+}

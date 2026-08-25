@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ଯାହ୍ୱେର ଦୂତ ଯିହୋଶୁଆଙ୍କୁ ସାକ୍ଷୀ ଦେଇ କହିଲେ —",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "ଆଉ ... ସାକ୍ଷୀ ଦେଇ କହିଲେ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "ଦୂତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେର"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ଯିହୋଶୁଆଙ୍କୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:35:26.198011097Z",
+  "model": "glm-5.3"
+}

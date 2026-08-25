@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏଥିପାଇଁ ଯେହୂ ଇସ୍ରାଏଲରୁ ⟨את⟩ ବାଲ୍‌କୁ ନିର୍ମୂଳ କଲେ।",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "ନିର୍ମୂଳ କଲେ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "ଯେହୂ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବାଲ୍‌କୁ"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "ବାଲ୍"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "ଇସ୍ରାଏଲରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:04:39.241561795Z",
+  "model": "glm-5.3"
+}

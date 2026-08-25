@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "hosea 13:5",
+  "book": "hosea",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ମୁଁ ତୁମକୁ ଜାଣିଲି ଅରଣ୍ୟରେ, ଶୁଷ୍କତାର ଭୂମିରେ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "ידעתיך",
+      "gloss": "ତୁମକୁ ଜାଣିଲି"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ଅରଣ୍ୟରେ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଭୂମିରେ"
+    },
+    {
+      "surface": "תלאבות",
+      "gloss": "ଶୁଷ୍କତାର"
+    }
+  ],
+  "timestamp": "2026-08-25T15:59:55.950837382Z",
+  "model": "glm-5.3"
+}

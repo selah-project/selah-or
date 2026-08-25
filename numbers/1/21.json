@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 1:21",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସେମାନଙ୍କ ଗଣନା ରୂବେନ୍ ଗୋଷ୍ଠୀ ପାଇଁ — ଛତିଶି ହଜାର ଓ ପାଞ୍ଚଶହ।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ସେମାନଙ୍କ ଗଣନା"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀ ପାଇଁ"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "ରୂବେନ୍"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ଓ ଚାଳିଶି"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "ଓ ପାଞ୍ଚ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:02:30.023125705Z",
+  "model": "glm-5.3"
+}

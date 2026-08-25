@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଧାର୍ମିକଙ୍କ ମୁଖ ଜ୍ଞାନ ମୁଳିତ ହୁଏ, ଆଉ ବକ୍ରତାର ଜିଭ କଟାଯିବ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକଙ୍କ"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ମୁଳିତ ହୁଏ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ଆଉ ଜିଭ"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "ବକ୍ରତାର"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "କଟାଯିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:34.878954009Z",
+  "model": "glm-5.3"
+}

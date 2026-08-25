@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 82,
+  "translation": "ଦୁର୍ବଳ ଓ ଅନାଥପାଇଁ ବିଚାର କର; ଦରିଦ୍ର ଓ ହୀନଙ୍କୁ ଧାର୍ମିକ କର।",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "ବିଚାର କର"
+    },
+    {
+      "surface": "דל",
+      "gloss": "ଦୁର୍ବଳ"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "ଓ ଅନାଥପାଇଁ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦରିଦ୍ର"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ଓ ହୀନଙ୍କୁ"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "ଧାର୍ମିକ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:27:29.162360507Z",
+  "model": "glm-5.3"
+}

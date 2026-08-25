@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 18:2",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ସେ ⟨את⟩ ମୋଆବକୁ ପରାଜିତ କଲେ, ଏବଂ ମୋଆବୀୟମାନେ ଦାଉଦଙ୍କ ଦାସ ହେଲେ, କର ଆଦାୟକାରୀ ହୋଇ।",
+  "tokens": [
+    {
+      "surface": "ויך",
+      "gloss": "ପରାଜିତ କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମୋଆବକୁ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବକୁ"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "ହେଲେ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବୀୟମାନେ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ଦାସ"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "ଦାଉଦଙ୍କ"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "ଆଣୁଥିବା"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "କର"
+    }
+  ],
+  "timestamp": "2026-08-25T20:05:37.343139614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 121,
+  "translation": "ଦିନ ବେଳେ ସୂର୍ଯ୍ୟ ତୁମକୁ ମାରିବ ନାହିଁ, ଆଉ ରାତ୍ରି ବେଳେ ଚନ୍ଦ୍ର ମଧ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "ଦିନ ବେଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "ମାରିବ"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "ଆଉ ଚନ୍ଦ୍ର"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତ୍ରି ବେଳେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:48:59.458234037Z",
+  "model": "glm-5.3"
+}

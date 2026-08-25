@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ତୁମ୍ଭେ ଚୋରି କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ତୁମ୍ଭେ ଚୋରି କରିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:12:31.411269437Z",
+  "model": "glm-5.3"
+}

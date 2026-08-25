@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "daniel 11:9",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ସେ ଦକ୍ଷିଣର ରାଜାଙ୍କ ରାଜ୍ୟରେ ପ୍ରବେଶ କରିବ ଏବଂ ନିଜ ଭୂମିକୁ ଫେରିବ।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "ଓ ପ୍ରବେଶ କରିବ"
+    },
+    {
+      "surface": "במלכות",
+      "gloss": "ରାଜ୍ୟରେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାଙ୍କ"
+    },
+    {
+      "surface": "הנגב",
+      "gloss": "ଦକ୍ଷିଣର"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ଓ ଫେରିବ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "אדמתו",
+      "gloss": "ନିଜ ଭୂମି"
+    }
+  ],
+  "timestamp": "2026-08-25T19:28:01.953341289Z",
+  "model": "glm-5.3"
+}

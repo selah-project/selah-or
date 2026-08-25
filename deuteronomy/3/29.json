@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆଉ ଆମ୍ଭେ ବେଥ୍-ପେଓର୍ ସାମୁଥିରେ ଉପତ୍ୟକାରେ ବାସ କଲୁ।",
+  "tokens": [
+    {
+      "surface": "וַנֵּ֣שֶׁב",
+      "gloss": "ଆଉ ଆମ୍ଭେ ବାସ କଲୁ"
+    },
+    {
+      "surface": "בַּגָּ֔יְא",
+      "gloss": "ଉପତ୍ୟକାରେ"
+    },
+    {
+      "surface": "מ֖וּל",
+      "gloss": "ସାମୁଥିରେ"
+    },
+    {
+      "surface": "בֵּ֥ית",
+      "gloss": "ବେଥ୍-"
+    },
+    {
+      "surface": "פְּעֽוֹר",
+      "gloss": "ପେଓର୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:39:17.779690048Z",
+  "model": "glm-5.3"
+}

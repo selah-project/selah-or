@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମଲ୍ଲୁକ୍, ହାରିମ୍, ବାଆନା।",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "ମଲ୍ଲୁକ୍"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ହାରିମ୍"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "ବାଆନା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:46:12.992205945Z",
+  "model": "glm-5.3"
+}

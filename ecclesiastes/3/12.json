@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମୁଁ ଜାଣିଅଛି ଯେ ସେମାନଙ୍କ ପାଇଁ କୌଣସି ମଙ୍ଗଳ ନାହିଁ, କେବଳ ଆନନ୍ଦ କରିବା ଏବଂ ନିଜ ଜୀବନରେ ମଙ୍ଗଳ କରିବା।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "ମୁଁ ଜାଣିଅଛି"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "ସେମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କେବଳ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି ନା"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "ଆନନ୍ଦ କରିବା"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "ଏବଂ କରିବା"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "ନିଜ ଜୀବନରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:08.564307949Z",
+  "model": "glm-5.3"
+}

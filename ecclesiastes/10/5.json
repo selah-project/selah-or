@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏକ ମନ୍ଦ ମୁଁ ଦେଖିଅଛି ସୂର୍ଯ୍ୟତଳେ, ଏପରି ଏକ ଭୁଲ୍ ପରି ଯାହା ⟨ଶାସକର⟩ ସାମ୍ନାରୁ ବାହାରିଥାଏ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "ଅଛି"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ଏକ ମନ୍ଦ"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ମୁଁ ଦେଖିଅଛି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "ଭୁଲ୍ ପରି"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "ଯାହା ବାହାରିଥାଏ"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "ସାମ୍ନାରୁ"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "ଶାସକ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:26.146231129Z",
+  "model": "glm-5.3"
+}

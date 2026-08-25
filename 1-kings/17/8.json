@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଆଉ ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ତାଙ୍କ ପାଖକୁ ଆସିଲା, କହିଲା:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ... ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "ତାଙ୍କ ପାଖକୁ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T11:49:40.268098266Z",
+  "model": "glm-5.3"
+}

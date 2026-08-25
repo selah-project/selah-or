@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଏବଂ ୟାହାତ୍ସା, କେଦେମୋତ୍ ଓ ମେଫାଆତ୍।",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "ଏବଂ ୟାହାତ୍ସା"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "କେଦେମୋତ୍"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "ମେଫାଆତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:16:03.150758197Z",
+  "model": "glm-5.3"
+}

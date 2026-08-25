@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ପରାମର୍ଶରେ ଯୋଜନା ସ୍ଥିର ହୁଏ, ଏବଂ କୌଶଳରେ ଯୁଦ୍ଧ କର।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "ଯୋଜନା"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "ପରାମର୍ଶରେ"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "ସ୍ଥିର ହୁଏ"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "ଏବଂ କୌଶଳରେ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କର"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:59.735443712Z",
+  "model": "glm-5.3"
+}

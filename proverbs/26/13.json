@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 26:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଆଳସୀ କହେ — ପଥରେ ⟨ଏକ⟩ ସିଂହ ⟨ଅଛି⟩; ଚଉଡ଼ା ପଥଗୁଡ଼ିକ ମଧ୍ୟରେ ⟨ଏକ⟩ ସିଂହ ⟨ଅଛି⟩।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "କହେ"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "ଆଳସୀ"
+    },
+    {
+      "surface": "שחל",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "ארי",
+      "gloss": "ସିଂହ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "הרחבות",
+      "gloss": "ଚଉଡ଼ା ପଥଗୁଡ଼ିକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.050851241Z",
+  "model": "glm-5.3"
+}

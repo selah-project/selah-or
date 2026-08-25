@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଏକ ହାତତାଳି ଶାନ୍ତି ଉତ୍ତମ, ଦୁଇ ମୁଠା ପରିଶ୍ରମ ଓ ବାୟୁ-ଯନ୍ତ୍ରଣାଠାରୁ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "ପୂର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ହାତତାଳି"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ଶାନ୍ତି"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "ପୂର୍ଣ୍ଣ-ଠାରୁ"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "ମୁଠା"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "ପରିଶ୍ରମ"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ଓ ଯନ୍ତ୍ରଣା"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ବାୟୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:53.517915855Z",
+  "model": "glm-5.3"
+}

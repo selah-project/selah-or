@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 8:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ପୃଥିବୀର ସମସ୍ତ ଦିନ ପର୍ଯ୍ୟନ୍ତ ବୁଣା ଓ କଟା, ଥଣ୍ଡା ଓ ଗରମ, ଗ୍ରୀଷ୍ମ ଓ ଶୀତ, ଦିନ ଓ ରାତ୍ରି ବନ୍ଦ ହେବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "עוד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀର"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "ବୁଣା"
+    },
+    {
+      "surface": "ବକଟସିର",
+      "gloss": ""
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "ଓ କଟା"
+    },
+    {
+      "surface": "וקר",
+      "gloss": "ଓ ଥଣ୍ଡା"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "ଓ ଗରମ"
+    },
+    {
+      "surface": "וקיץ",
+      "gloss": "ଓ ଗ୍ରୀଷ୍ମ"
+    },
+    {
+      "surface": "וחרף",
+      "gloss": "ଓ ଶୀତ"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "ଓ ଦିନ"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "ଓ ରାତ୍ରି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ישבתו",
+      "gloss": "ବନ୍ଦ ହେବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:14.350956501Z",
+  "model": "glm-5.3"
+}

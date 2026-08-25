@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 4:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ନ୍ୟାୟର ଯଜ୍ଞଗୁଡ଼ିକ ଯଜ୍ଞ କର, ଓ ଯାହ୍ୱେଙ୍କ ଉପରେ ଭରସା କର।",
+  "tokens": [
+    {
+      "surface": "זבחו",
+      "gloss": "ଯଜ୍ଞ କର"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ଯଜ୍ଞଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ନ୍ୟାୟର"
+    },
+    {
+      "surface": "ובטחו",
+      "gloss": "ଓ ଭରସା କର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଉପରେ ପ୍ରତି"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:44:03.009270663Z",
+  "model": "glm-5.3"
+}

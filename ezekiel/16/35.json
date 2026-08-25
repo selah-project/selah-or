@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ତେଣୁ, ହେ ବ୍ୟଭିଚାରିଣୀ, ଯାହ୍ୱେର ବାକ୍ୟ ଶୁଣ।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "ତେଣୁ"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "ହେ ବ୍ୟଭିଚାରିଣୀ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:06:15.969912918Z",
+  "model": "glm-5.3"
+}

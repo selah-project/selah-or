@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 57:14",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 57,
+  "translation": "ଏବଂ କୁହାଇବ — ଉଠାଅ, ଉଠାଅ, ପଥ ପ୍ରସ୍ତୁତ କର, ମୋର ପ୍ରଜାର ପଥରୁ ବାଧକ ହଟାଅ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "ଏବଂ କୁହାଇବ"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ଉଠାଅ"
+    },
+    {
+      "surface": "סלו",
+      "gloss": "ଉଠାଅ"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "ପ୍ରସ୍ତୁତ କର"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "הרימו",
+      "gloss": "ଉଠାଇ ଦିଅ"
+    },
+    {
+      "surface": "מכשול",
+      "gloss": "ବାଧକ"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "ପଥରୁ"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "ମୋର ପ୍ରଜା"
+    }
+  ],
+  "timestamp": "2026-08-25T13:19:44.535974022Z",
+  "model": "glm-5.3"
+}

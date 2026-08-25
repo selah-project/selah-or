@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 92,
+  "translation": "ଜଣାର୍ଦ୍ଧ, ଗୀତ, ଶାବତ-ଦିନ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "ଜଣାର୍ଦ୍ଧ"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "ଗୀତ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "ଦିନ ପାଇଁ"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "ଶାବତର"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:16.157209451Z",
+  "model": "glm-5.3"
+}

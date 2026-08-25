@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 29:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "କ୍ରୋଧିତ ମଣିଷ ବିବାଦ ଉସାଏ, ଓ ପ୍ରଚଣ୍ଡ କ୍ରୋଧର ଧାରକ ପାପରେ ପ୍ରଚୁର।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "କ୍ରୋଧିତ (ନାସା-କ୍ରୋଧ)"
+    },
+    {
+      "surface": "יגרה",
+      "gloss": "ଉସାଏ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "ବିବାଦ"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "ଓ ଧାରକ"
+    },
+    {
+      "surface": "חמה",
+      "gloss": "ପ୍ରଚଣ୍ଡ କ୍ରୋଧ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ପ୍ରଚୁର"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ପାପ\/ଅବମାନା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:18:23.429016485Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 96:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 96,
+  "translation": "କାରଣ ଯାହ୍ୱେ ମହାନ୍ ଓ ଅତି ପ୍ରଶଂସିତ; ସମସ୍ତ ଦେବତାମାନଙ୍କ ଉପରେ ଭୟଜନକ ⟨ସେ⟩ ଅଟନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ମହାନ୍"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ומהלל",
+      "gloss": "ଓ ପ୍ରଶଂସିତ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "ଭୟଜନକ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨ସେ⟩"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଦେବତାମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:34:49.126881443Z",
+  "model": "glm-5.3"
+}

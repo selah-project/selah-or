@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ତାହାର ନାମ ⟨את⟩ ୟୋସେଫ୍ ରଖି କହିଲେ — ୟାହ୍ୱେ ମୋତେ ଆଉ ଗୋଟିଏ ପୁତ୍ର ଯୋଗ କରନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "ନାମ ରଖିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାର ନାମ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "ତାହାର ନାମ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହି"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "ଯୋଗ କରନ୍ତୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହ୍ୱେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "ଆଉ ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:54.246501906Z",
+  "model": "glm-5.3"
+}

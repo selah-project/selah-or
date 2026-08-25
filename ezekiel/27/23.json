@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 27:23",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ହାରାନ୍, କାନେହା ଓ ଏଦେନ୍, ଶେବାର ବେପାରୀ — ଆଶୁର୍ ଓ କିଲ୍‌ମାଦ୍, ତୋର ବେପାରୀ।",
+  "tokens": [
+    {
+      "surface": "חרן",
+      "gloss": "ହାରାନ୍"
+    },
+    {
+      "surface": "וכנה",
+      "gloss": "ଓ କାନେହା"
+    },
+    {
+      "surface": "ועדן",
+      "gloss": "ଓ ଏଦେନ୍"
+    },
+    {
+      "surface": "רכלי",
+      "gloss": "ବେପାରୀ"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ଶେବା"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "ଆଶୁର୍"
+    },
+    {
+      "surface": "כלמד",
+      "gloss": "କିଲ୍‌ମାଦ୍"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "ତୋର ବେପାରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:21:35.774384158Z",
+  "model": "glm-5.3"
+}

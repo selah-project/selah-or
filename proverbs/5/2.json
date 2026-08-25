@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 5:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଯେପରି ତୁମେ ବିବେକ ରକ୍ଷା କର, ଆଉ ଜ୍ଞାନ ତୁମର ଓଷ୍ଠ ରକ୍ଷା କରନ୍ତୁ।",
+  "tokens": [
+    {
+      "surface": "לשמר",
+      "gloss": "ଯେପରି ତୁମେ ରକ୍ଷା କର"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "ବିବେକ"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "ଆଉ ଜ୍ଞାନ"
+    },
+    {
+      "surface": "שפתיך",
+      "gloss": "ତୁମର ଓଷ୍ଠ"
+    },
+    {
+      "surface": "ינצרו",
+      "gloss": "ରକ୍ଷା କରନ୍ତୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:44.838456905Z",
+  "model": "glm-5.3"
+}

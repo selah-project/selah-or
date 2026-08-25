@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତେବେ ତାହାର ⟨את⟩ ହାତ କାଟି ଦେବ — ତାହାର ଆଖି ଦୟା କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "ଓ କାଟି ଦେବ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାର ହାତ"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "ତାହାର ହାତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ଦୟା କରିବ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ତାହାର ଆଖି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:54.755814049Z",
+  "model": "glm-5.3"
+}

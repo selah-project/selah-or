@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଆମ୍ଭେ ଅନ୍ୟାୟ କଲୁ ଓ ବିଦ୍ରୋହ କଲୁ; ତୁମ୍ଭେ କ୍ଷମା କଲ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "ଆମ୍ଭେ"
+    },
+    {
+      "surface": "ପଶାନୁ",
+      "gloss": ""
+    },
+    {
+      "surface": "ପଶଆନୁ",
+      "gloss": "ଅନ୍ୟାୟ କଲୁ"
+    },
+    {
+      "surface": "ଉମରିନୁ",
+      "gloss": "ଓ ବିଦ୍ରୋହ କଲୁ"
+    },
+    {
+      "surface": "ଅତା",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "ଲା",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "ସଲାଚତା",
+      "gloss": "କ୍ଷମା କଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:31.550385965Z",
+  "model": "glm-5.3"
+}

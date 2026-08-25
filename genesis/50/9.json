@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 50,
+  "translation": "ଓ ତାହାଙ୍କ ସହିତ ଉଠିଲା ମଧ୍ୟ ରଥ ମଧ୍ୟ ଅଶ୍ୱାରୋହୀ, ଓ ଶିବିରଟି ଅତି ଭାରୀ ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "ଓ ଉଠିଲା"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତାହାଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "ରଥ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ଅଶ୍ୱାରୋହୀ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ଶିବିରଟି"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରୀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:58:02.079356701Z",
+  "model": "glm-5.3"
+}

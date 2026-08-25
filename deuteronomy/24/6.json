@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 24:6",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଘଣ୍ଟା ପଥର ଓ ଉପର ପଥରକୁ କେହି ବନ୍ଧକ ରୂପେ ନେବ ନାହିଁ, କାରଣ ଏହା ପ୍ରାଣକୁ ବନ୍ଧକ ରୂପେ ନେବା ଅଟେ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחבל",
+      "gloss": "ବନ୍ଧକ ରୂପେ ନେବ"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "ଘଣ୍ଟା ପଥର"
+    },
+    {
+      "surface": "ורכב",
+      "gloss": "ଏବଂ ଉପର ପଥର"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ପ୍ରାଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "ବନ୍ଧକ ରୂପେ ନେଉଛି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:51.569752881Z",
+  "model": "glm-5.3"
+}

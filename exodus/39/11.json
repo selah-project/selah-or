@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଆଉ ଦ୍ୱିତୀୟ ପଙ୍କ୍ତି — ନୋଫେଖ୍, ସାପିର୍ ଓ ୟାହାଲୋମ୍।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "ଆଉ ପଙ୍କ୍ତି"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "ନୋଫେଖ୍"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ସାପିର୍"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "ଓ ୟାହାଲୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T08:30:03.200009590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "leviticus 14:56",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଫୁଲା, କାତି ଓ ଉଜ୍ଜ୍ୱଳ ଦାଗ ନିମନ୍ତେ।",
+  "tokens": [
+    {
+      "surface": "ולשאת",
+      "gloss": "ଓ ଫୁଲା ନିମନ୍ତେ"
+    },
+    {
+      "surface": "ולספחת",
+      "gloss": "କାତି ନିମନ୍ତେ"
+    },
+    {
+      "surface": "ולבהרת",
+      "gloss": "ଉଜ୍ଜ୍ୱଳ ଦାଗ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:45:46.028751124Z",
+  "model": "glm-5.3"
+}

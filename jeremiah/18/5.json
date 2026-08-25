@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଆସିଲା ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ମୋ ନିକଟକୁ, କହିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ନିକଟକୁ"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "କହିବା ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:54:40.797309452Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 77:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 77,
+  "translation": "ମୁଁ ପୁରାତନ ଦିନମାନଙ୍କୁ ଚିନ୍ତା କଲି, ଅନାଦି ବର୍ଷମାନଙ୍କୁ।",
+  "tokens": [
+    {
+      "surface": "חשבתי",
+      "gloss": "ଚିନ୍ତା କଲି"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନମାନଙ୍କୁ"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "ପୁରାତନ"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ବର୍ଷମାନଙ୍କୁ"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "ଅନାଦି"
+    }
+  ],
+  "timestamp": "2026-08-25T17:22:03.367083465Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଆଉ ଅବିମେଲେଖ୍ ଅବ୍ରାହାମ୍‌ଙ୍କୁ କହିଲେ, ତୁମେ କ‘ଣ ଦେଖିଥିଲ, ଯେ ଏହି କଥା ⟨את⟩ ତୁମେ କଲ ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ଅବିମେଲେଖ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ‘ଣ"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "ଦେଖିଥିଲ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "କଲ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି କଥା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ଏହି କଥା"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:31:32.076430477Z",
+  "model": "glm-5.3"
+}

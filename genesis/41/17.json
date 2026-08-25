@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଆଉ ଫାରୋହ ୟୋସେଫଙ୍କୁ କହିଲା — ମୋର ସ୍ୱପ୍ନରେ, ଦେଖ, ମୁଁ ୟେଓର ନଦୀର କୂଳ ଉପରେ ଠିଆ ହୋଇଥିଲି।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଆଉ … କହିଲା"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "ଫାରୋହ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "ମୋର ସ୍ୱପ୍ନରେ"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "ଠିଆ ହୋଇଥିଲି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "କୂଳ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "ୟେଓର ନଦୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:48:33.021419210Z",
+  "model": "glm-5.3"
+}

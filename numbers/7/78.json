@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଦ୍ୱାଦଶ ଦିନରେ — ନାଫତାଲିର ପୁତ୍ରମାନଙ୍କ ନେତା ଏନାନଙ୍କ ପୁତ୍ର ଅହୀରା।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…ଦିନରେ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ନେତା"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…ଙ୍କ ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "ନାଫତାଲି"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "ଅହୀରା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "ଏନାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:10:05.946693385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 24:11",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ବାହାରେ ଠିଆ ହୁଅ, ଆଉ ସେହି ଲୋକ, ଯାହାର ଠାରେ ତୁ ଋଣୀ, ବାହାରକୁ ⟨את⟩ ବନ୍ଧକ ବାହାର କରି ତୋ ପାଖକୁ ଆଣିବ।",
+  "tokens": [
+    {
+      "surface": "בחוץ",
+      "gloss": "ବାହାରେ"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "ଠିଆ ହୁଅ"
+    },
+    {
+      "surface": "והאיש",
+      "gloss": "ଆଉ ସେହି ଲୋକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାର"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁ"
+    },
+    {
+      "surface": "נשה",
+      "gloss": "ଋଣୀ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହାର ଠାରେ"
+    },
+    {
+      "surface": "יוציא",
+      "gloss": "ବାହାର କରି ଆଣିବ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୋ ପାଖକୁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ବନ୍ଧକ"
+    },
+    {
+      "surface": "העבוט",
+      "gloss": "ବନ୍ଧକ"
+    },
+    {
+      "surface": "החוצה",
+      "gloss": "ବାହାରକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:21.238009028Z",
+  "model": "glm-5.3"
+}

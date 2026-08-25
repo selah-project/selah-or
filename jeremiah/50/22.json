@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 50,
+  "translation": "ଯୁଦ୍ଧର ଶବ୍ଦ ⟨the⟩ ଦେଶରେ, ଏବଂ ବଡ଼ ଭଙ୍ଗ।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ଶବ୍ଦ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧର"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "ଏବଂ ଭଙ୍ଗ"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ବଡ଼"
+    }
+  ],
+  "timestamp": "2026-08-25T14:39:49.805158080Z",
+  "model": "glm-5.3"
+}

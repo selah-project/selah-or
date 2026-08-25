@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ନୂନ୍ ତାହାଙ୍କ ପୁତ୍ର, ଯିହୋଶୁଆ ତାହାଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "ନୂନ୍"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ଯିହୋଶୁଆ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ତାହାଙ୍କ ପୁତ୍ର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:33.293293375Z",
+  "model": "glm-5.3"
+}

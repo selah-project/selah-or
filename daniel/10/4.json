@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "daniel 10:4",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ପ୍ରଥମ ମାସର ଚବିଶ ତାରିଖ ଦିନ ମୁଁ ⟨ସେହି⟩ ମହାନ ନଦୀ — ଅର୍ଥାତ୍ ହିଦ୍ଦେକେଲ — କୂଳରେ ଥିଲି।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଆଉ ଦିନ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ବିଶ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "ଓ ଚାରି"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସର"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ପ୍ରଥମ"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ଆଉ ମୁଁ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ଥିଲି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "କୂଳ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ନଦୀ"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଅର୍ଥାତ୍"
+    },
+    {
+      "surface": "חדקל",
+      "gloss": "ହିଦ୍ଦେକେଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:24:05.157257014Z",
+  "model": "glm-5.3"
+}

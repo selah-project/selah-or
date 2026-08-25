@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "କଣ୍ଟକ ମଦ୍ପାନ‌କାରୀର ହାତରେ ଉଠେ, ଆଉ ମଶାଲ ମୂର୍ଖମାନଙ୍କ ପାଟିରେ।",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "କଣ୍ଟକ"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "ଉଠେ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ହାତରେ"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "ମଦ୍ପାନ‌କାରୀର"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "ଆଉ ମଶାଲ"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "ପାଟିରେ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:22.783599381Z",
+  "model": "glm-5.3"
+}

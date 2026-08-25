@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଭୟ ଯେ ପାନ କରି ବିଧାନ ଭୁଲିବ, ଓ ଦୁଃଖର ପୁତ୍ରମାନଙ୍କ ସମସ୍ତ ନ୍ୟାୟ ବଦଳାଇବ।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "ଭୟ ଯେ"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "ପାନ କରିବ"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "ଓ ଭୁଲିବ"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "ବିଧାନ"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "ଓ ବଦଳାଇବ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "ନ୍ୟାୟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ଦୁଃଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:53.135559971Z",
+  "model": "glm-5.3"
+}

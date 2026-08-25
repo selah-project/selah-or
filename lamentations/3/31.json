@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କାରଣ ଅଦୋନାଇ ଚିରକାଳ ପରିତ୍ୟାଗ କରନ୍ତି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "ପରିତ୍ୟାଗ କରନ୍ତି"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ଚିରକାଳ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:54.703034200Z",
+  "model": "glm-5.3"
+}

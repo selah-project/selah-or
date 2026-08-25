@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "lamentations 3:59",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତୁମେ ଦେଖିଅଛ ଯାହ୍ୱେ, ମୋର ଉତ୍ପୀଡ଼ନ; ବିଚାର କର ମୋର ମାମଲା।",
+  "tokens": [
+    {
+      "surface": "ראיתה",
+      "gloss": "ତୁମେ ଦେଖିଅଛ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "עותתי",
+      "gloss": "ମୋର ଉତ୍ପୀଡ଼ନ"
+    },
+    {
+      "surface": "שפטה",
+      "gloss": "ବିଚାର କର"
+    },
+    {
+      "surface": "משפטי",
+      "gloss": "ମୋର ମାମଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:34.733497830Z",
+  "model": "glm-5.3"
+}

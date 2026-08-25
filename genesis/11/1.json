@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ଆକାଶମଣ୍ଡଳ-ପୃଥିବୀ ସମସ୍ତ ପୃଥିବୀ ହେଲା ଗୋଟିଏ ଓଷ୍ଠ, ଓ ବାକ୍ୟଗୁଡ଼ିକ ଏକ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ହେଲା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ଓଷ୍ଠ\/ଭାଷା"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "ଓ ବାକ୍ୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "ଏକ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:24:20.110969146Z",
+  "model": "glm-5.3"
+}

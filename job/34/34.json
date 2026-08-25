@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "job 34:34",
+  "book": "job",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ହୃଦୟବାନ ଲୋକେ ମୋତେ କହିବେ, ଆଉ ଜ୍ଞାନୀ ପୁରୁଷ ମୋତେ ଶୁଣିବ —",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ଲୋକେ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ହୃଦୟବାନ"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "କହିବେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "וגבר",
+      "gloss": "ଆଉ ପୁରୁଷ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଶୁଣିବ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:42:03.390974254Z",
+  "model": "glm-5.3"
+}

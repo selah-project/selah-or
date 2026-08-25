@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 15:13",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆନନ୍ଦିତ ହୃଦୟ ମୁହଁକୁ ଶୋଭନ କରେ, କିନ୍ତୁ ହୃଦୟର ଦୁଃଖରେ ରୁଆଖ୍ ପିଡ଼ିତ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "שמח",
+      "gloss": "ଆନନ୍ଦିତ"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "ଶୋଭନ କରେ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ମୁହଁ"
+    },
+    {
+      "surface": "ובעצבת",
+      "gloss": "କିନ୍ତୁ ଦୁଃଖରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟର"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖ୍"
+    },
+    {
+      "surface": "נכאה",
+      "gloss": "ପିଡ଼ିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:56.822204501Z",
+  "model": "glm-5.3"
+}

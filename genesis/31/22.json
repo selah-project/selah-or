@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଆଉ ତୃତୀୟ ଦିନରେ ଲାବାନଙ୍କୁ କୁହାଗଲା ଯେ ୟାକୋଭ୍ ପଳାଇଯାଇଛି।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "କୁହାଗଲା"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "ଲାବାନଙ୍କୁ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ଦିନରେ"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ତୃତୀୟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "ପଳାଇଯାଇଛି"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:41:27.948475474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "joshua 15:52",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଆରାବ୍, ଓ ରୁମା, ଓ ଏଶ୍ଆନ୍।",
+  "tokens": [
+    {
+      "surface": "ארב",
+      "gloss": "ଆରାବ୍"
+    },
+    {
+      "surface": "ורומה",
+      "gloss": "ଓ ରୁମା"
+    },
+    {
+      "surface": "ואשען",
+      "gloss": "ଓ ଏଶ୍ଆନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:59.250568536Z",
+  "model": "glm-5.3"
+}

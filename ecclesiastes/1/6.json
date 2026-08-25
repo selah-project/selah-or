@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଦକ୍ଷିଣ ଆଡ଼କୁ ଯାଉଥାଏ, ଓ ଉତ୍ତର ଆଡ଼କୁ ଘୂରିବୁଲେ; ଚକ୍ରକଲେ ଚକ୍ରକଲେ ବାୟୁ ଚାଲେ, ଓ ଆପଣା ଚକ୍ରପଥରେ ବାୟୁ ଫେରିଆସେ।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "ଯାଉଥାଏ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ଦକ୍ଷିଣ"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "ଓ ଘୂରିବୁଲେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ଉତ୍ତର"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "ଚକ୍ରକଲେ"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "ଚକ୍ରକଲେ"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ଚାଲେ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ବାୟୁ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "ଓ ଉପରେ"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "ଚକ୍ରପଥ"
+    },
+    {
+      "surface": "שב",
+      "gloss": "ଫେରିଆସେ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ବାୟୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:00:38.410556461Z",
+  "model": "glm-5.3"
+}

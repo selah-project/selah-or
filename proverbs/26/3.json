@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 26:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 26,
+  "translation": "ଘୋଡ଼ା ପାଇଁ ଚାବୁକ, ଗଧ ପାଇଁ ଲଗାମ, ଆଉ ମୂର୍ଖମାନଙ୍କ ପିଠି ପାଇଁ ଛଡ଼ି।",
+  "tokens": [
+    {
+      "surface": "שוט",
+      "gloss": "ଚାବୁକ"
+    },
+    {
+      "surface": "לסוס",
+      "gloss": "ଘୋଡ଼ା ପାଇଁ"
+    },
+    {
+      "surface": "מתג",
+      "gloss": "ଲଗାମ"
+    },
+    {
+      "surface": "לחמור",
+      "gloss": "ଗଧ ପାଇଁ"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "ଆଉ ଛଡ଼ି"
+    },
+    {
+      "surface": "לגו",
+      "gloss": "ପିଠି ପାଇଁ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ମୂର୍ଖମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:37.844862303Z",
+  "model": "glm-5.3"
+}

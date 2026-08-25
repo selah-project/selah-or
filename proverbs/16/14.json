@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 16:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ରାଜାର କ୍ରୋଧ — ମୃତ୍ୟୁର ଦୂତମାନେ, ଆଉ ଜ୍ଞାନୀ ଲୋକ ତାହାକୁ ପ୍ରଶମିତ କରେ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜାର"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "ଦୂତମାନେ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁର"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "ଆଉ ଲୋକ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "יכפרנה",
+      "gloss": "ତାହାକୁ ପ୍ରଶମିତ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:07:47.294856777Z",
+  "model": "glm-5.3"
+}

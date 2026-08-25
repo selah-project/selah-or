@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଅଜ୍‌ମାଭେତ୍ ବାହରୂମୀ, ଏଲିଆହବା ଶଆଲବୋନୀ।",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "ଅଜ୍‌ମାଭେତ୍"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "ବାହରୂମୀ"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "ଏଲିଆହବା"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "ଶଆଲବୋନୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:57:29.805183835Z",
+  "model": "glm-5.3"
+}

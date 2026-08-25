@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଏକ କଳଙ୍କିତ ଝରଣା ଓ ଏକ ନଷ୍ଟ ଉତ୍ସ — ଦୁଷ୍ଟର ସାମ୍ନାରେ ଢଳିପଡ଼ିଥିବା ଧାର୍ମିକ।",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "ଝରଣା"
+    },
+    {
+      "surface": "ନିର୍ପଶ୍",
+      "gloss": "କଳଙ୍କିତ"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "ଓ ଉତ୍ସ"
+    },
+    {
+      "surface": "משחת",
+      "gloss": "ନଷ୍ଟ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ଧାର୍ମିକ"
+    },
+    {
+      "surface": "מט",
+      "gloss": "ଢଳିପଡ଼ିଥିବା"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:50.068593849Z",
+  "model": "glm-5.3"
+}

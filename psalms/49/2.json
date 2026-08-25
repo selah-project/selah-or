@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 49:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 49,
+  "translation": "ଶୁଣ, ଏହା, ହେ ସମସ୍ତ ⟨the⟩ ଜାତିମାନେ; କାନ ଦିଅ, ହେ ସମସ୍ତ ⟨the⟩ କ୍ଷଣସ୍ଥାୟୀ ଜଗତର ବାସିନ୍ଦାମାନେ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ଶୁଣ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ଜାତିମାନେ"
+    },
+    {
+      "surface": "האזינו",
+      "gloss": "କାନ ଦିଅ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ବାସିନ୍ଦାମାନେ"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "କ୍ଷଣସ୍ଥାୟୀ ଜଗତ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:09:00.607908254Z",
+  "model": "glm-5.3"
+}

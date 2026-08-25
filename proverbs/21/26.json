@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 21:26",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ସାରା ଦିନ ସେ ଲାଳସା କରେ ଲାଳସା, କିନ୍ତୁ ଧାର୍ମିକ ଦିଏ ଓ କିଛି ନିରୋଧ କରେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ସାରା"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "התאוה",
+      "gloss": "ଲାଳସା କରେ"
+    },
+    {
+      "surface": "תאוה",
+      "gloss": "ଲାଳସା"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "କିନ୍ତୁ ଧାର୍ମିକ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦିଏ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "ନିରୋଧ କରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:12:16.676243924Z",
+  "model": "glm-5.3"
+}

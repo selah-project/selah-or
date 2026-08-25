@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 8:14",
+  "book": "song-of-songs",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ପଳାଅ, ମୋର ପ୍ରିୟ, ଓ ତୁ ହରିଣ କିମ୍ବା ହରିଣମାନଙ୍କ ଛାନା ପରି ହୁଅ — ସୁଗନ୍ଧି ପର୍ବତମାଳା ଉପରେ ।",
+  "tokens": [
+    {
+      "surface": "ברח",
+      "gloss": "ପଳାଅ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ମୋର ପ୍ରିୟ"
+    },
+    {
+      "surface": "ודמה",
+      "gloss": "ଓ ସଦୃଶ ହୁଅ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁ"
+    },
+    {
+      "surface": "לצבי",
+      "gloss": "ହରିଣ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "לעפר",
+      "gloss": "ଛାନା ପରି"
+    },
+    {
+      "surface": "האילים",
+      "gloss": "ହରିଣମାନଙ୍କ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ପର୍ବତମାଳା"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ସୁଗନ୍ଧି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:50:26.290453473Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ପେଲେଗ୍ ତ୍ରିଶି ବର୍ଷ ବଞ୍ଚିଲେ, ଓ ⟨את⟩ ରେଉଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ବଞ୍ଚିଲେ"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "ପେଲେଗ୍"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "ତ୍ରିଶି"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ରେଉଙ୍କୁ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "ରେଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:23:30.176949739Z",
+  "model": "glm-5.3"
+}

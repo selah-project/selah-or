@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 18:12",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ତୁମର ପିତାଙ୍କ ଭଉଣୀର ନଗ୍ନତା ତୁମେ ଉନ୍ମୋଚନ କରିବ ନାହିଁ; ସେ ⟨ଅଟେ⟩ ତୁମର ପିତାଙ୍କ ମାଂସ।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "ନଗ୍ନତା"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "ଭଉଣୀ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ତୁମର ପିତାଙ୍କ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "ତୁମେ ଉନ୍ମୋଚନ କରିବ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "ମାଂସ"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "ତୁମର ପିତାଙ୍କ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:51.354128117Z",
+  "model": "glm-5.3"
+}

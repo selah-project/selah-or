@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "lamentations 3:19",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ମନେ ପକାଅ ମୋର ଦାରୁଣତା ଓ ମୋର ଭ୍ରମଣ, କୁଆଜହାଳ ଓ ବିଷ।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "ମନେ ପକାଅ"
+    },
+    {
+      "surface": "עניי",
+      "gloss": "ମୋର ଦାରୁଣତା"
+    },
+    {
+      "surface": "ומרודי",
+      "gloss": "ଓ ମୋର ଭ୍ରମଣ"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "କୁଆଜହାଳ"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "ଓ ବିଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:53:53.960375316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଆଉ ମିତ୍ସରାୟିମ ଉପରେ ଜଣେ ନୂଆ ରାଜା ଉଠିଲେ, ଯିଏ ୟୋସେଫଙ୍କୁ ⟨את⟩ ଜାଣୁ ନ ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ଆଉ ଉଠିଲେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ନୂଆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିତ୍ସରାୟିମ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯିଏ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "ଜାଣୁ ଥିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ୟୋସେଫଙ୍କୁ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:57:09.123064512Z",
+  "model": "glm-5.3"
+}

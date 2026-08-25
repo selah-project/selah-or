@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 1:7",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ସେହି ରାତିରେ ଏଲୋହିମ୍ ଶେଲୋମୋଙ୍କ ନିକଟରେ ପ୍ରକାଶ ହେଲେ, ଆଉ ତାଙ୍କୁ କହିଲେ: ମାଗ — ମୁଁ ତୁମକୁ କଣ ଦେବି?",
+  "tokens": [
+    {
+      "surface": "בלילה",
+      "gloss": "ରାତିରେ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "נראה",
+      "gloss": "ପ୍ରକାଶ ହେଲେ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ଶେଲୋମୋଙ୍କ ନିକଟରେ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ତାଙ୍କୁ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ମାଗ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "ଦେବି"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:13:32.032530003Z",
+  "model": "glm-5.3"
+}

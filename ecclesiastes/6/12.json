@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 6:12",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ କଏ ଜାଣେ ଜୀବନରେ ମଣିଷ ପାଇଁ କଣ ଉତ୍ତମ — ତାହାର ହେବେଲ୍ ଜୀବନର ଦିନମାନଙ୍କ ସଂଖ୍ୟା, ଯାହା ସେ ଛାୟା ପରି ଅତିକ୍ରମ କରେ? କଏ ମଣିଷକୁ କହିବ ସୂର୍ଯ୍ୟ ତଳେ ତା' ପରେ କଣ ହେବ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କଏ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜାଣେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମଣିଷ ପାଇଁ"
+    },
+    {
+      "surface": "בחיים",
+      "gloss": "ଜୀବନରେ"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "ସଂଖ୍ୟା"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "ଦିନମାନଙ୍କ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "הבלו",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "ויעשם",
+      "gloss": "ଅତିକ୍ରମ କରେ"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "ଛାୟା ପରି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କଏ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "କହିବ"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "ମଣିଷକୁ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ହେବ"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "ତା' ପରେ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:04:28.738688411Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 6:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ମିଖାଏଲର ପୁତ୍ର, ବାଅସେୟାହର ପୁତ୍ର, ମଲଖିୟାହର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "ମିଖାଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "בעשיה",
+      "gloss": "ବାଅସେୟାହ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "ମଲଖିୟାହ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:27.375502209Z",
+  "model": "glm-5.3"
+}

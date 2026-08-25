@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 21:29",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଅବିମେଲେଖ୍ ଅବ୍ରାହାମ୍‌ଙ୍କୁ କହିଲେ — ଏହି ସାତ ମେଣ୍ଢା ଛୁଆ କ'ଣ, ଯାହା ତୁମ୍ଭେ ଅଲଗା ରଖିଅଛ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "ଅବିମେଲେଖ୍"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "ଅବ୍ରାହାମ୍"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "ମେଣ୍ଢା ଛୁଆ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "הצבת",
+      "gloss": "ଅଲଗା ରଖିଅଛ"
+    },
+    {
+      "surface": "לבדנה",
+      "gloss": "ଅଲଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:29:55.503996232Z",
+  "model": "glm-5.3"
+}

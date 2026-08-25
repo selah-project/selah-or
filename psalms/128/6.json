@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 128:6",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 128,
+  "translation": "ଆଉ ଦେଖ ତୁମ ପୁଅମାନଙ୍କର ପୁଅମାନଙ୍କୁ — ଇସ୍ରାଏଲ୍ ଉପରେ ଶାନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁଅମାନଙ୍କ"
+    },
+    {
+      "surface": "לבניך",
+      "gloss": "ତୁମ ପୁଅମାନଙ୍କର"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:49:09.929106644Z",
+  "model": "glm-5.3"
+}

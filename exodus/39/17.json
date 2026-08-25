@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 39:17",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଆଉ ସେମାନେ ଦୁଇ ସୁନା ପାଚେରୀ ଶୃଙ୍ଖଳା ଦୁଇ ମୁଦିରା ଉପରେ — ହୋଶେନର କିନାରା ଉପରେ — ରଖିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויתנו",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "העבתת",
+      "gloss": "ପାଚେରୀ ଶୃଙ୍ଖଳା"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "ଦୁଇ"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ମୁଦିରା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "କିନାରା"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "ହୋଶେନ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:34:23.320849866Z",
+  "model": "glm-5.3"
+}

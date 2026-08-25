@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଉତ୍ତମ ଯାହା ତୁମ୍ହେ ପ୍ରତିଜ୍ଞା କର ନାହିଁ, ପ୍ରତିଜ୍ଞା କରି ପୂର୍ଣ୍ଣ ନ କରିବା ଅପେକ୍ଷା।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "ପ୍ରତିଜ୍ଞା କର"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "ପ୍ରତିଜ୍ଞା କରି"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନାହିଁ"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ପୂର୍ଣ୍ଣ କର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:45.160582238Z",
+  "model": "glm-5.3"
+}

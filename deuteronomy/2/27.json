@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 2:27",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ତୁହା ଦେଶ ଦେଇ ମୁଁ ଯାଇପାରିବି; ବାଟରେ, ବାଟରେ ଚାଲିବି; ଡାହାଣକୁ କି ବାଆମକୁ ମୁଁ ଫିରିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "אעברה",
+      "gloss": "ଯାଇପାରିବି"
+    },
+    {
+      "surface": "בארצך",
+      "gloss": "ତୁହା ଦେଶ ଦେଇ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "אלך",
+      "gloss": "ଚାଲିବି"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אסור",
+      "gloss": "ଫିରିବି"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ଡାହାଣକୁ"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "ଓ ବାଆମକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:57:48.839036207Z",
+  "model": "glm-5.3"
+}

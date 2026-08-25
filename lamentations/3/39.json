@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଜୀବିତ ମଣିଷ, ଗୋଟିଏ ପୁରୁଷ ନିଜ ପାପର ଦଣ୍ଡ ବିଷୟରେ କାହିଁକି ଆକ୍ରୋଶ କରିବ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "ଆକ୍ରୋଶ କରିବ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ଜୀବିତ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ପୁରୁଷ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "ନିଜ ପାପର ଦଣ୍ଡ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:38:47.748738854Z",
+  "model": "glm-5.3"
+}

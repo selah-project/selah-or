@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ନିକଟର ⟨ଏଲୋହିମ୍⟩ ମୁଁ କି, ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ, ଆଉ ଦୂରର ⟨ଏଲୋହିମ୍⟩ ନୁହେଁ କି?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "ନିକଟର ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "ନିକଟର"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନୁହେଁ"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "ଏଲୋହିମ୍"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "ଦୂରର"
+    }
+  ],
+  "timestamp": "2026-08-25T14:00:27.817198802Z",
+  "model": "glm-5.3"
+}

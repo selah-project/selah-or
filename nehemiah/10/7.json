@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nehemiah 10:7",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଦାନିୟେଲ୍, ଗିନ୍ନେତୋନ୍, ବାରୁଖ୍।",
+  "tokens": [
+    {
+      "surface": "דניאל",
+      "gloss": "ଦାନିୟେଲ୍"
+    },
+    {
+      "surface": "גנתון",
+      "gloss": "ଗିନ୍ନେତୋନ୍"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "ବାରୁଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:44:09.716290207Z",
+  "model": "glm-5.3"
+}

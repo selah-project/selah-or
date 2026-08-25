@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ତୁମ୍ଭ ବସ୍ତ୍ର ତୁମ ଉପରୁ ଜୀର୍ଣ୍ଣ ହେଲା ନାହିଁ, ଓ ତୁମ୍ଭ ପାଦ ଫୁଲି ଉଠିଲା ନାହିଁ — ଏହି ଚାଳିଶ ବର୍ଷ।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "ତୁମ୍ଭ-ବସ୍ତ୍ର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "ଜୀର୍ଣ୍ଣ-ହେଲା"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "ତୁମ-ଉପରୁ"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "ଓ-ତୁମ୍ଭ-ପାଦ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "ଫୁଲି-ଉଠିଲା"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:47:25.803480190Z",
+  "model": "glm-5.3"
+}

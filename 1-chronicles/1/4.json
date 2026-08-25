@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ନୋଆଖ୍, ଶେମ୍, ହାମ୍ ଓ ୟାଫେତ୍।",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "ନୋଆଖ୍"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ଶେମ୍"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ହାମ୍"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "ଓ ୟାଫେତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:15.446086727Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ତୁମେ ବିବାଦ କଲ ଅଦୋନାଇ, ମୋର ନେଫେଶ୍‌ର ମାମଲା; ତୁମେ ମୁକୁଳାଇଲ ମୋର ଜୀବନ।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "ବିବାଦ କଲ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "ମାମଲା"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ମୋର ନେଫେଶ୍‌ର"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "ମୁକୁଳାଇଲ"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ମୋର ଜୀବନ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:34.733387464Z",
+  "model": "glm-5.3"
+}

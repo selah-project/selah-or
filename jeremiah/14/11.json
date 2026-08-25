@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋ ଠାରେ କହିଲେ — ଏହି ଲୋକଙ୍କ ହିତାର୍ଥେ ପ୍ରାର୍ଥନା କର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଆଉ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ଠାରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "ପ୍ରାର୍ଥନା କର"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ହିତାର୍ଥେ"
+    },
+    {
+      "surface": "ହାଅମ୍",
+      "gloss": "ଲୋକଙ୍କ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "ମଙ୍ଗଳ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:47:07.287470036Z",
+  "model": "glm-5.3"
+}

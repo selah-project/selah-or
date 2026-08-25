@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "jeremiah 32:38",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଏବଂ ସେମାନେ ମୋ' ପାଇଁ ପ୍ରଜା ହେବେ, ଏବଂ ମୁଁ ସେମାନଙ୍କ ପାଇଁ ଏଲୋହିମ୍ ହେବି।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ଏବଂ…ହେବେ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋ' ପାଇଁ"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "ପ୍ରଜା"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "ଏବଂ ମୁଁ"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "ହେବି"
+    },
+    {
+      "surface": "להם",
+      "gloss": "ସେମାନଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "ଏଲୋହିମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T14:14:42.810491138Z",
+  "model": "glm-5.3"
+}

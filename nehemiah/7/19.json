@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବିଗ୍‌ୱାଇଙ୍କ ପୁତ୍ରମାନେ — ଦୁଇ ହଜାର ସତଷ୍ଠି ଜଣ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "ବିଗ୍‌ୱାଇଙ୍କ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "ଦୁଇ ହଜାର"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "ସତଷ୍ଠି"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "ଓ ସାତ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:43:54.824267733Z",
+  "model": "glm-5.3"
+}

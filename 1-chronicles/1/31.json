@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ୟେତୂର୍, ନାଫିଶ୍ ଓ କେଦେମା — ଏହି ସମସ୍ତେ ଇଶ୍ମାଏଲର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "ୟେତୂର୍"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "ନାଫିଶ୍"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "ଓ କେଦେମା"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି ସମସ୍ତେ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "⟨ସେମାନେ⟩"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ଇଶ୍ମାଏଲର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:01.283830221Z",
+  "model": "glm-5.3"
+}

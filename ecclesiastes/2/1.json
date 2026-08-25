@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 2:1",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ମୁଁ ମୋ ହୃଦୟରେ କହିଲି: ଆସ ଏବେ, ମୁଁ ଆନନ୍ଦରେ ପରୀକ୍ଷା କରିବି ଓ ଉତ୍ତମ ବସ୍ତୁ ଦେଖିବି; ଆଉ ଦେଖ, ଏହା ମଧ୍ୟ ହବେଲ୍।",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ମୁଁ"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ମୋ ହୃଦୟରେ"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "ଆସ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଏବେ"
+    },
+    {
+      "surface": "אנסכה",
+      "gloss": "ମୁଁ ପରୀକ୍ଷା କରିବି"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "ଆନନ୍ଦରେ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଓ ଦେଖିବି"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "ଉତ୍ତମ ବସ୍ତୁ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହବେଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:40.730897452Z",
+  "model": "glm-5.3"
+}

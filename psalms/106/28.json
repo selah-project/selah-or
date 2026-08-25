@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 106,
+  "translation": "ଓ ସେମାନେ ବାଲ୍-ପେଓର ସହ ଯୋଡ଼ି ହେଲେ, ଓ ମୃତକମାନଙ୍କ ବଳି ଖାଇଲେ।",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "ଓ ଯୋଡ଼ି ହେଲେ"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ବାଲ୍ ସହ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "ପେଓର"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "ଓ ଖାଇଲେ"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "ବଳି"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "ମୃତକମାନଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:39:59.249206102Z",
+  "model": "glm-5.3"
+}

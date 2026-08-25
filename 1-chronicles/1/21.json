@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ⟨את⟩ ହଦୋରାମ୍, ଏବଂ ⟨את⟩ ଉଜାଲ୍, ଏବଂ ⟨את⟩ ଦିକ୍ଲା।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ହଦୋରାମ୍"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ହଦୋରାମ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଉଜାଲ୍"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "ଉଜାଲ୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଦିକ୍ଲା"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ଦିକ୍ଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:49:54.272645047Z",
+  "model": "glm-5.3"
+}

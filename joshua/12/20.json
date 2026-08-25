@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଶିମ୍ରୋନ୍-ମେରୋନ୍‌ର ରାଜା, ଜଣେ; ଅକ୍‌ଶାଫ୍‌ର ରାଜା, ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ଶିମ୍ରୋନ୍"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "ମେରୋନ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "ଅକ୍‌ଶାଫ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T22:41:02.725637448Z",
+  "model": "glm-5.3"
+}

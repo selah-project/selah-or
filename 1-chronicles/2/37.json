@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ୟାବାଦ ଏଫ୍ଲାଲଙ୍କୁ ଜନ୍ମ ଦେଲେ, ଓ ଏଫ୍ଲାଲ ଓବେଦଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "ଓ ୟାବାଦ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏଫ୍ଲାଲଙ୍କୁ"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "ଏଫ୍ଲାଲ"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "ଓ ଏଫ୍ଲାଲ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଓବେଦଙ୍କୁ"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ଓବେଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:18.760456190Z",
+  "model": "glm-5.3"
+}

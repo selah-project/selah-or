@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ମରୁଭୂମିରେ — ବେତ୍-ହା-ଆରାବା, ମିଦ୍ଦିନ୍ ଓ ସେକାକା।",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "ମରୁଭୂମିରେ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ହା-ଆରାବା"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "ମିଦ୍ଦିନ୍"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "ଓ ସେକାକା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:19:13.335663627Z",
+  "model": "glm-5.3"
+}

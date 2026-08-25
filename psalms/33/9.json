@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 33:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "କାରଣ ସେ କହିଲେ, ଓ ⟨ତାହା⟩ ହେଲା; ସେ ଆଜ୍ଞା ଦେଲେ, ଓ ତାହା ଦୃଢ଼ ରହିଲା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ⟨ତାହା⟩ ହେଲା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଜ୍ଞା ଦେଲେ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "ଓ ଦୃଢ଼ ରହିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T16:59:03.129176237Z",
+  "model": "glm-5.3"
+}

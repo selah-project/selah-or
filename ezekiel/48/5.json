@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 48:5",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ଆଉ ମନାଶ୍ଶେହର ସୀମାରେ — ପୂର୍ବ ଦିଗରୁ ପଶ୍ଚିମ ଦିଗ ପର୍ଯ୍ୟନ୍ତ — ଏଫ୍ରୟିମ୍, ଗୋଟିଏ ।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "ଆଉ ... ଉପରେ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ସୀମା"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ମନାଶ୍ଶେହ"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "ଦିଗରୁ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ପୂର୍ବ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ଦିଗ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ପଶ୍ଚିମ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "ଏଫ୍ରୟିମ୍"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:48:52.935822164Z",
+  "model": "glm-5.3"
+}

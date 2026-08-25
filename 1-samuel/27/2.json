@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 27,
+  "translation": "ଦାୱିଦ ଉଠିଲେ ଓ ପାର ହେଲେ — ସେ ⟨ନିଜେ⟩ ଓ ତାଙ୍କ ସହିତ ଥିବା ଛଅ ଶହ ଲୋକ — ଆଖୀଶଙ୍କ ପାଖକୁ, ମାଓଖଙ୍କ ପୁତ୍ର, ଗଥର ରାଜା।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "ଉଠିଲେ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ଦାୱିଦ"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "ଓ ପାର ହେଲେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "ଓ ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେଉଁ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "ତାଙ୍କ ସହିତ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପାଖକୁ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "ଆଖୀଶଙ୍କ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "ମାଓଖଙ୍କ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "גת",
+      "gloss": "ଗଥର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:09:50.554596656Z",
+  "model": "glm-5.3"
+}

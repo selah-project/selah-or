@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆକୃତି ପ୍ରତ୍ୟେକ ପଶୁର, ଯାହା ପୃଥିବୀରେ ⟨ଅଛି⟩; ଆକୃତି ପ୍ରତ୍ୟେକ ଡେଣାଯୁକ୍ତ ପକ୍ଷୀର, ଯାହା ଆକାଶମଣ୍ଡଳରେ ଉଡ଼େ।",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "ଆକୃତି"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "ଆକୃତି"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ପ୍ରତ୍ୟେକ"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ଡେଣା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "ଉଡ଼େ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ଆକାଶମଣ୍ଡଳରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:42:53.586509399Z",
+  "model": "glm-5.3"
+}

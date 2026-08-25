@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଅଭିଷିକ୍ତ ଯାଜକ ବଳଦର ରକ୍ତରୁ ନେବେ, ଏବଂ ତାହାକୁ ⟨את⟩ ମିଳନ-ତମ୍ବୁ ଭିତରକୁ ଆଣିବେ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "ନେବେ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "ଅଭିଷିକ୍ତ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ରକ୍ତରୁ"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "ବଳଦର"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ଆଣିବେ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "ତାହାକୁ (ରକ୍ତ)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "ତମ୍ବୁ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ମିଳନ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:38:51.033490172Z",
+  "model": "glm-5.3"
+}

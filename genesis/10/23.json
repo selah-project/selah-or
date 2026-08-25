@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 10:23",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ଆରାମ୍‌ଙ୍କ ପୁତ୍ରଗଣ: ଊତ୍ସ୍ ଓ ହୁଲ୍, ଗେଥେର୍ ଓ ମାଶ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରଗଣ"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "ଆରାମ୍‌ଙ୍କ"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "ଊତ୍ସ୍"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "ଓ ହୁଲ୍"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "ଗେଥେର୍"
+    },
+    {
+      "surface": "ומש",
+      "gloss": "ଓ ମାଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:49.830527940Z",
+  "model": "glm-5.3"
+}

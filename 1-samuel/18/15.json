@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 18:15",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 18,
+  "translation": "ଆଉ ଶାଉଲ୍ ଦେଖିଲେ ଯେ ସେ ଅତି ବିବେକୀ, ଏଣୁ ସେ ତାହାଙ୍କଠାରୁ ଭୟଭୀତ ହେଲେ।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "ଦେଖିଲେ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ଶାଉଲ୍"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ବିବେକୀ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    },
+    {
+      "surface": "ויגר",
+      "gloss": "ଭୟଭୀତ ହେଲେ"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "ତାହାଙ୍କଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:01:35.139859623Z",
+  "model": "glm-5.3"
+}

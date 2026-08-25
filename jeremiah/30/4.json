@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଆଉ ଏହି ବାକ୍ୟଗୁଡ଼ିକ ଯାହା ଯାହ୍ୱେ ଇସ୍ରାଏଲ ଓ ୟିହୂଦାଙ୍କ ବିଷୟରେ କହିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "ଆଉ ଏହି"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ବାକ୍ୟଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଥିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ଇସ୍ରାଏଲ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପ୍ରତି"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ୟିହୂଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T14:10:16.916675908Z",
+  "model": "glm-5.3"
+}

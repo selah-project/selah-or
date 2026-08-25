@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ସାତ ବର୍ଷର ପୁଅ ୟେହୋଆଶ୍ ⟨ଥିଲା⟩ ତାହାର ରାଜୁତି ଆରମ୍ଭ କରିବା ବେଳେ।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "ୟେହୋଆଶ୍"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "ତାହାର ରାଜୁତି ବେଳେ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:09:33.374893532Z",
+  "model": "glm-5.3"
+}

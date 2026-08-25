@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "କ୍ରୋଧିତ ଲୋକ ସହିତ ⟨את⟩ ବନ୍ଧୁତା କରନାହିଁ, ଏବଂ ⟨את⟩ ଅତି କ୍ରୋଧିତ ଲୋକ ସହିତ ନ ଯାଉ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "ବନ୍ଧୁତା କରନାହିଁ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "କ୍ରୋଧିତ ଲୋକ ସହିତ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ବାସିନ୍ଧା"
+    },
+    {
+      "surface": "אף",
+      "gloss": "କ୍ରୋଧ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଲୋକ"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "ଅତି କ୍ରୋଧିତ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "ଯାଉ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:13:31.762160396Z",
+  "model": "glm-5.3"
+}

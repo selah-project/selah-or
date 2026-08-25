@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଏବଂ ସେହି ଅଭାବ ହେତୁ ତାହା ପରେ ଦେଶରେ ପ୍ରଚୁରତା ଜଣା ପଡ଼ିବ ନାହିଁ, କାରଣ ତାହା ଅତି ଭାରି।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଏବଂ…ନାହିଁ"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ଜଣା ପଡ଼ିବ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ପ୍ରଚୁରତା"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ହେତୁ\/ମୁହଁରୁ"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "ଅଭାବ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "ସେହି"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ପରେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ତାହା ପରେ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ଭାରି"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:48:24.890124591Z",
+  "model": "glm-5.3"
+}

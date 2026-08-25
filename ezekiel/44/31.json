@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezekiel 44:31",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "ପକ୍ଷୀ ଓ ପଶୁର କୌଣସି ମୃତଦେହ ଓ ଛିନ୍ନିଆ ମାଂସ ଯାଜକମାନେ ଖାଇବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "נבלה",
+      "gloss": "ମୃତଦେହ (ନେବେଲା)"
+    },
+    {
+      "surface": "וטרפה",
+      "gloss": "ଓ ଛିନ୍ନିଆ ମାଂସ (ତେରେଫା)"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…ର"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "ପକ୍ଷୀ"
+    },
+    {
+      "surface": "ומן",
+      "gloss": "ଓ …ର"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "ପଶୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "ଖାଇବେ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନେ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:45:42.168309087Z",
+  "model": "glm-5.3"
+}

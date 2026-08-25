@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 34:10",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 34,
+  "translation": "ଆଉ ଇସ୍‌ରାଏଲରେ ମୋଶେ ପରି ଆଉ କୌଣସି ନବୀ ଉଠିନାହାନ୍ତି, ଯାହାକୁ ଯାହ୍ୱେ ମୁହଁରୁ ମୁହଁ ଜାଣିଥିଲେ —",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ... ନାହାନ୍ତି"
+    },
+    {
+      "surface": "קם",
+      "gloss": "ଉଠିନାହାନ୍ତି"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "ନବୀ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ଆଉ"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ଇସ୍‌ରାଏଲରେ"
+    },
+    {
+      "surface": "כמשה",
+      "gloss": "ମୋଶେ ପରି"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାକୁ"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "ଜାଣିଥିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ମୁହଁରୁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ମୁହଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:07:23.013939678Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "deuteronomy 28:46",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଏବଂ ⟨ସେଗୁଡ଼ିକ⟩ ତୁମରିରେ ଚିହ୍ନ ଓ ଆଶ୍ଚର୍ଯ୍ୟ ରୂପେ ଥିବ, ଏବଂ ତୁମ ବଂଶରେ ସର୍ବଦା।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "ଏବଂ ଥିବ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ତୁମରିରେ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "ଚିହ୍ନ ରୂପେ"
+    },
+    {
+      "surface": "ולמופת",
+      "gloss": "ଓ ଆଶ୍ଚର୍ଯ୍ୟ ରୂପେ"
+    },
+    {
+      "surface": "ובזרעך",
+      "gloss": "ଏବଂ ତୁମ ବଂଶରେ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ସର୍ବଦା"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:20.201018940Z",
+  "model": "glm-5.3"
+}

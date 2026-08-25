@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 39:27",
+  "book": "job",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "କ'ଣ ତୋର ଆଜ୍ଞାରେ ଗରୁଡ଼ ଉଚ୍ଚକୁ ଉଠେ, ନିଜ ବସା ଉଚ୍ଚରେ କରେ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "ତୋର ଆଜ୍ଞାରେ"
+    },
+    {
+      "surface": "יגביה",
+      "gloss": "ଉଚ୍ଚକୁ ଉଠେ"
+    },
+    {
+      "surface": "נשר",
+      "gloss": "ଗରୁଡ଼"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "ନା"
+    },
+    {
+      "surface": "ירים",
+      "gloss": "ଉଠାଏ"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "ନିଜ ବସା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:43:51.155324569Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ପନ୍ଦର ନମ୍ବର ବିଲ୍‌ଗାହଙ୍କ ପାଇଁ, ଷୋହର ୱିଶ ନମ୍ବର ଇମ୍ମେରଙ୍କ ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "ବିଲ୍‌ଗାହଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ଇମ୍ମେରଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:23.847795361Z",
+  "model": "glm-5.3"
+}

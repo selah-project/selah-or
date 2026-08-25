@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 45,
+  "translation": "ନ୍ୟାୟ୍ୟ ଦାଡ଼ି, ନ୍ୟାୟ୍ୟ ଏପାହ ଓ ନ୍ୟାୟ୍ୟ ବାତ୍ ତୁମ୍ଭମାନଙ୍କ ପାଇଁ ହେଉ।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ଦାଡ଼ି"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ନ୍ୟାୟ୍ୟ"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "ଓ ଏପାହ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ନ୍ୟାୟ୍ୟ"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "ଓ ବାତ୍"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "ନ୍ୟାୟ୍ୟ"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "ହେଉ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "ତୁମ୍ଭମାନଙ୍କ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:44:55.231910605Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 25:13",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତୋ' ଥଳିରେ ଗୋଟିଏ ପଥର ଓ ଗୋଟିଏ ପଥର — ବଡ଼ ଓ ଛୋଟ — ରହିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ରହିବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୋ' ପାଖରେ"
+    },
+    {
+      "surface": "בכיסך",
+      "gloss": "ତୋ' ଥଳିରେ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ଗୋଟିଏ ପଥର"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଓ ଗୋଟିଏ ପଥର"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ବଡ଼"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "ଓ ଛୋଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:56:59.605240835Z",
+  "model": "glm-5.3"
+}

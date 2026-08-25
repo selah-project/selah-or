@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "leviticus 11:41",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଓ ପୃଥିବୀ ଉପରେ ଯେଉଁ ସମସ୍ତ କ୍ରିମି-କୀଟ ରେଙ୍ଗାଏ, ସେ ⟨ଘୃଣିତ⟩; ତାହା ଖାଆ ଯାଇ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ସମସ୍ତ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "କ୍ରିମି-କୀଟ"
+    },
+    {
+      "surface": "השרץ",
+      "gloss": "ରେଙ୍ଗାଏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ଖାଆ ଯାଇ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:42:03.652610482Z",
+  "model": "glm-5.3"
+}

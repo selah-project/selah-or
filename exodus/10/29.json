@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "exodus 10:29",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ମୋଶେ କହିଲେ, ତୁମେ ଠିକ୍ କହିଅଛ; ମୁଁ ଆଉ ତୁମର ମୁହଁ ଦେଖିବି ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ଠିକ୍"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "ତୁମେ କହିଅଛ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "ମୁଁ ଆଉ କରିବି"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ପୁଣି"
+    },
+    {
+      "surface": "ראות",
+      "gloss": "ଦେଖିବାକୁ"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "ତୁମର ମୁହଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:03:49.121557603Z",
+  "model": "glm-5.3"
+}

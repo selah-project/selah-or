@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 37:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 37,
+  "translation": "କାରଣ ସେମାନେ ଘାସ ପରି ଶୀଘ୍ର କଟାଯିବେ, ଆଉ ସବୁଜ ତୃଣ ପରି ମଳିନ ହେବେ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "ଘାସ ପରି"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "ଶୀଘ୍ର"
+    },
+    {
+      "surface": "ימלו",
+      "gloss": "କଟାଯିବେ"
+    },
+    {
+      "surface": "וכירק",
+      "gloss": "ଆଉ ... ସବୁଜ ତୃଣ ପରି"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ତୃଣ"
+    },
+    {
+      "surface": "יבולון",
+      "gloss": "ମଳିନ ହେବେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:01:11.935319816Z",
+  "model": "glm-5.3"
+}

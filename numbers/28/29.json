@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 28:29",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଏକ ଦଶମାଂଶ, ଏକ ଦଶମାଂଶ — ଏକ ମେଣ୍ଢା ପାଇଁ, ସାତୋଟି ମେଣ୍ଢା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "עשרון",
+      "gloss": "ଏକ ଦଶମାଂଶ"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "ଏକ ଦଶମାଂଶ"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "ଏକ ମେଣ୍ଢା ପାଇଁ"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "ସାତୋଟି ପାଇଁ"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "ମେଣ୍ଢା"
+    }
+  ],
+  "timestamp": "2026-08-25T09:27:54.960324025Z",
+  "model": "glm-5.3"
+}

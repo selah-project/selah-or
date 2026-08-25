@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ବହୁ ଦିନ ଧରି ଯିହୋଶୁଆ ⟨את⟩ ଏହି ସମସ୍ତ ରାଜାଙ୍କ ସହିତ ଯୁଦ୍ଧ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ବହୁ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "ଯିହୋଶୁଆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏହି ସମସ୍ତ ରାଜା"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:17:48.310852149Z",
+  "model": "glm-5.3"
+}

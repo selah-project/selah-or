@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ମିଶ୍ର ଅତି ସୁନ୍ଦରମୁଖୀ ଏକ ଗାଈ-ବାଛୁଡ଼ି; ଉତ୍ତରରୁ ଏକ ଛେଦନକାରୀ ଆସିଲା, ଆସିଲା।",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "ଗାଈ-ବାଛୁଡ଼ି"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ସୁନ୍ଦର"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ମୁଖୀ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "ମିଶ୍ର"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "ଛେଦନକାରୀ"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "ଉତ୍ତରରୁ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଲା"
+    },
+    {
+      "surface": "בא",
+      "gloss": "ଆସିଲା"
+    }
+  ],
+  "timestamp": "2026-08-25T14:30:10.433166999Z",
+  "model": "glm-5.3"
+}

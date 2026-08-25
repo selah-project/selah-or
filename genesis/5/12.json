@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଆଉ କେନାନ ସତୁରୀ ବର୍ଷ ଜୀବିତ ରହିଲେ, ଏବଂ ⟨את⟩ ମହଲଲେଲଙ୍କୁ ଜନ୍ମ ଦେଲେ।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "ଜୀବିତ ରହିଲେ"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "କେନାନ"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "ସତୁରୀ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ଜନ୍ମ ଦେଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମହଲଲେଲଙ୍କୁ"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "ମହଲଲେଲଙ୍କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:17:05.722530727Z",
+  "model": "glm-5.3"
+}

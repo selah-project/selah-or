@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 1:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ ସେ ⟨shall be⟩ ଜଳଧାରାର ଉପକୂଳରେ ରୋପିତ ଗଛ ପରି, ଯାହାର ଫଳ ତାହାର ସମୟରେ ଦେଏ, ଓ ତାହାର ପତ୍ର ମଳିନ ହୁଏ ନାହିଁ; ଓ ଯାହା ଯାହା କରେ ତାହା ସଫଳ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "ଓ ସେ ⟨shall be⟩"
+    },
+    {
+      "surface": "כעץ",
+      "gloss": "ଗଛ ପରି"
+    },
+    {
+      "surface": "שתול",
+      "gloss": "ରୋପିତ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପକୂଳରେ"
+    },
+    {
+      "surface": "פלגי",
+      "gloss": "ଜଳଧାରାର"
+    },
+    {
+      "surface": "מים",
+      "gloss": "ଜଳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "פריו",
+      "gloss": "ଫଳ"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ଦେଏ"
+    },
+    {
+      "surface": "בעתו",
+      "gloss": "ତାହାର ସମୟରେ"
+    },
+    {
+      "surface": "ועלהו",
+      "gloss": "ଓ ତାହାର ପତ୍ର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יבול",
+      "gloss": "ମଳିନ ହୁଏ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "ଓ ଯାହା ଯାହା"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "କରେ"
+    },
+    {
+      "surface": "יצליח",
+      "gloss": "ସଫଳ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:44:25.988438623Z",
+  "model": "glm-5.3"
+}

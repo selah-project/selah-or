@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଦେଖ, ମୁଁ ମୋ ପାଟି ଖୋଲିଅଛି, ମୋ ଜିଭ ମୋ ତାଳୁରେ କଥା କହେ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ଆଗଣ୍ଡା"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "ଖୋଲିଅଛି"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୋ ପାଟି"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "କଥା କହେ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "ମୋ ଜିଭ"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "ମୋ ତାଳୁରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:39:36.798615834Z",
+  "model": "glm-5.3"
+}

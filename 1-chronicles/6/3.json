@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ କେହାତଙ୍କ ପୁତ୍ରମାନେ: ଅମ୍ରାମ, ୟିତ୍ସହାର, ହେବ୍ରୋନ ଓ ଉଜିଏଲ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ ... ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତଙ୍କ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "ଅମ୍ରାମ"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "ୟିତ୍ସହାର"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "ହେବ୍ରୋନ"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "ଓ ଉଜିଏଲ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:42.322978772Z",
+  "model": "glm-5.3"
+}

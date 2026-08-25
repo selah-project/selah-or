@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 16:15",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ସଦା ସର୍ବଦା ମନେ ରଖ ତାହାଙ୍କ ନିୟମ, ଯେଉଁ ବାକ୍ୟ ତିନି ଆଜ୍ଞା କଲେ ହଜାର ପିଢ଼ି ଧରି ।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "ମନେ ରଖ"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ସଦା ସର୍ବଦା"
+    },
+    {
+      "surface": "בריתו",
+      "gloss": "ତାହାଙ୍କ ନିୟମ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ଯେଉଁ ବାକ୍ୟ"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ଆଜ୍ଞା କଲେ"
+    },
+    {
+      "surface": "לאלף",
+      "gloss": "ହଜାର"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ପିଢ଼ି ଧରି"
+    }
+  ],
+  "timestamp": "2026-08-25T20:01:47.407187588Z",
+  "model": "glm-5.3"
+}

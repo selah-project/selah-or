@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ଆଉ ଜଣେ ପୁରୁଷ କିମ୍ବା ସ୍ତ୍ରୀ — ଯଦି ସେମାନଙ୍କ ଶରୀରର ଚର୍ମରେ ଦାଗ ଥାଏ, ଧଳା ଦାଗ ଥାଏ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "ଆଉ ଜଣେ ପୁରୁଷ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "ଥାଏ"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ଚର୍ମରେ"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "ସେମାନଙ୍କ ଶରୀରର"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ଦାଗ"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "ଦାଗ"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "ଧଳା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:46:03.325498975Z",
+  "model": "glm-5.3"
+}

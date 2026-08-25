@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ତାହାର ଶେଷରେ ସାପ ପରି ଦଂଶନ କରେ, ଆଉ ବିଛା ପରି ଫିଙ୍ଗେ।",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "ତାହାର ଶେଷରେ"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "ସାପ ପରି"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "ଦଂଶନ କରେ"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "ଆଉ ବିଛା ପରି"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "ଫିଙ୍ଗେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:15:39.292538204Z",
+  "model": "glm-5.3"
+}

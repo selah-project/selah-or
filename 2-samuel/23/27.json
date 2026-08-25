@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ଅବିଏଜର ⟨the⟩ ଅନାତୋତୀ, ମେବୁନାଇ ⟨the⟩ ହୁଶାତୀ।",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "ଅବିଏଜର"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "⟨the⟩ ଅନାତୋତୀ"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "ମେବୁନାଇ"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "⟨the⟩ ହୁଶାତୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:30:37.351957280Z",
+  "model": "glm-5.3"
+}

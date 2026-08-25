@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 92,
+  "translation": "କିନ୍ତୁ ଆପଣ, ହେ ଯାହ୍ୱେ, ସର୍ବଦା ଉଚ୍ଚ ସ୍ଥାନରେ ଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "କିନ୍ତୁ ଆପଣ"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "ଉଚ୍ଚ ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "ସର୍ବଦା"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ହେ ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:33:27.860435438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "କାରଣ ଆଜ୍ଞା ⟨is⟩ ଏକ ପ୍ରଦୀପ, ଆଉ ତୋରାହ୍ ⟨is⟩ ଆଲୋକ; ଆଉ ତିରସ୍କାରମୟ ଶିକ୍ଷାର ପ୍ରତିକାର ⟨are⟩ ଜୀବନର ପଥ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ପ୍ରଦୀପ"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "ଆଜ୍ଞା"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "ଆଉ ତୋରାହ୍"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ଆଲୋକ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ଆଉ ... ପଥ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "ତିରସ୍କାରମୟ ପ୍ରତିକାର"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:00:44.277455694Z",
+  "model": "glm-5.3"
+}

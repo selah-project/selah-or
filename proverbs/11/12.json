@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 11:12",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ନିଜ ପ୍ରତିବାସୀକୁ ଅବହେଳା କରେ ସେ ⟨ହୃଦୟ⟩ହୀନ, କିନ୍ତୁ ବିବେକୀ ଲୋକ ମୌନ ରହେ।",
+  "tokens": [
+    {
+      "surface": "בז",
+      "gloss": "ଅବହେଳା କରେ"
+    },
+    {
+      "surface": "לרעהו",
+      "gloss": "ନିଜ ପ୍ରତିବାସୀକୁ"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ହୀନ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "କିନ୍ତୁ ଲୋକ"
+    },
+    {
+      "surface": "תבונות",
+      "gloss": "ବିବେକୀ"
+    },
+    {
+      "surface": "יחריש",
+      "gloss": "ମୌନ ରହେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:04:03.541770028Z",
+  "model": "glm-5.3"
+}

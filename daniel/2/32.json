@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "daniel 2:32",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ସେହି ମୂର୍ତ୍ତିର ମସ୍ତକ ଉତ୍ତମ ସୁନାର, ତାହାର ଛାତି ଓ ବାହୁଗୁଡ଼ିକ ରୂପାର, ତାହାର ଉଦର ଓ ଉରଗୁଡ଼ିକ ତମ୍ବାର।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "צלמא",
+      "gloss": "ମୂର୍ତ୍ତି"
+    },
+    {
+      "surface": "ראשה",
+      "gloss": "ମସ୍ତକ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ର"
+    },
+    {
+      "surface": "דהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "טב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "חדוהי",
+      "gloss": "ଛାତି"
+    },
+    {
+      "surface": "ודרעוהי",
+      "gloss": "ଓ ବାହୁଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ର"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ରୂପା"
+    },
+    {
+      "surface": "מעוהי",
+      "gloss": "ଉଦର"
+    },
+    {
+      "surface": "וירכתה",
+      "gloss": "ଓ ଉରଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "די",
+      "gloss": "ର"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ତମ୍ବା"
+    }
+  ],
+  "timestamp": "2026-08-25T21:40:57.361912434Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ୟାକୋଭ୍ ବେଏର୍-ଶେବାରୁ ବାହାରି ଚାରାନ୍ ଆଡ଼କୁ ଚାଲିଲା।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "ବାହାରି"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ୟାକୋଭ୍"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "ବେଏର୍"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେବାରୁ"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "ଚାଲିଲା"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ଚାରାନ୍ ଆଡ଼କୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:36:22.786420760Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ଭାଙ୍ଗର ବଦଳରେ ଭାଙ୍ଗ, ଆଖିର ବଦଳରେ ଆଖି, ଦାନ୍ତର ବଦଳରେ ଦାନ୍ତ; ଯେପରି ସେ ମନୁଷ୍ୟରେ ଆଘାତ ଦେଇଥିଲା, ସେପରି ତାହା ଉପରେ ଦିଆଯିବ।",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭାଙ୍ଗ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ଆଖି"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ଦାନ୍ତ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ବଦଳରେ"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ଦାନ୍ତ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ଯେପରି"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ସେ ଦେଇଥିଲା"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ଆଘାତ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ମନୁଷ୍ୟରେ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ସେପରି"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ଦିଆଯିବ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ତାହା ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:57:15.714711527Z",
+  "model": "glm-5.3"
+}

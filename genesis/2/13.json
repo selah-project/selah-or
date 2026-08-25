@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଦ୍ୱିତୀୟ ନଦୀର ନାମ ଗିହୋନ୍; ଏହା ହିଁ ⟨את⟩ ସମଗ୍ର କୁଶ୍ ଦେଶକୁ ପରିବେଷ୍ଟନ କରେ।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "ନାମ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "ନଦୀର"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ଦ୍ୱିତୀୟ"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "ଗିହୋନ୍"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ଏହା ହିଁ"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "ପରିବେଷ୍ଟନ କରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସମଗ୍ର କୁଶ୍ ଦେଶକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମଗ୍ର"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "କୁଶ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T07:16:25.004997559Z",
+  "model": "glm-5.3"
+}

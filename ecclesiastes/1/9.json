@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 1:9",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଯାହା ହୋଇଥିଲା, ସେଇଥିଲା ହିଁ ଯାହା ହେବ; ଆଉ ଯାହା କରାଯାଇଥିଲା, ତାହା ହିଁ କରାଯିବ; ସୂର୍ଯ୍ୟ ତଳେ କୌଣସି ନୂଆ ବିଷୟ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେଇଥିଲା ହିଁ"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "ଯାହା ହେବ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "ଆଉ ଯାହା"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "କରାଯାଇଥିଲା"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ତାହା ହିଁ"
+    },
+    {
+      "surface": "שיעשה",
+      "gloss": "କରାଯିବ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "କୌଣସି"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ନୂଆ ବିଷୟ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:29.909794684Z",
+  "model": "glm-5.3"
+}

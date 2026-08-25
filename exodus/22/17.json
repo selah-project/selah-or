@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ମନ୍ତ୍ରବାଦିନୀକୁ ତୁମ୍ଭେ ଜୀବିତ ରଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ମନ୍ତ୍ରବାଦିନୀକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ଜୀବିତ ରଖିବ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:17:11.685905508Z",
+  "model": "glm-5.3"
+}

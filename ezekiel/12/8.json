@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଆଉ ପ୍ରଭାତରେ ମୋର ପ୍ରତି ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଆସିଲା, କହିବାକୁ,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ ... ଆସିଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋର ପ୍ରତି"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ପ୍ରଭାତରେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:57:48.476836400Z",
+  "model": "glm-5.3"
+}

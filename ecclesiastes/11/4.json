@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 11:4",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଯିଏ ପବନକୁ ଦେଖି ଅପେକ୍ଷା କରେ ସେ ବୁଣେ ନାହିଁ, ଆଉ ଯିଏ ମେଘମାନଙ୍କୁ ଦେଖେ ସେ କାଟେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "שמר",
+      "gloss": "ଦେଖି ଅପେକ୍ଷା କରେ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ପବନକୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "ସେ ବୁଣେ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "ଆଉ ଦେଖେ"
+    },
+    {
+      "surface": "בעבים",
+      "gloss": "ମେଘମାନଙ୍କୁ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "ସେ କାଟେ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:03:02.198747648Z",
+  "model": "glm-5.3"
+}

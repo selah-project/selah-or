@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଶେଲୋମୋ ⟨את⟩ ଗେଜେର୍ ଓ ⟨את⟩ ନିମ୍ନ ବେତ୍-ହୋରୋନ୍ ନିର୍ମାଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "ନିର୍ମାଣ କଲେ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶେଲୋମୋ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଗେଜେର୍"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "ଗେଜେର୍"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ବେତ୍-ହୋରୋନ୍"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ବେତ୍"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "ହୋରୋନ୍"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "ନିମ୍ନ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:42:43.241512152Z",
+  "model": "glm-5.3"
+}

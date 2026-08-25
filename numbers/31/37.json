@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ଓ ମେଷମଣ୍ଡଳୀରୁ ଯାହ୍ୱେଙ୍କ କର ହେଲା ଛଅଶହ୍ ପଞ୍ଚାସୀଟି ଭାର ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "କର"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ପାଇଁ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "ମେଷମଣ୍ଡଳୀ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ଛଅ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ୍"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ପାଞ୍ଚ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "ଓ ସତୁରୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:30:30.646413315Z",
+  "model": "glm-5.3"
+}

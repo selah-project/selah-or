@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ନୋଫ ଓ ତଖପନ୍ହେସର ପୁତ୍ରମାନେ ମଧ୍ୟ ତୋର ମସ୍ତକ-ଚକଟିକୁ ଚରାଇବେ।",
+  "tokens": [
+    {
+      "surface": "ଗାମ",
+      "gloss": "ମଧ୍ୟ"
+    },
+    {
+      "surface": "ବେନେ",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "ନୋଫ",
+      "gloss": "ନୋଫ"
+    },
+    {
+      "surface": "ୱାତଖଫନେସ",
+      "gloss": "ଓ ତଖପନ୍ହେସ"
+    },
+    {
+      "surface": "ୟିର୍ଆୱଖ",
+      "gloss": "ଚରାଇବେ"
+    },
+    {
+      "surface": "ଖୋଦେଖୋଦ",
+      "gloss": "ମସ୍ତକ-ଚକଟି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:25:42.480042969Z",
+  "model": "glm-5.3"
+}

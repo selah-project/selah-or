@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 17:8",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଘୁଷି ⟨ହେଉଛି⟩ ତାହାର ମାଲିକର ଆଖିରେ ଅନୁଗ୍ରହର ମଣି; ଯେଉଁ ଦିଗକୁ ମୁହଁ କରେ, ସଫଳ ହୁଏ।",
+  "tokens": [
+    {
+      "surface": "אבן",
+      "gloss": "ମଣି"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ଅନୁଗ୍ରହର"
+    },
+    {
+      "surface": "השחד",
+      "gloss": "ଘୁଷି"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ଆଖିରେ"
+    },
+    {
+      "surface": "בעליו",
+      "gloss": "ତାହାର ମାଲିକର"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଯେଉଁ ଦିଗକୁ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "ମୁହଁ କରେ"
+    },
+    {
+      "surface": "ישכיל",
+      "gloss": "ସଫଳ ହୁଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:12.163730269Z",
+  "model": "glm-5.3"
+}

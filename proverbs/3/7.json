@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ନିଜ ଆଖିଆଖିରେ ଜ୍ଞାନୀ ⟨ହୁଅ⟩ ନାହିଁ; ⟨את⟩ ଯାହ୍ୱେଙ୍କୁ ଭୟ କର, ଆଉ ମନ୍ଦରୁ ଦୂରେଇ ଯାଅ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "ହୁଅ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀ"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "ନିଜ ଆଖିଆଖିରେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଯାହ୍ୱେଙ୍କୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "⟨את⟩ ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "ଆଉ ଦୂରେଇ ଯାଅ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ମନ୍ଦରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:58:52.737225985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 108:11",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 108,
+  "translation": "କଏ ମୋତେ ଦୁର୍ଗ ନଗରକୁ ଆଣିବ? କଏ ମୋତେ ଏଦୋମ୍ ପର୍ଯ୍ୟନ୍ତ ପଥ ଦେଖାଇବ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କଏ"
+    },
+    {
+      "surface": "יבלני",
+      "gloss": "ମୋତେ ଆଣିବ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗରକୁ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "ଦୁର୍ଗ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "କଏ"
+    },
+    {
+      "surface": "נחני",
+      "gloss": "ମୋତେ ପଥ ଦେଖାଇବ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "ଏଦୋମ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T17:41:02.200721608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 17:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ଯିଏ କଳି ପ୍ରେମ କରେ, ସେ ଅପରାଧ ପ୍ରେମ କରେ; ଆଉ ଯିଏ ନିଜ ଦ୍ୱାର ଉଚ୍ଚ କରେ, ସେ ଭଙ୍ଗା ଖୋଜେ।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ଅପରାଧ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "କଳି"
+    },
+    {
+      "surface": "מגביה",
+      "gloss": "ଉଚ୍ଚ କରେ"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "ନିଜ ଦ୍ୱାର"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "ଖୋଜେ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "ଭଙ୍ଗା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:07.408932135Z",
+  "model": "glm-5.3"
+}

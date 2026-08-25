@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଜାରେଲ୍, ଶେଲେମିଯାହୁ ଓ ଶେମାରିଯାହ।",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "ଆଜାରେଲ୍"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "ଓ ଶେଲେମିଯାହୁ"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "ଶେମାରିଯାହ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:36:07.368091505Z",
+  "model": "glm-5.3"
+}

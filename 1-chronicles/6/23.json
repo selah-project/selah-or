@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ୟିତ୍‌ସହାରଙ୍କ ପୁତ୍ର, କେହାତଙ୍କ ପୁତ୍ର, ଲେୱିଙ୍କ ପୁତ୍ର, ୟିସ୍ରାଏଲଙ୍କ ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ୟିତ୍‌ସହାର୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "କେହାତ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "ଲେୱି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ୟିସ୍ରାଏଲ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:55:06.318308505Z",
+  "model": "glm-5.3"
+}

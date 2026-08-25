@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "leviticus 10:10",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଏବଂ ପବିତ୍ର ଓ ସାଧାରଣ ମଧ୍ୟରେ, ଅଶୁଚି ଓ ଶୁଚି ମଧ୍ୟରେ ଭେଦ କରିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "ולהבדיל",
+      "gloss": "ଏବଂ ଭେଦ କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "ପବିତ୍ର"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ ... ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "ସାଧାରଣ"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ ... ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "ଅଶୁଚି"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "ଓ ... ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "הטהור",
+      "gloss": "ଶୁଚି"
+    }
+  ],
+  "timestamp": "2026-08-25T08:41:12.891666507Z",
+  "model": "glm-5.3"
+}

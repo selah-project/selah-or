@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଭୋକର ଦାବାଣିରୁ ଆମର ଚର୍ମ ଚୁଲା ପରି ସଂକୋଚିତ ହୋଇ ପୋଡ଼ିହେଲା।",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "ଆମର ଚର୍ମ"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "ଚୁଲା ପରି"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "ସଂକୋଚିତ ହୋଇ ପୋଡ଼ିହେଲା"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "ଦାବାଣିରୁ"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "ଦାବାଣି"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "ଭୋକର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:23.913577902Z",
+  "model": "glm-5.3"
+}

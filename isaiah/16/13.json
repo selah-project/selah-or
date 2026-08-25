@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ଏହା ସେ ବାକ୍ୟ ଯାହା ଯାହ୍ୱେ ପ୍ରାଚୀନ କାଳଠାରୁ ମୋଆବ୍ ବିଷୟରେ କହିଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "ଏହା"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ସେ ବାକ୍ୟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କହିଥିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "ମୋଆବ୍"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "ପ୍ରାଚୀନ କାଳଠାରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:33:12.833522541Z",
+  "model": "glm-5.3"
+}

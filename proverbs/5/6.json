@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 5:6",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ଯେପରି ତୁମେ ଜୀବନର ପଥ ପାଳନ ନ କର—ତାହାର ଗତିପଥଗୁଡ଼ିକ ଟଳିଯାଇଛି, ସେ ଜାଣେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "ארח",
+      "gloss": "ପଥ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନର"
+    },
+    {
+      "surface": "פן",
+      "gloss": "ଯେପରି...ନ"
+    },
+    {
+      "surface": "תפלס",
+      "gloss": "ପାଳନ କର"
+    },
+    {
+      "surface": "נעו",
+      "gloss": "ଟଳିଯାଇଛି"
+    },
+    {
+      "surface": "מעגלתיה",
+      "gloss": "ତାହାର ଗତିପଥଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "ଜାଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:58:28.089115395Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 21:6",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "କାରଣ ଏପରି ମୋ ପ୍ରତି ଅଦୋନାଇ କହିଲେ: ଯାଅ, ଜାଗୁଆଳିକୁ ଠିଆ କର, ଯାହା ସେ ଦେଖିବ ତାହା ଘୋଷଣା କରୁ ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "ଅଦୋନାଇ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ଯାଅ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "ଠିଆ କର"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "ଜାଗୁଆଳିକୁ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "ଦେଖିବ"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "ଘୋଷଣା କରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T12:35:44.440040128Z",
+  "model": "glm-5.3"
+}

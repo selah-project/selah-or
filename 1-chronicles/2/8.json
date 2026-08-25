@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ଏତାନଙ୍କ ପୁତ୍ରମାନେ: ଆଜାରିଯା।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଓ ... ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "ଏତାନଙ୍କ"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "ଆଜାରିଯା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:03.087669611Z",
+  "model": "glm-5.3"
+}

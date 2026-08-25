@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 33:18",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଆଉ ⟨ସେ⟩ କହିଲେ: ମୋତେ ତୁମ୍ଭର କାଭୋଦ୍ ଦେଖାଅ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "ମୋତେ ଦେଖାଅ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "କାଭୋଦ୍‌କୁ"
+    },
+    {
+      "surface": "כבדך",
+      "gloss": "ତୁମ୍ଭର କାଭୋଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T08:27:35.765778985Z",
+  "model": "glm-5.3"
+}

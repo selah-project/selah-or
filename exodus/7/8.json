@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ଯାହ୍ୱେ ମୋଶେ ଓ ଅହରୋନଙ୍କୁ କହିଲେ, କହିବାକୁ ଯାହା।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ଙ୍କୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯାହା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:01:13.565327570Z",
+  "model": "glm-5.3"
+}

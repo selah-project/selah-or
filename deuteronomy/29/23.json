@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଏବଂ କହିବେ ସମସ୍ତ ଜାତି — କାହିଁକି ଏପରି କଲେ ଯାହ୍ୱେ ଏହି ଦେଶ ପ୍ରତି? କଣ ଏହି ମହାନ କ୍ରୋଧର ଉଗ୍ରତାପ?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "ଏବଂ କହିବେ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "ଜାତି"
+    },
+    {
+      "surface": "על",
+      "gloss": "ବିଷୟରେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କାହିଁକି"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "କଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "ଏପରି"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "ଦେଶ ପ୍ରତି"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କଣ"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "ଉଗ୍ରତାପ"
+    },
+    {
+      "surface": "האף",
+      "gloss": "କ୍ରୋଧର"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ମହାନ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T10:02:14.050179535Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 1:12",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ମୁଁ କିପରି ଏକୁଟିଆ ତୁମ୍ଭର ଭାର, ତୁମ୍ଭର ବୋଝ ଓ ତୁମ୍ଭର ବିବାଦ ବହନ କରିବି?",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "କିପରି"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "ମୁଁ ବହନ କରିବି"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "ଏକୁଟିଆ"
+    },
+    {
+      "surface": "טרחכם",
+      "gloss": "ତୁମ୍ଭର ଭାର"
+    },
+    {
+      "surface": "ומשאכם",
+      "gloss": "ଓ ତୁମ୍ଭର ବୋଝ"
+    },
+    {
+      "surface": "וריבכם",
+      "gloss": "ଓ ତୁମ୍ଭର ବିବାଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:36:32.337862857Z",
+  "model": "glm-5.3"
+}

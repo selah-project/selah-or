@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଓ ବର୍ଷା ପୃଥିବୀ ଉପରେ ଚାଳିଶ ଦିନ ଓ ଚାଳିଶ ରାତି ହେଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଓ ... ହେଲା"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ବର୍ଷା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ପୃଥିବୀ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "ଚାଳିଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "ଓ ଚାଳିଶ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତି"
+    }
+  ],
+  "timestamp": "2026-08-25T07:20:41.982581955Z",
+  "model": "glm-5.3"
+}

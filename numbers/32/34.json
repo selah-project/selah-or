@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 32,
+  "translation": "ଆଉ ଗାଦର ପୁତ୍ରମାନେ ⟨את⟩ ଦିବୋନ, ଏବଂ ⟨את⟩ ଅତାରୋତ, ଏବଂ ⟨את⟩ ଅରୋଏର ନିର୍ମାଣ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "ନିର୍ମାଣ କଲେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ଗାଦର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଦିବୋନ"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ଦିବୋନ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅତାରୋତ"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "ଅତାରୋତ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଏବଂ ⟨את⟩",
+      "marks": "ଅରୋଏର"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "ଅରୋଏର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:32:30.233487215Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "ପ୍ରାୟ ପ୍ରାୟ ସମସ୍ତ ମନ୍ଦରେ ମୁଁ ପଡ଼ିଗଲି, ସଭା ଓ ସମାବେଶ ମଧ୍ୟରେ।",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "ପ୍ରାୟ ପ୍ରାୟ"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "ମୁଁ ହେଲି"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦରେ"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "ସଭା"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "ଓ ସମାବେଶ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:59:59.716188211Z",
+  "model": "glm-5.3"
+}

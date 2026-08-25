@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 11:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଛଳନାର ତକ୍ରା ଯାହ୍ୱେଙ୍କ ନିକଟରେ ଘୃଣିତ, ଆଉ ଅଖଣ୍ଡ ପଥର ତାହାଙ୍କ ପ୍ରୀତି।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "ତକ୍ରା"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "ଛଳନାର"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "ଘୃଣିତ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ ନିକଟରେ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "ଆଉ ପଥର"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଅଖଣ୍ଡ"
+    },
+    {
+      "surface": "רצונו",
+      "gloss": "ତାହାଙ୍କ ପ୍ରୀତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:23.771266229Z",
+  "model": "glm-5.3"
+}

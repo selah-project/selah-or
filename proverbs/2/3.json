@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 2:3",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ବରଂ ଯଦି ତୁମେ ବିବେକକୁ ଡାକୁଅ, ବୁଦ୍ଧି ପାଇଁ ତୁମର ସ୍ୱର ଦିଅ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "לבינה",
+      "gloss": "ବିବେକକୁ"
+    },
+    {
+      "surface": "תקרא",
+      "gloss": "ଡାକୁଅ"
+    },
+    {
+      "surface": "לתבונה",
+      "gloss": "ବୁଦ୍ଧି ପାଇଁ"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "ତୁମର ସ୍ୱର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:34:13.473414929Z",
+  "model": "glm-5.3"
+}

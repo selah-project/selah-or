@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "exodus 21:33",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଆଉ ଯଦି ଜଣେ ଲୋକ ଗୋଟିଏ ଗାତ ଖୋଲେ, କିମ୍ବା ଯଦି ଜଣେ ଲୋକ ଗାତ ଖୋଳେ ଓ ତାହାକୁ ନ ଘୋଡ଼ାଏ, ଆଉ ଗୋଟିଏ ବଳଦ କିମ୍ବା ଗଧ ସେଥିରେ ପଡ଼େ —",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "ଖୋଲେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "ଗାତ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "יכרה",
+      "gloss": "ଖୋଳେ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ଜଣେ ଲୋକ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ଗାତ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଓ ନ"
+    },
+    {
+      "surface": "יכסנו",
+      "gloss": "ଘୋଡ଼ାଏ"
+    },
+    {
+      "surface": "ונפל",
+      "gloss": "ଆଉ ପଡ଼େ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ସେଥିରେ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "או",
+      "gloss": "କିମ୍ବା"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ଗଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:15:37.309685481Z",
+  "model": "glm-5.3"
+}

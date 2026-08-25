@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଲାଖିଶ୍, ବାତ୍ସକାତ୍, ଏଗ୍ଲୋନ୍,",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "ଲାଖିଶ୍"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "ବାତ୍ସକାତ୍"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "ଏଗ୍ଲୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T10:18:53.964452982Z",
+  "model": "glm-5.3"
+}

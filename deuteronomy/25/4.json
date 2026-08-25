@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ତା' ଦଳନ ସମୟରେ ବଳଦର ମୁଖ ତୁମେ ବନ୍ଧ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ବନ୍ଧ କରିବ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ତା' ଦଳନ ସମୟରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:58:06.692430360Z",
+  "model": "glm-5.3"
+}

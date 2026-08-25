@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଓ ମଧ୍ୟ ଶଲୋମୋ ରାଜ୍ୟର ସିଂହାସନ ଉପରେ ବସିଅଛନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "ଓ ମଧ୍ୟ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "ବସିଅଛନ୍ତି"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ଶଲୋମୋ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "ସିଂହାସନ"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "ରାଜ୍ୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T11:33:52.339993343Z",
+  "model": "glm-5.3"
+}

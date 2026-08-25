@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 12:1",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଶିକ୍ଷାକୁ ପ୍ରେମ କରେ ଜ୍ଞାନକୁ ପ୍ରେମ କରେ, କିନ୍ତୁ ତାଡ଼ନାକୁ ଘୃଣା କରେ ନିର୍ବୋଧ।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ଶିକ୍ଷା"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "ପ୍ରେମ କରେ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "ושנא",
+      "gloss": "କିନ୍ତୁ ଘୃଣା କରେ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ତାଡ଼ନା"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ନିର୍ବୋଧ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:06:10.690688146Z",
+  "model": "glm-5.3"
+}

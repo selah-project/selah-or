@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 114:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 114,
+  "translation": "ସମୁଦ୍ର ଦେଖି ପଳାଇଗଲା, ୟାର୍ଦ୍ଦେନ୍ ପଶ୍ଚାତକୁ ଓଲଟିଗଲା।",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "ସମୁଦ୍ର"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖିଲା"
+    },
+    {
+      "surface": "וינס",
+      "gloss": "ପଳାଇଗଲା"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "ୟାର୍ଦ୍ଦେନ୍"
+    },
+    {
+      "surface": "יסב",
+      "gloss": "ଓଲଟିଗଲା"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "ପଶ୍ଚାତକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:42:09.445911857Z",
+  "model": "glm-5.3"
+}

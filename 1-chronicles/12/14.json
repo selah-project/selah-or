@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ୟିର୍ମିୟାହୁ ଦଶମ; ମଖବନାଇ ଏକାଦଶ।",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ୟିର୍ମିୟାହୁ"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "ଦଶମ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "ମଖବନାଇ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "ଏକାଦଶ-"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ମ"
+    }
+  ],
+  "timestamp": "2026-08-25T20:02:32.443879339Z",
+  "model": "glm-5.3"
+}

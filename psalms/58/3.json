@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 58:3",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 58,
+  "translation": "ବରଂ ହୃଦୟରେ ⟨ତୁମ୍ଭେମାନେ⟩ ଅନ୍ୟାୟ କରୁଛ; ପୃଥିବୀରେ ତୁମ୍ଭ ହାତର ହିଂସା ମାପୁଛ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "ବରଂ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ହୃଦୟରେ"
+    },
+    {
+      "surface": "עולת",
+      "gloss": "ଅନ୍ୟାୟ"
+    },
+    {
+      "surface": "ତପାଲୁନ",
+      "gloss": "କରୁଛ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ପୃଥିବୀରେ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ହିଂସା"
+    },
+    {
+      "surface": "ידיכם",
+      "gloss": "ତୁମ୍ଭ ହାତର"
+    },
+    {
+      "surface": "ତପଲସୁନ",
+      "gloss": "ମାପୁଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:12:25.590322500Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 3:19",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଓ ଏହି ସ୍ତ୍ରୀର ପୁତ୍ର ରାତ୍ରିରେ ମରିଗଲା, କାରଣ ସେ ତାହା ଉପରେ ଶୋଇଥିଲା।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ଓ ମରିଗଲା"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "ସ୍ତ୍ରୀର"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "ରାତ୍ରିରେ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "שכבה",
+      "gloss": "ଶୋଇଥିଲା"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "ତାହା ଉପରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:35:41.510076232Z",
+  "model": "glm-5.3"
+}

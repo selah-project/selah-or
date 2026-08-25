@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଆଉ ⟨את⟩ ୟେବୁସୀ, ⟨את⟩ ଏମୋରୀ ଓ ⟨את⟩ ଗିର୍‌ଗାଶୀ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ୟେବୁସୀ"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "ୟେବୁସୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଏମୋରୀ"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ଏମୋରୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ଗିର୍‌ଗାଶୀ"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "ଗିର୍‌ଗାଶୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:53.209398209Z",
+  "model": "glm-5.3"
+}

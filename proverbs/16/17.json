@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 16:17",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ସଳଖ ହୃଦୟ ଲୋକଙ୍କ ମହାପଥ ମନ୍ଦରୁ ଦୂରେଇ ଯାଏ; ନିଜ ପ୍ରାଣର ରକ୍ଷକ ନିଜ ପଥ ପହରା ଦିଏ।",
+  "tokens": [
+    {
+      "surface": "מסלת",
+      "gloss": "ମହାପଥ"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "ସଳଖ ହୃଦୟ ଲୋକଙ୍କ"
+    },
+    {
+      "surface": "סור",
+      "gloss": "ଦୂରେଇ ଯାଏ"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ମନ୍ଦରୁ"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "ରକ୍ଷକ"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ନିଜ ପ୍ରାଣର"
+    },
+    {
+      "surface": "נצר",
+      "gloss": "ପହରା ଦିଏ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "ନିଜ ପଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:08:38.274817852Z",
+  "model": "glm-5.3"
+}

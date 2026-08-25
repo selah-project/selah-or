@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏସାବର ପୁତ୍ରମାନେ — ଏଲିଫାଜ୍, ରେଉଏଲ୍, ୟିଉଶ୍, ୟାଲାମ୍ ଓ କୋରାଖ୍।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ଏସାବର"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "ଏଲିଫାଜ୍"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "ରେଉଏଲ୍"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "ୟିଉଶ୍"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "ୟାଲାମ୍"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "ଓ କୋରାଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:57.631707837Z",
+  "model": "glm-5.3"
+}

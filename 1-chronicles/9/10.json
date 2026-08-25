@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଆଉ ଯାଜକମାନଙ୍କ ମଧ୍ୟରୁ ଯେଦାୟା, ୟେହୋୟାରିବ ଓ ୟାଖିନ୍।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "ଆଉ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ଯାଜକମାନଙ୍କ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ଯେଦାୟା"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "ୟେହୋୟାରିବ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "ୟାଖିନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:58:39.421490978Z",
+  "model": "glm-5.3"
+}

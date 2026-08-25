@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 14:27",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଓ ଯାଜକ ଯାହା ତାହାର ବାଆଁ କରତଳ ଉପରେ ଅଛି ସେହି ତୈଳରୁ ନିଜ ଡାହାଣ ଆଙ୍ଗୁଳିରେ ୟାହ୍ୱେଙ୍କ ସାମ୍ନାରେ ସାତ ଥର ଛିଞ୍ଚିବ।",
+  "tokens": [
+    {
+      "surface": "והזה",
+      "gloss": "ଓ ଛିଞ୍ଚିବ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ଯାଜକ"
+    },
+    {
+      "surface": "באצבעו",
+      "gloss": "ଆଙ୍ଗୁଳିରେ"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ଡାହାଣ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "ତୈଳ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "כפו",
+      "gloss": "କରତଳ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ବାଆଁ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ଥର"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ୟାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:48:07.828660121Z",
+  "model": "glm-5.3"
+}

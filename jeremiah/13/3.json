@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 13:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ପୁଣି ଯାହ୍ୱେଙ୍କ ବାକ୍ୟ ଦ୍ୱିତୀୟ ଥର ମୋ ପାଖକୁ ଆସିଲା, କହିବାକୁ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେଙ୍କ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ମୋ ପାଖକୁ"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "ଦ୍ୱିତୀୟ ଥର"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:47:39.994825589Z",
+  "model": "glm-5.3"
+}

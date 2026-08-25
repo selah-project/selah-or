@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 12:28",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଧାର୍ମିକତାର ପଥରେ ଜୀବନ ⟨ଅଛି⟩, ଆଉ ତାହାର ବାଟରେ ମୃତ୍ୟୁ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בארח",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ଧାର୍ମିକତାର"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "ଆଉ ତାହାର"
+    },
+    {
+      "surface": "נתיבה",
+      "gloss": "ବାଟରେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ମୃତ୍ୟୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:05:03.821675972Z",
+  "model": "glm-5.3"
+}

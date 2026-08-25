@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଯୁଦ୍ଧର ଅସ୍ତ୍ରଠାରୁ ଜ୍ଞାନ ଉତ୍ତମ; ଆଉ ଗୋଟିଏ ପାପୀ ଅନେକ ମଙ୍ଗଳ ନଷ୍ଟ କରିଦିଏ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ଜ୍ଞାନ"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "ଅସ୍ତ୍ରଠାରୁ"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "ଯୁଦ୍ଧର"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "ଆଉ ... ପାପୀ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ନଷ୍ଟ କରିଦିଏ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "ଅନେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:01:07.596374918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "deuteronomy 28:28",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 28,
+  "translation": "ଯାହ୍ୱେ ତୁମ୍ଭକୁ ଉନ୍ମାଦନା, ଅନ୍ଧତା ଓ ହୃଦୟର ବିମୂଢତାରେ ଆକ୍ରାନ୍ତ କରିବେ।",
+  "tokens": [
+    {
+      "surface": "יככה",
+      "gloss": "ଆକ୍ରାନ୍ତ କରିବେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "בשגעון",
+      "gloss": "ଉନ୍ମାଦନାରେ"
+    },
+    {
+      "surface": "ובעורון",
+      "gloss": "ଓ ଅନ୍ଧତାରେ"
+    },
+    {
+      "surface": "ובתמהון",
+      "gloss": "ଓ ବିମୂଢତାରେ"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ହୃଦୟର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:00:44.215213947Z",
+  "model": "glm-5.3"
+}

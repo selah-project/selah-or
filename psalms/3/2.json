@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 3:2",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ଯାହ୍ୱେ, ମୋର ଶତ୍ରୁମାନେ କେତେ ବଢ଼ିଗଲେ! ମୋ ବିରୁଦ୍ଧରେ ଉଠୁଥିବାବାଲୋକ ବହୁ।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କେତେ"
+    },
+    {
+      "surface": "רבו",
+      "gloss": "ବଢ଼ିଗଲେ"
+    },
+    {
+      "surface": "צרי",
+      "gloss": "ମୋର ଶତ୍ରୁମାନେ"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ବହୁ"
+    },
+    {
+      "surface": "קמים",
+      "gloss": "ଉଠୁଥିବା"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ ବିରୁଦ୍ଧରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:43:14.245963279Z",
+  "model": "glm-5.3"
+}

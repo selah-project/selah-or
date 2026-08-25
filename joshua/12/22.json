@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "କେଦେଶର ରାଜା ଜଣେ; କାର୍ମେଲର ୟୋକ୍ନେଆମର ରାଜା ଜଣେ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "କେଦେଶର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "ୟୋକ୍ନେଆମର"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "କାର୍ମେଲର"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ଜଣେ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:15:53.972860153Z",
+  "model": "glm-5.3"
+}

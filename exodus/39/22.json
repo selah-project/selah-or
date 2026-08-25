@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 39:22",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 39,
+  "translation": "ଓ ସେ ଏଫଦର ଲୁଗା ⟨את⟩ ତିଆରି କଲେ — ବୁଣା-କାମ, ସମ୍ପୂର୍ଣ୍ଣ ନୀଳ।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "ତିଆରି କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଏଫଦର ଲୁଗା"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "ଲୁଗା"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "ଏଫଦର"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "କାମ"
+    },
+    {
+      "surface": "ארג",
+      "gloss": "ବୁଣା"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ସମ୍ପୂର୍ଣ୍ଣ"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "ନୀଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T08:33:35.826518129Z",
+  "model": "glm-5.3"
+}

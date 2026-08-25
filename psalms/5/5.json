@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 5,
+  "translation": "କାରଣ ଅସତ୍‌କାର୍ଯ୍ୟ ଇଚ୍ଛୁକ ଏଲ୍ ତୁମ୍ଭେ ନୁହଁ; ମନ୍ଦ ତୁମ୍ଭ ପାଖରେ ବାସ କରିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନୁହଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ଇଚ୍ଛୁକ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଅସତ୍‌କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମ୍ଭେ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "ତୁମ୍ଭ ପାଖରେ ବାସ କରିବ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ମନ୍ଦ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:43:08.963914536Z",
+  "model": "glm-5.3"
+}

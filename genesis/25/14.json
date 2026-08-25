@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 25,
+  "translation": "ଓ ମିଶ୍‌ମା, ଓ ଦୁମା, ଓ ମାସା।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "ଓ ମିଶ୍‌ମା"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "ଓ ଦୁମା"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "ଓ ମାସା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:45:52.375178522Z",
+  "model": "glm-5.3"
+}

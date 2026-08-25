@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ ଯାହ୍ୱେ ମୋଶେ ପ୍ରତି ଓ ଅହରୋନଙ୍କ ପ୍ରତି କହିଲେ, କହିବାକୁ ଯେ।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "ଓ କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ପ୍ରତି"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନଙ୍କ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଯେ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:15:07.881827546Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 21,
+  "translation": "ଭଲ ଅଟେ ବସିବା ଉପରେ କୋଣରେ ଛାତର — ଝଗଡ଼ାଖୋର ସ୍ତ୍ରୀ ଓ ମିଳିତ ଘରଠାରୁ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ଭଲ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "ବସିବା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "କୋଣରେ"
+    },
+    {
+      "surface": "גג",
+      "gloss": "ଛାତର"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "ସ୍ତ୍ରୀଠାରୁ"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "ଝଗଡ଼ାଖୋର"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "ଓ ଘର"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "ମିଳିତ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:10:54.839523289Z",
+  "model": "glm-5.3"
+}

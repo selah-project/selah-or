@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 38,
+  "translation": "ଆଉ ତା'‌ପ୍ରସବ ସମୟ ଆସିବାବେଳେ, ଦେଖ, ତା'‌ଗର୍ଭରେ ଯାଆଁଳା ଥିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ଆଉ…ହେଲା"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "…ସମୟରେ"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "ତା'‌ପ୍ରସବ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "ଆଉ ଦେଖ"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "ଯାଆଁଳା"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "…ଗର୍ଭରେ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:47:09.919227189Z",
+  "model": "glm-5.3"
+}

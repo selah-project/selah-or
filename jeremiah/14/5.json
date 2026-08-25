@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "କାରଣ ସାକ୍ଷାତ୍ ମୟୂରୀ-ହରିଣୀ ମଧ୍ୟ କ୍ଷେତ୍ରରେ ପ୍ରସବ କଲା ଓ ଛାଡ଼ି ଗଲା, କାରଣ ଘାସ ନଥିଲା।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ସାକ୍ଷାତ୍\/ମଧ୍ୟ"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "ହରିଣୀ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "କ୍ଷେତ୍ରରେ"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "ପ୍ରସବ କଲା"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "ଓ ଛାଡ଼ି ଗଲା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ଥିଲା"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "ଘାସ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:46:07.813264026Z",
+  "model": "glm-5.3"
+}

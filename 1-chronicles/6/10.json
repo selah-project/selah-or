@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ଏଲକାନାଙ୍କ ପୁତ୍ରମାନେ ⟨ହିଁ⟩ — ଆମାସାଇ ଓ ଆହିମୋତ୍।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ଆଉ … ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "ଏଲକାନାଙ୍କ"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "ଆମାସାଇ"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "ଓ ଆହିମୋତ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:52.044520105Z",
+  "model": "glm-5.3"
+}

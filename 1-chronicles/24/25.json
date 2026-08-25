@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 24,
+  "translation": "ମିଖାହର ଭାଇ — ୟିଶୟିୟାହ୍; ୟିଶୟିୟାହର ପୁତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ — ଜେଖରିୟା।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "ମିଖା"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ୟିଶୟିୟାହ୍"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ପୁତ୍ରମାନଙ୍କ ମଧ୍ୟରୁ"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "ୟିଶୟିୟାହର"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "ଜେଖରିୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T20:08:05.928455713Z",
+  "model": "glm-5.3"
+}

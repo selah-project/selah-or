@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ଆଉ ଶୂହାର ଭାଇ କେଲୁବ ⟨את⟩ ମେହିରଙ୍କୁ ଜନ୍ମ କଲେ; ସେ ଏଶ୍ତୋନର ପିତା।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "ଆଉ କେଲୁବ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "ଭାଇ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ଶୂହା"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ଜନ୍ମ କଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ମେହିରଙ୍କୁ"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "ମେହିର"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ସେ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "ପିତା"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "ଏଶ୍ତୋନର"
+    }
+  ],
+  "timestamp": "2026-08-25T19:54:33.794174778Z",
+  "model": "glm-5.3"
+}

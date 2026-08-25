@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 13,
+  "translation": "ୟୋସେଫଙ୍କ ଗୋଷ୍ଠୀରୁ, ଅର୍ଥାତ୍ ମନାଶ୍ଶେହ ଗୋଷ୍ଠୀରୁ — ସୁସିଙ୍କ ପୁତ୍ର ଗାଦ୍ଦି।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "ୟୋସେଫ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "ଗୋଷ୍ଠୀରୁ"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "ମନାଶ୍ଶେହ"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "ଗାଦ୍ଦି"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "ସୁସି"
+    }
+  ],
+  "timestamp": "2026-08-25T09:12:19.714375956Z",
+  "model": "glm-5.3"
+}

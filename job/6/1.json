@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 6:1",
+  "book": "job",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଓ ଇୟୋବ୍ ଉତ୍ତର ଦେଲେ ଓ କହିଲେ।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ଓ ଉତ୍ତର ଦେଲେ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ଇୟୋବ୍"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ କହିଲେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:23:05.719048038Z",
+  "model": "glm-5.3"
+}

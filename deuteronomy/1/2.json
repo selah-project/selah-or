@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏଗାରଟି ଦିନ ହୋରେବରୁ ଶେୟିର୍ ପର୍ବତର ପଥ ଦେଇ କାଦେଶ୍-ବାର୍ନେଆ ପର୍ଯ୍ୟନ୍ତ।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "ଏକ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "ହୋରେବରୁ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ପଥ ଦେଇ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ପର୍ବତ"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "ଶେୟିର୍"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ପର୍ଯ୍ୟନ୍ତ"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "କାଦେଶ୍-"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "ବାର୍ନେଆ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:38:59.422688131Z",
+  "model": "glm-5.3"
+}

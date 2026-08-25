@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 46,
+  "translation": "ସାରିବାଣ ଓ ବଡ଼ ଢାଲ ସଜାଅ, ଆଉ ଯୁଦ୍ଧ ନିମନ୍ତେ ନିକଟକୁ ଆସ ।",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "ସଜାଅ"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ସାରିବାଣ"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "ଓ ବଡ଼ ଢାଲ"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "ଆଉ ନିକଟକୁ ଆସ"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "ଯୁଦ୍ଧ ନିମନ୍ତେ"
+    }
+  ],
+  "timestamp": "2026-08-25T22:48:33.804694114Z",
+  "model": "glm-5.3"
+}

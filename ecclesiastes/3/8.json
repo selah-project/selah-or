@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "ପ୍ରେମ କରିବା ପାଇଁ ସମୟ, ଆଉ ଘୃଣା କରିବା ପାଇଁ ସମୟ; ଯୁଦ୍ଧର ସମୟ, ଆଉ ଶାନ୍ତିର ସମୟ।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ପ୍ରେମ କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ଘୃଣା କରିବା ପାଇଁ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "ସମୟ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "ଯୁଦ୍ଧ"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "ଆଉ ... ସମୟ"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ଶାନ୍ତି"
+    }
+  ],
+  "timestamp": "2026-08-25T18:58:56.592022935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 1:16",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ବତ୍-ଶେବା ମୁଣ୍ଡ ହଲାଇ ପ୍ରଣିପାତ କଲେ; ରାଜା କହିଲେ — ତୁମ କ’ଣ?",
+  "tokens": [
+    {
+      "surface": "ותקד",
+      "gloss": "ମୁଣ୍ଡ ହଲାଇ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ବତ୍-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "ଶେବା"
+    },
+    {
+      "surface": "ותשתחו",
+      "gloss": "ପ୍ରଣିପାତ କଲେ"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "ରାଜାଙ୍କ ନିକଟରେ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "ଏବଂ କହିଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "מה",
+      "gloss": "କ’ଣ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:33:13.888445459Z",
+  "model": "glm-5.3"
+}

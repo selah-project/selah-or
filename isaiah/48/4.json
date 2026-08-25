@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 48:4",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 48,
+  "translation": "ମୁଁ ଜାଣିଥିବାରୁ ଯେ ତୁମେ କଠିନ, ଏବଂ ତୁମ ଡୋରି ଲୁହାର, ଏବଂ ତୁମ କପାଳ ପିତ୍ତଳ।",
+  "tokens": [
+    {
+      "surface": "מדעתי",
+      "gloss": "ମୁଁ ଜାଣିଥିବାରୁ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "କଠିନ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "וגיד",
+      "gloss": "ଏବଂ ଡୋରି"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "ଲୁହାର"
+    },
+    {
+      "surface": "ערפך",
+      "gloss": "ତୁମ ଡୋରି"
+    },
+    {
+      "surface": "ומצחך",
+      "gloss": "ଏବଂ ତୁମ କପାଳ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ପିତ୍ତଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T13:07:02.966253760Z",
+  "model": "glm-5.3"
+}

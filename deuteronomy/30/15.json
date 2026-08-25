@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଦେଖ, ମୁଁ ଆଜି ତୁମ ସାମ୍ନାରେ ରଖିଅଛି ⟨את⟩ ଜୀବନ ଓ ⟨את⟩ ମଙ୍ଗଳକୁ, ଓ ⟨את⟩ ମୃତ୍ୟୁ ଓ ⟨את⟩ ଅମଙ୍ଗଳକୁ।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ମୁଁ ରଖିଅଛି"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "ତୁମ ସାମ୍ନାରେ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ଆଜି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜୀବନ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "ମଙ୍ଗଳ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ମୃତ୍ୟୁ"
+    },
+    {
+      "surface": "המות",
+      "gloss": "ମୃତ୍ୟୁ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଓ ⟨את⟩",
+      "marks": "ଅମଙ୍ଗଳ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "ଅମଙ୍ଗଳ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:01:56.909401302Z",
+  "model": "glm-5.3"
+}

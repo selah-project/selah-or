@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଦେଖ, ଛୋଟ କରିଛି ମୁଁ ତୁମକୁ ଜାତିମାନଙ୍କ ମଧ୍ୟରେ; ଅତ୍ୟନ୍ତ ତୁଚ୍ଛ ତୁମେ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "ଛୋଟ"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "ମୁଁ ତୁମକୁ କରିଛି"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "ଜାତିମାନଙ୍କ ମଧ୍ୟରେ"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "ତୁଚ୍ଛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ଅତ୍ୟନ୍ତ"
+    }
+  ],
+  "timestamp": "2026-08-25T16:12:40.676799227Z",
+  "model": "glm-5.3"
+}

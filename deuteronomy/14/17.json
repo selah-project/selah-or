@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "or",
+  "chapter": 14,
+  "translation": "ଆଉ କାଆତ୍ ପକ୍ଷୀ, ଆଉ ⟨את⟩ ରାଖାମା, ଆଉ ⟨את⟩ ଶାଲାଖ୍।",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "ଆଉ କାଆତ୍ ପକ୍ଷୀ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ରାଖାମା"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "ରାଖାମା"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "ଆଉ ⟨את⟩",
+      "marks": "ଶାଲାଖ୍"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "ଶାଲାଖ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T09:48:07.997621734Z",
+  "model": "glm-5.3"
+}

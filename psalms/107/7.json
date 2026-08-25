@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 107:7",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 107,
+  "translation": "ଓ ସେ ସେମାନଙ୍କୁ ସିଧା ପଥରେ ଚାଳନା କଲେ, ବାସସ୍ଥାନ ନଗରକୁ ଯିବା ପାଇଁ।",
+  "tokens": [
+    {
+      "surface": "וידריכם",
+      "gloss": "ଓ ସେ ସେମାନଙ୍କୁ ଚାଳନା କଲେ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ପଥରେ"
+    },
+    {
+      "surface": "ישרה",
+      "gloss": "ସିଧା"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "ଯିବା ପାଇଁ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "କୁ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "מושב",
+      "gloss": "ବାସସ୍ଥାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:33:44.574969861Z",
+  "model": "glm-5.3"
+}

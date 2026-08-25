@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 6:8",
+  "book": "hosea",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଗିଲ୍‌ଅଦ ଅନର୍ଥକାରୀମାନଙ୍କ ନଗର, ରକ୍ତରୁ ପାଦଚିହ୍ନଯୁକ୍ତ।",
+  "tokens": [
+    {
+      "surface": "גלעד",
+      "gloss": "ଗିଲ୍‌ଅଦ"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "ନଗର"
+    },
+    {
+      "surface": "פעלי",
+      "gloss": "କାରୀମାନଙ୍କ"
+    },
+    {
+      "surface": "און",
+      "gloss": "ଅନର୍ଥ"
+    },
+    {
+      "surface": "עקבה",
+      "gloss": "ପାଦଚିହ୍ନଯୁକ୍ତ"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "ରକ୍ତରୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:51:45.507237866Z",
+  "model": "glm-5.3"
+}

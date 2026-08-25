@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 1:19",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଏବଂ ସନ୍ଧ୍ୟା ହେଲା, ଏବଂ ପ୍ରଭାତ ହେଲା — ଚତୁର୍ଥ ଦିବସ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ସନ୍ଧ୍ୟା"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "ହେଲା"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "ପ୍ରଭାତ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିବସ"
+    },
+    {
+      "surface": "רביעי",
+      "gloss": "ଚତୁର୍ଥ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:16:23.537390790Z",
+  "model": "glm-5.3"
+}

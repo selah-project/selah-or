@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ବେତ୍‌ସେର୍, ହୋଦ୍, ଶାମ୍ମା, ଶିଲ୍‌ଶା, ଇଥ୍ରାନ୍ ଓ ବେଏରା।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "ବେତ୍‌ସେର୍"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "ହୋଦ୍"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "ଶାମ୍ମା"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "ଶିଲ୍‌ଶା"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "ଇଥ୍ରାନ୍"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "ବେଏରା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:56:10.568943622Z",
+  "model": "glm-5.3"
+}

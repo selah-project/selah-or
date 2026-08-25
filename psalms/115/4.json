@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 115,
+  "translation": "ସେମାନଙ୍କ ପ୍ରତିମାଗୁଡ଼ିକ ରୂପା ଓ ସୁନା — ମଣିଷ ହାତର କାର୍ଯ୍ୟ।",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "ସେମାନଙ୍କ ପ୍ରତିମାଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "ରୂପା"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "ଓ ସୁନା"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "ହାତର"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ମଣିଷ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:41:27.023155575Z",
+  "model": "glm-5.3"
+}

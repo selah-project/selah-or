@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "or",
+  "chapter": 15,
+  "translation": "ଯାହ୍ୱେ ମୋଶେ ଓ ଅହରୋନ୍‌ଙ୍କୁ କହିଲେ, କହିବାକୁ ଏହା କଥା —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "କହିଲେ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଙ୍କୁ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ମୋଶେ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "ଓ ଙ୍କୁ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "ଅହରୋନ୍"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ ଏହା କଥା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:47:14.497379872Z",
+  "model": "glm-5.3"
+}

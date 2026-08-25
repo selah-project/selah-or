@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 22,
+  "translation": "ଧନୀ ଓ ଦରିଦ୍ର ଭେଟନ୍ତି; ସେମାନଙ୍କ ସମସ୍ତଙ୍କ ସ୍ରଷ୍ଟା ଯାହ୍ୱେ।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "ଧନୀ"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "ଓ ଦରିଦ୍ର"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "ଭେଟନ୍ତି"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ସ୍ରଷ୍ଟା"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ସେମାନଙ୍କ ସମସ୍ତଙ୍କ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:11:43.202202633Z",
+  "model": "glm-5.3"
+}

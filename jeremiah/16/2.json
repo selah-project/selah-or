@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 16:2",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 16,
+  "translation": "ନିଜ ପାଇଁ ⟨ଏକ⟩ ସ୍ତ୍ରୀ ନେବ ନାହିଁ, ଆଉ ଏହି ସ୍ଥାନରେ ତୁମ ପାଇଁ ପୁତ୍ର ଓ କନ୍ୟା ହେବେ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "ନେବ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ନିଜ ପାଇଁ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ଆଉ ନାହିଁ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "ହେବେ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ତୁମ ପାଇଁ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "ଓ କନ୍ୟା"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ଏହି ସ୍ଥାନରେ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "ଏହି"
+    }
+  ],
+  "timestamp": "2026-08-25T13:49:44.165272883Z",
+  "model": "glm-5.3"
+}

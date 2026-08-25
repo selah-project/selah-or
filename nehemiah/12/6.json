@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "or",
+  "chapter": 12,
+  "translation": "ଶେମାୟା, ୟୋୟାରିବ୍, ୟେଦାୟା।",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "ଶେମାୟା"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "ୟୋୟାରିବ୍"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "ୟେଦାୟା"
+    }
+  ],
+  "timestamp": "2026-08-25T19:48:32.172706935Z",
+  "model": "glm-5.3"
+}

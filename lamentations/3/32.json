@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "lamentations 3:32",
+  "book": "lamentations",
+  "lang": "or",
+  "chapter": 3,
+  "translation": "କାରଣ ଯଦି ଦୁଃଖ ଦିଅନ୍ତି, ତଥାପି ତାହାଙ୍କ ଖେସେଦ୍‌ର ପ୍ରାଚୁର୍ଯ୍ୟ ଅନୁସାରେ ଦୟା କରନ୍ତି।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ଯଦି"
+    },
+    {
+      "surface": "הוגה",
+      "gloss": "ଦୁଃଖ ଦିଅନ୍ତି"
+    },
+    {
+      "surface": "ורחם",
+      "gloss": "ଦୟା କରନ୍ତି"
+    },
+    {
+      "surface": "כרב",
+      "gloss": "ପ୍ରାଚୁର୍ଯ୍ୟ ଅନୁସାରେ"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "ତାହାଙ୍କ ଖେସେଦ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T18:54:54.703161449Z",
+  "model": "glm-5.3"
+}

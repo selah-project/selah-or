@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 40,
+  "translation": "ଓ ସେ ⟨את⟩ ସୁନା ଯଜ୍ଞବେଦୀଟି ମିଳନ ତମ୍ବୁରେ ପରଦାର ସମ୍ମୁଖରେ ରଖିଲେ।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ସୁନା ଯଜ୍ଞବେଦୀଟି"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "ଯଜ୍ଞବେଦୀଟି"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "ତମ୍ବୁରେ"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "ମିଳନ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ସମ୍ମୁଖରେ"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "ପରଦାର"
+    }
+  ],
+  "timestamp": "2026-08-25T08:33:24.764297019Z",
+  "model": "glm-5.3"
+}

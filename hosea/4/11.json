@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "or",
+  "chapter": 4,
+  "translation": "ବ୍ୟଭିଚାର ଓ ଦ୍ରାକ୍ଷାରସ ଓ ନୂଆ ମଦ୍ୟ ହୃଦୟକୁ ନେଇଯାଏ।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "ବ୍ୟଭିଚାର"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "ଓ ଦ୍ରାକ୍ଷାରସ"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "ଓ ନୂଆ ମଦ୍ୟ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "ନେଇଯାଏ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T15:51:37.139984339Z",
+  "model": "glm-5.3"
+}

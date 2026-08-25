@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 10:19",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଅନେକ କଥାରେ ଅପରାଧ ବନ୍ଦ ହୁଏ ନାହିଁ, କିନ୍ତୁ ଯିଏ ⟨ଆପଣା⟩ ଓଠ ରୋକି ରଖେ, ସେ ବିବେକୀ।",
+  "tokens": [
+    {
+      "surface": "ברב",
+      "gloss": "ଅନେକ…ରେ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "କଥା"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחדל",
+      "gloss": "ବନ୍ଦ ହୁଏ"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "ଅପରାଧ"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "କିନ୍ତୁ ଯିଏ ରୋକି ରଖେ"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "ଆପଣା ଓଠ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "ବିବେକୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:03:03.922470873Z",
+  "model": "glm-5.3"
+}

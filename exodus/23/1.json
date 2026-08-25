@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "or",
+  "chapter": 23,
+  "translation": "ମିଥ୍ୟା ଖବର ଉଠାଇ ନାହିଁ; ହିଂସାର ସାକ୍ଷୀ ହେବାକୁ ଦୁଷ୍ଟଙ୍କ ସହ ହାତ ରଖିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "ଉଠାଇବ"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "ଖବର"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "ମିଥ୍ୟା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "ରଖିବ"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "ହାତ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "ଦୁଷ୍ଟ"
+    },
+    {
+      "surface": "להית",
+      "gloss": "ହେବାକୁ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ସାକ୍ଷୀ"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ହିଂସା"
+    }
+  ],
+  "timestamp": "2026-08-25T08:18:14.572572524Z",
+  "model": "glm-5.3"
+}

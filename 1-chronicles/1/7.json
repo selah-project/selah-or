@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 1:7",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ୟାୱାନର ପୁତ୍ରମାନେ: ଏଲୀଶା, ତର୍ଶୀଶା, କିତ୍ତୀମ ଓ ରୋଦାନୀମ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "יון",
+      "gloss": "ୟାୱାନର"
+    },
+    {
+      "surface": "אלישה",
+      "gloss": "ଏଲୀଶା"
+    },
+    {
+      "surface": "ותרשישה",
+      "gloss": "ତର୍ଶୀଶା"
+    },
+    {
+      "surface": "כתים",
+      "gloss": "କିତ୍ତୀମ"
+    },
+    {
+      "surface": "ורודנים",
+      "gloss": "ରୋଦାନୀମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:50:37.249535924Z",
+  "model": "glm-5.3"
+}

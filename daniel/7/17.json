@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଏହି ବଡ଼ ବଡ଼ ଜୀବଗଣ — ସେମାନେ ଚାରି — ଚାରି ରାଜା, ଯୱେ ପୃଥିବୀରୁ ଉଠିବେ।",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "ଜୀବ"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "ବଡ଼ ବଡ଼"
+    },
+    {
+      "surface": "די",
+      "gloss": "ଯୱେ"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ସେମାନେ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚାରି"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "ଉଠିବେ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "ରୁ"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "ପୃଥିବୀ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:23:53.232477418Z",
+  "model": "glm-5.3"
+}

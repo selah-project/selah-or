@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ମୁଁ ⟨ଜୀବନ⟩କୁ ଘୃଣା କଲି, କାରଣ ସୂର୍ଯ୍ୟ ତଳେ ହୋଇଥିବା କାର୍ଯ୍ୟ ମୋ ପ୍ରତି କ୍ରୂର; କାରଣ ସମସ୍ତ ହେବେଲ୍ ଓ ରୁଆଖର ଯନ୍ତ୍ରଣା।",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "ଓ ମୁଁ ଘୃଣା କଲି"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ଜୀବନ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ଜୀବନ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "କ୍ରୂର"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ମୋ ପ୍ରତି"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "କାର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "ହୋଇଥିବା"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ତଳେ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ସୂର୍ଯ୍ୟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "କାରଣ"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ସମସ୍ତ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ହେବେଲ୍"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "ଓ ଯନ୍ତ୍ରଣା"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ରୁଆଖର"
+    }
+  ],
+  "timestamp": "2026-08-25T18:59:24.913388491Z",
+  "model": "glm-5.3"
+}

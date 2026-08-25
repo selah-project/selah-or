@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଯାହ୍ୱେର ଆରକ୭ ପଲିଶ୍ତିମାନଙ୍କ ଦେଶରେ ସାତ ମାସ ରହିଲା।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "ରହିଲା"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "ଆରକ୭"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେର"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ଦେଶରେ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "ପଲିଶ୍ତିମାନଙ୍କ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "ମାସ"
+    }
+  ],
+  "timestamp": "2026-08-25T10:50:53.566788559Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ସେ ଅନୁଭବ କଲା ଯେ ତାହାର ବ୍ୟବସାୟ ଉତ୍ତମ; ରାତ୍ରିରେ ତାହାର ପ୍ରଦୀପ ଲିଭିବ ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "ଅନୁଭବ କଲା"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ଉତ୍ତମ"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "ତାହାର ବ୍ୟବସାୟ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "ଲିଭିବ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ରାତ୍ରିରେ"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "ତାହାର ପ୍ରଦୀପ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:31.571439521Z",
+  "model": "glm-5.3"
+}

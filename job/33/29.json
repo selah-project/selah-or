@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 33:29",
+  "book": "job",
+  "lang": "or",
+  "chapter": 33,
+  "translation": "ଦେଖ, ଏହି ସବୁ ଏଲ୍ କରନ୍ତି — ଦୁଇ ଥର, ତିନି ଥର, ଜଣେ ମନୁଷ୍ୟ ସହିତ।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "ଦେଖ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ସବୁ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "ଏହି"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "କରନ୍ତି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏଲ୍"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ଥର (ଦୁଇ)"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ସହିତ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ମନୁଷ୍ୟ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:40:25.727370469Z",
+  "model": "glm-5.3"
+}

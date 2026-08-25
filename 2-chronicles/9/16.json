@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 9:16",
+  "book": "2-chronicles",
+  "lang": "or",
+  "chapter": 9,
+  "translation": "ଓ ତିନି ଶହ ପିଟା ସୁନା କାତି — ତିନି ଶହ ⟨ଶେକେଲ୍⟩ ସୁନା ଗୋଟିଏ କାତି ଉପରେ ଉଠୁଥିଲା — ଓ ରାଜା ⟨ସେଗୁଡ଼ିକୁ⟩ ଲେବାନୋନ୍ ଜଙ୍ଗଲର ଗୃହରେ ରଖିଲେ।",
+  "tokens": [
+    {
+      "surface": "ושלש",
+      "gloss": "ଓ ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "מגנים",
+      "gloss": "କାତି"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "שחוט",
+      "gloss": "ପିଟା"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "ତିନି"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ଶହ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନା"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ଉଠୁଥିଲା"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "המגן",
+      "gloss": "କାତିଟି"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ଗୋଟିଏ"
+    },
+    {
+      "surface": "ויתנם",
+      "gloss": "ରଖିଲେ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ରାଜା"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ଗୃହରେ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "ଜଙ୍ଗଲର"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "ଲେବାନୋନ୍"
+    }
+  ],
+  "timestamp": "2026-08-25T21:43:28.650325068Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 31,
+  "translation": "ତାହାର ସ୍ୱାମୀର ହୃଦୟ ତାହା ଉପରେ ଭରସା କରେ, ଓ ଲୁଣ୍ଠନର ଅଭାବ ତାହାର ନାହିଁ।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ଭରସା କରେ"
+    },
+    {
+      "surface": "b",
+      "gloss": "ତାହା ଉପରେ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ହୃଦୟ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ତାହାର ସ୍ୱାମୀର"
+    },
+    {
+      "surface": "c\/7998",
+      "gloss": "ଓ ଲୁଣ୍ଠନର"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ନାହିଁ"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ଅଭାବ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:19:39.183614277Z",
+  "model": "glm-5.3"
+}

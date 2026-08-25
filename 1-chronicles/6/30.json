@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ହଶବିୟାର ପୁତ୍ର, ଅମାସିୟାର ପୁତ୍ର, ହିଲ୍‌କିୟାର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ହଶବିୟାର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "ଅମାସିୟାର"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ହିଲ୍‌କିୟାର"
+    }
+  ],
+  "timestamp": "2026-08-25T21:42:22.298905447Z",
+  "model": "glm-5.3"
+}

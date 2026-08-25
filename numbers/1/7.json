@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ୟେହୁଦା ପାଇଁ — ନାଖ୍‌ଶୋନ୍, ଅମ୍ମିନଦାବର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "ୟେହୁଦା ପାଇଁ"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "ନାଖ୍‌ଶୋନ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "ଅମ୍ମିନଦାବର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:40.753489865Z",
+  "model": "glm-5.3"
+}

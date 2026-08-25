@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 10:12",
+  "book": "ecclesiastes",
+  "lang": "or",
+  "chapter": 10,
+  "translation": "ଜ୍ଞାନୀଙ୍କ ମୁଖର ବଚନଗୁଡ଼ିକ ଅନୁଗ୍ରହମୟ; କିନ୍ତୁ ମୂର୍ଖର ଓଷ୍ଠ ତାକୁ ହଜମକରି ଦେବ।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ବଚନଗୁଡ଼ିକ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ମୁଖର"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ଜ୍ଞାନୀଙ୍କ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "ଅନୁଗ୍ରହମୟ"
+    },
+    {
+      "surface": "ושפתות",
+      "gloss": "କିନ୍ତୁ ... ଓଷ୍ଠ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ମୂର୍ଖର"
+    },
+    {
+      "surface": "תבלענו",
+      "gloss": "ତାକୁ ହଜମକରି ଦେବ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:02:01.450644012Z",
+  "model": "glm-5.3"
+}

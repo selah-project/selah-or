@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 6:22",
+  "book": "job",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ମୁଁ କ'ଣ କହିଲି — ମୋତେ ଦିଅ, କିମ୍ବା ତୁମ୍ଭର ବଳରୁ ମୋ ପାଇଁ ଘୂଷ ଦିଅ?",
+  "tokens": [
+    {
+      "surface": "הכי",
+      "gloss": "କ'ଣ"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ମୁଁ କହିଲି"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "ଦିଅ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋତେ"
+    },
+    {
+      "surface": "ומכחכם",
+      "gloss": "ତୁମ୍ଭର ବଳରୁ"
+    },
+    {
+      "surface": "שחדו",
+      "gloss": "ଘୂଷ ଦିଅ"
+    },
+    {
+      "surface": "בעדי",
+      "gloss": "ମୋ ପାଇଁ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:23:38.504092480Z",
+  "model": "glm-5.3"
+}

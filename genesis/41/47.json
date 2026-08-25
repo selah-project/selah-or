@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 41,
+  "translation": "ଆଉ ପ୍ରଚୁରତାର ସାତ ବର୍ଷରେ ⟨ଏହି⟩ ଦେଶ ମୁଠା ମୁଠା ଧାନ ଉତ୍ପାଦନ କଲା।",
+  "tokens": [
+    {
+      "surface": "ותעש",
+      "gloss": "ଆଉ ଉତ୍ପାଦନ କଲା"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ଦେଶ"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ବର୍ଷରେ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "ପ୍ରଚୁରତାର"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "ମୁଠା ମୁଠା"
+    }
+  ],
+  "timestamp": "2026-08-25T07:51:10.129509647Z",
+  "model": "glm-5.3"
+}

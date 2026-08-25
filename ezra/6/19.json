@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 6:19",
+  "book": "ezra",
+  "lang": "or",
+  "chapter": 6,
+  "translation": "ଆଉ ନିର୍ବାସନର ପୁତ୍ରମାନେ ପ୍ରଥମ ମାସର ଚଉଦିଗରେ ⟨את⟩ ପସଖ ପାଳନ କଲେ।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "ପାଳନ କଲେ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁତ୍ରମାନେ"
+    },
+    {
+      "surface": "הגולה",
+      "gloss": "ନିର୍ବାସନର"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ପସଖ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ପସଖ"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "ଚଉଦିଗରେ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "—"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସରେ"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "ପ୍ରଥମ"
+    }
+  ],
+  "timestamp": "2026-08-25T19:34:06.158447295Z",
+  "model": "glm-5.3"
+}

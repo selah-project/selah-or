@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 20:29",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 20,
+  "translation": "ଯୁବକମାନଙ୍କ ଶୋଭା ⟨is⟩ ସେମାନଙ୍କ ବଳ, ଆଉ ବୃଦ୍ଧମାନଙ୍କ ମହିମା ଧୂସରିତା।",
+  "tokens": [
+    {
+      "surface": "תפארת",
+      "gloss": "ଶୋଭା"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "ଯୁବକମାନଙ୍କ"
+    },
+    {
+      "surface": "כחם",
+      "gloss": "ସେମାନଙ୍କ ବଳ"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "ଆଉ ମହିମା"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ବୃଦ୍ଧମାନଙ୍କ"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ଧୂସରିତା"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:24.820775891Z",
+  "model": "glm-5.3"
+}

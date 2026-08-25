@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "or",
+  "chapter": 58,
+  "translation": "ସେମାନଙ୍କ ବିଷ ସାପର ବିଷ ପରି; ବୋବା ଅଜଗର ପରି ଯାହା ⟨ତାହାର⟩ କାନ ବନ୍ଦ କରେ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "ବିଷ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ସେମାନଙ୍କ"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "ପରି"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ବିଷ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "ସାପର"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ପରି"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "ଅଜଗର"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ବୋବା"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ବନ୍ଦ କରେ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "କାନ"
+    }
+  ],
+  "timestamp": "2026-08-25T17:13:00.587419214Z",
+  "model": "glm-5.3"
+}

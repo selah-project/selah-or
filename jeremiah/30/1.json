@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "or",
+  "chapter": 30,
+  "translation": "ଯିର୍ମିୟାଙ୍କ ପ୍ରତି ଯାହ୍ୱେଙ୍କ ⟨ଠାରୁ⟩ ହୋଇ ଆସିଥିବା ବାକ୍ୟ, କହିବାକୁ।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "ବାକ୍ୟ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ଯାହାକି"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ହୋଇଥିଲା"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ପ୍ରତି"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ଯିର୍ମିୟାଙ୍କ"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "ଯାହ୍ୱେଙ୍କ ଠାରୁ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ଯାହ୍ୱେ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "କହିବାକୁ"
+    }
+  ],
+  "timestamp": "2026-08-25T14:10:16.916032028Z",
+  "model": "glm-5.3"
+}

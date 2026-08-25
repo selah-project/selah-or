@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 1,
+  "translation": "ଶିମ୍‌ଓନ୍ ପାଇଁ — ଶେଲୁମିଏଲ୍, ତ୍ସୁରି-ଶଦ୍ଦାଇର ପୁତ୍ର।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "ଶିମ୍‌ଓନ୍ ପାଇଁ"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "ଶେଲୁମିଏଲ୍"
+    },
+    {
+      "surface": "בן",
+      "gloss": "ପୁତ୍ର"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "ତ୍ସୁରି-ଶଦ୍ଦାଇର"
+    }
+  ],
+  "timestamp": "2026-08-25T09:00:40.753303401Z",
+  "model": "glm-5.3"
+}

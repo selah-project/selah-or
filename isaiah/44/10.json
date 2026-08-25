@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "or",
+  "chapter": 44,
+  "translation": "କିଏ ଗଢ଼ିଛି ଏକ ଏଲ୍, ଆଉ ଢାଳିଛି ଏକ ମୂର୍ତ୍ତି, ଯାହା କୌଣସି ଲାଭ ଦିଏ ନାହିଁ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "କିଏ"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "ଗଢ଼ିଛି"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଏକ ଏଲ୍"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "ଆଉ ଏକ ମୂର୍ତ୍ତି"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ଢାଳିଛି"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ଯାହା ନାହିଁ"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "ଲାଭ ଦିଏ"
+    }
+  ],
+  "timestamp": "2026-08-25T21:14:41.354319381Z",
+  "model": "glm-5.3"
+}

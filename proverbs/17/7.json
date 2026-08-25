@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 17:7",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 17,
+  "translation": "ମୂର୍ଖ ପାଇଁ ଉତ୍କୃଷ୍ଟ ଓଷ୍ଠ ଉପଯୁକ୍ତ ନୁହେଁ; ତା'ଠାରୁ ଅଧିକ, ଉଦାରବାନ ପାଇଁ ମିଛ ଓଷ୍ଠ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ନୁହେଁ"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "ଉପଯୁକ୍ତ"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "ମୂର୍ଖ ପାଇଁ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ଉତ୍କୃଷ୍ଟ"
+    },
+    {
+      "surface": "אף",
+      "gloss": "ତା'ଠାରୁ ଅଧିକ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ଯେ"
+    },
+    {
+      "surface": "לנדיב",
+      "gloss": "ଉଦାରବାନ ପାଇଁ"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ଓଷ୍ଠ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "ମିଛ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:09:12.163559675Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "or",
+  "chapter": 8,
+  "translation": "ଆଉ ନୌକା ବିଶ୍ରାମ ନେଲା ସପ୍ତମ ମାସରେ, ମାସର ସପ୍ତଦଶ ଦିନରେ, ଆରାରାଟ ପର୍ବତମାଳା ଉପରେ।",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "ଆଉ ବିଶ୍ରାମ ନେଲା"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "ନୌକା"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ମାସରେ"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ସପ୍ତମ"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ସାତ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "ଦଶ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "ଦିନ"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "ମାସର"
+    },
+    {
+      "surface": "על",
+      "gloss": "ଉପରେ"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ପର୍ବତମାଳା"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "ଆରାରାଟ"
+    }
+  ],
+  "timestamp": "2026-08-25T07:22:11.356738700Z",
+  "model": "glm-5.3"
+}

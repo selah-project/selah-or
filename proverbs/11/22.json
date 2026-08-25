@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "or",
+  "chapter": 11,
+  "translation": "ଶୁକର ଥଣ୍ଟରେ ସୁନାର ନାସାଭୂଷଣ — ସେହିପରି ସୁନ୍ଦରୀ ସ୍ତ୍ରୀ, ଯିଏ ବିବେକରୁ ବିଚଳିତ।",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "ନାସାଭୂଷଣ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ସୁନାର"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ଥଣ୍ଟରେ"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ଶୁକର"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ସ୍ତ୍ରୀ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "ସୁନ୍ଦରୀ"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "ବିଚଳିତ ହୋଇଛି"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "ବିବେକ"
+    }
+  ],
+  "timestamp": "2026-08-25T18:04:24.002332275Z",
+  "model": "glm-5.3"
+}

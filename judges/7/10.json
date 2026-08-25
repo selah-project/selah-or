@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "or",
+  "chapter": 7,
+  "translation": "ଆଉ ଯଦି ତୁମେ ଓହ୍ଲାଇବାକୁ ଭୟ କରୁଛ, ତୁମେ ଓ ତୋହର ଯୁବକ ପୂରାହ୍ ଶିବିରକୁ ଓହ୍ଲାଇ ଯାଅ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "ଆଉ ଯଦି"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ଭୟ କରୁଛ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ଓହ୍ଲାଇବାକୁ"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ଓହ୍ଲାଇ ଯାଅ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ତୁମେ"
+    },
+    {
+      "surface": "ופורה",
+      "gloss": "ଓ ପୂରାହ୍"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "ତୋହର ଯୁବକ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ଆଡ଼କୁ"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ଶିବିର"
+    }
+  ],
+  "timestamp": "2026-08-25T10:31:38.760126654Z",
+  "model": "glm-5.3"
+}

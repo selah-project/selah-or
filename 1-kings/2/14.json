@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 2:14",
+  "book": "1-kings",
+  "lang": "or",
+  "chapter": 2,
+  "translation": "ଓ ସେ କହିଲେ, ମୋର ତୁମ ପାଖରେ ଗୋଟିଏ କଥା ଅଛି; ଓ ସେ କହିଲେ, କୁହ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ଗୋଟିଏ କଥା"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ମୋର"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ତୁମ ପାଖରେ"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "ଓ ସେ କହିଲେ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "କୁହ"
+    }
+  ],
+  "timestamp": "2026-08-25T11:34:22.968578174Z",
+  "model": "glm-5.3"
+}

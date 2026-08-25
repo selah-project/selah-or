@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "numbers 29:29",
+  "book": "numbers",
+  "lang": "or",
+  "chapter": 29,
+  "translation": "ଓ ଷଷ୍ଠ ଦିନରେ ଆଠଟି ବଳଦ, ଦୁଇଟି ମେଣ୍ଢା, ଚଉଦଟି ବର୍ଷବତ୍ସର ମେଣ୍ଢାଛାଗଲି, ନିଷ୍କଳଙ୍କ ହେଉ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "ଓ ଦିନରେ"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ଷଷ୍ଠ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "ବଳଦ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "ଆଠଟି"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "ମେଣ୍ଢା"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ଦୁଇଟି"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "ମେଣ୍ଢାଛାଗଲି"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ପୁଅ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ବର୍ଷ"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "ଚଉଦଟି"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(ଦଶ)"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "ନିଷ୍କଳଙ୍କ"
+    }
+  ],
+  "timestamp": "2026-08-25T09:27:18.989429124Z",
+  "model": "glm-5.3"
+}
