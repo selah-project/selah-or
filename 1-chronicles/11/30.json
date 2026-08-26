@@ -5,33 +5,33 @@
   "book": "1-chronicles",
   "lang": "or",
   "chapter": 11,
-  "translation": "ମାହାରାଇ ⟨the⟩ ନେତୋଫାଥୀ, ହେଲେଦ ବିନ ବାନାହା ⟨the⟩ ନେତୋଫାଥୀ।",
+  "translation": "ମାହାରାଇ ନେତୋଫାତୀୟ, ହେଲେଦ ବାନାହର ପୁତ୍ର, ନେତୋଫାତୀୟ।",
   "tokens": [
     {
-      "surface": "מהרי",
+      "surface": "מַהְרַי",
       "gloss": "ମାହାରାଇ"
     },
     {
-      "surface": "הנטפתי",
-      "gloss": "ନେତୋଫାଥୀ"
+      "surface": "הַנְּטֹפָתִי",
+      "gloss": "ନେତୋଫାତୀୟ"
     },
     {
-      "surface": "חלד",
+      "surface": "חֵלֶד",
       "gloss": "ହେଲେଦ"
     },
     {
-      "surface": "בן",
+      "surface": "בֵּן",
       "gloss": "ପୁତ୍ର"
     },
     {
-      "surface": "בענה",
-      "gloss": "ବାନାହା"
+      "surface": "בַּעֲנָה",
+      "gloss": "ବାନାହ"
     },
     {
-      "surface": "הנטופתי",
-      "gloss": "ନେତୋଫାଥୀ"
+      "surface": "הַנְּטוֹפָתִי",
+      "gloss": "ନେତୋଫାତୀୟ"
     }
   ],
-  "timestamp": "2026-08-25T19:57:36.187889720Z",
+  "timestamp": "2026-08-25T23:52:53.885169256Z",
   "model": "glm-5.3"
 }

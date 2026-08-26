@@ -5,7 +5,7 @@
   "book": "jeremiah",
   "lang": "or",
   "chapter": 50,
-  "translation": "ଯୁଦ୍ଧର ଶବ୍ଦ ⟨the⟩ ଦେଶରେ, ଏବଂ ବଡ଼ ଭଙ୍ଗ।",
+  "translation": "ଯୁଦ୍ଧର ଶବ୍ଦ ⟨ଏହି⟩ ଦେଶରେ, ଓ ମହାଭଙ୍ଗ।",
   "tokens": [
     {
       "surface": "קול",
@@ -17,17 +17,17 @@
     },
     {
       "surface": "בארץ",
-      "gloss": "ଦେଶରେ"
+      "gloss": "⟨ଏହି⟩ ଦେଶରେ"
     },
     {
       "surface": "ושבר",
-      "gloss": "ଏବଂ ଭଙ୍ଗ"
+      "gloss": "ଓ ମହାଭଙ୍ଗ"
     },
     {
       "surface": "גדול",
-      "gloss": "ବଡ଼"
+      "gloss": "ମହା"
     }
   ],
-  "timestamp": "2026-08-25T14:39:49.805158080Z",
+  "timestamp": "2026-08-25T23:42:34.972242422Z",
   "model": "glm-5.3"
 }

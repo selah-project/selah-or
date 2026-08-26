@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "or",
   "chapter": 11,
-  "translation": "ହୁରାଇ, ଗାଆଶର ନାହାଲୀ ରୁ; ଅବିୟେଲ ⟨the⟩ ଅରବାଥୀ।",
+  "translation": "ହୁରାଇ ଗାଆଶର ନଦୀଧାରାମାନଙ୍କ ରୁ, ଅବିଏଲ ଅରବତୀୟ।",
   "tokens": [
     {
-      "surface": "חורי",
+      "surface": "חוּרַי",
       "gloss": "ହୁରାଇ"
     },
     {
-      "surface": "מנחלי",
-      "gloss": "ନାହାଲୀ ରୁ"
+      "surface": "מִנַּחֲלֵי",
+      "gloss": "ନଦୀଧାରାମାନଙ୍କ ରୁ"
     },
     {
-      "surface": "געש",
+      "surface": "גַּעַשׁ",
       "gloss": "ଗାଆଶ"
     },
     {
-      "surface": "אביאל",
-      "gloss": "ଅବିୟେଲ"
+      "surface": "אֲבִיאֵל",
+      "gloss": "ଅବିଏଲ"
     },
     {
-      "surface": "הערבתי",
-      "gloss": "ଅରବାଥୀ"
+      "surface": "הָעַרְבָתִי",
+      "gloss": "ଅରବତୀୟ"
     }
   ],
-  "timestamp": "2026-08-25T19:57:36.188176152Z",
+  "timestamp": "2026-08-25T23:52:53.885483381Z",
   "model": "glm-5.3"
 }
