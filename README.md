@@ -81,3 +81,9 @@
 ପାଠକ, ଏବ୍ରୀ ଛାତ୍ର, ଅନୁବାଦକ, ଓଡ଼ିଆ ମାତୃଭାଷୀ — ସମସ୍ତେ ସ୍ୱାଗତ।
 ଭୁଲ ଜଣାଇବା କି ସଂଶୋଧନ ପ୍ରସ୍ତାବ ଦେବା ପୂର୍ବରୁ
 [CONTRIBUTING.md](CONTRIBUTING.md) ପଢ଼।
+
+## Selah
+
+- The languages of Selah — every chair, native name and status: https://selahproject.com/learn/languages/index.md
+- How the renderings are made — the process, the discipline, the receipts: https://selahproject.com/learn/data-sources/selah-renderings.md
+- The source text — OSHB / WLC 4.20, the record every rendering stands on: https://selahproject.com/learn/data-sources/oshb-wlc.md
