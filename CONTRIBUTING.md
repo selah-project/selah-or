@@ -60,3 +60,8 @@
 ତୁମ ସହ ମିଶି ସଜାଡ଼ିପାରନ୍ତି, ଅଧିକ ପ୍ରମାଣ ଅପେକ୍ଷା କରିପାରନ୍ତି,
 କିମ୍ବା କାରଣ ସହ ଅସ୍ୱୀକାର କରିପାରନ୍ତି। ମୂଲ୍ୟାୟନ ଶବ୍ଦର ହୁଏ,
 ମନୁଷ୍ୟର ନୁହେଁ।
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
